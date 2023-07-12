@@ -1,0 +1,27 @@
+payload:
+  - .flickr
+  - .flic.kr
+  - .flickr.com
+  - .flickr.net
+  - .staticflickr.com
+
+  - .yahoo
+  - .yahoo.*
+  - .yahoo.com.*
+  - .yahoo.co.*
+  - .maktoob.com
+  - .myguide.hk
+  - .techcrunch.com
+  - .yahoo-news.com
+  - .yahoo-news.com.*
+  - .yahooapis.com
+  - .yahoodns.net
+  - .yahoofinance.com
+  - .yahoohealth.com
+  - .yahoomusic.com
+  - .yahoosandbox.com
+  - .yahoosportsbook.com
+  - .yho.com
+  - .yimg.com
+  - .yimg.jp
+  - .ymail.com

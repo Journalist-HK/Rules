@@ -9,6 +9,7 @@ payload:
   - .yahoo.*
   - .yahoo.com.*
   - .yahoo.co.*
+  - .engadget.com
   - .maktoob.com
   - .myguide.hk
   - .techcrunch.com

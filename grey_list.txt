@@ -1,0 +1,2 @@
+# greylist
+full:www.google.com

@@ -1,0 +1,43 @@
+tracking.miui.com
+tracking.intl.miui.com
+api.intl.miui.com
+stat.xiaomi.com
+checkip.synology.com
+checkipv6.synology.com
+checkport.synology.com
+# ddns.synology.com
+account.synology.com
+# whatismyip.akamai.com
+checkip.dyndns.org
+teamviewer.com
+api.ipify.org
+api64.ipify.org
+kyarucloud.moe
+ntp.org
+qlogo.cn
+qq.com
+
+# Steam
+tnkjmec.com
+eccdnx.com
+bscstorage.net
+pinyuncloud.com
+clngaa.com
+8686c.com
+steamchina.com
+pphimalayanrt.com
+
+keyword:ddns
+keyword:sglong
+keyword:sgshort
+keyword:sgminorshort
+keyword:sgaxshort
+keyword:sgfindershort
+keyword:aaplimg
+keyword:aicdn
+keyword:douyin
+keyword:fclouddns
+keyword:ssrcdn
+keyword:xxpkg
+keyword:yximgs
+keyword:yxygslb

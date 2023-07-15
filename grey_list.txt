@@ -1,2 +1,2 @@
 # greylist
-full:www.google.com
+hoyoverse.com

@@ -39,5 +39,4 @@ keyword:douyin
 keyword:fclouddns
 keyword:ssrcdn
 keyword:xxpkg
-keyword:yximgs
 keyword:yxygslb

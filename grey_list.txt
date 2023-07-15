@@ -1,2 +1,3 @@
 # greylist
 hoyoverse.com
+statically.io

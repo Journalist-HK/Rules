@@ -62,6 +62,8 @@ twitchsvc.net
 uniswap.org
 xfsub.org
 
+full:cdn.statically.io
+
 quiz.directory
 telegram.space
 usercontent.dev

@@ -99,6 +99,7 @@ payload:
   # - '.zoom.us'
 
   - 'live.24h-lemans.com'
+  - 'cdn.statically.io'
   - 't1.daumcdn.net'
   - 'profile.gamepass.com'
   - 'www.hoyolab.com'

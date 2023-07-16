@@ -3,4 +3,5 @@ full:api.amplitude.com
 full:in.appcenter.ms
 full:go.superchat.live
 hanime1.me
+kemono.party
 stripchat.com

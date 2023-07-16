@@ -1,3 +1,6 @@
 # greylist
-hoyoverse.com
+full:api.amplitude.com
 full:in.appcenter.ms
+full:go.superchat.live
+hanime1.me
+stripchat.com

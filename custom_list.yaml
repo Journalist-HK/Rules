@@ -102,6 +102,7 @@ payload:
   - 'cdn.statically.io'
   - 't1.daumcdn.net'
   - 'profile.gamepass.com'
+  - 'hoyolab.com'
   - 'www.hoyolab.com'
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'

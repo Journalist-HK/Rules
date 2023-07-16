@@ -34,7 +34,6 @@ keyword:sgminorshort
 keyword:sgaxshort
 keyword:sgfindershort
 keyword:aaplimg
-keyword:aicdn
 keyword:fclouddns
 keyword:ssrcdn
 keyword:xxpkg

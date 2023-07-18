@@ -16,6 +16,7 @@ kyarucloud.moe
 ntp.org
 qlogo.cn
 qq.com
+full:doh.apad.pro
 
 # Steam
 tnkjmec.com

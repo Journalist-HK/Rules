@@ -4,6 +4,8 @@ full:in.appcenter.ms
 full:go.superchat.live
 bootstrapcdn.com
 hanime1.me
+home.blog
+iwara.tv
 kemono.party
 stackpathcdn.com
 stripchat.com

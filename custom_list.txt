@@ -57,6 +57,7 @@ starlark.net
 sublimetext.com
 sushiswapclassic.org
 tagvpnglobal.com
+tenor.com
 textnow.com
 trouter.io
 twitchsvc.net

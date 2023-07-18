@@ -25,6 +25,7 @@ docker.io
 dun.im
 entware.net
 ext-twitch.tv
+fanbox.cc
 flexpool.io
 formyip.com
 freevpnnet.com

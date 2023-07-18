@@ -2,6 +2,9 @@
 full:api.amplitude.com
 full:in.appcenter.ms
 full:go.superchat.live
+bootstrapcdn.com
 hanime1.me
 kemono.party
+stackpathcdn.com
 stripchat.com
+tenor.com

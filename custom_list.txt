@@ -40,6 +40,7 @@ ign.com
 infura.io
 liquidsky.com
 mcdex.io
+mcusercontent.com
 mdex.com
 myunidays.com
 netlify.app

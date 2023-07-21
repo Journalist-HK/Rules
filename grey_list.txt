@@ -1,12 +1,15 @@
 # greylist
 full:api.amplitude.com
 full:in.appcenter.ms
+full:events.mapbox.com
+full:cdn.mouseflow.com
 full:go.superchat.live
 bootstrapcdn.com
 hanime1.me
 home.blog
 iwara.tv
 kemono.party
+mahjongsoul.com
 pubnative.net
 stackpathcdn.com
 stripchat.com

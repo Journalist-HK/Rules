@@ -5,6 +5,7 @@ full:events.mapbox.com
 full:cdn.mouseflow.com
 full:go.superchat.live
 bootstrapcdn.com
+dicmusic.club
 hanime1.me
 home.blog
 iwara.tv

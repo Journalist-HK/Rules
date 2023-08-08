@@ -16,6 +16,7 @@ kyarucloud.moe
 ntp.org
 qlogo.cn
 qq.com
+xns.one
 full:doh.apad.pro
 
 # Steam

@@ -1,3 +1,6 @@
+full:connect.rom.miui.com
+full:connectivitycheck.platform.hicloud.com
+full:wifi.vivo.com.cn
 tracking.miui.com
 tracking.intl.miui.com
 api.intl.miui.com

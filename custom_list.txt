@@ -38,6 +38,8 @@ honnef.co
 hostmonit.com
 ign.com
 infura.io
+kemono.party
+kemono.su
 liquidsky.com
 mcdex.io
 mcusercontent.com

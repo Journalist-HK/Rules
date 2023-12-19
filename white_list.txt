@@ -16,9 +16,11 @@ teamviewer.com
 api.ipify.org
 api64.ipify.org
 kyarucloud.moe
+
 ntp.org
 qlogo.cn
 qq.com
+myqcloud.com
 xns.one
 full:doh.apad.pro
 
@@ -32,6 +34,7 @@ clngaa.com
 steamchina.com
 pphimalayanrt.com
 
+keyword:stun
 keyword:ddns
 keyword:sglong
 keyword:sgshort
@@ -43,3 +46,34 @@ keyword:fclouddns
 keyword:ssrcdn
 keyword:xxpkg
 keyword:yxygslb
+
+# Kuaishou
+gifshow.com
+ksapisrv.com
+ksyuncdn.com
+kuaishou.com
+kuaishouzt.com
+kwaicdn.com
+kwaizt.com
+snssdk.com
+yximgs.com
+
+# 抖音
+douyin.com
+douyincdn.com
+douyinliving.com
+douyinpic.com
+douyinstatic.com
+douyinvod.com
+
+# 抖音火山版
+huoshan.com
+huoshanstatic.com
+huoshanzhibo.com
+
+# 西瓜视频
+ixigua.com
+ixiguavideo.com
+ixgvideo.com
+bdxiguaimg.com
+bdxiguastatic.com

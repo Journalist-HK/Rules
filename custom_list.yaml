@@ -1,5 +1,6 @@
 # Custom list (for proxy)
 payload:
+  - '+.28hse.com'
   - '+.adblockplus.org'
   - '+.adobe.io'
   - '+.aida64.com'

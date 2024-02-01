@@ -1,4 +1,5 @@
 # Custom list (for DNS)
+28hse.com
 alphafish.top
 androidfilehost.com
 androidpolice.com

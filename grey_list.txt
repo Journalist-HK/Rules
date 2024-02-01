@@ -4,12 +4,13 @@ full:in.appcenter.ms
 full:events.mapbox.com
 full:cdn.mouseflow.com
 full:go.superchat.live
+28hse.com
 bootstrapcdn.com
+crwdcntrl.net
 dicmusic.club
 hanime1.me
 home.blog
 iwara.tv
-kemono.party
 mahjongsoul.com
 pubnative.net
 sina.com.hk

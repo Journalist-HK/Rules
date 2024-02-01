@@ -1,4 +1,4 @@
-# Custom list
+# Custom list (for proxy)
 payload:
   - '+.adblockplus.org'
   - '+.adobe.io'
@@ -59,6 +59,7 @@ payload:
   - '+.mouse-sensitivity.com'
   - '+.myunidays.com'
   - '+.netlify.app'
+  - '+.nnr.moe'
   - '+.ni.com'
   - '+.nordcdn.com'
   - '+.nutaq.com'

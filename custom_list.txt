@@ -1,4 +1,4 @@
-# Custom list
+# Custom list (for DNS)
 alphafish.top
 androidfilehost.com
 androidpolice.com
@@ -47,7 +47,6 @@ mdex.com
 myunidays.com
 netlify.app
 ni.com
-nnr.moe
 nordcdn.com
 nutaq.com
 openairinterface.org

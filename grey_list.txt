@@ -4,6 +4,7 @@ full:in.appcenter.ms
 full:events.mapbox.com
 full:cdn.mouseflow.com
 full:go.superchat.live
+blocktempo.com
 bootstrapcdn.com
 crwdcntrl.net
 dicmusic.club

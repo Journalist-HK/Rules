@@ -7,6 +7,7 @@ ankiweb.net
 aol.com
 apnic.net
 armorgames.com
+bangumi.moe
 bigrain.me
 binance.org
 bitgravity.com
@@ -45,6 +46,8 @@ liquidsky.com
 mcdex.io
 mcusercontent.com
 mdex.com
+mikanani.me
+miobt.com
 myunidays.com
 netlify.app
 ni.com

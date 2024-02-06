@@ -17,6 +17,7 @@ payload:
   - '+.azureedge.net'
   - '+.bangumi.moe'
   - '+.bigrain.me'
+  - '+.binance.info'
   - '+.binance.org'
   - '+.bitgravity.com'
   - '+.bt4gprx.com'
@@ -58,6 +59,7 @@ payload:
   - '+.infura.io'
   - '+.launchpad.net'
   - '+.libhunt.com'
+  - '+.liftoff.io'
   - '+.lineageos.org'
   - '+.liquidsky.com'
   - '+.mcdex.io'
@@ -112,6 +114,7 @@ payload:
   - '+.wikisource.org'
   - '+.whatsmydns.net'
   - '+.vlike.work'
+  - '+.walletconnect.com'
   - '+.xfsub.org'
   # - '+.zoom.us'
 

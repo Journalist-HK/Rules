@@ -1,13 +1,10 @@
 adtng.com
+stripchatgirls.com
 full:gvod.aiseejapp.atianqi.com
 full:t7z.cupid.ptqy.gitv.tv
 js96110.com.cn
 config.kuyun.com
 logonext.tv.kuyun.com
-ad.mi.com
-full:adv.sec.intl.miui.com
-full:adv.sec.miui.com
-full:analytics.ff.avast.sec.miui.com
 
 full:syndication.realsrv.com
 audio-fa.scdn.co
@@ -15,6 +12,10 @@ audio-fa.spotifycdn.com
 strpst.com
 full:ads.trafficjunky.net
 
+ad.mi.com
+full:adv.sec.intl.miui.com
+full:adv.sec.miui.com
+full:analytics.ff.avast.sec.miui.com
 ad.xiaomi.com
 ad1.xiaomi.com
 admob.xiaomi.com

@@ -10,6 +10,7 @@ apnic.net
 armorgames.com
 bangumi.moe
 bigrain.me
+binance.info
 binance.org
 bitgravity.com
 buzzfeed.com
@@ -43,6 +44,7 @@ ign.com
 infura.io
 kemono.party
 kemono.su
+liftoff.io
 liquidsky.com
 mcdex.io
 mcusercontent.com
@@ -72,6 +74,7 @@ twitchsvc.net
 ulifestyle.com.hk
 uniswap.org
 vlike.work
+walletconnect.com
 xfsub.org
 
 full:cdn.statically.io

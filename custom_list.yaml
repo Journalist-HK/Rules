@@ -128,6 +128,7 @@ payload:
   - 'bbs-api-os-static.hoyolab.com'
   - 'hsr.hoyoverse.com'
   - 'api.palworldgame.com'
+  - 'images.prismic.io'
 
   - '+.quiz.directory'
   - '+.telegram.space'

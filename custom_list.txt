@@ -78,6 +78,7 @@ walletconnect.com
 xfsub.org
 
 full:cdn.statically.io
+full:images.prismic.io
 
 quiz.directory
 telegram.space

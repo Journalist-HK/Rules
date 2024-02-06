@@ -75,6 +75,7 @@ ulifestyle.com.hk
 uniswap.org
 vlike.work
 walletconnect.com
+wxw.cat
 xfsub.org
 
 full:cdn.statically.io

@@ -53,6 +53,7 @@ payload:
   - '+.h12.io'
   - '+.hembed.com'
   - '+.honnef.co'
+  - '+.hostloc.net'
   - '+.hostmonit.com'
   - '+.idev.dev'
   - '+.ign.com'
@@ -117,6 +118,7 @@ payload:
   - '+.wxw.cat'
   - '+.vlike.work'
   - '+.walletconnect.com'
+  - '+.x.com'
   - '+.xfsub.org'
   # - '+.zoom.us'
 
@@ -129,6 +131,7 @@ payload:
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'
   - 'hsr.hoyoverse.com'
+  - 'cdn.jwplayer.com'
   - 'api.palworldgame.com'
   - 'images.prismic.io'
 

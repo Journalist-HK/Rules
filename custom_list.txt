@@ -39,6 +39,7 @@ gfycat.com
 googlepages.com
 hembed.com
 honnef.co
+hostloc.net
 hostmonit.com
 ign.com
 infura.io
@@ -76,11 +77,23 @@ uniswap.org
 vlike.work
 walletconnect.com
 wxw.cat
+x.com
 xfsub.org
 
 full:cdn.statically.io
 full:images.prismic.io
+full:cdn.jwplayer.com
 
 quiz.directory
 telegram.space
 usercontent.dev
+
+# Pixiv
+booth.pm
+fanbox.cc
+pixiv.cat
+pixiv.co.jp
+pixiv.me
+# pixiv.net
+pixiv.org
+# pximg.net

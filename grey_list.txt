@@ -1,6 +1,7 @@
 # greylist
 full:api.amplitude.com
 full:in.appcenter.ms
+full:gh.con.sh
 full:events.mapbox.com
 full:cdn.mouseflow.com
 full:go.superchat.live

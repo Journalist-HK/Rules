@@ -21,6 +21,5 @@ libtorrent.org
 mahjongsoul.com
 pubnative.net
 stackpathcdn.com
-storj.io
 stripchat.com
 utorrent.com

@@ -68,6 +68,7 @@ qbittorrent.org
 roblox.com
 ssrtool.us
 starlark.net
+storj.io
 sublimetext.com
 sushiswapclassic.org
 regexp:.*tagss\d*\.pro$

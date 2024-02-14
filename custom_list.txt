@@ -53,10 +53,13 @@ mdex.com
 mikanani.me
 miobt.com
 myunidays.com
+naixisafe.com
 netlify.app
-ni.com
+regexp:.*nexitally\..+$
+nexitcore.com
 nordcdn.com
 nutaq.com
+nxboom.com
 openairinterface.org
 pexpay.com
 pilipili.cc
@@ -67,7 +70,7 @@ ssrtool.us
 starlark.net
 sublimetext.com
 sushiswapclassic.org
-tagvpnglobal.com
+regexp:.*tagss\d*\.pro$
 tenor.com
 textnow.com
 trouter.io

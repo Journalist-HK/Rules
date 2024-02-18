@@ -1,6 +1,7 @@
 # Custom list (for proxy)
 payload:
   - '+.28hse.com'
+  - '+.acg.rip'
   - '+.adblockplus.org'
   - '+.adobe.io'
   - '+.aelitis.com'

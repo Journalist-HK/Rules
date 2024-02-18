@@ -5,7 +5,6 @@ full:gh.con.sh
 full:events.mapbox.com
 full:cdn.mouseflow.com
 full:go.superchat.live
-acg.rip
 bittorrent.com
 blocktempo.com
 bootstrapcdn.com

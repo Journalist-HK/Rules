@@ -1,6 +1,7 @@
 # greylist
 full:api.amplitude.com
 full:in.appcenter.ms
+full:tracker.cloudit.top
 full:gh.con.sh
 full:events.mapbox.com
 full:cdn.mouseflow.com
@@ -15,6 +16,7 @@ dicmusic.club
 gal123.com
 hanime1.me
 home.blog
+intercom.help
 iwara.tv
 libtorrent.org
 mahjongsoul.com

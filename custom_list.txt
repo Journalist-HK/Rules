@@ -16,6 +16,7 @@ binance.org
 bitgravity.com
 buzzfeed.com
 caddyserver.com
+cdn.jwplayer.com
 ch-werner.de
 clockwise.ee
 coindesk.com
@@ -51,6 +52,7 @@ liquidsky.com
 mcdex.io
 mcusercontent.com
 mdex.com
+merlinblog.xyz
 mikanani.me
 miobt.com
 myunidays.com
@@ -79,6 +81,7 @@ trouter.io
 twitchsvc.net
 ulifestyle.com.hk
 uniswap.org
+uscnpm.com
 vlike.work
 walletconnect.com
 wxw.cat
@@ -87,7 +90,6 @@ xfsub.org
 
 full:cdn.statically.io
 full:images.prismic.io
-full:cdn.jwplayer.com
 
 quiz.directory
 telegram.space

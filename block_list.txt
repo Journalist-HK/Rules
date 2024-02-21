@@ -10,6 +10,7 @@ logonext.tv.kuyun.com
 full:syndication.realsrv.com
 audio-fa.scdn.co
 audio-fa.spotifycdn.com
+skimresources.com
 strpst.com
 full:ads.trafficjunky.net
 

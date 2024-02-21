@@ -48,14 +48,17 @@ keyword:xxpkg
 keyword:yxygslb
 
 # Kuaishou
+etoote.com
 gifshow.com
 ksapisrv.com
+kskwai.com
 ksyuncdn.com
 kuaishou.com
 kuaishouzt.com
 kwaicdn.com
 kwaizt.com
 snssdk.com
+video-voip.com
 yximgs.com
 
 # 抖音

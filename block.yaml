@@ -11,6 +11,7 @@ payload:
   - 'syndication.realsrv.com'
   - 'audio-fa.scdn.co'
   - 'audio-fa.spotifycdn.com'
+  - '+.skimresources.com'
   - '+.strpst.com'
   - 'ads.trafficjunky.net'
 

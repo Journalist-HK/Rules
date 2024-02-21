@@ -1,3 +1,4 @@
+in-addr.arpa
 full:connect.rom.miui.com
 full:connectivitycheck.platform.hicloud.com
 full:wifi.vivo.com.cn

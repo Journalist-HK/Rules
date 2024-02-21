@@ -140,6 +140,7 @@ payload:
   - 'cdn.jwplayer.com'
   - 'api.palworldgame.com'
   - 'images.prismic.io'
+  - 'xns.one'
   - 'dash.xns.one'
 
   - '+.quiz.directory'

@@ -22,7 +22,6 @@ ntp.org
 qlogo.cn
 qq.com
 myqcloud.com
-xns.one
 full:doh.apad.pro
 
 # Steam

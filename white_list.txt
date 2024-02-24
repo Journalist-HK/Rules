@@ -50,16 +50,23 @@ keyword:yxygslb
 # Kuaishou
 etoote.com
 gifshow.com
+inkuai.com
 ksapisrv.com
-kskwai.com
+kspkg.com
+ksyun.com
 ksyuncdn.com
-kuaishou.com
-kuaishouzt.com
 kwaicdn.com
+kwaixiaodian.com
 kwaizt.com
+kwimgs.com
+live-voip.com
+ndcimgs.com
 snssdk.com
 video-voip.com
-yximgs.com
+xxpkg.com
+regexp:.*kwai\.com$
+keyword:kuaishou
+keyword:yximgs
 
 # 抖音
 douyin.com

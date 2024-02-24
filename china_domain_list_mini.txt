@@ -6,12 +6,18 @@ full:wifi.vivo.com.cn
 
 full:doh.apad.pro
 
+edu.cn
+
+ifedge.com
+
 alipay.cn
 alipay.com
 alipay.com.cn
 alipaydns.com
 alipayobjects.com
 
+ynuf.aliapp.org
+alicdn.com
 alidns.com
 oss-cn-beijing.aliyuncs.com
 oss-cn-chengdu.aliyuncs.com
@@ -109,9 +115,11 @@ wechatpay.cn
 weiyun.com
 
 3.cn
+360buyimg.com
 jd.cn
 jd.com
 jd.com.cn
+jddj.com
 jdh.com
 jdjinrong.com
 jdl.cn
@@ -122,6 +130,7 @@ jdpay.com
 jdpaydns.com
 jdwl.com
 jdx.com
+qianxun.com
 
 douyu.com
 douyu.tv
@@ -152,16 +161,23 @@ xz.pphimalayanrt.com
 # Kuaishou
 etoote.com
 gifshow.com
+inkuai.com
 ksapisrv.com
-kskwai.com
+kspkg.com
+ksyun.com
 ksyuncdn.com
-kuaishou.com
-kuaishouzt.com
 kwaicdn.com
+kwaixiaodian.com
 kwaizt.com
+kwimgs.com
+live-voip.com
+ndcimgs.com
 snssdk.com
 video-voip.com
-yximgs.com
+xxpkg.com
+regexp:.*kwai\.com$
+keyword:kuaishou
+keyword:yximgs
 
 # 抖音
 douyin.com

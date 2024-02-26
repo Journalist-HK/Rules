@@ -53,6 +53,7 @@ mcdex.io
 mcusercontent.com
 mdex.com
 merlinblog.xyz
+mexc.com
 mikanani.me
 miobt.com
 myunidays.com
@@ -69,6 +70,7 @@ pilipili.cc
 pilipili.cm
 qbittorrent.org
 roblox.com
+scribdassets.com
 ssrtool.us
 starlark.net
 storj.io

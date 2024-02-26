@@ -77,13 +77,8 @@ fsh.bcebos.com
 fwh.bcebos.com
 gz.bcebos.com
 su.bcebos.com
-bdcloudapi.com
 bdimg.com
 bdstatic.com
-bdtjrcv.com
-bdydns.cn
-bdydns.com
-bdydns.net
 chuanke.com
 dlnel.com
 dlnel.org
@@ -110,7 +105,6 @@ qq.cn.com
 qq.com
 qq.com.cn
 qzone.com
-wechat.com
 wechatpay.cn
 weiyun.com
 
@@ -136,6 +130,14 @@ douyu.com
 douyu.tv
 douyucdn.cn
 douyucdn2.cn
+
+chinanetcenter.com
+
+toutiao.com
+toutiaoapi.com
+toutiaoimg.cn
+
+garmin.cn
 
 # Steam
 steamchina.com

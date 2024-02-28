@@ -40,9 +40,7 @@ domain:17.172.in-addr.arpa
 domain:18.172.in-addr.arpa
 domain:19.172.in-addr.arpa
 domain:20.172.in-addr.arpa
-domain:localhost.ptlogin2.qq.com
 domain:d.f.ip6.arpa
-domain:localhost.sec.qq.com
 domain:21.172.in-addr.arpa
 domain:22.172.in-addr.arpa
 domain:23.172.in-addr.arpa

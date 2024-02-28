@@ -139,6 +139,8 @@ toutiaoimg.cn
 
 garmin.cn
 
+dbankcloud.cn
+
 # Steam
 steamchina.com
 # 完美

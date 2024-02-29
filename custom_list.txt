@@ -11,9 +11,10 @@ apnic.net
 armorgames.com
 bangumi.moe
 bigrain.me
-binance.info
-binance.org
+keyword:binance
 bitgravity.com
+bnbstatic.com
+bntrace.com
 buzzfeed.com
 caddyserver.com
 cdn.jwplayer.com
@@ -39,6 +40,7 @@ gamerant.com
 gdax.com
 gfycat.com
 googlepages.com
+hanime1.me
 hembed.com
 honnef.co
 hostloc.net

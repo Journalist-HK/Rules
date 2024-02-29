@@ -2,6 +2,7 @@
 full:api.amplitude.com
 full:cdn.arstechnica.net
 full:cdn.mouseflow.com
+full:claim.fluence.network
 full:comcluster.cxense.com
 full:events.mapbox.com
 full:gh.con.sh
@@ -18,9 +19,9 @@ bt4g.com
 bt4g.org
 crwdcntrl.net
 dicmusic.club
+freetls.fastly.net
 gal123.com
 global.ssl.fastly.net
-hanime1.me
 home.blog
 intercom.help
 iwara.tv

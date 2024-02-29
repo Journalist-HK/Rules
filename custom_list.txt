@@ -46,6 +46,7 @@ honnef.co
 hostloc.net
 hostmonit.com
 regexp:.*htx\..+$
+regexp:.*huobi\..+$
 ign.com
 infura.io
 kemono.party
@@ -85,6 +86,7 @@ regexp:.*tagss\d*\.pro$
 tenor.com
 textnow.com
 trouter.io
+trustwallet.com
 twitchsvc.net
 ulifestyle.com.hk
 uniswap.org

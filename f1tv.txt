@@ -1,6 +1,9 @@
 d2n9h2wits23hf.cloudfront.net
 f1prodlive.akamaized.net
 mobile-collector.newrelic.com
++.ascendon.tv
 +.bitmovin.com
++.contentdirect.tv
 +.f1.com
 +.formula1.com
++.minute.ly

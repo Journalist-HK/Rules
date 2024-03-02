@@ -141,6 +141,8 @@ garmin.cn
 
 dbankcloud.cn
 
+htsc.com.cn
+
 # Steam
 steamchina.com
 # 完美

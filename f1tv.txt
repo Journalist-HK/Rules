@@ -1,0 +1,6 @@
+d2n9h2wits23hf.cloudfront.net
+f1prodlive.akamaized.net
+mobile-collector.newrelic.com
++.bitmovin.com
++.f1.com
++.formula1.com

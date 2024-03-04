@@ -31,6 +31,8 @@ pubnative.net
 rule34video.com
 stackpathcdn.com
 stripchat.com
+tlanyan.me
+uplynk.com
 utorrent.com
 regexp:.*xg(mn|yw)\d*\..+$
 keyword:18comic

@@ -1,4 +1,4 @@
-# Custom list (for proxy)
+# Custom list (for proxy) (do not add region-locked streams)
 payload:
   - '+.28hse.com'
   - '+.acg.rip'
@@ -62,6 +62,7 @@ payload:
   - '+.h12.io'
   - '+.hanime1.me'
   - '+.hembed.com'
+  - '+.hinet.net'
   - '+.honnef.co'
   - '+.hostloc.net'
   - '+.hostmonit.com'

@@ -1,5 +1,6 @@
 # Custom list (for DNS)
 28hse.com
+4gtv.tv
 acg.rip
 aelitis.com
 alphafish.top
@@ -44,6 +45,7 @@ gfycat.com
 googlepages.com
 hanime1.me
 hembed.com
+hinet.net
 honnef.co
 hostloc.net
 hostmonit.com
@@ -64,6 +66,7 @@ mikanani.me
 miobt.com
 regexp:.*mokexapp\..+$
 myunidays.com
+myvideo.net.tw
 naixisafe.com
 netlify.app
 regexp:.*nexitally\..+$

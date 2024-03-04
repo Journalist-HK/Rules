@@ -141,6 +141,7 @@ garmin.cn
 
 dbankcloud.cn
 
+10jqka.com.cn
 htsc.com.cn
 
 # Steam

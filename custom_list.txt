@@ -73,6 +73,7 @@ netlify.app
 regexp:.*nexitally\..+$
 nexitcore.com
 nordcdn.com
+note.com
 nutaq.com
 nxboom.com
 regexp:.*okx-dns\d*\.com$

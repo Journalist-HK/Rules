@@ -27,8 +27,10 @@ intercom.help
 iwara.tv
 libtorrent.org
 mahjongsoul.com
+map.fastly.net
 pubnative.net
 rule34video.com
+slidesharecdn.com
 stackpathcdn.com
 stripchat.com
 tlanyan.me

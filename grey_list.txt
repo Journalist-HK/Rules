@@ -19,6 +19,7 @@ bt4g.com
 bt4g.org
 crwdcntrl.net
 dicmusic.club
+edgecastcdn.net
 freetls.fastly.net
 gal123.com
 global.ssl.fastly.net

@@ -18,7 +18,7 @@ bnbstatic.com
 bntrace.com
 buzzfeed.com
 caddyserver.com
-cdn.jwplayer.com
+jwplayer.com
 ch-werner.de
 clockwise.ee
 coindesk.com

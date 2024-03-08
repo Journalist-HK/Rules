@@ -147,23 +147,22 @@ htsc.com.cn
 # Steam
 steamchina.com
 # 完美
-csgo.wmsj.cn
-dota2.wmsj.cn
+wmsj.cn
 wmsjsteam.com
 # 金山云
-dl.steam.clngaa.com
-dl.steam.ksyna.com
+full:dl.steam.clngaa.com
+full:dl.steam.ksyna.com
 # 白山云
 st.dl.bscstorage.net
 st.dl.eccdnx.com
-st.dl.pinyuncloud.com
-# 华为云
-steampipe.steamcontent.tnkjmec.com
+full:trts.baishancdnx.cn
+full:st-bak.viv.wanwang.space
 # 网宿
 steampowered.com.8686c.com
 steamstatic.com.8686c.com
 # 阿里云
-xz.pphimalayanrt.com
+full:xz.pphimalayanrt.com
+full:lv.queniujq.cn
 
 # Kuaishou
 etoote.com

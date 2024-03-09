@@ -105,6 +105,7 @@ qq.cn.com
 qq.com
 qq.com.cn
 qzone.com
+tencent-cloud.cn
 wechatpay.cn
 weiyun.com
 
@@ -144,6 +145,10 @@ dbankcloud.cn
 10jqka.com.cn
 htsc.com.cn
 
+ksyun.com
+ksyuncdn.com
+ksyungslb.com
+
 # Steam
 steamchina.com
 # 完美
@@ -170,8 +175,6 @@ gifshow.com
 inkuai.com
 ksapisrv.com
 kspkg.com
-ksyun.com
-ksyuncdn.com
 kwaicdn.com
 kwaixiaodian.com
 kwaizt.com
@@ -187,7 +190,7 @@ keyword:yximgs
 
 # 抖音
 douyin.com
-douyincdn.com
+keyword:douyincdn.com
 douyinliving.com
 douyinpic.com
 douyinstatic.com

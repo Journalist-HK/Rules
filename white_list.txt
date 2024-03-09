@@ -22,7 +22,12 @@ ntp.org
 qlogo.cn
 qq.com
 myqcloud.com
+qcloudcdn.com
 full:doh.apad.pro
+
+ksyun.com
+ksyuncdn.com
+ksyungslb.com
 
 # Steam
 tnkjmec.com
@@ -53,8 +58,6 @@ gifshow.com
 inkuai.com
 ksapisrv.com
 kspkg.com
-ksyun.com
-ksyuncdn.com
 kwaicdn.com
 kwaixiaodian.com
 kwaizt.com
@@ -70,7 +73,7 @@ keyword:yximgs
 
 # 抖音
 douyin.com
-douyincdn.com
+keyword:douyincdn.com
 douyinliving.com
 douyinpic.com
 douyinstatic.com

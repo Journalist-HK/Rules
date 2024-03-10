@@ -1,0 +1,9 @@
+# Forza Motorsport
+pfmsqosprod2-0.westus.cloudapp.azure.com
+pfmsqosprod2-0.westus2.cloudapp.azure.com
+pfmsqosprod2-0.westcentralus.cloudapp.azure.com
+pfmsqosprod2-0.northcentralus.cloudapp.azure.com
+pfmsqosprod2-0.centralus.cloudapp.azure.com
+pfmsqosprod2-0.southcentralus.cloudapp.azure.com
+pfmsqosprod2-0.eastus.cloudapp.azure.com
+pfmsqosprod2-0.eastus2.cloudapp.azure.com

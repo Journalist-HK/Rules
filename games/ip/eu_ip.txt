@@ -1,6 +1,7 @@
 # AS8075 Microsoft Corporation
 # Forza Motorsport
 51.144.0.0/15
+52.138.128.0/17
 
 # AS16509 Amazon.com, Inc.
 # Battlefield V

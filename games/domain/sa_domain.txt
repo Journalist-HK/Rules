@@ -1,2 +1,2 @@
-# Forza Motorsport
-pfmsqosprod2-0.brazilsouth.cloudapp.azure.com
+
+*.brazilsouth.cloudapp.azure.com

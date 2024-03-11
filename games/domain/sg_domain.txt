@@ -1,2 +1,2 @@
-# Forza Motorsport
-pfmsqosprod2-0.southeastasia.cloudapp.azure.com
+
+*.southeastasia.cloudapp.azure.com

@@ -1,3 +1,3 @@
-# Forza Motorsport
-pfmsqosprod2-0.centralindia.cloudapp.azure.com
-pfmsqosprod2-0.uaenorth.cloudapp.azure.com
+
+*.centralindia.cloudapp.azure.com
+*.uaenorth.cloudapp.azure.com

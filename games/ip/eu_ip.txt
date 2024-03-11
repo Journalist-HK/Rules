@@ -1,6 +1,8 @@
 # AS8075 Microsoft Corporation
 # Forza Motorsport
 51.144.0.0/15
+
+# AS16509 Amazon.com, Inc.
 # Battlefield V
 3.64.0.0/12
 3.120.0.0/14

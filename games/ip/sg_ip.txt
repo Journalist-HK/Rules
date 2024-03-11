@@ -1,3 +1,7 @@
+# AS8075 Microsoft Corporation
+# Forza Motorsport
+52.237.64.0/18
+
 # AS32590 Valve Corporation
 103.10.124.0/24
 2404:3fc0::/48

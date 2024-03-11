@@ -1,2 +1,2 @@
-# Forza Motorsport
-pfmsqosprod2-0.koreacentral.cloudapp.azure.com
+
+*.koreacentral.cloudapp.azure.com

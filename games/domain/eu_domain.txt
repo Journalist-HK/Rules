@@ -1,6 +1,6 @@
-# Forza Motorsport
-pfmsqosprod2-0.northeurope.cloudapp.azure.com
-pfmsqosprod2-0.swedencentral.cloudapp.azure.com
-pfmsqosprod2-0.uksouth.cloudapp.azure.com
-pfmsqosprod2-0.westeurope.cloudapp.azure.com
-pfmsqosprod2-0.francecentral.cloudapp.azure.com
+
+*.northeurope.cloudapp.azure.com
+*.swedencentral.cloudapp.azure.com
+*.uksouth.cloudapp.azure.com
+*.westeurope.cloudapp.azure.com
+*.francecentral.cloudapp.azure.com

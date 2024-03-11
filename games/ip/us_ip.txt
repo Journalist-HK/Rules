@@ -1,6 +1,7 @@
 # AS8075 Microsoft Corporation
 20.36.128.0/17
 40.124.0.0/16
+172.202.0.0/17
 
 # AS32590 Valve Corporation
 155.133.236.0/23

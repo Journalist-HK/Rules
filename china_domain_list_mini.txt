@@ -102,7 +102,7 @@ xiaodutv.com
 qlogo.cn
 qpic.cn
 qq.cn.com
-qq.com
+# qq.com
 qq.com.cn
 qzone.com
 tencent-cloud.cn

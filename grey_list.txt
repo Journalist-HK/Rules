@@ -7,6 +7,7 @@ full:comcluster.cxense.com
 full:events.mapbox.com
 full:gh.con.sh
 full:go.superchat.live
+full:img.sedoparking.com
 full:in.appcenter.ms
 full:prod.pinterest.global.map.fastly.net
 full:sdk.fra-01.braze.eu

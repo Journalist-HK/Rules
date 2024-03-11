@@ -149,6 +149,11 @@ ksyun.com
 ksyuncdn.com
 ksyungslb.com
 
+full:assets1.xboxlive.cn
+full:assets2.xboxlive.cn
+full:dl.delivery.mp.microsoft.com
+full:tlu.dl.delivery.mp.microsoft.com
+
 # Steam
 steamchina.com
 # 完美

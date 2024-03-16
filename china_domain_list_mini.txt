@@ -148,11 +148,14 @@ htsc.com.cn
 ksyun.com
 ksyuncdn.com
 ksyungslb.com
+ks-cdn.net
 
 full:assets1.xboxlive.cn
 full:assets2.xboxlive.cn
 full:dl.delivery.mp.microsoft.com
 full:tlu.dl.delivery.mp.microsoft.com
+
+xiaoheihe.cn
 
 # Steam
 steamchina.com

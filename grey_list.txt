@@ -39,6 +39,7 @@ tlanyan.me
 udomain.hk
 uplynk.com
 utorrent.com
+vps000.com
 regexp:.*xg(mn|yw)\d*\..+$
 keyword:18comic
 keyword:jmcomic

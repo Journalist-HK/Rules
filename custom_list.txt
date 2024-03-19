@@ -1,4 +1,5 @@
 # Custom list (for DNS)
+1point3acres.com
 28hse.com
 4gtv.tv
 acg.rip

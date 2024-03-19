@@ -1,5 +1,6 @@
 # Custom list (for proxy) (do not add region-locked streams)
 payload:
+  - '+.1point3acres.com'
   - '+.28hse.com'
   - '+.acg.rip'
   - '+.adblockplus.org'

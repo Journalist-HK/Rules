@@ -1,0 +1,2 @@
+# IP ranges have been blocked but has not been confirmed to be used as results of DNS hijacking.
+216.239.32.0/24 

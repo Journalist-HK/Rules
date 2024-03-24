@@ -155,20 +155,22 @@ payload:
   - '+.xfsub.org'
   # - '+.zoom.us'
 
-  - 'live.24h-lemans.com'
   - 'cdn.statically.io'
+  - 'images.prismic.io'
+  - 'snap.snapmobile.asia'
+
+  - 'api.palworldgame.com'
+
   - 't1.daumcdn.net'
-  - 'profile.gamepass.com'
+
   - 'hoyolab.com'
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'
   - 'wiki.hoyolab.com'
   - 'www.hoyolab.com'
   - 'hsr.hoyoverse.com'
-
-  - 'api.palworldgame.com'
+  - 'profile.gamepass.com'
   - 'store.pokemongolive.com'
-  - 'images.prismic.io'
   - 'xns.one'
   - 'dash.xns.one'
 

@@ -109,6 +109,7 @@ xfsub.org
 
 full:cdn.statically.io
 full:images.prismic.io
+full:snap.snapmobile.asia
 
 quiz.directory
 telegram.space

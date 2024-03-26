@@ -44,8 +44,7 @@ gdax.com
 gemini.com
 gfycat.com
 googlepages.com
-hanime1.me
-hembed.com
+herokuapp.com
 hinet.net
 honnef.co
 hostloc.net
@@ -70,6 +69,7 @@ musixmatch.com
 myunidays.com
 myvideo.net.tw
 naixisafe.com
+near.org
 netlify.app
 regexp:.*nexitally\..+$
 nexitcore.com

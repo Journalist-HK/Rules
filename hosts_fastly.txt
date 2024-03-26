@@ -1,6 +1,15 @@
 arxiv.org 199.232.195.42
+
 mapgenie.io 199.232.45.135
 cdn.mapgenie.io 199.232.45.135
 maildash.mapgenie.io 199.232.45.135
 stg.cdn.mapgenie.io 199.232.45.135
 tiles.mapgenie.io 199.232.45.135
+
+metamask.io 199.232.192.153
+blockaid-false-positive-portal.metamask.io 199.232.192.153
+docs.metamask.io 199.232.192.153
+feedback.metamask.io 199.232.192.153
+fwd.metamask.io 199.232.192.153
+snaps.metamask.io 199.232.192.153
+permissionless.snaps.metamask.io 199.232.192.153

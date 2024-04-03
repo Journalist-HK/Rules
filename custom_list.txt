@@ -91,6 +91,7 @@ storj.io
 sublimetext.com
 sushiswapclassic.org
 regexp:.*tagss\d*\.pro$
+telemetr.io
 tenor.com
 textnow.com
 trouter.io
@@ -101,6 +102,7 @@ vpsxb.net
 udomain.hk
 ulifestyle.com.hk
 uniswap.org
+uscardforum.com
 uscnpm.com
 walletconnect.com
 wxw.cat

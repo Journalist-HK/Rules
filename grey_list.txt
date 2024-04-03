@@ -34,6 +34,7 @@ libtorrent.org
 mahjongsoul.com
 map.fastly.net
 metamask.io
+onekey.so
 optimism.io
 pubnative.net
 rule34video.com

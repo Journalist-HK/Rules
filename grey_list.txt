@@ -46,6 +46,7 @@ tlanyan.me
 uplynk.com
 utorrent.com
 vps000.com
+wlvpn.com
 regexp:.*xg(mn|yw)\d*\..+$
 keyword:18comic
 keyword:jmcomic

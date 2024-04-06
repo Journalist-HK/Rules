@@ -30,6 +30,7 @@ hanime1.me
 home.blog
 intercom.help
 iwara.tv
+kuaichedao.co
 libtorrent.org
 mahjongsoul.com
 map.fastly.net

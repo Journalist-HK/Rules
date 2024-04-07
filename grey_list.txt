@@ -2,6 +2,7 @@
 full:api.amplitude.com
 full:cdn.arstechnica.net
 full:cdn.mouseflow.com
+full:ced-ns.sascdn.com
 full:claim.fluence.network
 full:comcluster.cxense.com
 full:events.mapbox.com
@@ -9,9 +10,11 @@ full:gh.con.sh
 full:go.superchat.live
 full:img.sedoparking.com
 full:in.appcenter.ms
+full:p16999.cedexis-test.com
 full:prod.pinterest.global.map.fastly.net
 full:sdk.fra-01.braze.eu
 full:tracker.cloudit.top
+full:vdms-ssl.cedexis-test.com
 full:videos.techradar.com
 233.fi
 bittorrent.com

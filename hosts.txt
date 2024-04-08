@@ -3,8 +3,6 @@ apd-pcdnwxlogin.teg.tencent-cloud.net 0.0.0.1
 apd-pcdnwxnat.teg.tencent-cloud.net 0.0.0.1
 game.mahjongsoul.com 61.110.197.11
 cdp.cloud.unity3d.com 34.107.172.168
-mjusgs.mahjongsoul.com 172.65.244.96
-mjusgsbk.mahjongsoul.com 172.65.244.96
 ipv6check-http.steamserver.net 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
 ipv6check-udp.steamserver.net 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
 ipv6check-http.steamcontent.com 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
@@ -14,6 +12,4 @@ checkout.steampowered.com 23.54.121.126
 api.steampowered.com 104.85.253.48 184.25.198.92
 ngx.download.nvidia.com 23.199.57.43 23.199.57.80
 edge.microsoft.com 13.107.21.239 204.79.197.239 2620:1ec:12::239 2620:1ec:c11::239
-matrix.redditspace.com 151.101.29.140
-testnet.redditspace.com 151.101.29.140
 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org 208.54.5.195

@@ -14,7 +14,9 @@ fwd.metamask.io 151.101.41.153
 snaps.metamask.io 151.101.41.153
 permissionless.snaps.metamask.io 151.101.41.153
 
- 
+matrix.redditspace.com 199.232.193.140
+testnet.redditspace.com 199.232.193.140
+
 demo.yubico.com 151.101.42.114
 developers.yubico.com 151.101.42.114
 docs.yubico.com 151.101.42.114

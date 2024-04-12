@@ -23,6 +23,7 @@ bootstrapcdn.com
 bt4g.com
 bt4g.org
 celo.org
+cloudflare-ipfs.com
 crwdcntrl.net
 dicmusic.club
 edgecastcdn.net
@@ -32,6 +33,8 @@ global.ssl.fastly.net
 hanime1.me
 home.blog
 intercom.help
+ipfs.4everland.io
+ipfs.cf-ipfs.com
 iwara.tv
 kuaichedao.co
 libtorrent.org

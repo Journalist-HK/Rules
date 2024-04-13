@@ -23,7 +23,6 @@ bootstrapcdn.com
 bt4g.com
 bt4g.org
 celo.org
-cloudflare-ipfs.com
 crwdcntrl.net
 dicmusic.club
 edgecastcdn.net

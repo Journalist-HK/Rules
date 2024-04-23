@@ -1,5 +1,23 @@
 arxiv.org 151.101.43.42
 
+admin.bitwarden.com 151.101.41.91
+api.bitwarden.com 151.101.41.91
+artifacts.bitwarden.com 151.101.41.91
+assets.bitwarden.com 151.101.41.91
+bws.bitwarden.com 151.101.41.91
+events.bitwarden.com 151.101.41.91
+identity.bitwarden.com 151.101.41.91
+mobileapp.bitwarden.com 151.101.41.91
+notifications.bitwarden.com 151.101.41.91
+preview.bitwarden.com 151.101.41.91
+push.bitwarden.com 151.101.41.91
+scim.bitwarden.com 151.101.41.91
+sso.bitwarden.com 151.101.41.91
+vault.bitwarden.com 151.101.41.91
+bitwarden.com 151.101.41.91
+
+icons.bitwarden.net 151.101.41.91
+
 mapgenie.io 151.101.41.135
 cdn.mapgenie.io 151.101.41.135
 maildash.mapgenie.io 151.101.41.135

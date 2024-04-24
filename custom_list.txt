@@ -81,6 +81,7 @@ nutaq.com
 nxboom.com
 regexp:.*okx-dns\d*\.com$
 openairinterface.org
+osl.com
 pexpay.com
 pilipili.cc
 pilipili.cm

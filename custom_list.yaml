@@ -7,7 +7,6 @@ payload:
   - '+.adobe.io'
   - '+.aelitis.com'
   - '+.aida64.com'
-  - '+.akkocloud.com'
   - '+.alphafish.top'
   - '+.androidfilehost.com'
   - '+.androidpolice.com'
@@ -174,6 +173,7 @@ payload:
   - 'images.prismic.io'
   - 'snap.snapmobile.asia'
 
+  - 'www.akkocloud.com'
   - 'hoyolab.com'
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'

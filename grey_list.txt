@@ -41,6 +41,7 @@ libtorrent.org
 mahjongsoul.com
 map.fastly.net
 metamask.io
+nexitallysafe.com
 onekey.so
 optimism.io
 pubnative.net

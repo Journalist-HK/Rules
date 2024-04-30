@@ -18,22 +18,58 @@ bitwarden.com 151.101.41.91
 
 icons.bitwarden.net 151.101.41.91
 
-mapgenie.io 151.101.41.135
+edge-clientsdk.prod.launchdarkly.com 151.101.41.51
+edge-clientsdk.stg.launchdarkly.com 151.101.41.51
+
+edge-clientsdk.prod.eu.launchdarkly.com 151.101.42.132
+
+app.dr.launchdarkly.com 199.232.194.109
+clientsdk.dr.launchdarkly.com 199.232.194.109
+sdk.dr.launchdarkly.com 199.232.194.109
+
+app.eu.launchdarkly.com 199.232.194.217
+clientsdk.eu.launchdarkly.com 199.232.194.217
+sdk.eu.launchdarkly.com 199.232.194.217
+
+app.intuit.launchdarkly.com 199.232.194.217
+app-stg.intuit.launchdarkly.com 199.232.194.217
+app-test.intuit.launchdarkly.com 199.232.194.217
+clientsdk.intuit.launchdarkly.com 199.232.194.217
+clientsdk-stg.intuit.launchdarkly.com 199.232.194.217
+sdk.intuit.launchdarkly.com 199.232.194.217
+sdk-stg.intuit.launchdarkly.com 199.232.194.217
+
+app.launchdarkly.com 199.232.194.217
+clientsdk.launchdarkly.com 199.232.194.217
+clientsdk-dev.launchdarkly.com 199.232.194.217
+clientsdk-stg.launchdarkly.com 199.232.194.217
+ld-stg.launchdarkly.com 199.232.194.217
+sdk.launchdarkly.com 199.232.194.217
+sdk-dev.launchdarkly.com 199.232.194.217
+sdk-stg.launchdarkly.com 199.232.194.217
+pubnubtest.launchdarkly.com 199.232.194.217
+
 cdn.mapgenie.io 151.101.41.135
 maildash.mapgenie.io 151.101.41.135
 stg.cdn.mapgenie.io 151.101.41.135
 tiles.mapgenie.io 151.101.41.135
+mapgenie.io 151.101.41.135
 
-metamask.io 151.101.41.153
 blockaid-false-positive-portal.metamask.io 151.101.41.153
 docs.metamask.io 151.101.41.153
 feedback.metamask.io 151.101.41.153
 fwd.metamask.io 151.101.41.153
 snaps.metamask.io 151.101.41.153
 permissionless.snaps.metamask.io 151.101.41.153
+metamask.io 151.101.41.153
 
 matrix.redditspace.com 199.232.193.140
 testnet.redditspace.com 199.232.193.140
+
+api.turnitin.com 199.232.194.133
+ev.turnitin.com 199.232.194.133
+www.turnitin.com 199.232.194.133
+turnitin.com 199.232.194.133
 
 demo.yubico.com 151.101.42.114
 developers.yubico.com 151.101.42.114

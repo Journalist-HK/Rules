@@ -17,6 +17,8 @@ keyword:binance
 bitgravity.com
 bnbstatic.com
 bntrace.com
+bookwalker.com.tw
+bookwalker.jp
 buzzfeed.com
 caddyserver.com
 jwplayer.com
@@ -86,6 +88,9 @@ pexpay.com
 pilipili.cc
 pilipili.cm
 qbittorrent.org
+rakuten.co.jp
+rakuten.com.tw
+rakuten.jp
 roblox.com
 scribdassets.com
 ssrtool.us

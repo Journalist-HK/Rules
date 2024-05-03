@@ -38,6 +38,7 @@ ipfs.cf-ipfs.com
 iwara.tv
 kuaichedao.co
 libtorrent.org
+linktr.ee
 mahjongsoul.com
 map.fastly.net
 metamask.io

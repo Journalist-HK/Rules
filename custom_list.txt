@@ -85,6 +85,7 @@ regexp:.*okx-dns\d*\.com$
 openairinterface.org
 osl.com
 pexpay.com
+picsart.com
 pilipili.cc
 pilipili.cm
 qbittorrent.org

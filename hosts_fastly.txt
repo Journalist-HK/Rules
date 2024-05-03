@@ -92,20 +92,15 @@ stg.cdn.mapgenie.io 151.101.41.135
 tiles.mapgenie.io 151.101.41.135
 mapgenie.io 151.101.41.135
 
-blockaid-false-positive-portal.metamask.io 151.101.41.153
-docs.metamask.io 151.101.41.153
-feedback.metamask.io 151.101.41.153
-fwd.metamask.io 151.101.41.153
-snaps.metamask.io 151.101.41.153
-permissionless.snaps.metamask.io 151.101.41.153
-metamask.io 151.101.41.153
-
 r.r10s.jp 111.119.29.177
 shop.r10s.jp 68.142.73.41
 tshop.r10s.jp 199.232.194.63
 
 matrix.redditspace.com 199.232.193.140
 testnet.redditspace.com 199.232.193.140
+
+mcprod.sparco-official.com 199.232.192.124
+www.sparco-official.com 199.232.192.124
 
 api.turnitin.com 199.232.194.133
 ev.turnitin.com 199.232.194.133

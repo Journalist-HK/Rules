@@ -103,6 +103,7 @@ sushiswapclassic.org
 regexp:.*tagss\d*\.pro$
 telemetr.io
 tenor.com
+tensojapan.com
 textnow.com
 thestandard.com.hk
 trouter.io

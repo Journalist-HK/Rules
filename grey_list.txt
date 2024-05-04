@@ -43,6 +43,7 @@ mahjongsoul.com
 map.fastly.net
 metamask.io
 nexitallysafe.com
+nudogram.com
 onekey.so
 optimism.io
 pubnative.net

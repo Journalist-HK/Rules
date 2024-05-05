@@ -74,6 +74,7 @@ payload:
   - '+.huobi.*'
   - '+.huobi.*.*'
   - '+.hotgirlchina.com'
+  - '+.idc.wiki'
   - '+.idev.dev'
   - '+.ign.com'
   - '+.imhentai.xxx'

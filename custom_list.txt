@@ -69,7 +69,6 @@ mexc.com
 mikanani.me
 miobt.com
 regexp:.*mokexapp\..+$
-mrcong.com
 musixmatch.com
 myunidays.com
 myvideo.net.tw

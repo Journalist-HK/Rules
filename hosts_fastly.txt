@@ -99,8 +99,9 @@ tshop.r10s.jp 199.232.194.63
 matrix.redditspace.com 199.232.193.140
 testnet.redditspace.com 199.232.193.140
 
-mcprod.sparco-official.com 199.232.192.124
-www.sparco-official.com 199.232.192.124
+mcprod.sparco-official.com 151.101.41.124
+www.sparco-official.com 151.101.41.124
+sparco-official.com 151.101.41.124
 
 api.turnitin.com 199.232.194.133
 ev.turnitin.com 199.232.194.133

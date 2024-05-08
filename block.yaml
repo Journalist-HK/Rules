@@ -43,3 +43,7 @@ payload:
   - '+.jellyfish.pandora.xiaomi.com'
   - '+.mishop.pandora.xiaomi.com'
   - '+.stat.pandora.xiaomi.com'
+
+  - 'im.solidworks.com'
+  - 'crashdiag.solidworks.com'
+  - 'performance.solidworks.com'

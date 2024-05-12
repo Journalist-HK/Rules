@@ -8,6 +8,7 @@ full:comcluster.cxense.com
 full:events.mapbox.com
 full:gh.con.sh
 full:go.superchat.live
+full:id.cxense.com
 full:img.sedoparking.com
 full:in.appcenter.ms
 full:p16999.cedexis-test.com

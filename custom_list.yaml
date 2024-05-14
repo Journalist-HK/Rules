@@ -185,15 +185,16 @@ payload:
   - 'snap.snapmobile.asia'
 
   - 'www.akkocloud.com'
-  - 'hoyolab.com'
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'
   - 'wiki.hoyolab.com'
   - 'www.hoyolab.com'
   - 'hsr.hoyoverse.com'
+  - 'hoyolab.com'
+  - 'skyfire.vimeocdn.com'
   - 'store.pokemongolive.com'
-  - 'xns.one'
   - 'dash.xns.one'
+  - 'xns.one'
 
   - '+.quiz.directory'
   - '+.telegram.space'

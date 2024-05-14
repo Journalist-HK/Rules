@@ -156,6 +156,7 @@ turnitin.com 151.101.198.133
 fstaging1.vimeocdn.com 199.232.192.217
 i.vimeocdn.com 199.232.192.217
 skyfire.vimeocdn.com 199.232.192.217
+videoapi-sprites.vimeocdn.com 199.232.192.217
 
 f.vimeocdn.com 151.101.42.109 199.232.194.109
 vimeocdn.com 151.101.42.109 199.232.194.109

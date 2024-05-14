@@ -159,6 +159,9 @@ full:dlassets2.xboxlive.cn
 full:dl.delivery.mp.microsoft.com
 full:tlu.dl.delivery.mp.microsoft.com
 
+full:iosapps.itunes.apple.com
+full:osxapps.itunes.apple.com
+
 xiaoheihe.cn
 
 # Steam

@@ -152,6 +152,10 @@ ks-cdn.net
 
 full:assets1.xboxlive.cn
 full:assets2.xboxlive.cn
+full:d1.xboxlive.cn
+full:d2.xboxlive.cn
+full:dlassets.xboxlive.cn
+full:dlassets2.xboxlive.cn
 full:dl.delivery.mp.microsoft.com
 full:tlu.dl.delivery.mp.microsoft.com
 

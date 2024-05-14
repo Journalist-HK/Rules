@@ -1,4 +1,27 @@
-arxiv.org 151.101.199.42
+ar5iv.labs.arxiv.org 151.101.43.52
+ar5iv.arxiv.org 151.101.43.52
+web3.arxiv.org 151.101.43.52
+
+status.dev.arxiv.org 151.101.41.91
+status.arxiv.org 151.101.41.91
+
+aps.arxiv.org 151.101.43.42
+au.arxiv.org 151.101.43.42
+br.arxiv.org 151.101.43.42
+cul.arxiv.org 151.101.43.42
+es.arxiv.org 151.101.43.42
+fr.arxiv.org 151.101.43.42
+il.arxiv.org 151.101.43.42
+it.arxiv.org 151.101.43.42
+jp.arxiv.org 151.101.43.42
+kr.arxiv.org 151.101.43.42
+ru.arxiv.org 151.101.43.42
+tw.arxiv.org 151.101.43.42
+uk.arxiv.org 151.101.43.42
+www.arxiv.org 151.101.43.42
+xxx.arxiv.org 151.101.43.42
+za.arxiv.org 151.101.43.42
+arxiv.org 151.101.43.42
 
 admin.bitwarden.com 151.101.197.91
 api.bitwarden.com 151.101.197.91
@@ -121,10 +144,21 @@ mcprod.sparco-official.com 151.101.197.124
 www.sparco-official.com 151.101.197.124
 sparco-official.com 151.101.197.124
 
+staging.techrepublic.com 146.75.93.91
+www.techrepublic.com 146.75.93.91
+techrepublic.com 146.75.93.91
+
 api.turnitin.com 151.101.198.133
 ev.turnitin.com 151.101.198.133
 www.turnitin.com 151.101.198.133
 turnitin.com 151.101.198.133
+
+fstaging1.vimeocdn.com 199.232.192.217
+i.vimeocdn.com 199.232.192.217
+skyfire.vimeocdn.com 199.232.192.217
+
+f.vimeocdn.com 151.101.42.109 199.232.194.109
+vimeocdn.com 151.101.42.109 199.232.194.109
 
 demo.yubico.com 151.101.198.114
 developers.yubico.com 151.101.198.114

@@ -21,8 +21,8 @@ bookwalker.com.tw
 bookwalker.jp
 buzzfeed.com
 caddyserver.com
-jwplayer.com
 ch-werner.de
+cia.gov
 clockwise.ee
 coindesk.com
 coinpedia.org
@@ -55,6 +55,7 @@ regexp:.*htx\..+$
 regexp:.*huobi\..+$
 ign.com
 infura.io
+jwplayer.com
 kemono.party
 kemono.su
 liftoff.io

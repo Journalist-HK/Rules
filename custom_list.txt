@@ -53,7 +53,6 @@ hostloc.net
 hostmonit.com
 regexp:.*htx\..+$
 regexp:.*huobi\..+$
-ign.com
 infura.io
 jwplayer.com
 kemono.party

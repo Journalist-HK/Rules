@@ -59,6 +59,49 @@ security.na.debian.org 151.101.198.132
 security.us.debian.org 151.101.198.132
 debian.org 151.101.198.132
 
+stg.oystatic.ignimgs.com 151.101.41.135 199.232.193.135
+stg.oyster.ignimgs.com 151.101.41.135 199.232.193.135
+assets-prd.ignimgs.com 151.101.41.135 199.232.193.135
+kraken.ignimgs.com 151.101.41.135 199.232.193.135
+oystatic.ignimgs.com 151.101.41.135 199.232.193.135
+oyster.ignimgs.com 151.101.41.135 199.232.193.135
+www.ignimgs.com 151.101.41.135 199.232.193.135
+
+www.ign-inc.com 151.101.41.135 199.232.193.135
+
+domain:demo.kraken.ign.com 151.101.41.135 199.232.193.135
+regexp:.+\.demo\.cms\.ign\.com$ 151.101.41.135 199.232.193.135
+regexp:.+\.demo\.mollusk\.apis\.ign\.com$ 151.101.41.135 199.232.193.135
+
+stg.m.au.ign.com 151.101.41.135 199.232.193.135
+stg.m.ca.ign.com 151.101.41.135 199.232.193.135
+stg.m.ie.ign.com 151.101.41.135 199.232.193.135
+stg.m.uk.ign.com 151.101.41.135 199.232.193.135
+stg.au.ign.com 151.101.41.135 199.232.193.135
+stg.ca.ign.com 151.101.41.135 199.232.193.135
+stg.ie.ign.com 151.101.41.135 199.232.193.135
+stg.uk.ign.com 151.101.41.135 199.232.193.135
+stg.m.ign.com 151.101.41.135 199.232.193.135
+stg.www.ign.com 151.101.41.135 199.232.193.135
+m.au.ign.com 151.101.41.135 199.232.193.135
+m.ca.ign.com 151.101.41.135 199.232.193.135
+m.ie.ign.com 151.101.41.135 199.232.193.135
+m.uk.ign.com 151.101.41.135 199.232.193.135
+au.ign.com 151.101.41.135 199.232.193.135
+ca.ign.com 151.101.41.135 199.232.193.135
+ie.ign.com 151.101.41.135 199.232.193.135
+uk.ign.com 151.101.41.135 199.232.193.135
+us.ign.com 151.101.41.135 199.232.193.135
+mollusk.apis.ign.com 151.101.41.135 199.232.193.135
+microsites.ign.com 151.101.41.135 199.232.193.135
+docs.widgets.ign.com 151.101.41.135 199.232.193.135
+m.ign.com 151.101.41.135 199.232.193.135
+s.ign.com 151.101.41.135 199.232.193.135
+widgets.ign.com 151.101.41.135 199.232.193.135
+www.ign.com 151.101.41.135 199.232.193.135
+ww.ign.com 151.101.41.135 199.232.193.135
+ign.com 151.101.41.135 199.232.193.135
+
 edge-clientsdk.prod.launchdarkly.com 151.101.197.51
 edge-clientsdk.stg.launchdarkly.com 151.101.197.51
 

@@ -192,6 +192,8 @@ mcprod.sparco-official.com 151.101.197.124
 www.sparco-official.com 151.101.197.124
 sparco-official.com 151.101.197.124
 
+hbdyn.spot.im 151.101.42.217 199.232.194.217
+
 staging.techrepublic.com 146.75.93.91
 www.techrepublic.com 146.75.93.91
 techrepublic.com 146.75.93.91

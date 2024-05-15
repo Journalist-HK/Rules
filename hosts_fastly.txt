@@ -62,6 +62,8 @@ debian.org 151.101.198.132
 stg.oystatic.ignimgs.com 151.101.41.135 199.232.193.135
 stg.oyster.ignimgs.com 151.101.41.135 199.232.193.135
 assets-prd.ignimgs.com 151.101.41.135 199.232.193.135
+assets1.ignimgs.com 151.101.41.135 199.232.193.135
+assets2.ignimgs.com 151.101.41.135 199.232.193.135
 kraken.ignimgs.com 151.101.41.135 199.232.193.135
 oystatic.ignimgs.com 151.101.41.135 199.232.193.135
 oyster.ignimgs.com 151.101.41.135 199.232.193.135

@@ -59,6 +59,10 @@ security.na.debian.org 151.101.198.132
 security.us.debian.org 151.101.198.132
 debian.org 151.101.198.132
 
+prod-static.gop.com 146.75.94.132 151.101.198.132
+www.gop.com 146.75.94.132 151.101.198.132
+gop.com 146.75.94.132 151.101.198.132
+
 stg.oystatic.ignimgs.com 151.101.41.135 199.232.193.135
 stg.oyster.ignimgs.com 151.101.41.135 199.232.193.135
 assets-prd.ignimgs.com 151.101.41.135 199.232.193.135

@@ -494,3 +494,7 @@ wwyk.yubico.com 146.75.94.114 151.101.198.114
 yubico.com 146.75.94.114 151.101.198.114
 
 resources.yubico.com 146.75.94.217
+
+b.cdnst.net 151.101.198.219
+zd.map.fastly.net 151.101.198.219
+dualstack.zd.map.fastly.net 151.101.198.219

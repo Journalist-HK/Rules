@@ -408,6 +408,12 @@ periscope.map.fastly.net 151.101.198.118
 
 prod.pinterest.global.map.fastly.net 146.75.92.84 151.101.196.84
 
+fdyn.pubwise.io 146.75.94.217
+gfdyn.pubwise.io 146.75.94.132 151.101.198.132
+srvstat.pubwise.io 146.75.94.132 151.101.198.132
+www.pubwise.io 146.75.94.132 151.101.198.132
+pubwise.io 146.75.94.132 151.101.198.132
+
 r.r10s.jp 111.119.29.177
 shop.r10s.jp 68.142.73.41
 tshop.r10s.jp 146.75.94.63

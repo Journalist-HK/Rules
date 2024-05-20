@@ -65,6 +65,8 @@ uplynk.com
 utorrent.com
 vps000.com
 wlvpn.com
-regexp:.*xg(mn|yw)\d*\..+$
+regexp:^(.+\.)?xg(mn|yw)\d*\..+$
 keyword:18comic
+keyword:18-comic
 keyword:jmcomic
+keyword:jm-comic

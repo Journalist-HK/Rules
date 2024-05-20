@@ -1,4 +1,5 @@
 # Custom list (for DNS)
+regexp:^(.+\.)?(art|de|hk|ma|sg)?\d+lib\..+$
 1point3acres.com
 28hse.com
 4gtv.tv
@@ -14,9 +15,13 @@ armorgames.com
 bangumi.moe
 bigrain.me
 keyword:binance
+regexp:^(.+\.)?b-ok\..+$
 bitgravity.com
 bnbstatic.com
 bntrace.com
+book4you.org
+regexp:^(.+\.)?bookshome\..+$
+regexp:^(.+\.)?booksc\..+$
 bookwalker.com.tw
 bookwalker.jp
 buzzfeed.com
@@ -51,12 +56,13 @@ hinet.net
 honnef.co
 hostloc.net
 hostmonit.com
-regexp:.*htx\..+$
-regexp:.*huobi\..+$
+regexp:^(.+\.)?htx\..+$
+regexp:^(.+\.)?huobi\..+$
 infura.io
 jwplayer.com
 kemono.party
 kemono.su
+regexp:^(.+\.)?libsolutions\..+$
 liftoff.io
 liquidsky.com
 mcdex.io
@@ -68,20 +74,20 @@ meta.com
 mexc.com
 mikanani.me
 miobt.com
-regexp:.*mokexapp\..+$
+regexp:^(.+\.)?mokexapp\..+$
 musixmatch.com
 myunidays.com
 myvideo.net.tw
 naixisafe.com
 near.org
 netlify.app
-regexp:.*nexitally\..+$
+regexp:^(.+\.)?nexitally\..+$
 nexitcore.com
 nordcdn.com
 note.com
 nutaq.com
 nxboom.com
-regexp:.*okx-dns\d*\.com$
+regexp:^(.+\.)?okx-dns\d*\.com$
 openairinterface.org
 osl.com
 pexpay.com
@@ -95,6 +101,8 @@ rakuten.com.tw
 rakuten.jp
 roblox.com
 scribdassets.com
+sina.com.hk
+regexp:^(.+\.)?singlelogin\..+$
 soundon.fm
 ssrtool.us
 starlark.net
@@ -102,7 +110,7 @@ stheadline.com
 storj.io
 sublimetext.com
 sushiswapclassic.org
-regexp:.*tagss\d*\.pro$
+regexp:^(.+\.)?tagss\d*\.pro$
 telemetr.io
 tenor.com
 tensojapan.com
@@ -123,6 +131,7 @@ walletconnect.com
 wxw.cat
 x.com
 xfsub.org
+regexp:^(.+\.)?z-lib(rary)?\..+$
 zlib.app
 
 full:cdn.statically.io

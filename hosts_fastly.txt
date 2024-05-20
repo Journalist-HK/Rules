@@ -1,90 +1,90 @@
-regexp:^(?:dualstack\.)?b\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.33 151.101.198.33
-regexp:^(?:dualstack\.)?c\.sni\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?d\.sni\.(?:global|us-eu)\.fastly\.net$ 151.101.198.133
-regexp:^(?:dualstack\.)?e\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?g\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.114 151.101.198.114
-regexp:^(?:dualstack\.)?h\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.93.79
-regexp:^(?:dualstack\.)?j\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.132 151.101.198.132
-regexp:^(?:dualstack\.)?k\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.137 151.101.198.137
-regexp:^(?:dualstack\.)?l\.sni\.(?:global|us-eu)\.fastly\.net$ 151.101.198.107
-regexp:^(?:dualstack\.)?m\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.93.55
-regexp:^(?:dualstack\.)?n\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.93.91 151.101.197.91
-regexp:^(?:dualstack\.)?o\.sni\.(?:global|us-eu)\.fastly\.net$ 151.101.197.32
-regexp:^(?:dualstack\.)?p\.sni\.(?:global|us-eu)\.fastly\.net$ 151.101.197.41
-regexp:^(?:dualstack\.)?q\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.215
-regexp:^(?:dualstack\.)?r\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.93.155 151.101.197.155
-regexp:^(?:dualstack\.)?s\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.95.42 151.101.199.42
-regexp:^(?:dualstack\.)?t\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.95.52
-regexp:^(?:dualstack\.)?u\.sni\.(?:global|us-eu)\.fastly\.net$ 151.101.198.229
-regexp:^(?:dualstack\.)?v\.sni\.(?:global|us-eu)\.fastly\.net$ 146.75.94.230 151.101.198.230
+regexp:^(dualstack\.)?b\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.33 151.101.198.33
+regexp:^(dualstack\.)?c\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?d\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.133
+regexp:^(dualstack\.)?e\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?g\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.114 151.101.198.114
+regexp:^(dualstack\.)?h\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.79
+regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.132 151.101.198.132
+regexp:^(dualstack\.)?k\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.137 151.101.198.137
+regexp:^(dualstack\.)?l\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.107
+regexp:^(dualstack\.)?m\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.55
+regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.91 151.101.197.91
+regexp:^(dualstack\.)?o\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.32
+regexp:^(dualstack\.)?p\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.41
+regexp:^(dualstack\.)?q\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.215
+regexp:^(dualstack\.)?r\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.155 151.101.197.155
+regexp:^(dualstack\.)?s\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.42 151.101.199.42
+regexp:^(dualstack\.)?t\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.52
+regexp:^(dualstack\.)?u\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.229
+regexp:^(dualstack\.)?v\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.230 151.101.198.230
 
-regexp:^(?:dualstack\.)?a\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.166
-regexp:^(?:dualstack\.)?b\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.167
-regexp:^(?:dualstack\.)?c\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.168
-regexp:^(?:dualstack\.)?d\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.169
-regexp:^(?:dualstack\.)?e\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.170
-regexp:^(?:dualstack\.)?f\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.171
-regexp:^(?:dualstack\.)?g\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.172
-regexp:^(?:dualstack\.)?h\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.173
-regexp:^(?:dualstack\.)?i\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.174
-regexp:^(?:dualstack\.)?j\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.175
-regexp:^(?:dualstack\.)?k\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.176
-regexp:^(?:dualstack\.)?l\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.177
-regexp:^(?:dualstack\.)?m\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.178
-regexp:^(?:dualstack\.)?n\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.179
-regexp:^(?:dualstack\.)?o\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.180
-regexp:^(?:dualstack\.)?p\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.181
-regexp:^(?:dualstack\.)?q\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.182
-regexp:^(?:dualstack\.)?r\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.63
-regexp:^(?:dualstack\.)?s\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.183
-regexp:^(?:dualstack\.)?t\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.184
-regexp:^(?:dualstack\.)?u\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.185
-regexp:^(?:dualstack\.)?v\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.186
-regexp:^(?:dualstack\.)?w\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.187
-regexp:^(?:dualstack\.)?a2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.132
-regexp:^(?:dualstack\.)?b2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?d2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.208
-regexp:^(?:dualstack\.)?e2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.197.209
-regexp:^(?:dualstack\.)?f2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.2
-regexp:^(?:dualstack\.)?g2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?h2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?i2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?j2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?k2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?l2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?m2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?n2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?o2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?p2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?q2\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(?:dualstack\.)?r2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?s2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?t2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?u2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?v2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?w2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?y2\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?a3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?b3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?c3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?d3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?e3\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.199.9
-regexp:^(?:dualstack\.)?f3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.109
-regexp:^(?:dualstack\.)?g3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?h3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?i3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?j3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?k3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?l3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?m3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?n3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?o3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?p3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?q3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?r3\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(?:dualstack\.)?f4\.shared\.(?:global|us-eu)\.fastly\.net$ 151.101.198.110
-regexp:^(?:dualstack\.)?f6\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.202
-regexp:^(?:dualstack\.)?f8\.shared\.(?:global|us-eu)\.fastly\.net$ 146.75.94.179
+regexp:^(dualstack\.)?a\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.166
+regexp:^(dualstack\.)?b\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.167
+regexp:^(dualstack\.)?c\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.168
+regexp:^(dualstack\.)?d\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.169
+regexp:^(dualstack\.)?e\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.170
+regexp:^(dualstack\.)?f\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.171
+regexp:^(dualstack\.)?g\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.172
+regexp:^(dualstack\.)?h\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.173
+regexp:^(dualstack\.)?i\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.174
+regexp:^(dualstack\.)?j\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.175
+regexp:^(dualstack\.)?k\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.176
+regexp:^(dualstack\.)?l\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.177
+regexp:^(dualstack\.)?m\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.178
+regexp:^(dualstack\.)?n\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.179
+regexp:^(dualstack\.)?o\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.180
+regexp:^(dualstack\.)?p\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.181
+regexp:^(dualstack\.)?q\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.182
+regexp:^(dualstack\.)?r\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.63
+regexp:^(dualstack\.)?s\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.183
+regexp:^(dualstack\.)?t\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.184
+regexp:^(dualstack\.)?u\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.185
+regexp:^(dualstack\.)?v\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.186
+regexp:^(dualstack\.)?w\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.187
+regexp:^(dualstack\.)?a2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.132
+regexp:^(dualstack\.)?b2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?d2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.208
+regexp:^(dualstack\.)?e2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.209
+regexp:^(dualstack\.)?f2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.2
+regexp:^(dualstack\.)?g2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?h2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?i2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?j2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?k2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?l2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?m2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?n2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?o2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?p2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?q2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
+regexp:^(dualstack\.)?r2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?s2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?t2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?u2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?v2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?w2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?y2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?a3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?b3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?c3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?d3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?e3\.shared\.(global|us-eu)\.fastly\.net$ 151.101.199.9
+regexp:^(dualstack\.)?f3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.109
+regexp:^(dualstack\.)?g3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?h3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?i3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?j3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?k3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?l3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?m3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?n3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?o3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?p3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?q3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?r3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?f4\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.110
+regexp:^(dualstack\.)?f6\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.202
+regexp:^(dualstack\.)?f8\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.179
 
 domain:a.global-ssl.fastly.net 146.75.92.249 151.101.196.249
 domain:b.global-ssl.fastly.net 151.101.196.143

@@ -181,6 +181,7 @@ payload:
   - '+.walletconnect.com'
   - '+.x.com'
   - '+.xfsub.org'
+  - '+.zlib.app'
   # - '+.zoom.us'
 
   - 'cdn.statically.io'

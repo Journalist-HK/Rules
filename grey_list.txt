@@ -1,6 +1,7 @@
 # greylist
 full:api.amplitude.com
 full:cdn.arstechnica.net
+full:cdn.cms-twdigitalassets.com
 full:cdn.mouseflow.com
 full:ced-ns.sascdn.com
 full:claim.fluence.network

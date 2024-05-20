@@ -108,6 +108,7 @@ tenor.com
 tensojapan.com
 textnow.com
 thestandard.com.hk
+tiktokv.com
 trouter.io
 trustwallet.com
 twitchsvc.net
@@ -122,6 +123,7 @@ walletconnect.com
 wxw.cat
 x.com
 xfsub.org
+zlib.app
 
 full:cdn.statically.io
 full:images.prismic.io

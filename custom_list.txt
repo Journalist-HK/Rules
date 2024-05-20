@@ -131,8 +131,7 @@ walletconnect.com
 wxw.cat
 x.com
 xfsub.org
-regexp:^(.+\.)?z-lib(rary)?\..+$
-zlib.app
+regexp:^(.+\.)?z?lib(rary)?\..+$
 
 full:cdn.statically.io
 full:images.prismic.io

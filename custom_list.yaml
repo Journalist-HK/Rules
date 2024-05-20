@@ -189,7 +189,8 @@ payload:
   - '+.xfsub.org'
   - '+.z-lib.*'
   - '+.z-library.*'
-  - '+.zlib.app'
+  - '+.zlib.*'
+  - '+.zlibrary.*'
 
   - 'cdn.statically.io'
   - 'images.prismic.io'

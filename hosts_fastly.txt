@@ -500,3 +500,18 @@ resources.yubico.com 146.75.94.217
 b.cdnst.net 151.101.198.219
 zd.map.fastly.net 151.101.198.219
 dualstack.zd.map.fastly.net 151.101.198.219
+
+www.a-ok.org 151.101.197.195
+a-ok.org 151.101.197.195
+
+www.ant-gravity.com 151.101.197.195
+ant-gravity.com 151.101.197.195
+
+dashboard.lockn.co 151.101.197.195
+www.lockn.co 151.101.197.195
+lockn.co 151.101.197.195
+
+beta.ca.emce.dev 151.101.197.195
+ca.emce.dev 151.101.197.195
+www.emce.dev 151.101.197.195
+emce.dev 151.101.197.195

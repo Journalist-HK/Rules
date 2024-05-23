@@ -130,6 +130,7 @@ uscnpm.com
 walletconnect.com
 wxw.cat
 x.com
+xinmeitulu.com
 xfsub.org
 regexp:^(.+\.)?z?lib(rary)?\..+$
 

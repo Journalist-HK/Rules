@@ -1,3 +1,4 @@
 letsencrypt.org
-mahjongsoul.com
+full:mjusgs.mahjongsoul.com
+full:passport.mahjongsoul.com
 msftconnecttest.com

@@ -39,6 +39,7 @@ intercom.help
 ipfs.4everland.io
 ipfs.cf-ipfs.com
 iwara.tv
+krypt.com
 kuaichedao.co
 libtorrent.org
 linetww.com

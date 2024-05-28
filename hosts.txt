@@ -1,7 +1,6 @@
 # hosts
 apd-pcdnwxlogin.teg.tencent-cloud.net 0.0.0.1
 apd-pcdnwxnat.teg.tencent-cloud.net 0.0.0.1
-game.mahjongsoul.com 61.110.197.11
 cdp.cloud.unity3d.com 34.107.172.168
 ipv6check-http.steamserver.net 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
 ipv6check-udp.steamserver.net 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f

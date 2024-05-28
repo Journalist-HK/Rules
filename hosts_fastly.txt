@@ -252,6 +252,7 @@ planet.debian.org 146.75.94.132 151.101.198.132
 planet-fastly.debian.org 146.75.94.132 151.101.198.132
 security-cdn1.debian.org 146.75.94.132 151.101.198.132
 security-cdn.debian.org 146.75.94.132 151.101.198.132
+security-tracker.debian.org 146.75.94.132 151.101.198.132
 security.debian.org 146.75.94.132 151.101.198.132
 security.eu.debian.org 146.75.94.132 151.101.198.132
 security.ipv6.debian.org 146.75.94.132 151.101.198.132

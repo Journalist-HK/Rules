@@ -8,3 +8,5 @@ checkout.steamstatic.com 23.46.229.200 202.142.229.42
 clan.steamstatic.com 23.46.229.200 202.142.229.42
 community.steamstatic.com 23.46.229.200 202.142.229.42
 store.steamstatic.com 23.46.229.200 202.142.229.42
+
+static.cdn.ubi.com 23.219.38.8 23.223.198.232

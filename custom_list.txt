@@ -136,6 +136,7 @@ regexp:^(.+\.)?z?lib(rary)?\..+$
 
 full:cdn.statically.io
 full:images.prismic.io
+full:openai.ne.world
 full:snap.snapmobile.asia
 
 quiz.directory

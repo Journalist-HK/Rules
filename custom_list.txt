@@ -134,6 +134,7 @@ xinmeitulu.com
 xfsub.org
 regexp:^(.+\.)?z?lib(rary)?\..+$
 
+full:blog.xiaoz.org
 full:cdn.statically.io
 full:images.prismic.io
 full:openai.ne.world

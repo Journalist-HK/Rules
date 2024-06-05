@@ -17,7 +17,6 @@ teamviewer.com
 api.ipify.org
 api64.ipify.org
 kyarucloud.moe
-idcoffer.com
 
 ntp.org
 qlogo.cn

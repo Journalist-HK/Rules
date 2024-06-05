@@ -1,0 +1,2 @@
+full:config.extension.grammarly.com
+idcoffer.com

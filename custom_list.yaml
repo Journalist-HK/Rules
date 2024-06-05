@@ -196,6 +196,7 @@ payload:
   - '+.zlib.*'
   - '+.zlibrary.*'
 
+  - 'blog.xiaoz.org'
   - 'cdn.statically.io'
   - 'images.prismic.io'
   - 'openai.ne.world'

@@ -1,2 +1,5 @@
 full:config.extension.grammarly.com
+full:updates.ghub.logitechg.com
+blockpi.network
+fly.dev
 idcoffer.com

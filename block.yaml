@@ -51,3 +51,5 @@ payload:
   - 'crashdiag.solidworks.com'
   - 'im.solidworks.com'
   - 'performance.solidworks.com'
+
+  - '+.cloudflareinsights.com'

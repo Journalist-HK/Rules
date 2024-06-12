@@ -2,4 +2,7 @@ full:config.extension.grammarly.com
 full:updates.ghub.logitechg.com
 blockpi.network
 fly.dev
+free.hr
 idcoffer.com
+imgs.ovh
+twintail-japan.com

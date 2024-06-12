@@ -13,6 +13,7 @@ full:id.cxense.com
 full:img.sedoparking.com
 full:in.appcenter.ms
 full:p16999.cedexis-test.com
+full:p1cluster.cxense.com
 full:prod.pinterest.global.map.fastly.net
 full:sdk.fra-01.braze.eu
 full:tracker.cloudit.top

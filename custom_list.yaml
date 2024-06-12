@@ -219,6 +219,7 @@ payload:
   - 'xns.one'
   # Slow
   - 'enterprise.cdn.proxmox.com'
+  - 'metadata.cdn.proxmox.com'
   - 'enterprise.proxmox.com'
 
   - '+.quiz.directory'

@@ -197,12 +197,13 @@ payload:
   - '+.zlib.*'
   - '+.zlibrary.*'
 
+  # GFW
   - 'blog.xiaoz.org'
   - 'cdn.statically.io'
   - 'images.prismic.io'
   - 'openai.ne.world'
   - 'snap.snapmobile.asia'
-
+  # Block China
   - 'www.akkocloud.com'
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'
@@ -216,6 +217,9 @@ payload:
   - 'skyfire.vimeocdn.com'
   - 'dash.xns.one'
   - 'xns.one'
+  # Slow
+  - 'enterprise.cdn.proxmox.com'
+  - 'enterprise.proxmox.com'
 
   - '+.quiz.directory'
   - '+.telegram.space'

@@ -103,6 +103,7 @@ roblox.com
 scribdassets.com
 sina.com.hk
 regexp:^(.+\.)?singlelogin\..+$
+sleazyfork.org
 soundon.fm
 ssrtool.us
 starlark.net

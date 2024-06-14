@@ -1,4 +1,5 @@
-# Custom list (for proxy) (do not add region-locked streams)
+# Custom list (for proxy)
+# New: Do not add region-locked streams and sites without CDN
 payload:
   - '+.1point3acres.com'
   - '+.28hse.com'

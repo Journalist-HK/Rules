@@ -1,8 +1,11 @@
+full:c.fantia.jp
 full:config.extension.grammarly.com
+full:dmyppey1xxk3i.cloudfront.net
 full:updates.ghub.logitechg.com
 blockpi.network
 fly.dev
 free.hr
+hkcs.org.hk
 idcoffer.com
 imgs.ovh
 twintail-japan.com

@@ -7,6 +7,7 @@ full:dmyppey1xxk3i.cloudfront.net
 full:embed.typeform.com
 full:special-east.meiyou.win
 full:updates.ghub.logitechg.com
+bigdata.icu
 blockpi.network
 fly.dev
 free.hr

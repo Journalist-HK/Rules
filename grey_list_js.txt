@@ -1,6 +1,11 @@
+full:badges.crowdin.net
 full:c.fantia.jp
 full:config.extension.grammarly.com
+full:d322cqt584bo4o.cloudfront.net
+full:d3n2zv395ut2nb.cloudfront.net
 full:dmyppey1xxk3i.cloudfront.net
+full:embed.typeform.com
+full:special-east.meiyou.win
 full:updates.ghub.logitechg.com
 blockpi.network
 fly.dev
@@ -8,4 +13,7 @@ free.hr
 hkcs.org.hk
 idcoffer.com
 imgs.ovh
+linux.do
+mousouzoku-av.com
+szjinhengtai.com
 twintail-japan.com

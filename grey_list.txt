@@ -1,5 +1,6 @@
 # greylist
 full:api.amplitude.com
+full:bbs.hostevaluate.com
 full:cdn.arstechnica.net
 full:cdn.cms-twdigitalassets.com
 full:cdn.mouseflow.com

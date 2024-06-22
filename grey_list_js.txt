@@ -5,6 +5,7 @@ full:d322cqt584bo4o.cloudfront.net
 full:d3n2zv395ut2nb.cloudfront.net
 full:dmyppey1xxk3i.cloudfront.net
 full:embed.typeform.com
+full:report.voovmeeting.com
 full:special-east.meiyou.win
 full:updates.ghub.logitechg.com
 bigdata.icu
@@ -13,6 +14,7 @@ fly.dev
 free.hr
 hkcs.org.hk
 idcoffer.com
+igtm-e101.com
 imgs.ovh
 linux.do
 mousouzoku-av.com

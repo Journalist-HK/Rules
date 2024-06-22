@@ -334,6 +334,13 @@ ign.map.fastly.net 146.75.93.135
 fastly.jsdelivr.net 146.75.93.229
 jsdelivr.map.fastly.net 146.75.93.229
 
+app.jumptoon.com 151.101.197.91
+assets.jumptoon.com 151.101.197.91
+contents.jumptoon.com 151.101.197.91
+static.jumptoon.com 151.101.197.91
+jumptoon.com 151.101.197.91
+jumptoon.map.fastly.net 151.101.197.91
+
 edge-clientsdk.prod.eu.launchdarkly.com 151.101.198.132
 
 app.dr.launchdarkly.com 146.75.94.109
@@ -399,9 +406,10 @@ qa.linktr.ee 151.101.198.133
 www.linktr.ee 151.101.198.133
 linktr.ee 151.101.198.133
 
+stg.cdn.mapgenie.io 146.75.93.135
 cdn.mapgenie.io 146.75.93.135
 maildash.mapgenie.io 146.75.93.135
-stg.cdn.mapgenie.io 146.75.93.135
+media.mapgenie.io 146.75.93.135
 tiles.mapgenie.io 146.75.93.135
 mapgenie.io 146.75.93.135
 

@@ -206,6 +206,7 @@ payload:
   - 'snap.snapmobile.asia'
   # Block China
   - 'www.akkocloud.com'
+  - 'swcdn.fextralife.com'
   - 'bbs-api-os.hoyolab.com'
   - 'bbs-api-os-static.hoyolab.com'
   - 'wiki.hoyolab.com'

@@ -177,6 +177,7 @@ st.dl.bscstorage.net
 st.dl.eccdnx.com
 full:trts.baishancdnx.cn
 full:st-bak.viv.wanwang.space
+manlaxy.com
 # 网宿
 steampowered.com.8686c.com
 steamstatic.com.8686c.com

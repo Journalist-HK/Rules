@@ -18,6 +18,7 @@ full:p1cluster.cxense.com
 full:prod.pinterest.global.map.fastly.net
 full:sdk.fra-01.braze.eu
 full:tracker.cloudit.top
+full:v2raya.org
 full:vdms-ssl.cedexis-test.com
 full:videos.techradar.com
 233.fi

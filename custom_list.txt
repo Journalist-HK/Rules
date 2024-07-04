@@ -142,6 +142,10 @@ full:images.prismic.io
 full:openai.ne.world
 full:snap.snapmobile.asia
 
+full:safebrowsing.g.aaplimg.com
+full:pki.safebrowsing.apple
+full:token.safebrowsing.apple
+
 quiz.directory
 telegram.space
 usercontent.dev

@@ -4,7 +4,7 @@ regexp:^(dualstack\.)?d\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.133
 regexp:^(dualstack\.)?e\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.217
 regexp:^(dualstack\.)?g\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.114 151.101.198.114
 regexp:^(dualstack\.)?h\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.79
-regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.132 151.101.198.132
+regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.132
 regexp:^(dualstack\.)?k\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.137 151.101.198.137
 regexp:^(dualstack\.)?l\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.107
 regexp:^(dualstack\.)?m\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.55
@@ -134,12 +134,12 @@ plugins.fastly.com 146.75.92.230
 accounts.fastly.com 146.75.95.112
 accounts.fastly.com.map.fastly.net 146.75.95.112
 
-atlas.fastly.com 146.75.94.132 151.101.198.132
-atlas.corp.fastly.com 146.75.94.132 151.101.198.132
-things.corp.fastly.com 146.75.94.132 151.101.198.132
-sandbox-munki.corp.fastly.com 146.75.94.132 151.101.198.132
-investors.fastly.com 146.75.94.132 151.101.198.132
-investors.fastly.com.map.fastly.net 146.75.94.132 151.101.198.132
+atlas.fastly.com 146.75.94.132
+atlas.corp.fastly.com 146.75.94.132
+things.corp.fastly.com 146.75.94.132
+sandbox-munki.corp.fastly.com 146.75.94.132
+investors.fastly.com 146.75.94.132
+investors.fastly.com.map.fastly.net 146.75.94.132
 
 confluence.corp.fastly.com 151.101.198.133
 jira.corp.fastly.com 151.101.198.133
@@ -233,6 +233,36 @@ vault.bitwarden.com 151.101.197.91
 bitwarden.com 151.101.197.91
 icons.bitwarden.net 151.101.197.91
 
+manifest.prod.boltdns.net 199.232.194.27
+manifest.qa.boltdns.net 199.232.194.27
+manifest.stage.boltdns.net 199.232.194.27
+media-origin-fastly.ap-northeast-1.prod.boltdns.net 199.232.194.27
+media-origin-fastly.ap-northeast-1.stage.boltdns.net 199.232.194.27
+media-origin.ap-northeast-1.prod.boltdns.net 199.232.194.27
+media-origin.ap-northeast-1.stage.boltdns.net 199.232.194.27
+edge.api.brightcove.com 199.232.194.27
+edge.api.qa.brightcove.com 199.232.194.27
+edge-auth.api.brightcove.com 199.232.194.27
+edge-auth.api.qa.brightcove.com 199.232.194.27
+edge-weighted.api.brightcove.com 199.232.194.27
+coupanglive.brightcovecdn.com 199.232.194.27
+house-fastly-signed-us-east-1-prod.brightcovecdn.com 199.232.194.27
+house-fastly-signed-us-east-1-qa.brightcovecdn.com 199.232.194.27
+house-fastly-signed-us-east-1-stage.brightcovecdn.com 199.232.194.27
+router.gtm-bc-coupang.brightcovecdn.com 199.232.194.27
+player.pm.brightcove.com 199.232.194.27
+playback.brightcovecdn.com 199.232.194.27
+playback-qa.brightcovecdn.com 199.232.194.27
+playback-stage.brightcovecdn.com 199.232.194.27
+brightcove.map.fastly.net 199.232.194.27
+dualstack.brightcove.map.fastly.net 199.232.194.27
+us-eu.brightcove.map.fastly.net 199.232.194.27
+dualstack.us-eu.brightcove.map.fastly.net 199.232.194.27
+
+beacon.playback.api.brightcove.com 146.75.94.217
+beacon.playback.api.qa.brightcove.com 146.75.94.217
+vjs.zencdn.net 146.75.94.217
+
 domain:buzzfeed.map.fastly.net 151.101.198.2
 buzzfeed2.map.fastly.net 146.75.94.114 151.101.198.114
 
@@ -241,25 +271,26 @@ pin.ceros.map.fastly.net 146.75.94.51
 s4-cloudinary-pin-sni.map.fastly.net 146.75.94.92
 s4-cloudinary-pin.map.fastly.net 146.75.94.102
 
-archive.debian.org 146.75.94.132 151.101.198.132
-cdn-fastly.deb.debian.org 146.75.94.132 151.101.198.132
-cdn-fastly-v6.deb.debian.org 146.75.94.132 151.101.198.132
-deb.debian.org 146.75.94.132 151.101.198.132
-ftp.debian.org 146.75.94.132 151.101.198.132
-ftp.ipv6.debian.org 146.75.94.132 151.101.198.132
-httpredir.debian.org 146.75.94.132 151.101.198.132
-planet.debian.org 146.75.94.132 151.101.198.132
-planet-fastly.debian.org 146.75.94.132 151.101.198.132
-security-cdn1.debian.org 146.75.94.132 151.101.198.132
-security-cdn.debian.org 146.75.94.132 151.101.198.132
-security-tracker.debian.org 146.75.94.132 151.101.198.132
-security.debian.org 146.75.94.132 151.101.198.132
-security.eu.debian.org 146.75.94.132 151.101.198.132
-security.ipv6.debian.org 146.75.94.132 151.101.198.132
-security.na.debian.org 146.75.94.132 151.101.198.132
-security.us.debian.org 146.75.94.132 151.101.198.132
-debian.org 146.75.94.132 151.101.198.132
-debian.map.fastlydns.net 146.75.94.132 151.101.198.132
+archive.debian.org 146.75.94.132
+cdn-fastly.deb.debian.org 146.75.94.132
+cdn-fastly-v6.deb.debian.org 146.75.94.132
+deb.debian.org 146.75.94.132
+ftp.debian.org 146.75.94.132
+ftp.ipv6.debian.org 146.75.94.132
+httpredir.debian.org 146.75.94.132
+planet.debian.org 146.75.94.132
+planet-fastly.debian.org 146.75.94.132
+security-cdn1.debian.org 146.75.94.132
+security-cdn.debian.org 146.75.94.132
+security-tracker.debian.org 146.75.94.132
+security.debian.org 146.75.94.132
+security.eu.debian.org 146.75.94.132
+security.ipv6.debian.org 146.75.94.132
+security.na.debian.org 146.75.94.132
+security.us.debian.org 146.75.94.132
+debian.org 146.75.94.132
+debian.map.fastly.net 146.75.94.132
+debian.map.fastlydns.net 146.75.94.132
 
 cap-api.fastly.com 151.101.197.51
 demo-issuer.private-access-tokens.fastly.com 151.101.197.51
@@ -267,16 +298,16 @@ edge-clientsdk.prod.launchdarkly.com 151.101.197.51
 edge-clientsdk.stg.launchdarkly.com 151.101.197.51
 ecp.map.fastly.net 151.101.197.51
 
-early-hints.fastlylabs.com 146.75.94.132 151.101.198.132
+early-hints.fastlylabs.com 146.75.94.132
 insights.fastlylabs.com 146.75.94.217
 wasm.fastlylabs.com 146.75.94.217
 www.fastlylabs.com 146.75.94.217
 fastlylabs.com 146.75.94.217
 h2.fastlylabs.map.fastly.net 146.75.94.217
 
-prod-static.gop.com 146.75.94.132 151.101.198.132
-www.gop.com 146.75.94.132 151.101.198.132
-gop.com 146.75.94.132 151.101.198.132
+prod-static.gop.com 146.75.94.132
+www.gop.com 146.75.94.132
+gop.com 146.75.94.132
 
 mediashield-na.hulu.map.fastly.net 146.75.93.87
 hulu.map.fastly.net 146.75.93.87
@@ -331,6 +362,9 @@ ww.ign.com 146.75.93.135
 ign.com 146.75.93.135
 ign.map.fastly.net 146.75.93.135
 
+dar-live-red-irdeto-ms.fastly.content.itv.com 146.75.94.183
+itv.map.fastly.net 146.75.94.183
+
 fastly.jsdelivr.net 146.75.93.229
 jsdelivr.map.fastly.net 146.75.93.229
 
@@ -341,7 +375,7 @@ static.jumptoon.com 151.101.197.91
 jumptoon.com 151.101.197.91
 jumptoon.map.fastly.net 151.101.197.91
 
-edge-clientsdk.prod.eu.launchdarkly.com 151.101.198.132
+edge-clientsdk.prod.eu.launchdarkly.com 146.75.94.132
 
 app.dr.launchdarkly.com 146.75.94.109
 clientsdk.dr.launchdarkly.com 146.75.94.109
@@ -421,10 +455,10 @@ periscope.map.fastly.net 151.101.198.118
 prod.pinterest.global.map.fastly.net 146.75.92.84 151.101.196.84
 
 fdyn.pubwise.io 146.75.94.217
-gfdyn.pubwise.io 146.75.94.132 151.101.198.132
-srvstat.pubwise.io 146.75.94.132 151.101.198.132
-www.pubwise.io 146.75.94.132 151.101.198.132
-pubwise.io 146.75.94.132 151.101.198.132
+gfdyn.pubwise.io 146.75.94.132
+srvstat.pubwise.io 146.75.94.132
+www.pubwise.io 146.75.94.132
+pubwise.io 146.75.94.132
 
 r.r10s.jp 111.119.29.177
 shop.r10s.jp 68.142.73.41
@@ -452,7 +486,7 @@ prod.shazam.com 146.75.93.80 151.101.197.80
 test-images.shazam.com 146.75.93.80 151.101.197.80
 www.shazam.com 146.75.93.80 151.101.197.80
 san12.shazam.map.fastly.net 146.75.93.80 151.101.197.80
-beta-cdn.shazam.com 146.75.94.132 151.101.198.132
+beta-cdn.shazam.com 146.75.94.132
 domain:shazam.map.fastly.net 146.75.92.249 151.101.196.249
 
 mcprod.sparco-official.com 151.101.197.124

@@ -1,6 +1,6 @@
 regexp:^(dualstack\.)?b\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.33 151.101.198.33
 regexp:^(dualstack\.)?c\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(dualstack\.)?d\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.133
+regexp:^(dualstack\.)?d\.sni\.(global|us-eu)\.fastly\.net$ 199.232.194.133
 regexp:^(dualstack\.)?e\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.217
 regexp:^(dualstack\.)?g\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.114 151.101.198.114
 regexp:^(dualstack\.)?h\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.79
@@ -86,7 +86,7 @@ regexp:^(dualstack\.)?f4\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.110
 regexp:^(dualstack\.)?f6\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.202
 regexp:^(dualstack\.)?f8\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.179
 
-domain:a.global-ssl.fastly.net 146.75.92.249 151.101.196.249
+domain:a.global-ssl.fastly.net 146.75.92.249
 domain:b.global-ssl.fastly.net 151.101.196.143
 domain:c.global-ssl.fastly.net 151.101.196.175
 domain:d.global-ssl.fastly.net 151.101.196.207
@@ -119,9 +119,9 @@ global.fastly.net 146.75.92.204 151.101.196.204
 domain:nonssl.us-eu.fastly.net 146.75.92.204 151.101.196.204
 
 regexp:.+\.global\.ssl\.fastly\.net$ 151.101.197.194
-global.ssl.fastly.net 146.75.92.249 151.101.196.249
+global.ssl.fastly.net 146.75.92.249
 
-domain:global.prod.fastly.net 146.75.92.249 151.101.196.249
+domain:global.prod.fastly.net 146.75.92.249
 domain:prod.fastly.net 146.75.92.204 151.101.196.204
 
 time.fastly.net 151.101.197.91
@@ -141,9 +141,9 @@ sandbox-munki.corp.fastly.com 146.75.94.132
 investors.fastly.com 146.75.94.132
 investors.fastly.com.map.fastly.net 146.75.94.132
 
-confluence.corp.fastly.com 151.101.198.133
-jira.corp.fastly.com 151.101.198.133
-atlassian.corp.fastly.com.map.fastly.net 151.101.198.133
+confluence.corp.fastly.com 199.232.194.133
+jira.corp.fastly.com 199.232.194.133
+atlassian.corp.fastly.com.map.fastly.net 199.232.194.133
 
 manage-beta.fastly.com 151.101.197.214
 manage-beta.fastly.com.map.fastly.net 151.101.197.214
@@ -403,42 +403,42 @@ sdk-dev.launchdarkly.com 146.75.94.217
 sdk-stg.launchdarkly.com 146.75.94.217
 pubnubtest.launchdarkly.com 146.75.94.217
 
-qa.blog.linktr.ee 151.101.198.133
-v2.platform.linktr.ee 151.101.198.133
-edge.monolith.production.linktr.ee 151.101.198.133
-edge.nv-profiles.production.linktr.ee 151.101.198.133
-edge.profiles.production.linktr.ee 151.101.198.133
-edge.static-profiles.production.linktr.ee 151.101.198.133
-edge.website.production.linktr.ee 151.101.198.133
-edge.webflow.production.linktr.ee 151.101.198.133
-assets.production.linktr.ee 151.101.198.133
-fastly-assets.production.linktr.ee 151.101.198.133
-router.production.linktr.ee 151.101.198.133
-ugc.production.linktr.ee 151.101.198.133
-edge.monolith.qa.linktr.ee 151.101.198.133
-edge.nv-profiles.qa.linktr.ee 151.101.198.133
-edge.profiles.qa.linktr.ee 151.101.198.133
-edge.static-profiles.qa.linktr.ee 151.101.198.133
-edge.website.qa.linktr.ee 151.101.198.133
-www.green.qa.linktr.ee 151.101.198.133
-assets.qa.linktr.ee 151.101.198.133
-auth.qa.linktr.ee 151.101.198.133
-fastly-assets.qa.linktr.ee 151.101.198.133
-graph.qa.linktr.ee 151.101.198.133
-green.qa.linktr.ee 151.101.198.133
-notifications.qa.linktr.ee 151.101.198.133
-router.qa.linktr.ee 151.101.198.133
-ugc.qa.linktr.ee 151.101.198.133
-www.qa.linktr.ee 151.101.198.133
-auth.linktr.ee 151.101.198.133
-blog.linktr.ee 151.101.198.133
-graph.linktr.ee 151.101.198.133
-ltp.linktr.ee 151.101.198.133
-notifications.linktr.ee 151.101.198.133
-passionfund.linktr.ee 151.101.198.133
-qa.linktr.ee 151.101.198.133
-www.linktr.ee 151.101.198.133
-linktr.ee 151.101.198.133
+qa.blog.linktr.ee 199.232.194.133
+v2.platform.linktr.ee 199.232.194.133
+edge.monolith.production.linktr.ee 199.232.194.133
+edge.nv-profiles.production.linktr.ee 199.232.194.133
+edge.profiles.production.linktr.ee 199.232.194.133
+edge.static-profiles.production.linktr.ee 199.232.194.133
+edge.website.production.linktr.ee 199.232.194.133
+edge.webflow.production.linktr.ee 199.232.194.133
+assets.production.linktr.ee 199.232.194.133
+fastly-assets.production.linktr.ee 199.232.194.133
+router.production.linktr.ee 199.232.194.133
+ugc.production.linktr.ee 199.232.194.133
+edge.monolith.qa.linktr.ee 199.232.194.133
+edge.nv-profiles.qa.linktr.ee 199.232.194.133
+edge.profiles.qa.linktr.ee 199.232.194.133
+edge.static-profiles.qa.linktr.ee 199.232.194.133
+edge.website.qa.linktr.ee 199.232.194.133
+www.green.qa.linktr.ee 199.232.194.133
+assets.qa.linktr.ee 199.232.194.133
+auth.qa.linktr.ee 199.232.194.133
+fastly-assets.qa.linktr.ee 199.232.194.133
+graph.qa.linktr.ee 199.232.194.133
+green.qa.linktr.ee 199.232.194.133
+notifications.qa.linktr.ee 199.232.194.133
+router.qa.linktr.ee 199.232.194.133
+ugc.qa.linktr.ee 199.232.194.133
+www.qa.linktr.ee 199.232.194.133
+auth.linktr.ee 199.232.194.133
+blog.linktr.ee 199.232.194.133
+graph.linktr.ee 199.232.194.133
+ltp.linktr.ee 199.232.194.133
+notifications.linktr.ee 199.232.194.133
+passionfund.linktr.ee 199.232.194.133
+qa.linktr.ee 199.232.194.133
+www.linktr.ee 199.232.194.133
+linktr.ee 199.232.194.133
 
 stg.cdn.mapgenie.io 146.75.93.135
 cdn.mapgenie.io 146.75.93.135
@@ -448,6 +448,33 @@ tiles.mapgenie.io 146.75.93.135
 mapgenie.io 146.75.93.135
 
 domain:magentocloud.map.fastly.net 151.101.197.124
+
+fastly.lithium.motortrend.com 199.232.194.133
+
+demo-qa1.qa.corp.mparticle.com 199.232.194.133
+sso.auth.mparticle.com 199.232.194.133
+analytics.mparticle.com 199.232.194.133
+api.mparticle.com 199.232.194.133
+brand.mparticle.com 199.232.194.133
+config.mparticle.com 199.232.194.133
+config2.mparticle.com 199.232.194.133
+cookiesync.mparticle.com 199.232.194.133
+demo.mparticle.com 199.232.194.133
+identity.mparticle.com 199.232.194.133
+inbound.mparticle.com 199.232.194.133
+jssdks.mparticle.com 199.232.194.133
+jssdkcdn.mparticle.com 199.232.194.133
+jssdkcdns.mparticle.com 199.232.194.133
+maintenance.mparticle.com 199.232.194.133
+nativesdks.mparticle.com 199.232.194.133
+opendsr.mparticle.com 199.232.194.133
+pixels.mparticle.com 199.232.194.133
+tracking-identity.mparticle.com 199.232.194.133
+www.mparticle.com 199.232.194.133
+mparticle.map.fastly.net 199.232.194.133
+
+fastly.mparticle.com 146.75.92.249
+domain:fastly.mparticle.com 199.232.194.133
 
 web.periscope.map.fastly.net 151.101.198.118
 periscope.map.fastly.net 151.101.198.118
@@ -487,7 +514,7 @@ test-images.shazam.com 146.75.93.80 151.101.197.80
 www.shazam.com 146.75.93.80 151.101.197.80
 san12.shazam.map.fastly.net 146.75.93.80 151.101.197.80
 beta-cdn.shazam.com 146.75.94.132
-domain:shazam.map.fastly.net 146.75.92.249 151.101.196.249
+domain:shazam.map.fastly.net 146.75.92.249
 
 mcprod.sparco-official.com 151.101.197.124
 www.sparco-official.com 151.101.197.124
@@ -531,11 +558,11 @@ rod.turner-tls.map.fastly.net 146.75.93.67
 turner-tls.map.fastly.net 146.75.93.67
 domain:turner.map.fastly.net 151.101.196.73
 
-api.turnitin.com 151.101.198.133
-ev.turnitin.com 151.101.198.133
-www.turnitin.com 151.101.198.133
-turnitin.com 151.101.198.133
-turnitin.map.fastly.net 151.101.198.133
+api.turnitin.com 199.232.194.133
+ev.turnitin.com 199.232.194.133
+www.turnitin.com 199.232.194.133
+turnitin.com 199.232.194.133
+turnitin.map.fastly.net 199.232.194.133
 
 platform.twitter.map.fastly.net 146.75.92.157
 
@@ -550,7 +577,7 @@ vimeocdn.com 146.75.94.109
 domain:vimeo-video.map.fastly.net 146.75.94.109
 
 walmart-nosni.map.fastly.net 146.75.93.74
-walmart.map.fastly.net 151.101.198.133
+walmart.map.fastly.net 199.232.194.133
 
 demo.yubico.com 146.75.94.114 151.101.198.114
 developers.yubico.com 146.75.94.114 151.101.198.114

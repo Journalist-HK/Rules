@@ -90,6 +90,7 @@ nxboom.com
 regexp:^(.+\.)?okx-dns\d*\.com$
 openairinterface.org
 osl.com
+patreonusercontent.com
 pexpay.com
 picsart.com
 pilipili.cc

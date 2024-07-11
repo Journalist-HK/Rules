@@ -9,61 +9,74 @@ clan.steamstatic.com 23.46.229.200 202.142.229.42
 community.steamstatic.com 23.46.229.200 202.142.229.42
 store.steamstatic.com 23.46.229.200 202.142.229.42
 
-static2.cdn.ubi.com 104.107.105.193
-ubiservices.cdn.ubi.com 104.107.105.193
-static3.cdn.ubi.com 104.107.105.193
+static2.cdn.ubi.com 104.85.245.205 184.28.149.218
+ubiservices.cdn.ubi.com 104.85.245.205 184.28.149.218
+wildcard.cdn.ubi.com.edgekey.net 104.85.245.205 184.28.149.218
+e11196.d.akamaiedge.net 104.85.245.205 184.28.149.218
+e11196.dscd.akamaiedge.net 104.85.245.205 184.28.149.218
+e11196.g.akamaiedge.net 104.85.245.205 184.28.149.218
 
-account.cdn.ubisoft.com 23.65.43.93
-authentication.cdn.ubisoft.com 23.65.43.93
-buy-for-friend.cdn.ubisoft.com 23.65.43.93
-cat.cdn.ubisoft.com 23.65.43.93
-challenges.cdn.ubisoft.com 23.65.43.93
-chat.cdn.ubisoft.com 23.65.43.93
-discussions.cdn.ubisoft.com 23.65.43.93
-dog.cdn.ubisoft.com 23.65.43.93
-feedback.cdn.ubisoft.com 23.65.43.93
-files.cdn.ubisoft.com 23.65.43.93
-friend-referral.cdn.ubisoft.com 23.65.43.93
-friends-list.cdn.ubisoft.com 23.65.43.93
-galaxy.cdn.ubisoft.com 23.65.43.93
-game-dl-mgr.cdn.ubisoft.com 23.65.43.93
-game-page.cdn.ubisoft.com 23.65.43.93
-gamer-profile.cdn.ubisoft.com 23.65.43.93
-help.cdn.ubisoft.com 23.65.43.93
-home-page.cdn.ubisoft.com 23.65.43.93
-ingame-store.cdn.ubisoft.com 23.65.43.93
-key-activation.cdn.ubisoft.com 23.65.43.93
-key-redemption.cdn.ubisoft.com 23.65.43.93
-library.cdn.ubisoft.com 23.65.43.93
-live-feed.cdn.ubisoft.com 23.65.43.93
-live-video-streaming.cdn.ubisoft.com 23.65.43.93
-marketplace.cdn.ubisoft.com 23.65.43.93
-news.cdn.ubisoft.com 23.65.43.93
-news-page.cdn.ubisoft.com 23.65.43.93
-notifications.cdn.ubisoft.com 23.65.43.93
-overlay.cdn.ubisoft.com 23.65.43.93
-preferences.cdn.ubisoft.com 23.65.43.93
-product-details.cdn.ubisoft.com 23.65.43.93
-promotab.cdn.ubisoft.com 23.65.43.93
-quay.cdn.ubisoft.com 23.65.43.93
-remote-play.cdn.ubisoft.com 23.65.43.93
-rewards.cdn.ubisoft.com 23.65.43.93
-settings.cdn.ubisoft.com 23.65.43.93
-share-play.cdn.ubisoft.com 23.65.43.93
-share-play-client-app.cdn.ubisoft.com 23.65.43.93
-sigma.cdn.ubisoft.com 23.65.43.93
-smart-intel.cdn.ubisoft.com 23.65.43.93
-social.cdn.ubisoft.com 23.65.43.93
-spotlight.cdn.ubisoft.com 23.65.43.93
-static19.cdn.ubisoft.com 23.65.43.93
-static2.cdn.ubisoft.com 23.65.43.93
-static9.cdn.ubisoft.com 23.65.43.93
-stats.cdn.ubisoft.com 23.65.43.93
-streaming-client.cdn.ubisoft.com 23.65.43.93
-testing.cdn.ubisoft.com 23.65.43.93
-ubiservices.cdn.ubisoft.com 23.65.43.93
-ugc.cdn.ubisoft.com 23.65.43.93
-web-browser.cdn.ubisoft.com 23.65.43.93
+static3.cdn.ubi.com 184.28.149.63
+static.cdn.ubi.com.edgekey.net 184.28.149.63
+static-ww.cdn.ubi.com.edgekey.net 184.28.149.63
+e7923.d.akamaiedge.net 184.28.149.63
+e7923.dscd.akamaiedge.net 184.28.149.63
+e7923.g.akamaiedge.net 184.28.149.63
+
+account.cdn.ubisoft.com 23.66.131.183
+authentication.cdn.ubisoft.com 23.66.131.183
+buy-for-friend.cdn.ubisoft.com 23.66.131.183
+cat.cdn.ubisoft.com 23.66.131.183
+challenges.cdn.ubisoft.com 23.66.131.183
+chat.cdn.ubisoft.com 23.66.131.183
+discussions.cdn.ubisoft.com 23.66.131.183
+dog.cdn.ubisoft.com 23.66.131.183
+feedback.cdn.ubisoft.com 23.66.131.183
+files.cdn.ubisoft.com 23.66.131.183
+friend-referral.cdn.ubisoft.com 23.66.131.183
+friends-list.cdn.ubisoft.com 23.66.131.183
+galaxy.cdn.ubisoft.com 23.66.131.183
+game-dl-mgr.cdn.ubisoft.com 23.66.131.183
+game-page.cdn.ubisoft.com 23.66.131.183
+gamer-profile.cdn.ubisoft.com 23.66.131.183
+help.cdn.ubisoft.com 23.66.131.183
+home-page.cdn.ubisoft.com 23.66.131.183
+ingame-store.cdn.ubisoft.com 23.66.131.183
+key-activation.cdn.ubisoft.com 23.66.131.183
+key-redemption.cdn.ubisoft.com 23.66.131.183
+library.cdn.ubisoft.com 23.66.131.183
+live-feed.cdn.ubisoft.com 23.66.131.183
+live-video-streaming.cdn.ubisoft.com 23.66.131.183
+marketplace.cdn.ubisoft.com 23.66.131.183
+news.cdn.ubisoft.com 23.66.131.183
+news-page.cdn.ubisoft.com 23.66.131.183
+notifications.cdn.ubisoft.com 23.66.131.183
+overlay.cdn.ubisoft.com 23.66.131.183
+preferences.cdn.ubisoft.com 23.66.131.183
+product-details.cdn.ubisoft.com 23.66.131.183
+promotab.cdn.ubisoft.com 23.66.131.183
+quay.cdn.ubisoft.com 23.66.131.183
+remote-play.cdn.ubisoft.com 23.66.131.183
+rewards.cdn.ubisoft.com 23.66.131.183
+settings.cdn.ubisoft.com 23.66.131.183
+share-play.cdn.ubisoft.com 23.66.131.183
+share-play-client-app.cdn.ubisoft.com 23.66.131.183
+sigma.cdn.ubisoft.com 23.66.131.183
+smart-intel.cdn.ubisoft.com 23.66.131.183
+social.cdn.ubisoft.com 23.66.131.183
+spotlight.cdn.ubisoft.com 23.66.131.183
+static19.cdn.ubisoft.com 23.66.131.183
+static2.cdn.ubisoft.com 23.66.131.183
+static9.cdn.ubisoft.com 23.66.131.183
+stats.cdn.ubisoft.com 23.66.131.183
+streaming-client.cdn.ubisoft.com 23.66.131.183
+testing.cdn.ubisoft.com 23.66.131.183
+ubiservices.cdn.ubisoft.com 23.66.131.183
+ugc.cdn.ubisoft.com 23.66.131.183
+web-browser.cdn.ubisoft.com 23.66.131.183
+e11195.d.akamaiedge.net 23.66.131.183
+e11195.dscd.akamaiedge.net 23.66.131.183
+e11195.g.akamaiedge.net 23.66.131.183
 
 docs.vmware.com 23.3.84.28
 www.vmware.com 23.3.84.28

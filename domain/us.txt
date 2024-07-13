@@ -34,3 +34,5 @@ voice.google.com
 +.meta.ai
 +.anthropic.com
 +.claude.ai
+
+firefly.adobe.com

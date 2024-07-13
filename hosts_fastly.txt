@@ -13,7 +13,7 @@ regexp:^(dualstack\.)?o\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.32
 regexp:^(dualstack\.)?p\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.41
 regexp:^(dualstack\.)?q\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.215
 regexp:^(dualstack\.)?r\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.155 151.101.197.155
-regexp:^(dualstack\.)?s\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.42 151.101.199.42
+regexp:^(dualstack\.)?s\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.42
 regexp:^(dualstack\.)?t\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.52
 regexp:^(dualstack\.)?u\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.229
 regexp:^(dualstack\.)?v\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.230 151.101.198.230
@@ -198,23 +198,23 @@ web3.arxiv.org 146.75.95.52
 status.dev.arxiv.org 151.101.197.91
 status.arxiv.org 151.101.197.91
 
-aps.arxiv.org 146.75.95.42 151.101.199.42
-au.arxiv.org 146.75.95.42 151.101.199.42
-br.arxiv.org 146.75.95.42 151.101.199.42
-cul.arxiv.org 146.75.95.42 151.101.199.42
-es.arxiv.org 146.75.95.42 151.101.199.42
-fr.arxiv.org 146.75.95.42 151.101.199.42
-il.arxiv.org 146.75.95.42 151.101.199.42
-it.arxiv.org 146.75.95.42 151.101.199.42
-jp.arxiv.org 146.75.95.42 151.101.199.42
-kr.arxiv.org 146.75.95.42 151.101.199.42
-ru.arxiv.org 146.75.95.42 151.101.199.42
-tw.arxiv.org 146.75.95.42 151.101.199.42
-uk.arxiv.org 146.75.95.42 151.101.199.42
-www.arxiv.org 146.75.95.42 151.101.199.42
-xxx.arxiv.org 146.75.95.42 151.101.199.42
-za.arxiv.org 146.75.95.42 151.101.199.42
-arxiv.org 146.75.95.42 151.101.199.42
+aps.arxiv.org 146.75.95.42
+au.arxiv.org 146.75.95.42
+br.arxiv.org 146.75.95.42
+cul.arxiv.org 146.75.95.42
+es.arxiv.org 146.75.95.42
+fr.arxiv.org 146.75.95.42
+il.arxiv.org 146.75.95.42
+it.arxiv.org 146.75.95.42
+jp.arxiv.org 146.75.95.42
+kr.arxiv.org 146.75.95.42
+ru.arxiv.org 146.75.95.42
+tw.arxiv.org 146.75.95.42
+uk.arxiv.org 146.75.95.42
+www.arxiv.org 146.75.95.42
+xxx.arxiv.org 146.75.95.42
+za.arxiv.org 146.75.95.42
+arxiv.org 146.75.95.42
 
 admin.bitwarden.com 151.101.197.91
 api.bitwarden.com 151.101.197.91
@@ -472,7 +472,6 @@ pixels.mparticle.com 199.232.194.133
 tracking-identity.mparticle.com 199.232.194.133
 www.mparticle.com 199.232.194.133
 mparticle.map.fastly.net 199.232.194.133
-
 fastly.mparticle.com 146.75.92.249
 domain:fastly.mparticle.com 199.232.194.133
 

@@ -519,6 +519,14 @@ mcprod.sparco-official.com 151.101.197.124
 www.sparco-official.com 151.101.197.124
 sparco-official.com 151.101.197.124
 
+frontend.cdn.splashthat.com 199.232.194.133
+service-template-golang.services.splashthat.com 199.232.194.133
+amazoncnstudents.splashthat.com 199.232.194.133
+info.splashthat.com 199.232.194.133
+login.splashthat.com 199.232.194.133
+www.splashthat.com 199.232.194.133
+splashthat.com 199.232.194.133
+
 hbdyn.spot.im 146.75.94.217
 
 assets.squarespace.com 146.75.92.237 151.101.196.237

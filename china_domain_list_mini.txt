@@ -108,6 +108,11 @@ qzone.com
 tencent-cloud.cn
 wechatpay.cn
 weiyun.com
+cdn.myqcloud.com
+file.myqcloud.com
+image.myqcloud.com
+vod2.myqcloud.com
+vod.myqcloud.com
 
 3.cn
 360buyimg.com

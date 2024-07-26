@@ -18,7 +18,6 @@ full:p16999.cedexis-test.com
 full:p1cluster.cxense.com
 full:prod.pinterest.global.map.fastly.net
 full:s3-ap-south-1.amazonaws.com
-full:s3-ap-southeast-2.amazonaws.com
 full:sdk.fra-01.braze.eu
 full:tracker.cloudit.top
 full:v2raya.org

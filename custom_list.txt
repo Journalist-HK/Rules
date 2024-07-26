@@ -166,3 +166,7 @@ pixiv.me
 # pixiv.net
 pixiv.org
 # pximg.net
+
+s3.ap-south-1.amazonaws.com
+s3-ap-southeast-1.amazonaws.com
+s3-ap-northeast-1.amazonaws.com

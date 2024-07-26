@@ -8,6 +8,7 @@ full:ced-ns.sascdn.com
 full:claim.fluence.network
 full:comcluster.cxense.com
 full:events.mapbox.com
+full:fonts.sony.net
 full:gh.con.sh
 full:go.superchat.live
 full:id.cxense.com
@@ -16,6 +17,8 @@ full:in.appcenter.ms
 full:p16999.cedexis-test.com
 full:p1cluster.cxense.com
 full:prod.pinterest.global.map.fastly.net
+full:s3-ap-south-1.amazonaws.com
+full:s3-ap-southeast-2.amazonaws.com
 full:sdk.fra-01.braze.eu
 full:tracker.cloudit.top
 full:v2raya.org
@@ -77,3 +80,4 @@ keyword:18comic
 keyword:18-comic
 keyword:jmcomic
 keyword:jm-comic
+s3.ap-southeast-2.amazonaws.com

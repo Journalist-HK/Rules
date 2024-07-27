@@ -76,6 +76,7 @@ meta.com
 mexc.com
 mikanani.me
 miobt.com
+moengage.com
 regexp:^(.+\.)?mokexapp\..+$
 musixmatch.com
 myunidays.com

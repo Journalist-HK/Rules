@@ -8,7 +8,7 @@ regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.132
 regexp:^(dualstack\.)?k\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.137 151.101.198.137
 regexp:^(dualstack\.)?l\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.107
 regexp:^(dualstack\.)?m\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.55
-regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 199.232.193.91
+regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.91
 regexp:^(dualstack\.)?o\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.32
 regexp:^(dualstack\.)?p\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.41
 regexp:^(dualstack\.)?q\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.215
@@ -124,7 +124,7 @@ global.ssl.fastly.net 146.75.92.249
 domain:global.prod.fastly.net 146.75.92.249
 domain:prod.fastly.net 146.75.92.204 151.101.196.204
 
-time.fastly.net 199.232.193.91
+time.fastly.net 151.101.197.91
 
 www.fastly.net 151.101.197.6
 fastly.net 151.101.197.6
@@ -168,20 +168,20 @@ zd.fastly.com 146.75.94.137 151.101.198.137
 cfg.fastly.com.map.fastly.net 146.75.94.137 151.101.198.137
 zd.fastly.com.map.fastly.net 146.75.94.137 151.101.198.137
 
-abuse.fastly.com 199.232.193.91
-connect.fastly.com 199.232.193.91
-fanout.fastly.com 199.232.193.91
-learn.fastly.com 199.232.193.91
-shiply.fastly.com 199.232.193.91
-status.fastly.com 199.232.193.91
+abuse.fastly.com 151.101.197.91
+connect.fastly.com 151.101.197.91
+fanout.fastly.com 151.101.197.91
+learn.fastly.com 151.101.197.91
+shiply.fastly.com 151.101.197.91
+status.fastly.com 151.101.197.91
 
-docs.fastly.com 199.232.193.91
-docs-legacy.fastly.com 199.232.193.91
-docs-next.fastly.com 199.232.193.91
-docs.fastly.com.map.fastly.net 199.232.193.91
+docs.fastly.com 151.101.197.91
+docs-legacy.fastly.com 151.101.197.91
+docs-next.fastly.com 151.101.197.91
+docs.fastly.com.map.fastly.net 151.101.197.91
 
-quic.fastly.com 199.232.193.91
-quic.map.fastly.net 199.232.193.91
+quic.fastly.com 151.101.197.91
+quic.map.fastly.net 151.101.197.91
 
 developers.fastly.com 151.101.197.57
 domain:developer.fastly.com 151.101.197.57
@@ -195,8 +195,8 @@ ar5iv.labs.arxiv.org 146.75.95.52
 ar5iv.arxiv.org 146.75.95.52
 web3.arxiv.org 146.75.95.52
 
-status.dev.arxiv.org 199.232.193.91
-status.arxiv.org 199.232.193.91
+status.dev.arxiv.org 151.101.197.91
+status.arxiv.org 151.101.197.91
 
 aps.arxiv.org 146.75.95.42
 au.arxiv.org 146.75.95.42
@@ -216,22 +216,22 @@ xxx.arxiv.org 146.75.95.42
 za.arxiv.org 146.75.95.42
 arxiv.org 146.75.95.42
 
-admin.bitwarden.com 199.232.193.91
-api.bitwarden.com 199.232.193.91
-artifacts.bitwarden.com 199.232.193.91
-assets.bitwarden.com 199.232.193.91
-bws.bitwarden.com 199.232.193.91
-events.bitwarden.com 199.232.193.91
-identity.bitwarden.com 199.232.193.91
-mobileapp.bitwarden.com 199.232.193.91
-notifications.bitwarden.com 199.232.193.91
-preview.bitwarden.com 199.232.193.91
-push.bitwarden.com 199.232.193.91
-scim.bitwarden.com 199.232.193.91
-sso.bitwarden.com 199.232.193.91
-vault.bitwarden.com 199.232.193.91
-bitwarden.com 199.232.193.91
-icons.bitwarden.net 199.232.193.91
+admin.bitwarden.com 151.101.197.91
+api.bitwarden.com 151.101.197.91
+artifacts.bitwarden.com 151.101.197.91
+assets.bitwarden.com 151.101.197.91
+bws.bitwarden.com 151.101.197.91
+events.bitwarden.com 151.101.197.91
+identity.bitwarden.com 151.101.197.91
+mobileapp.bitwarden.com 151.101.197.91
+notifications.bitwarden.com 151.101.197.91
+preview.bitwarden.com 151.101.197.91
+push.bitwarden.com 151.101.197.91
+scim.bitwarden.com 151.101.197.91
+sso.bitwarden.com 151.101.197.91
+vault.bitwarden.com 151.101.197.91
+bitwarden.com 151.101.197.91
+icons.bitwarden.net 151.101.197.91
 
 manifest.prod.boltdns.net 199.232.194.27
 manifest.qa.boltdns.net 199.232.194.27
@@ -372,12 +372,12 @@ itv.map.fastly.net 146.75.94.183
 fastly.jsdelivr.net 146.75.93.229
 jsdelivr.map.fastly.net 146.75.93.229
 
-app.jumptoon.com 199.232.193.91
-assets.jumptoon.com 199.232.193.91
-contents.jumptoon.com 199.232.193.91
-static.jumptoon.com 199.232.193.91
-jumptoon.com 199.232.193.91
-jumptoon.map.fastly.net 199.232.193.91
+app.jumptoon.com 151.101.197.91
+assets.jumptoon.com 151.101.197.91
+contents.jumptoon.com 151.101.197.91
+static.jumptoon.com 151.101.197.91
+jumptoon.com 151.101.197.91
+jumptoon.map.fastly.net 151.101.197.91
 
 edge-clientsdk.prod.eu.launchdarkly.com 146.75.94.132
 
@@ -546,15 +546,15 @@ images.squarespace-cdn.com 146.75.92.238 151.101.196.238
 video.squarespace-cdn.com 146.75.92.238 151.101.196.238
 domain:squarespace.map.fastly.net 146.75.92.238 151.101.196.238
 
-staging.techrepublic.com 199.232.193.91
-www.techrepublic.com 199.232.193.91
-techrepublic.com 199.232.193.91
+staging.techrepublic.com 151.101.197.91
+www.techrepublic.com 151.101.197.91
+techrepublic.com 151.101.197.91
 
-duet-staging.theverge.com 199.232.193.91
-duet-test.theverge.com 199.232.193.91
-duet.theverge.com 199.232.193.91
-www.theverge.com 199.232.193.91
-theverge.com 199.232.193.91
+duet-staging.theverge.com 151.101.197.91
+duet-test.theverge.com 151.101.197.91
+duet.theverge.com 151.101.197.91
+www.theverge.com 151.101.197.91
+theverge.com 151.101.197.91
 
 domain:ticketmaster.map.fastly.net 146.75.93.204
 ticketmaster2.map.fastly.net 146.75.94.87 151.101.198.87

@@ -118,6 +118,7 @@ sublimetext.com
 sushiswapclassic.org
 regexp:^(.+\.)?tagss\d*\.pro$
 telemetr.io
+telghub.com
 tenor.com
 tensojapan.com
 textnow.com

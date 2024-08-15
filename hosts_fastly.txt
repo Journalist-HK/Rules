@@ -366,6 +366,11 @@ ww.ign.com 146.75.93.135
 ign.com 146.75.93.135
 ign.map.fastly.net 146.75.93.135
 
+imgix.net 35.208.57.113
+domain:imgix.net 146.75.94.208
+dualstack.com.imgix.map.fastly.net 146.75.94.208
+com.imgix.map.fastly.net 146.75.94.208
+
 dar-live-red-irdeto-ms.fastly.content.itv.com 146.75.94.183
 itv.map.fastly.net 146.75.94.183
 
@@ -481,6 +486,14 @@ mparticle.map.fastly.net 199.232.194.133
 fastly.mparticle.com 146.75.92.249
 domain:fastly.mparticle.com 199.232.194.133
 
+hawk.musicradar.com 146.75.94.114 151.101.198.114
+www.musicradar.com 146.75.94.114 151.101.198.114
+musicradar.com 146.75.94.114 151.101.198.114
+
+cdn.overclock.net 151.101.197.91
+www.overclock.net 151.101.197.91
+overclock.net 151.101.197.91
+
 web.periscope.map.fastly.net 151.101.198.118
 periscope.map.fastly.net 151.101.198.118
 
@@ -525,6 +538,20 @@ mcprod.sparco-official.com 151.101.197.124
 www.sparco-official.com 151.101.197.124
 sparco-official.com 151.101.197.124
 
+api.speedcurve.com 146.75.94.217
+app.speedcurve.com 146.75.94.217
+assets.speedcurve.com 146.75.94.217
+cdn-dev.speedcurve.com 146.75.94.217
+cdn.speedcurve.com 146.75.94.217
+chart.speedcurve.com 146.75.94.217
+staging.api.speedcurve.com 146.75.94.217
+wpt.speedcurve.com 146.75.94.217
+www.speedcurve.com 146.75.94.217
+
+blog-img.speedcurve.com 146.75.94.208
+img.speedcurve.com 146.75.94.208
+images.speedcurve.com 146.75.94.208
+
 frontend.cdn.splashthat.com 199.232.194.133
 service-template-golang.services.splashthat.com 199.232.194.133
 amazoncnstudents.splashthat.com 199.232.194.133
@@ -545,6 +572,11 @@ file.squarespace-cdn.com 146.75.92.238 151.101.196.238
 images.squarespace-cdn.com 146.75.92.238 151.101.196.238
 video.squarespace-cdn.com 146.75.92.238 151.101.196.238
 domain:squarespace.map.fastly.net 146.75.92.238 151.101.196.238
+
+global.techradar.com 146.75.94.114 151.101.198.114
+hawk.techradar.com 146.75.94.114 151.101.198.114
+www.techradar.com 146.75.94.114 151.101.198.114
+techradar.com 146.75.94.114 151.101.198.114
 
 staging.techrepublic.com 151.101.197.91
 www.techrepublic.com 151.101.197.91

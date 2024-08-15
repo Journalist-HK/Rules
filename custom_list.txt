@@ -61,6 +61,7 @@ hostmonit.com
 regexp:^(.+\.)?htx\..+$
 regexp:^(.+\.)?huobi\..+$
 infura.io
+iwanlab.com
 jwplayer.com
 kemono.party
 kemono.su

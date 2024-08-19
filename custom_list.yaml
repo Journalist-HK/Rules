@@ -86,7 +86,7 @@ payload:
   - '+.idev.dev'
   - '+.imhentai.xxx'
   - '+.infura.io'
-  - '+.jwplayer.com'
+  # - '+.jwplayer.com'
   - '+.kaizty.com'
   - '+.launchpad.net'
   - '+.libhunt.com'

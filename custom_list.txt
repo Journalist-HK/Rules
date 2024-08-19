@@ -62,12 +62,13 @@ regexp:^(.+\.)?htx\..+$
 regexp:^(.+\.)?huobi\..+$
 infura.io
 iwanlab.com
-jwplayer.com
+# jwplayer.com
 kemono.party
 kemono.su
 regexp:^(.+\.)?libsolutions\..+$
 liftoff.io
 liquidsky.com
+manhuagui.com
 mcdex.io
 mcusercontent.com
 mdex.com

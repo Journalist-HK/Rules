@@ -271,6 +271,8 @@ pin.ceros.map.fastly.net 146.75.94.51
 s4-cloudinary-pin-sni.map.fastly.net 146.75.94.92
 s4-cloudinary-pin.map.fastly.net 146.75.94.102
 
+download.cnet.com 151.101.197.91
+
 archive.debian.org 146.75.94.132
 cdn-fastly.deb.debian.org 146.75.94.132
 cdn-fastly-v6.deb.debian.org 146.75.94.132
@@ -352,7 +354,7 @@ ie.ign.com 146.75.93.135
 uk.ign.com 146.75.93.135
 us.ign.com 146.75.93.135
 mollusk.apis.ign.com 146.75.93.135
-regexp:^assets[2347]\.ign\.com$ 146.75.93.135
+regexp:^assets[2347]?\.ign\.com$ 146.75.93.135
 assets5.ign.com 146.75.92.204 151.101.196.204
 assets6.ign.com 151.101.197.194
 microsites.ign.com 146.75.93.135
@@ -371,6 +373,9 @@ domain:imgix.net 146.75.94.208
 dualstack.com.imgix.map.fastly.net 146.75.94.208
 com.imgix.map.fastly.net 146.75.94.208
 
+dualstack.ioriver.map.fastly.net 146.75.95.52
+ioriver.map.fastly.net 146.75.95.52
+
 dar-live-red-irdeto-ms.fastly.content.itv.com 146.75.94.183
 itv.map.fastly.net 146.75.94.183
 
@@ -383,6 +388,13 @@ contents.jumptoon.com 151.101.197.91
 static.jumptoon.com 151.101.197.91
 jumptoon.com 151.101.197.91
 jumptoon.map.fastly.net 151.101.197.91
+
+console.test.boost.jwplayer.com 151.101.197.195
+hook.jwplayer.com 151.101.42.114
+assets-jpcust.jwpsrv.com 151.101.42.114
+ssl.p.jwpcdn.com 151.101.42.114
+p.jwpcdn.com 151.101.42.114
+jwplayer-dualstack.map.fastly.net 151.101.42.114
 
 edge-clientsdk.prod.eu.launchdarkly.com 146.75.94.132
 
@@ -486,6 +498,14 @@ mparticle.map.fastly.net 199.232.194.133
 fastly.mparticle.com 146.75.92.249
 domain:fastly.mparticle.com 199.232.194.133
 
+links.email.cnet.com 151.101.42.154
+regexp:^cdn[1-4]\.cnet\.com$ 151.101.42.154
+feed.cnet.com 151.101.42.154
+podcast-files.cnet.com 151.101.42.154
+test.cnet.com 151.101.42.154
+www.cnet.com 151.101.42.154
+mt-rv.map.fastly.net 151.101.42.154
+
 hawk.musicradar.com 146.75.94.114 151.101.198.114
 www.musicradar.com 146.75.94.114 151.101.198.114
 musicradar.com 146.75.94.114 151.101.198.114
@@ -493,6 +513,123 @@ musicradar.com 146.75.94.114 151.101.198.114
 cdn.overclock.net 151.101.197.91
 www.overclock.net 151.101.197.91
 overclock.net 151.101.197.91
+
+www.paypal.com.cn 151.101.43.1
+
+adjvendor.glb.paypal.com 192.229.210.155
+api-m-sandbox.glb.paypal.com 151.101.43.1
+api-m.glb.paypal.com 192.229.210.155
+braintreeppp.glb.paypal.com 151.101.41.21
+c6.glb.paypal.com 192.229.210.155
+checkout.glb.paypal.com 192.229.210.155
+demo-cdn.glb.paypal.com 151.101.41.21
+developer.glb.paypal.com 192.229.210.155
+m-intl.glb.paypal.com 151.101.41.21
+pics.glb.paypal.com 192.229.210.155
+pns-int.glb.paypal.com 151.101.43.1
+pointofsale-s.glb.paypal.com 151.101.41.21
+ppo.glb.paypal.com 192.229.210.155
+p.glb.paypal.com 151.101.43.1
+test-braintreeppp.glb.paypal.com 151.101.41.21
+t.glb.paypal.com 192.229.210.155
+webhook-observability.glb.paypal.com 151.101.43.1
+www-intl.glb.paypal.com 151.101.43.1
+www-sandbox.glb.paypal.com 151.101.43.1
+www.glb.paypal.com 192.229.210.155
+
+adjvendor.paypal.com 192.229.210.155
+api-m.paypal.com 192.229.210.155
+api-stage.paypal.com 151.101.41.21
+cors.api.paypal.com 192.229.210.155
+braintreeppp.paypal.com 151.101.41.21
+business.paypal.com 192.229.210.155
+c6.paypal.com 192.229.210.155
+checkout.paypal.com 192.229.210.155
+connect.paypal.com 192.229.210.155
+creditapply.paypal.com 192.229.210.155
+c.paypal.com 192.229.210.155
+demo.paypal.com 151.101.41.21
+developer.paypal.com 192.229.210.155
+www.fastlane.paypal.com 192.229.210.155
+fastlane.paypal.com 192.229.210.155
+financing.paypal.com 192.229.210.155
+fpdbs.paypal.com 192.229.210.155
+accounts.hcaptcha.paypal.com 151.101.43.1
+imgs.hcaptcha.paypal.com 151.101.43.1
+newassets.hcaptcha.paypal.com 151.101.43.1
+hcaptcha.paypal.com 151.101.43.1
+history.paypal.com 192.229.210.155
+m.paypal.com 151.101.41.21
+pep.paypal.com 192.229.210.155
+pics.paypal.com 192.229.210.155
+pns-int.paypal.com 151.101.43.1
+pointofsale-s.paypal.com 151.101.41.21
+postcollector.paypal.com 151.101.43.1
+p.paypal.com 151.101.43.1
+qwac.paypal.com 192.229.210.155
+safebreach.paypal.com 192.229.210.155
+api-m-v2.sandbox.paypal.com 151.101.43.1
+api-m.sandbox.paypal.com 151.101.43.1
+api-s-v2.sandbox.paypal.com 151.101.43.1
+api-s.sandbox.paypal.com 151.101.43.1
+cors.api-v2.sandbox.paypal.com 151.101.43.1
+cors.api.sandbox.paypal.com 151.101.43.1
+business-v2.sandbox.paypal.com 151.101.43.1
+business.sandbox.paypal.com 151.101.43.1
+c-v2.sandbox.paypal.com 151.101.43.1
+c.sandbox.paypal.com 151.101.43.1
+fastlane.sandbox.paypal.com 151.101.43.1
+accounts.hcaptcha.sandbox.paypal.com 151.101.43.1
+imgs.hcaptcha.sandbox.paypal.com 151.101.43.1
+newassets.hcaptcha.sandbox.paypal.com 151.101.43.1
+hcaptcha.sandbox.paypal.com 151.101.43.1
+ipnpb-v2.sandbox.paypal.com 151.101.43.1
+pics-v2.sandbox.paypal.com 151.101.43.1
+pics.sandbox.paypal.com 151.101.43.1
+securepayments-v2.sandbox.paypal.com 151.101.43.1
+securepayments.sandbox.paypal.com 151.101.43.1
+www-v2.sandbox.paypal.com 151.101.43.1
+www.sandbox.paypal.com 151.101.43.1
+sandbox.paypal.com 192.229.210.155
+securepayments.paypal.com 192.229.210.155
+pns-int.stage.paypal.com 151.101.41.21
+tsp-int.stage.paypal.com 151.101.41.21
+test-braintreeppp.paypal.com 151.101.41.21
+transfer.paypal.com 192.229.210.155
+tsp-int.paypal.com 151.101.43.1
+t.paypal.com 192.229.210.155
+webhook-observability.paypal.com 151.101.43.1
+www-edge.paypal.com 151.101.42.247 199.232.194.247
+www-ru.glb.paypal.com 151.101.41.21
+www-st.paypal.com 151.101.41.21
+www.paypal.com 192.229.210.155
+zettleintegrations.paypal.com 192.229.210.155
+zootapi.paypal.com 192.229.210.155
+paypal.com 192.229.210.155
+
+m.paypal.co.uk 151.101.41.21
+www.paypal.co.uk 151.101.43.1
+
+www.paypalobjects.com 192.229.210.155
+
+api-m.g.test-paypal.com 151.101.42.247 199.232.194.247
+c.g.test-paypal.com 151.101.42.247 199.232.194.247
+ppo.g.test-paypal.com 151.101.42.247 199.232.194.247
+t.g.test-paypal.com 151.101.42.247 199.232.194.247
+www-edge-staging.g.test-paypal.com 151.101.42.247 199.232.194.247
+www.g.test-paypal.com 152.199.4.26
+
+dualstack.paypal-cdn-test.map.fastly.net 151.101.42.247 199.232.194.247
+paypal-cdn-test.map.fastly.net 151.101.42.247 199.232.194.247
+dualstack.paypal-dynamic-2.map.fastly.net 199.232.193.35
+paypal-dynamic-2.map.fastly.net 199.232.193.35
+dualstack.paypal-dynamic-cdn.map.fastly.net 151.101.43.1
+paypal-dynamic-cdn.map.fastly.net 151.101.43.1
+paypal-dynamic.map.fastly.net 151.101.41.21
+paypal.map.fastly.net 199.232.194.133
+cs1150.wpc.betacdn.net 192.229.210.155
+cs1151.wpc.betacdn.net 192.229.210.155
+cs645.wpc.thetacdn.net 152.199.4.26
 
 web.periscope.map.fastly.net 151.101.198.118
 periscope.map.fastly.net 151.101.198.118
@@ -514,6 +651,9 @@ rakuten.map.fastly.net 146.75.94.63
 matrix.redditspace.com 151.101.197.140
 testnet.redditspace.com 151.101.197.140
 domain:reddit.map.fastly.net 151.101.197.140
+
+money-personal-finance.cnet.com 146.75.94.132
+dualstack.redventures.map.fastly.net 146.75.94.132
 
 cdn.staging.shazam.com 146.75.93.80 151.101.197.80
 assets.shazam.com 146.75.93.80 151.101.197.80
@@ -561,6 +701,7 @@ www.splashthat.com 199.232.194.133
 splashthat.com 199.232.194.133
 
 hbdyn.spot.im 146.75.94.217
+static-cdn.spot.im 146.75.95.52
 
 assets.squarespace.com 146.75.92.237 151.101.196.237
 static.squarespace.map.fastly.net 146.75.92.237 151.101.196.237
@@ -642,29 +783,75 @@ domain:callofduty.fandom.com 151.101.196.194
 domain:counterstrike.fandom.com 151.101.196.194
 domain:battlefield.fandom.com 151.101.196.194
 domain:eldenring.fandom.com 151.101.196.194
+www.externaltest.fandom.com 199.232.194.133
 domain:externaltest.fandom.com 151.101.196.194
+domain:foo.fandom.com 151.101.196.194
 domain:forza.fandom.com 151.101.196.194
 domain:minecraft-archive.fandom.com 151.101.196.194
 domain:minecraft.fandom.com 151.101.196.194
+domain:related.fandom.com 151.101.196.194
 domain:sandbox-adeng02.fandom.com 151.101.196.194
 domain:sandbox-adeng08.fandom.com 151.101.196.194
+domain:services.fandom.com 151.101.196.194
+domain:sdf.fandom.com 151.101.196.194
 domain:showcase.fandom.com 151.101.196.194
 domain:valorant.fandom.com 151.101.196.194
 domain:www.fandom.com 151.101.196.194
 fandom.com 151.101.196.194
 www.fandom.net 151.101.196.194
 fandom.net 151.101.196.194
-domain:www.gamepedia.com 151.101.196.194
+
+domain:externaltest.gamepedia.com 151.101.196.194
+g00.gamepedia.com 151.101.196.194
+i-fastly.gamepedia.com 151.101.196.194
+domain:preview.gamepedia.com 151.101.196.194
+domain:showcase.gamepedia.com 151.101.196.194
+domain:verify.gamepedia.com 151.101.196.194
+www.gamepedia.com 151.101.196.194
 gamepedia.com 151.101.196.194
 domain:gamepedia.io 151.101.196.194
+
+video.dev.gamespot.com 151.101.196.194
+video.dev.comicvine.gamespot.com 151.101.196.194
+test.comicvine.gamespot.com 151.101.196.194
+comicvine.gamespot.com 151.101.196.194
+help.gamefaqs.gamespot.com 151.101.196.194
+gamefaqs.gamespot.com 151.101.196.194
+help.gamespot.com 151.101.196.194
+support.gamespot.com 151.101.196.194
+video.gamespot.com 151.101.196.194
+www.gamespot.com 151.101.196.194
+gamespot.com 151.101.196.194
+
+help.metacritic.com 151.101.196.194
+static.metacritic.com 151.101.196.194
+support.metacritic.com 151.101.196.194
+www.metacritic.com 151.101.196.194
+metacritic.com 151.101.196.194
+
 www.minecraftwiki.net 151.101.196.194
 minecraftwiki.net 151.101.196.194
+
 www.muthead.com 151.101.196.194
 muthead.com 151.101.196.194
+
+www.strawpoll.me 151.101.196.194
+strawpoll.me 151.101.196.194
+
+video.dev.tvguide.com 151.101.196.194
+help.tvguide.com 151.101.196.194
+mapi.tvguide.com 151.101.196.194
+mobilelistings.tvguide.com 151.101.196.194
+support.tvguide.com 151.101.196.194
+video.tvguide.com 151.101.196.194
+www.tvguide.com 151.101.196.194
+tvguide.com 151.101.196.194
+
 domain:wikia.com 151.101.196.194
 www.wikia.net 151.101.196.194
 wikia.net 151.101.196.194
 domain:wikia.org 151.101.196.194
+domain:wikia.map.fastly.net 151.101.196.194
 
 b.cdnst.net 151.101.198.219
 zd.map.fastly.net 151.101.198.219

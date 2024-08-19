@@ -206,6 +206,7 @@ payload:
   - '+.zlibrary.*'
 
   # GFW
+  - '+.b.hatena.ne.jp'
   - 'blog.xiaoz.org'
   - 'cdn.statically.io'
   - 'images.prismic.io'

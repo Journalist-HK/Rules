@@ -147,6 +147,8 @@ xinmeitulu.com
 xfsub.org
 regexp:^(.+\.)?z?lib(rary)?\..+$
 
+b.hatena.ne.jp
+d.hatena.ne.jp
 full:blog.xiaoz.org
 full:cdn.statically.io
 full:images.prismic.io

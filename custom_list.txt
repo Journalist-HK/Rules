@@ -149,12 +149,14 @@ regexp:^(.+\.)?z?lib(rary)?\..+$
 
 b.hatena.ne.jp
 d.hatena.ne.jp
-full:blog.xiaoz.org
-full:cdn.statically.io
-full:images.prismic.io
+cdn-ak2.favicon.st-hatena.com
+anond.hatelabo.jp
+blog.xiaoz.org
+cdn.statically.io
+images.prismic.io
 full:nitrous.motortrend.com
-full:openai.ne.world
-full:snap.snapmobile.asia
+openai.ne.world
+snap.snapmobile.asia
 
 full:safebrowsing.g.aaplimg.com
 full:pki.safebrowsing.apple

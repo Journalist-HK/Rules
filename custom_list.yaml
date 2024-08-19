@@ -207,7 +207,9 @@ payload:
 
   # GFW
   - '+.b.hatena.ne.jp'
+  - 'anond.hatelabo.jp'
   - 'blog.xiaoz.org'
+  - 'cdn-ak2.favicon.st-hatena.com'
   - 'cdn.statically.io'
   - 'images.prismic.io'
   - 'nitrous.motortrend.com'

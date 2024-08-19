@@ -53,6 +53,7 @@ gdax.com
 gemini.com
 gfycat.com
 googlepages.com
+gunosy.com
 herokuapp.com
 hinet.net
 honnef.co

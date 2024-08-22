@@ -74,6 +74,7 @@ uplynk.com
 utorrent.com
 vps000.com
 wlvpn.com
+regexp:^(.+\.)?mikuclub\..+$
 regexp:^(.+\.)?xg(mn|yw)\d*\..+$
 keyword:18comic
 keyword:18-comic

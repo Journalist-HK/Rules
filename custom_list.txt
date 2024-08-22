@@ -156,6 +156,7 @@ anond.hatelabo.jp
 blog.xiaoz.org
 cdn.statically.io
 images.prismic.io
+ingest.sentry.io
 full:nitrous.motortrend.com
 openai.ne.world
 snap.snapmobile.asia

@@ -1,6 +1,6 @@
 gitbook.io
 hkelectric.com
-letsencrypt.org
+api.letsencrypt.org
 full:mjjpgs.mahjongsoul.com
 full:mjjpgsbk.mahjongsoul.com
 full:mjusgs.mahjongsoul.com

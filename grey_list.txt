@@ -38,6 +38,7 @@ cutout.pro
 dashlane.com
 dicmusic.club
 edgecastcdn.net
+fanbox.cc
 freetls.fastly.net
 gal123.com
 global.ssl.fastly.net
@@ -60,6 +61,8 @@ nexitallysafe.com
 nudogram.com
 onekey.so
 optimism.io
+pixiv.cat
+pixiv.org
 pornpics.com
 pubnative.net
 rule34video.com

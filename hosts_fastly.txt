@@ -294,6 +294,8 @@ debian.org 146.75.94.132
 debian.map.fastly.net 146.75.94.132
 debian.map.fastlydns.net 146.75.94.132
 
+play.cdn.dlsite.com 146.75.94.132
+
 cap-api.fastly.com 151.101.197.51
 demo-issuer.private-access-tokens.fastly.com 151.101.197.51
 edge-clientsdk.prod.launchdarkly.com 151.101.197.51
@@ -792,8 +794,9 @@ domain:minecraft.fandom.com 151.101.196.194
 domain:related.fandom.com 151.101.196.194
 domain:sandbox-adeng02.fandom.com 151.101.196.194
 domain:sandbox-adeng08.fandom.com 151.101.196.194
-domain:services.fandom.com 151.101.196.194
+domain:scratchpad.fandom.com 151.101.196.194
 domain:sdf.fandom.com 151.101.196.194
+domain:services.fandom.com 151.101.196.194
 domain:showcase.fandom.com 151.101.196.194
 domain:valorant.fandom.com 151.101.196.194
 domain:www.fandom.com 151.101.196.194

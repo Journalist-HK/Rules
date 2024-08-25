@@ -210,6 +210,7 @@ payload:
 
   # GFW
   - '+.b.hatena.ne.jp'
+  - '+.global.ssl.fastly.net'
   - '*.ingest.sentry.io'
   - 'anond.hatelabo.jp'
   - 'blog.xiaoz.org'

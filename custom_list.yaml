@@ -246,6 +246,9 @@ payload:
   - '*.wd1.myworkdayjobs.com'
   - '*.wd3.myworkdayjobs.com'
   - '*.wd5.myworkdayjobs.com'
+  - 'wd1.myworkday.com'
+  - 'wd3.myworkday.com'
+  - 'wd5.myworkday.com'
 
   - '+.quiz.directory'
   - '+.telegram.space'

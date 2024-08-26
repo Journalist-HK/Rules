@@ -243,6 +243,9 @@ payload:
   - 'enterprise.cdn.proxmox.com'
   - 'metadata.cdn.proxmox.com'
   - 'enterprise.proxmox.com'
+  - '*.wd1.myworkdayjobs.com'
+  - '*.wd3.myworkdayjobs.com'
+  - '*.wd5.myworkdayjobs.com'
 
   - '+.quiz.directory'
   - '+.telegram.space'

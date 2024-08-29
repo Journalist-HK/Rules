@@ -191,6 +191,17 @@ fastly.com 151.101.197.57
 devhub.map.fastly.net 151.101.197.57
 prod.www-fastly-com.map.fastly.net 151.101.197.57
 
+regexp:.*(author|publish)-p\d+-e\d+\.adobeaemcloud\.com$ 151.101.199.10
+domain:test-aemaacs-cdn-operator.adobeaemcloud.com 151.101.199.10
+domain:testcert.adobeaemcloud.com 151.101.199.10
+domain:testcert1.adobeaemcloud.com 151.101.199.10
+dualstack.adobe-aem.map.fastly.net 151.101.199.10
+adobe-aem.map.fastly.net 151.101.199.10
+
+domain:hlxcdn.adobeaemcloud.com 146.75.94.117
+domain:hlxproxy.adobeaemcloud.com 146.75.94.117
+adobe-hlx.map.fastly.net 146.75.94.117
+
 dlcdn.apache.org 151.101.198.132
 echarts.apache.org 151.101.198.132
 incubator.apache.org 151.101.198.132

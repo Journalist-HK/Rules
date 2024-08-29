@@ -9,19 +9,19 @@ clan.steamstatic.com 23.46.229.200 202.142.229.42
 community.steamstatic.com 23.46.229.200 202.142.229.42
 store.steamstatic.com 23.46.229.200 202.142.229.42
 
-static2.cdn.ubi.com 104.85.245.205 184.28.149.218
-ubiservices.cdn.ubi.com 104.85.245.205 184.28.149.218
-wildcard.cdn.ubi.com.edgekey.net 104.85.245.205 184.28.149.218
-e11196.d.akamaiedge.net 104.85.245.205 184.28.149.218
-e11196.dscd.akamaiedge.net 104.85.245.205 184.28.149.218
-e11196.g.akamaiedge.net 104.85.245.205 184.28.149.218
-
 static3.cdn.ubi.com 184.28.149.63
 static.cdn.ubi.com.edgekey.net 184.28.149.63
 static-ww.cdn.ubi.com.edgekey.net 184.28.149.63
 e7923.d.akamaiedge.net 184.28.149.63
 e7923.dscd.akamaiedge.net 184.28.149.63
 e7923.g.akamaiedge.net 184.28.149.63
+
+www.hackerrank.com 23.198.173.30
+hackerrank.com.edgekey.net 23.198.173.30
+e8937.dscb.akamaiedge.net 23.198.173.30
+e8937.dscd.akamaiedge.net 23.198.173.30
+e8937.d.akamaiedge.net 23.198.173.30
+e8937.g.akamaiedge.net 23.198.173.30
 
 account.cdn.ubisoft.com 23.66.131.183
 authentication.cdn.ubisoft.com 23.66.131.183
@@ -78,46 +78,9 @@ e11195.d.akamaiedge.net 23.66.131.183
 e11195.dscd.akamaiedge.net 23.66.131.183
 e11195.g.akamaiedge.net 23.66.131.183
 
-docs.vmware.com 23.3.84.28
-www.vmware.com 23.3.84.28
-
-images.gog-statics.com 23.50.8.74
-static-login.gog-statics.com 23.50.8.74
-images-1.gog-statics.com 23.50.8.74
-images-2.gog-statics.com 23.50.8.74
-images-3.gog-statics.com 23.50.8.74
-images-4.gog-statics.com 23.50.8.74
-productcard.gog-statics.com 23.50.8.74
-webinstallers.gog-statics.com 23.50.8.74
-galaxy-library.gog.com 23.50.8.74
-www4-static.gog-statics.com 23.50.8.74
-menu-static.gog-statics.com 23.50.8.74
-
-www.gog.com 118.215.189.189
-images.gog.com 118.215.189.189
-images-1.gog.com 118.215.189.189
-images-2.gog.com 118.215.189.189
-images-3.gog.com 118.215.189.189
-images-4.gog.com 118.215.189.189
-webinstallers.gog.com 118.215.189.189
-menu.gog.com 118.215.189.189
-auth.gog.com 118.215.189.189
-login.gog.com 118.215.189.189
-api.gog.com 118.215.189.189
-reviews.gog.com 118.215.189.189
-insights-collector.gog.com 118.215.189.189
-remote-config.gog.com 118.215.189.189
-external-accounts.gog.com 118.215.189.189
-chat.gog.com 118.215.189.189
-presence.gog.com 118.215.189.189
-external-users.gog.com 118.215.189.189
-gamesdb.gog.com 118.215.189.189
-gameplay.gog.com 118.215.189.189
-cfg.gog.com 118.215.189.189
-notifications.gog.com 118.215.189.189
-users.gog.com 118.215.189.189
-multiplayer.gog.com 118.215.189.189
-embed.gog.com 118.215.189.189
-content-system.gog.com 118.215.189.189
-catalog.gog.com 118.215.189.189
-downloadable-manifests-collector.gog.com 118.215.189.189
+static2.cdn.ubi.com 104.85.245.205 184.28.149.218
+ubiservices.cdn.ubi.com 104.85.245.205 184.28.149.218
+wildcard.cdn.ubi.com.edgekey.net 104.85.245.205 184.28.149.218
+e11196.d.akamaiedge.net 104.85.245.205 184.28.149.218
+e11196.dscd.akamaiedge.net 104.85.245.205 184.28.149.218
+e11196.g.akamaiedge.net 104.85.245.205 184.28.149.218

@@ -344,7 +344,6 @@ images-4.gog-statics.com 146.75.93.55
 images.gog-statics.com 146.75.93.55
 menu-static.gog-statics.com 146.75.93.55
 productcard.gog-statics.com 146.75.93.55
-static-login.gog-statics.com 146.75.93.55
 webinstallers.gog-statics.com 146.75.93.55
 www4-static.gog-statics.com 146.75.93.55
 

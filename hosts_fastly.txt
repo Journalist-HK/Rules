@@ -375,6 +375,7 @@ notifications.gog.com 146.75.93.55
 presence.gog.com 146.75.93.55
 remote-config.gog.com 146.75.93.55
 reviews.gog.com 146.75.93.55
+sections.gog.com 146.75.93.55
 users.gog.com 146.75.93.55
 webinstallers.gog.com 146.75.93.55
 www.gog.com 146.75.93.55

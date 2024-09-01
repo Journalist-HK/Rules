@@ -25,6 +25,9 @@ regexp:^(.+\.)?booksc\..+$
 bookwalker.com.tw
 bookwalker.jp
 buzzfeed.com
+bybitglobal.com
+regexp:^(.+\.)?bybit\..+$
+byhkbit.com
 caddyserver.com
 ch-werner.de
 cia.gov

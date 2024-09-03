@@ -1,3 +1,7 @@
+# AS8075 Microsoft Corporation
+52.105.226.0/23
+2a01:0111:f402:f0c8::/63
+
 # AS16509 Amazon.com, Inc.
 18.176.0.0/15
 18.179.0.0/16

@@ -39,7 +39,6 @@ collider.com
 conta.cc
 credit.org
 cryptocompare.com
-demonware.net
 docker.com
 docker.io
 dun.im

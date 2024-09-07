@@ -1,5 +1,4 @@
 # Custom list (for DNS)
-regexp:^(.+\.)?(art|de|hk|ma|sg)?\d+lib\..+$
 1point3acres.com
 28hse.com
 4gtv.tv
@@ -14,19 +13,14 @@ apnic.net
 armorgames.com
 bangumi.moe
 bigrain.me
-keyword:binance
-regexp:^(.+\.)?b-ok\..+$
 bitgravity.com
 bnbstatic.com
 bntrace.com
 book4you.org
-regexp:^(.+\.)?bookshome\..+$
-regexp:^(.+\.)?booksc\..+$
 bookwalker.com.tw
 bookwalker.jp
 buzzfeed.com
 bybitglobal.com
-regexp:^(.+\.)?bybit\..+$
 byhkbit.com
 caddyserver.com
 ch-werner.de
@@ -52,6 +46,7 @@ formyip.com
 freevpnnet.com
 gamerant.com
 gdax.com
+full:geckoiplc.com
 gemini.com
 gfycat.com
 googlepages.com
@@ -61,14 +56,11 @@ hinet.net
 honnef.co
 hostloc.net
 hostmonit.com
-regexp:^(.+\.)?htx\..+$
-regexp:^(.+\.)?huobi\..+$
 infura.io
 iwanlab.com
 jwplayer.com
 kemono.party
 kemono.su
-regexp:^(.+\.)?libsolutions\..+$
 liftoff.io
 liquidsky.com
 manhuagui.com
@@ -82,20 +74,17 @@ mexc.com
 mikanani.me
 miobt.com
 moengage.com
-regexp:^(.+\.)?mokexapp\..+$
 musixmatch.com
 myunidays.com
 myvideo.net.tw
 naixisafe.com
 near.org
 netlify.app
-regexp:^(.+\.)?nexitally\..+$
 nexitcore.com
 nordcdn.com
 note.com
 nutaq.com
 nxboom.com
-regexp:^(.+\.)?okx-dns\d*\.com$
 openairinterface.org
 osl.com
 patreonusercontent.com
@@ -115,7 +104,6 @@ roblox.com
 saasexch.cc
 scribdassets.com
 sina.com.hk
-regexp:^(.+\.)?singlelogin\..+$
 sleazyfork.org
 soundon.fm
 ssrtool.us
@@ -124,7 +112,6 @@ stheadline.com
 storj.io
 sublimetext.com
 sushiswapclassic.org
-regexp:^(.+\.)?tagss\d*\.pro$
 telemetr.io
 telghub.com
 tenor.com
@@ -151,19 +138,14 @@ wxw.cat
 x.com
 xinmeitulu.com
 xfsub.org
-regexp:^(.+\.)?z?lib(rary)?\..+$
 
-b.hatena.ne.jp
-d.hatena.ne.jp
-cdn-ak2.favicon.st-hatena.com
 anond.hatelabo.jp
-blog.xiaoz.org
-cdn.statically.io
+d.hatena.ne.jp
 images.prismic.io
-ingest.sentry.io
 full:nitrous.motortrend.com
 openai.ne.world
-snap.snapmobile.asia
+full:s3.ap-south-1.amazonaws.com
+full:www.geckoiplc.com
 
 full:safebrowsing.g.aaplimg.com
 full:pki.safebrowsing.apple
@@ -173,5 +155,24 @@ quiz.directory
 telegram.space
 usercontent.dev
 
-s3.ap-south-1.amazonaws.com
-s3-ap-southeast-1.amazonaws.com
+regexp:^.*(art|de|hk|ma|sg)?\d+lib\..+$
+regexp:^(.+\.)?b-ok\..+$
+keyword:binance
+regexp:^(.+\.)?bookshome\..+$
+regexp:^(.+\.)?booksc\..+$
+regexp:^(.+\.)?bybit\..+$
+regexp:^(.+\.)?htx\..+$
+regexp:^(.+\.)?huobi\..+$
+regexp:^(.+\.)?libsolutions\..+$
+regexp:^(.+\.)?mokexapp\..+$
+regexp:^(.+\.)?nexitally\..+$
+regexp:^(.+\.)?okx-dns\d*\.com$
+regexp:^(.+\.)?singlelogin\..+$
+regexp:^(.+\.)?tagss\d*\.pro$
+regexp:^(.+\.)?z?lib(rary)?\..+$
+
+regexp:^.*b\.hatena\.ne\.jp$
+regexp:^.*cdn-ak2\.favicon\.st-hatena\.com$
+regexp:^.*cdn\.statically\.io$
+regexp:^.*s3-ap-southeast-1\.amazonaws\.com$
+regexp:^.*snap\.snapmobile\.asia$

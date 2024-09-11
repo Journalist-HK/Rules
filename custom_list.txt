@@ -1,7 +1,9 @@
 # Custom list (for DNS)
+1login.to
 1point3acres.com
 28hse.com
 4gtv.tv
+5w.fit
 acg.rip
 aelitis.com
 alphafish.top
@@ -49,6 +51,7 @@ gdax.com
 full:geckoiplc.com
 gemini.com
 gfycat.com
+go-to-library.sk
 googlepages.com
 gunosy.com
 herokuapp.com
@@ -63,6 +66,7 @@ kemono.party
 kemono.su
 liftoff.io
 liquidsky.com
+looks.wang
 manhuagui.com
 mcdex.io
 mcusercontent.com
@@ -158,8 +162,10 @@ usercontent.dev
 regexp:^.*(art|de|hk|ma|sg)?\d+lib\..+$
 regexp:^(.+\.)?b-ok\..+$
 keyword:binance
+regexp:^(.+\.)?booklist\..+$
 regexp:^(.+\.)?bookshome\..+$
 regexp:^(.+\.)?booksc\..+$
+regexp:^(.+\.)?bookzz\..+$
 regexp:^(.+\.)?bybit\..+$
 regexp:^(.+\.)?htx\..+$
 regexp:^(.+\.)?huobi\..+$
@@ -169,7 +175,8 @@ regexp:^(.+\.)?nexitally\..+$
 regexp:^(.+\.)?okx-dns\d*\.com$
 regexp:^(.+\.)?singlelogin\..+$
 regexp:^(.+\.)?tagss\d*\.pro$
-regexp:^(.+\.)?z?lib(rary)?\..+$
+regexp:^(.+\.)?webbooksnow\.+$
+regexp:^(.+\.)?z?-?lib(rary)?\..+$
 
 regexp:^.*b\.hatena\.ne\.jp$
 regexp:^.*cdn-ak2\.favicon\.st-hatena\.com$

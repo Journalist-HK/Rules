@@ -226,6 +226,7 @@ payload:
   - '+.b.hatena.ne.jp'
   - 'cdn-ak2.favicon.st-hatena.com'
   - 'cdn.statically.io'
+  - 'clients.plex.tv'
   - '+.global.ssl.fastly.net'
   - 'images.prismic.io'
   - 'nitrous.motortrend.com'

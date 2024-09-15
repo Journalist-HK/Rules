@@ -62,6 +62,7 @@ payload:
   - '+.docker.com'
   - '+.docker.io'
   - '+.dun.im'
+  - '+.efinancialcareers.*'
   - '+.ehviewer.com'
   - '+.ext-twitch.tv'
   - '+.f-droid.org'

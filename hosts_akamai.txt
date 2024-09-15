@@ -84,3 +84,16 @@ wildcard.cdn.ubi.com.edgekey.net 104.85.245.205 184.28.149.218
 e11196.d.akamaiedge.net 104.85.245.205 184.28.149.218
 e11196.dscd.akamaiedge.net 104.85.245.205 184.28.149.218
 e11196.g.akamaiedge.net 104.85.245.205 184.28.149.218
+
+res.public.onecdn.static.microsoft 152.195.19.97
+res-ocdi-public.trafficmanager.net 152.195.19.97
+
+res-1.public.onecdn.static.microsoft 184.29.20.115
+res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
+e2808.dscd.akamaiedge.net 184.29.20.115
+
+res-2.public.onecdn.static.microsoft 152.195.19.97
+cdn-office.azureedge.net 152.195.19.97
+cdn-office.ec.azureedge.net 152.195.19.97
+scdn1cc4b.wpc.9aea3.sigmacdn.net 152.195.19.97
+sni1gl.wpc.sigmacdn.net 152.195.19.97

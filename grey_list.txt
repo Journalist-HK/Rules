@@ -51,6 +51,7 @@ ipfs.cf-ipfs.com
 iwara.tv
 krypt.com
 kuaichedao.co
+latoken.com
 libtorrent.org
 linetww.com
 linktr.ee
@@ -69,6 +70,7 @@ pubnative.net
 rule34video.com
 singtao.ca
 singtao.tv
+slex.io
 slidesharecdn.com
 stackpathcdn.com
 stripchat.com

@@ -12,6 +12,7 @@ bigdata.icu
 blockpi.network
 fly.dev
 free.hr
+gubo.org
 hkcs.org.hk
 idcoffer.com
 igtm-e101.com

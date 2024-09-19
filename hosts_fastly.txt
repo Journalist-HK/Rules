@@ -602,6 +602,8 @@ hawk.musicradar.com 146.75.94.114 151.101.198.114
 www.musicradar.com 146.75.94.114 151.101.198.114
 musicradar.com 146.75.94.114 151.101.198.114
 
+cdn-fastly.obsproject.com 151.101.197.91
+
 cdn.overclock.net 151.101.197.91
 www.overclock.net 151.101.197.91
 overclock.net 151.101.197.91

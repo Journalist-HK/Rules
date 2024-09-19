@@ -226,6 +226,7 @@ payload:
   - 'anond.hatelabo.jp'
   - '+.b.hatena.ne.jp'
   - 'cdn-ak2.favicon.st-hatena.com'
+  - 'cdn-fastly.obsproject.com'
   - 'cdn.statically.io'
   - 'clients.plex.tv'
   - '+.global.ssl.fastly.net'

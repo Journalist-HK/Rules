@@ -1,2 +1,5 @@
 # AS16509 Amazon.com, Inc.
 54.251.160.0/19
+
+# AS14061 DigitalOcean, LLC
+144.126.240.0/22

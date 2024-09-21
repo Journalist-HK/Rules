@@ -287,8 +287,45 @@ buzzfeed2.map.fastly.net 146.75.94.114 151.101.198.114
 
 pin.ceros.map.fastly.net 146.75.94.51
 
-s4-cloudinary-pin-sni.map.fastly.net 146.75.94.92
-s4-cloudinary-pin.map.fastly.net 146.75.94.102
+img.mix.com 151.101.50.92
+
+2-01-49b5-0887.cdx.cedexis.net 151.101.50.92
+2-01-49b5-0910.cdx.cedexis.net 151.101.50.92
+idemo-fy.cloudinary.com 151.101.50.92
+idemo-fy.cloudinary.com.cdn.cloudinary.com 151.101.50.92
+images.dmp.eis-deliverydevqa.cloud.multicdn.cloudinary.com 151.101.50.92
+prod-assets.cloudinary.com 151.101.50.92
+prod-assets.cloudinary.com.multicdn.cloudinary.com 151.101.50.92
+res-s.cloudinary.com 151.101.50.92
+s3-sni.fastly.cloudinary.com 151.101.50.92
+
+adacpresse.multicdn.cloudinary.com 151.101.50.1
+adacpresse-res.cloudinary.com 151.101.50.1
+delivery.cloudinary.com 151.101.50.1
+media.cloudinary.com 151.101.50.1
+2-01-49b5-00c1.cdx.cedexis.net 151.101.50.1
+cloudinary-pin-sni.map.fastly.net 151.101.50.1
+
+console-nightly.cloudinary.com 199.232.194.133
+console-staging.cloudinary.com 199.232.194.133
+console.cloudinary.com 199.232.194.133
+events.cloudinary.com 199.232.194.133
+cloudinary-sni.map.fastly.net 199.232.194.133
+
+colinbendell-res.cloudinary.com 151.101.49.137
+fapi.cloudinary.com 151.101.49.137
+fastly.cloudinary.com 151.101.49.137
+local-store-res.cloudinary.com 151.101.49.137
+maor-res.cloudinary.com 151.101.49.137
+domain:cloudinary.map.fastly.net 151.101.49.137
+
+cloudinary-pin.map.fastly.net 151.101.50.0
+regexp:^s[1-7]-cloudinary-pin-sni\.map\.fastly\.net$ 151.101.50.92
+s1-cloudinary-pin.map.fastly.net 151.101.50.24
+s2-cloudinary-pin.map.fastly.net 151.101.50.97
+s3-cloudinary-pin.map.fastly.net 151.101.50.104
+s4-cloudinary-pin.map.fastly.net 151.101.50.102
+s5-cloudinary-pin.map.fastly.net 151.101.50.0
 
 download.cnet.com 151.101.197.91
 
@@ -478,11 +515,11 @@ jumptoon.com 151.101.197.91
 jumptoon.map.fastly.net 151.101.197.91
 
 console.test.boost.jwplayer.com 151.101.197.195
-hook.jwplayer.com 151.101.42.114
-assets-jpcust.jwpsrv.com 151.101.42.114
-ssl.p.jwpcdn.com 151.101.42.114
-p.jwpcdn.com 151.101.42.114
-jwplayer-dualstack.map.fastly.net 151.101.42.114
+hook.jwplayer.com 151.101.50.114
+assets-jpcust.jwpsrv.com 151.101.50.114
+ssl.p.jwpcdn.com 151.101.50.114
+p.jwpcdn.com 151.101.50.114
+jwplayer-dualstack.map.fastly.net 151.101.50.114
 
 edge-clientsdk.prod.eu.launchdarkly.com 151.101.198.132
 
@@ -590,13 +627,13 @@ mparticle.map.fastly.net 199.232.194.133
 fastly.mparticle.com 146.75.92.249
 domain:fastly.mparticle.com 199.232.194.133
 
-links.email.cnet.com 151.101.42.154
-regexp:^cdn[1-4]\.cnet\.com$ 151.101.42.154
-feed.cnet.com 151.101.42.154
-podcast-files.cnet.com 151.101.42.154
-test.cnet.com 151.101.42.154
-www.cnet.com 151.101.42.154
-mt-rv.map.fastly.net 151.101.42.154
+links.email.cnet.com 151.101.50.154
+regexp:^cdn[1-4]\.cnet\.com$ 151.101.50.154
+feed.cnet.com 151.101.50.154
+podcast-files.cnet.com 151.101.50.154
+test.cnet.com 151.101.50.154
+www.cnet.com 151.101.50.154
+mt-rv.map.fastly.net 151.101.50.154
 
 hawk.musicradar.com 146.75.94.114 151.101.198.114
 www.musicradar.com 146.75.94.114 151.101.198.114
@@ -608,118 +645,118 @@ cdn.overclock.net 151.101.197.91
 www.overclock.net 151.101.197.91
 overclock.net 151.101.197.91
 
-www.paypal.com.cn 151.101.43.1
+www.paypal.com.cn 151.101.51.1
 
 adjvendor.glb.paypal.com 192.229.210.155
-api-m-sandbox.glb.paypal.com 151.101.43.1
+api-m-sandbox.glb.paypal.com 151.101.51.1
 api-m.glb.paypal.com 192.229.210.155
-braintreeppp.glb.paypal.com 151.101.41.21
+braintreeppp.glb.paypal.com 151.101.49.21
 c6.glb.paypal.com 192.229.210.155
 checkout.glb.paypal.com 192.229.210.155
-demo-cdn.glb.paypal.com 151.101.41.21
+demo-cdn.glb.paypal.com 151.101.49.21
 developer.glb.paypal.com 192.229.210.155
-m-intl.glb.paypal.com 151.101.41.21
+m-intl.glb.paypal.com 151.101.49.21
 pics.glb.paypal.com 192.229.210.155
-pns-int.glb.paypal.com 151.101.43.1
-pointofsale-s.glb.paypal.com 151.101.41.21
+pns-int.glb.paypal.com 151.101.51.1
+pointofsale-s.glb.paypal.com 151.101.49.21
 ppo.glb.paypal.com 192.229.210.155
-p.glb.paypal.com 151.101.43.1
-test-braintreeppp.glb.paypal.com 151.101.41.21
+p.glb.paypal.com 151.101.51.1
+test-braintreeppp.glb.paypal.com 151.101.49.21
 t.glb.paypal.com 192.229.210.155
-webhook-observability.glb.paypal.com 151.101.43.1
-www-intl.glb.paypal.com 151.101.43.1
-www-sandbox.glb.paypal.com 151.101.43.1
+webhook-observability.glb.paypal.com 151.101.51.1
+www-intl.glb.paypal.com 151.101.51.1
+www-sandbox.glb.paypal.com 151.101.51.1
 www.glb.paypal.com 192.229.210.155
 
 adjvendor.paypal.com 192.229.210.155
 api-m.paypal.com 192.229.210.155
-api-stage.paypal.com 151.101.41.21
+api-stage.paypal.com 151.101.49.21
 cors.api.paypal.com 192.229.210.155
-braintreeppp.paypal.com 151.101.41.21
+braintreeppp.paypal.com 151.101.49.21
 business.paypal.com 192.229.210.155
 c6.paypal.com 192.229.210.155
 checkout.paypal.com 192.229.210.155
 connect.paypal.com 192.229.210.155
 creditapply.paypal.com 192.229.210.155
 c.paypal.com 192.229.210.155
-demo.paypal.com 151.101.41.21
+demo.paypal.com 151.101.49.21
 developer.paypal.com 192.229.210.155
 www.fastlane.paypal.com 192.229.210.155
 fastlane.paypal.com 192.229.210.155
 financing.paypal.com 192.229.210.155
 fpdbs.paypal.com 192.229.210.155
-accounts.hcaptcha.paypal.com 151.101.43.1
-imgs.hcaptcha.paypal.com 151.101.43.1
-newassets.hcaptcha.paypal.com 151.101.43.1
-hcaptcha.paypal.com 151.101.43.1
+accounts.hcaptcha.paypal.com 151.101.51.1
+imgs.hcaptcha.paypal.com 151.101.51.1
+newassets.hcaptcha.paypal.com 151.101.51.1
+hcaptcha.paypal.com 151.101.51.1
 history.paypal.com 192.229.210.155
-m.paypal.com 151.101.41.21
+m.paypal.com 151.101.49.21
 pep.paypal.com 192.229.210.155
 pics.paypal.com 192.229.210.155
-pns-int.paypal.com 151.101.43.1
-pointofsale-s.paypal.com 151.101.41.21
-postcollector.paypal.com 151.101.43.1
-p.paypal.com 151.101.43.1
+pns-int.paypal.com 151.101.51.1
+pointofsale-s.paypal.com 151.101.49.21
+postcollector.paypal.com 151.101.51.1
+p.paypal.com 151.101.51.1
 qwac.paypal.com 192.229.210.155
 safebreach.paypal.com 192.229.210.155
-api-m-v2.sandbox.paypal.com 151.101.43.1
-api-m.sandbox.paypal.com 151.101.43.1
-api-s-v2.sandbox.paypal.com 151.101.43.1
-api-s.sandbox.paypal.com 151.101.43.1
-cors.api-v2.sandbox.paypal.com 151.101.43.1
-cors.api.sandbox.paypal.com 151.101.43.1
-business-v2.sandbox.paypal.com 151.101.43.1
-business.sandbox.paypal.com 151.101.43.1
-c-v2.sandbox.paypal.com 151.101.43.1
-c.sandbox.paypal.com 151.101.43.1
-fastlane.sandbox.paypal.com 151.101.43.1
-accounts.hcaptcha.sandbox.paypal.com 151.101.43.1
-imgs.hcaptcha.sandbox.paypal.com 151.101.43.1
-newassets.hcaptcha.sandbox.paypal.com 151.101.43.1
-hcaptcha.sandbox.paypal.com 151.101.43.1
-ipnpb-v2.sandbox.paypal.com 151.101.43.1
-pics-v2.sandbox.paypal.com 151.101.43.1
-pics.sandbox.paypal.com 151.101.43.1
-securepayments-v2.sandbox.paypal.com 151.101.43.1
-securepayments.sandbox.paypal.com 151.101.43.1
-www-v2.sandbox.paypal.com 151.101.43.1
-www.sandbox.paypal.com 151.101.43.1
+api-m-v2.sandbox.paypal.com 151.101.51.1
+api-m.sandbox.paypal.com 151.101.51.1
+api-s-v2.sandbox.paypal.com 151.101.51.1
+api-s.sandbox.paypal.com 151.101.51.1
+cors.api-v2.sandbox.paypal.com 151.101.51.1
+cors.api.sandbox.paypal.com 151.101.51.1
+business-v2.sandbox.paypal.com 151.101.51.1
+business.sandbox.paypal.com 151.101.51.1
+c-v2.sandbox.paypal.com 151.101.51.1
+c.sandbox.paypal.com 151.101.51.1
+fastlane.sandbox.paypal.com 151.101.51.1
+accounts.hcaptcha.sandbox.paypal.com 151.101.51.1
+imgs.hcaptcha.sandbox.paypal.com 151.101.51.1
+newassets.hcaptcha.sandbox.paypal.com 151.101.51.1
+hcaptcha.sandbox.paypal.com 151.101.51.1
+ipnpb-v2.sandbox.paypal.com 151.101.51.1
+pics-v2.sandbox.paypal.com 151.101.51.1
+pics.sandbox.paypal.com 151.101.51.1
+securepayments-v2.sandbox.paypal.com 151.101.51.1
+securepayments.sandbox.paypal.com 151.101.51.1
+www-v2.sandbox.paypal.com 151.101.51.1
+www.sandbox.paypal.com 151.101.51.1
 sandbox.paypal.com 192.229.210.155
 securepayments.paypal.com 192.229.210.155
-pns-int.stage.paypal.com 151.101.41.21
-tsp-int.stage.paypal.com 151.101.41.21
-test-braintreeppp.paypal.com 151.101.41.21
+pns-int.stage.paypal.com 151.101.49.21
+tsp-int.stage.paypal.com 151.101.49.21
+test-braintreeppp.paypal.com 151.101.49.21
 transfer.paypal.com 192.229.210.155
-tsp-int.paypal.com 151.101.43.1
+tsp-int.paypal.com 151.101.51.1
 t.paypal.com 192.229.210.155
-webhook-observability.paypal.com 151.101.43.1
-www-edge.paypal.com 151.101.42.247 199.232.194.247
-www-ru.glb.paypal.com 151.101.41.21
-www-st.paypal.com 151.101.41.21
+webhook-observability.paypal.com 151.101.51.1
+www-edge.paypal.com 151.101.50.247 199.232.194.247
+www-ru.glb.paypal.com 151.101.49.21
+www-st.paypal.com 151.101.49.21
 www.paypal.com 192.229.210.155
 zettleintegrations.paypal.com 192.229.210.155
 zootapi.paypal.com 192.229.210.155
 paypal.com 192.229.210.155
 
-m.paypal.co.uk 151.101.41.21
-www.paypal.co.uk 151.101.43.1
+m.paypal.co.uk 151.101.49.21
+www.paypal.co.uk 151.101.51.1
 
 www.paypalobjects.com 192.229.210.155
 
-api-m.g.test-paypal.com 151.101.42.247 199.232.194.247
-c.g.test-paypal.com 151.101.42.247 199.232.194.247
-ppo.g.test-paypal.com 151.101.42.247 199.232.194.247
-t.g.test-paypal.com 151.101.42.247 199.232.194.247
-www-edge-staging.g.test-paypal.com 151.101.42.247 199.232.194.247
+api-m.g.test-paypal.com 151.101.50.247 199.232.194.247
+c.g.test-paypal.com 151.101.50.247 199.232.194.247
+ppo.g.test-paypal.com 151.101.50.247 199.232.194.247
+t.g.test-paypal.com 151.101.50.247 199.232.194.247
+www-edge-staging.g.test-paypal.com 151.101.50.247 199.232.194.247
 www.g.test-paypal.com 152.199.4.26
 
-dualstack.paypal-cdn-test.map.fastly.net 151.101.42.247 199.232.194.247
-paypal-cdn-test.map.fastly.net 151.101.42.247 199.232.194.247
+dualstack.paypal-cdn-test.map.fastly.net 151.101.50.247 199.232.194.247
+paypal-cdn-test.map.fastly.net 151.101.50.247 199.232.194.247
 dualstack.paypal-dynamic-2.map.fastly.net 199.232.193.35
 paypal-dynamic-2.map.fastly.net 199.232.193.35
-dualstack.paypal-dynamic-cdn.map.fastly.net 151.101.43.1
-paypal-dynamic-cdn.map.fastly.net 151.101.43.1
-paypal-dynamic.map.fastly.net 151.101.41.21
+dualstack.paypal-dynamic-cdn.map.fastly.net 151.101.51.1
+paypal-dynamic-cdn.map.fastly.net 151.101.51.1
+paypal-dynamic.map.fastly.net 151.101.49.21
 paypal.map.fastly.net 199.232.194.133
 cs1150.wpc.betacdn.net 192.229.210.155
 cs1151.wpc.betacdn.net 192.229.210.155

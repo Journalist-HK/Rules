@@ -44,11 +44,11 @@ extrabux.com
 f-droid.org
 fanbox.cc
 flexpool.io
+flhj.club
 formyip.com
 freevpnnet.com
 gamerant.com
 gdax.com
-full:geckoiplc.com
 gemini.com
 gfycat.com
 go-to-library.sk
@@ -150,6 +150,7 @@ full:nitrous.motortrend.com
 openai.ne.world
 full:s3.ap-south-1.amazonaws.com
 full:www.geckoiplc.com
+full:geckoiplc.com
 
 full:safebrowsing.g.aaplimg.com
 full:pki.safebrowsing.apple

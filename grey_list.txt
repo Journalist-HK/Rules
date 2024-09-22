@@ -40,6 +40,7 @@ dashlane.com
 dicmusic.club
 edgecastcdn.net
 fanbox.cc
+flhj.club
 freetls.fastly.net
 gal123.com
 global.ssl.fastly.net

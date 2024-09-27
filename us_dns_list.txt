@@ -1,3 +1,6 @@
 full:adaptivesupport.amd.com
 salesforce.com
 siteforce.com
+
+full:inbox.assist.gameservices.xboxlive.com
+full:xainfrontendtrafficmanprod.trafficmanager.net

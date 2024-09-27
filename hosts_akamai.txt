@@ -9,19 +9,34 @@ clan.steamstatic.com 23.46.229.200 202.142.229.42
 community.steamstatic.com 23.46.229.200 202.142.229.42
 store.steamstatic.com 23.46.229.200 202.142.229.42
 
+dlassets-ssl.xboxlive.com 23.36.229.48 23.45.9.48
+gameclipscontent-d2009.xboxlive.com 23.36.229.48 23.45.9.48
+images-eds-ssl.xboxlive.com 23.36.229.48 23.45.9.48
+peoplehub.xboxlive.com 23.36.229.48 23.45.9.48
+rta.xboxlive.com 23.36.229.48 23.45.9.48
+titlehub.xboxlive.com 23.36.229.48 23.45.9.48
+xforgeassets001.xboxlive.com 23.36.229.48 23.45.9.48
+xforgeassets002.xboxlive.com 23.36.229.48 23.45.9.48
+xnotify.xboxlive.com 23.36.229.48 23.45.9.48
+rta.xboxlive.com.akadns.net 23.36.229.48 23.45.9.48
+dlassets-ssl.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+gameclipscontent-d.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+images-eds-ssl.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+peoplehub.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+rta.xboxlive.com-c.edgekey.net 23.36.229.48 23.45.9.48
+titlehub.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+wildcard.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+xforgeassets.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
+regexp:^e87\.(ds[cp])?[bdg]\.akamaiedge\.net$ 23.36.229.48 23.45.9.48
+
 static3.cdn.ubi.com 184.28.149.63
 static.cdn.ubi.com.edgekey.net 184.28.149.63
 static-ww.cdn.ubi.com.edgekey.net 184.28.149.63
-e7923.d.akamaiedge.net 184.28.149.63
-e7923.dscd.akamaiedge.net 184.28.149.63
-e7923.g.akamaiedge.net 184.28.149.63
+regexp:^e7923\.(ds[cp])?[bdg]\.akamaiedge\.net$ 184.28.149.63
 
 www.hackerrank.com 23.198.173.30
 hackerrank.com.edgekey.net 23.198.173.30
-e8937.dscb.akamaiedge.net 23.198.173.30
-e8937.dscd.akamaiedge.net 23.198.173.30
-e8937.d.akamaiedge.net 23.198.173.30
-e8937.g.akamaiedge.net 23.198.173.30
+regexp:^e8937\.(ds[cp])?[bdg]\.akamaiedge\.net$ 23.198.173.30
 
 account.cdn.ubisoft.com 23.66.131.183
 authentication.cdn.ubisoft.com 23.66.131.183
@@ -74,26 +89,16 @@ testing.cdn.ubisoft.com 23.66.131.183
 ubiservices.cdn.ubisoft.com 23.66.131.183
 ugc.cdn.ubisoft.com 23.66.131.183
 web-browser.cdn.ubisoft.com 23.66.131.183
-e11195.d.akamaiedge.net 23.66.131.183
-e11195.dscd.akamaiedge.net 23.66.131.183
-e11195.g.akamaiedge.net 23.66.131.183
+regexp:^e11195\.(ds[cp])?[bdg]\.akamaiedge\.net$ 23.66.131.183
 
 static2.cdn.ubi.com 104.85.245.205 184.28.149.218
 ubiservices.cdn.ubi.com 104.85.245.205 184.28.149.218
 wildcard.cdn.ubi.com.edgekey.net 104.85.245.205 184.28.149.218
-e11196.d.akamaiedge.net 104.85.245.205 184.28.149.218
-e11196.dscd.akamaiedge.net 104.85.245.205 184.28.149.218
-e11196.g.akamaiedge.net 104.85.245.205 184.28.149.218
+regexp:^e11196\.(ds[cp])?[bdg]\.akamaiedge\.net$ 104.85.245.205 184.28.149.218
 
-res.public.onecdn.static.microsoft 152.195.19.97
-res-ocdi-public.trafficmanager.net 152.195.19.97
+res.public.onecdn.static.microsoft 184.29.20.115
+res-ocdi-public.trafficmanager.net 184.29.20.115
 
 res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
-e2808.dscd.akamaiedge.net 184.29.20.115
-
-res-2.public.onecdn.static.microsoft 152.195.19.97
-cdn-office.azureedge.net 152.195.19.97
-cdn-office.ec.azureedge.net 152.195.19.97
-scdn1cc4b.wpc.9aea3.sigmacdn.net 152.195.19.97
-sni1gl.wpc.sigmacdn.net 152.195.19.97
+regexp:^e2808\.(ds[cp])?[bdg]\.akamaiedge\.net$ 184.29.20.115

@@ -778,6 +778,21 @@ srvstat.pubwise.io 151.101.198.132
 www.pubwise.io 151.101.198.132
 pubwise.io 151.101.198.132
 
+donate.pypi.org 151.101.48.223
+test.pypi.org 151.101.48.223
+www.pypi.org 151.101.48.223
+pypi.org 151.101.48.223
+docs.python.org 151.101.48.223
+downloads.python.org 151.101.48.223
+peps.python.org 151.101.48.223
+pl.python.org 151.101.48.223
+pypi.python.org 151.101.48.223
+testpypi.python.org 151.101.48.223
+www.python.org 151.101.48.223
+python.org 151.101.48.223
+dualstack.python.map.fastly.net 151.101.48.223
+python.map.fastly.net 151.101.48.223
+
 r.r10s.jp 111.119.29.177
 shop.r10s.jp 68.142.73.41
 tshop.r10s.jp 146.75.94.63

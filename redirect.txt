@@ -1,0 +1,9 @@
+cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
+dlassets.xboxlive.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
+dlassets.xboxlive.com.delivery.microsoft.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
+xbx-dlassets-net.trafficmanager.net edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
+regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
+maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
+sisu.xboxlive.com sisu.xboxlive.com.edgekey.net
+sisu.xboxlive.com.akadns.net sisu.xboxlive.com.edgekey.net
+us-west-sisu.xboxlive.com.akadns.net sisu.xboxlive.com.edgekey.net

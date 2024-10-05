@@ -92,6 +92,7 @@ nxboom.com
 openairinterface.org
 osl.com
 patreonusercontent.com
+perchance.org
 pexpay.com
 picsart.com
 pilipili.cc
@@ -149,6 +150,7 @@ images.prismic.io
 full:nitrous.motortrend.com
 openai.ne.world
 full:s3.ap-south-1.amazonaws.com
+full:vip1.g5.cachefly.net
 full:www.freegecko.com
 full:freegecko.com
 full:www.geckoiplc.com

@@ -151,6 +151,9 @@ full:nitrous.motortrend.com
 openai.ne.world
 full:s3.ap-south-1.amazonaws.com
 full:vip1.g5.cachefly.net
+full:vip.flynet.club
+full:web.flynet.club
+full:www.flynet.club
 full:www.freegecko.com
 full:freegecko.com
 full:www.geckoiplc.com

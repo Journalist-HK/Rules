@@ -58,6 +58,8 @@ dlassets.xboxlive.cn 117.91.185.106
 dlassets2.xboxlive.cn 117.91.185.106
 
 activityhub.xboxlive.com 13.66.204.157
+user.auth.xboxlive.com 52.231.199.125
+xsts.auth.xboxlive.com 13.86.100.218
 chat.xboxlive.com 13.89.223.27 40.77.46.211
 editorial.xboxlive.com 40.78.138.172
 gamingcontext.xboxlive.com 20.109.190.69
@@ -69,6 +71,10 @@ prod.xccs.xboxlive.com 52.160.89.73
 xblmessaging.xboxlive.com 20.98.74.233
 xccs.xboxlive.com 52.160.89.73
 activityhub.xboxlive.com.akadns.net 13.66.204.157
+row-user.auth.xboxlive.com.akadns.net 52.231.199.125
+row-xsts.auth.xboxlive.com.akadns.net 13.86.100.218
+user.auth.xboxlive.com.akadns.net 52.231.199.125
+xsts.auth.xboxlive.com.akadns.net 13.86.100.218
 chat.xboxlive.com.akadns.net 13.89.223.27 40.77.46.211
 editorial.xboxlive.com.akadns.net 40.78.138.172
 gamingcontext.xboxlive.com.akadns.net 20.109.190.69

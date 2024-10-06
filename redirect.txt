@@ -1,4 +1,8 @@
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
+git.kernel.org dfw.source.kernel.org
+lore.kernel.org dfw.source.kernel.org
+www.kernel.org dfw.source.kernel.org
+geo.source.kernel.org dfw.source.kernel.org
 dlassets.xboxlive.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
 dlassets.xboxlive.com.delivery.microsoft.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
 xbx-dlassets-net.trafficmanager.net edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com

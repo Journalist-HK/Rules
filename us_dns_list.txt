@@ -1,4 +1,5 @@
 full:adaptivesupport.amd.com
+kernel.org
 salesforce.com
 siteforce.com
 

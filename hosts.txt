@@ -6,9 +6,114 @@ ipv6check-http.steamserver.net 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a
 ipv6check-udp.steamserver.net 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
 ipv6check-http.steamcontent.com 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
 ipv6check-udp.steamcontent.com 2602:801:f006:100::a2fe:c30d 2602:801:f006:100::a2fe:c30f
-store.steampowered.com 23.54.121.126
-checkout.steampowered.com 23.54.121.126
-api.steampowered.com 104.85.253.48 184.25.198.92
+store.steampowered.com 23.39.1.50
+checkout.steampowered.com 23.39.1.50
+api.steampowered.com 104.68.104.163
 ngx.download.nvidia.com 23.199.57.43 23.199.57.80
 edge.microsoft.com 13.107.21.239 204.79.197.239 2620:1ec:12::239 2620:1ec:c11::239
 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org 208.54.5.195
+dms.licdn.com 104.75.169.9 104.75.169.24
+static.licdn.com 104.75.169.9 104.75.169.24
+media.licdn.com 104.75.169.9 104.75.169.24
+images.nvidia.com 192.229.210.202
+
+abre-videos.cdn1122.com 208.99.84.34 208.99.84.35 208.99.84.36 208.99.84.39
+abre-videos.cdn1122.com.lds.rncdn7.com 208.99.84.34 208.99.84.35 208.99.84.36 208.99.84.39
+
+# Edgecast
+landing-pages.gog-statics.com 192.229.210.97
+static-login.gog-statics.com 192.229.210.97
+cs526.wpc.deltacdn.net 192.229.210.97
+res-2.public.onecdn.static.microsoft 152.195.19.97
+cdn-office.azureedge.net 152.195.19.97
+cdn-office.ec.azureedge.net 152.195.19.97
+scdn1cc4b.wpc.9aea3.sigmacdn.net 152.195.19.97
+sni1gl.wpc.sigmacdn.net 152.195.19.97
+
+download-baishan.catmajsoul.com 128.14.180.34
+download-baishan.catmajsoul.com.trpcdn.net 128.14.180.34
+ztyrim.v.trpcdn.net 128.14.180.34
+download-baishan.catmjstudio.com 128.14.180.34
+download-baishan.catmjstudio.com.trpcdn.net 128.14.180.34
+zbsrim.v.trpcdn.net 128.14.180.34
+download-wangsu.catmjstudio.com 210.65.162.145
+download-wangsu.catmjstudio.com.qtlgslb.com 210.65.162.145
+download-wangsu.catmjstudio.com.qtlgslb.com.realeros.com 210.65.162.145
+
+recommend-event.pixiv.org 142.251.42.147
+ghs.googlehosted.com 142.251.42.147
+
+appassetsback.mahjongsoul.com 157.185.156.194
+appassetsback.mahjongsoul.com.cy-isp.com 157.185.156.194
+s1650.usgcac.wtxcdn.com 157.185.156.194
+
+assets1.xboxlive.cn 61.160.238.82 61.170.69.133
+assets2.xboxlive.cn 61.160.238.82 61.170.69.133
+d1.xboxlive.cn 61.160.238.82 61.170.69.133
+d2.xboxlive.cn 61.160.238.82 61.170.69.133
+
+dl.delivery.mp.microsoft.com 117.91.185.106
+tlu.dl.delivery.mp.microsoft.com 117.91.185.106
+dlassets.xboxlive.cn 117.91.185.106
+dlassets2.xboxlive.cn 117.91.185.106
+
+activityhub.xboxlive.com 13.66.204.157
+chat.xboxlive.com 13.89.223.27 40.77.46.211
+editorial.xboxlive.com 40.78.138.172
+gamingcontext.xboxlive.com 20.109.190.69
+title.mgt.xboxlive.com 40.65.111.94
+prod.sucu.xboxlive.com 52.160.89.73
+sucu.xboxlive.com 52.160.89.73
+updatepc.xboxlive.com 52.160.89.73
+prod.xccs.xboxlive.com 52.160.89.73
+xblmessaging.xboxlive.com 20.98.74.233
+xccs.xboxlive.com 52.160.89.73
+activityhub.xboxlive.com.akadns.net 13.66.204.157
+chat.xboxlive.com.akadns.net 13.89.223.27 40.77.46.211
+editorial.xboxlive.com.akadns.net 40.78.138.172
+gamingcontext.xboxlive.com.akadns.net 20.109.190.69
+row-title.mgt.xboxlive.com.akadns.net 40.65.111.94
+title.mgt.xboxlive.com.akadns.net 40.65.111.94
+row-userpresence.xboxlive.com.akadns.net 52.183.58.171
+updatepc.xboxlive.com.akadns.net 52.160.89.73
+xblmessaging.xboxlive.com.akadns.net 20.98.74.233
+xccs.xboxlive.com.akadns.net 52.160.89.73
+scfd-598caa28e2a3670214e0732c4eb9f9fb.trafficmanager.net 52.160.89.73
+xcfd-eba27a6009ff7a844c8833f4d7d937a2.trafficmanager.net 52.160.89.73
+
+xboxassets.s.llnwi.net 2607:f4e8:100:a000::1
+
+dx9ex-my.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+dx9ex.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+1929-ipv4v6e.clump.dprodmgd104.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+189453-ipv4v6e.farm.dprodmgd104.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+189453-ipv4v6w.farm.dprodmgd104.sharepointonline.com.akadns.net 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+
+connecthkuhk-my.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+connecthkuhk.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+1146-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+196000-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+196000-ipv4v6w.farm.dprodmgd106.sharepointonline.com.akadns.net 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+
+hkuhk-my.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+hkuhk.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+4362-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+195941-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+195941-ipv4v6w.farm.dprodmgd106.sharepointonline.com.akadns.net 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+japaneast1-mediap.svc.ms 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+domain:dual-spo-0005.spo-msedge.net 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+
+189453-ipv4v6.gr.global.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+189453-ipv4v6.farm.dprodmgd104.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+195941-ipv4v6.gr.global.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+195941-ipv4v6.farm.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+196000-ipv4v6.gr.global.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+196000-ipv4v6.farm.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+196747-ipv4v6.gr.global.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+196747-ipv4v6.farm.dprodmgd106.aa-rt.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+
+regexp:^\d+-ipv4v6\.(gr\.global|farm\.\w+)\.aa-rt\.sharepoint\.com$ 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
+
+www.staticcc.com 107.151.190.157 107.151.190.158
+
+vlsiverify.com 2600:1f13:393:63e:d83b:f450:487:59b6

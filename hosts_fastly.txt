@@ -28,7 +28,7 @@ regexp:^(dualstack\.)?g\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.172
 regexp:^(dualstack\.)?h\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.173
 regexp:^(dualstack\.)?i\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.174
 regexp:^(dualstack\.)?j\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.175
-regexp:^(dualstack\.)?k\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.176
+regexp:^(dualstack\.)?k\.shared\.(global|us-eu)\.fastly\.net$ 151.101.49.176
 regexp:^(dualstack\.)?l\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.177
 regexp:^(dualstack\.)?m\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.178
 regexp:^(dualstack\.)?n\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.179
@@ -520,6 +520,9 @@ assets-jpcust.jwpsrv.com 151.101.50.114
 ssl.p.jwpcdn.com 151.101.50.114
 p.jwpcdn.com 151.101.50.114
 jwplayer-dualstack.map.fastly.net 151.101.50.114
+
+cdn.kernel.org 151.101.49.176
+docs.kernel.org 199.232.194.133
 
 edge-clientsdk.prod.eu.launchdarkly.com 151.101.198.132
 

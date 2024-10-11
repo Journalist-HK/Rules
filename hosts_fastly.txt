@@ -86,31 +86,31 @@ regexp:^(dualstack\.)?f4\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.110
 regexp:^(dualstack\.)?f6\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.202
 regexp:^(dualstack\.)?f8\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.179
 
-domain:a.global-ssl.fastly.net 146.75.92.249
-domain:b.global-ssl.fastly.net 151.101.196.143
-domain:c.global-ssl.fastly.net 151.101.196.175
-domain:d.global-ssl.fastly.net 151.101.196.207
-domain:e.global-ssl.fastly.net 146.75.92.230
-domain:f.global-ssl.fastly.net 151.101.196.64
-domain:g.global-ssl.fastly.net 151.101.196.65
-domain:h.global-ssl.fastly.net 151.101.196.66
-domain:i.global-ssl.fastly.net 151.101.196.67
-domain:j.global-ssl.fastly.net 151.101.196.68
-domain:k.global-ssl.fastly.net 151.101.196.69
-domain:l.global-ssl.fastly.net 146.75.92.70
-domain:m.global-ssl.fastly.net 151.101.196.233
-domain:n.global-ssl.fastly.net 146.75.93.5
-domain:o.global-ssl.fastly.net 151.101.197.6
-domain:p.global-ssl.fastly.net 151.101.197.7
-domain:q.global-ssl.fastly.net 151.101.197.62
-domain:r.global-ssl.fastly.net 151.101.197.63
-domain:s.global-ssl.fastly.net 146.75.93.94
-domain:t.global-ssl.fastly.net 151.101.197.95
-domain:u.global-ssl.fastly.net 146.75.93.127
-domain:v.global-ssl.fastly.net 151.101.197.128
-domain:w.global-ssl.fastly.net 151.101.197.129
-domain:y.global-ssl.fastly.net 151.101.197.130
-domain:z.global-ssl.fastly.net 151.101.197.131
+regexp:a\.(ssl\.global|global-ssl)\.fastly\.net$ 146.75.92.249
+regexp:b\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.143
+regexp:c\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.175
+regexp:d\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.207
+regexp:e\.(ssl\.global|global-ssl)\.fastly\.net$ 146.75.92.230
+regexp:f\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.64
+regexp:g\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.65
+regexp:h\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.66
+regexp:i\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.67
+regexp:j\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.68
+regexp:k\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.69
+regexp:l\.(ssl\.global|global-ssl)\.fastly\.net$ 146.75.92.70
+regexp:m\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.196.233
+regexp:n\.(ssl\.global|global-ssl)\.fastly\.net$ 146.75.93.5
+regexp:o\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.6
+regexp:p\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.7
+regexp:q\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.62
+regexp:r\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.63
+regexp:s\.(ssl\.global|global-ssl)\.fastly\.net$ 146.75.93.94
+regexp:t\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.95
+regexp:u\.(ssl\.global|global-ssl)\.fastly\.net$ 146.75.93.127
+regexp:v\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.49.128
+regexp:w\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.129
+regexp:y\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.130
+regexp:z\.(ssl\.global|global-ssl)\.fastly\.net$ 151.101.197.131
 
 nonssl.global.fastly.net 146.75.92.204 151.101.196.204
 prod.nonssl.global.fastly.net 146.75.92.204 151.101.196.204
@@ -286,6 +286,8 @@ domain:buzzfeed.map.fastly.net 151.101.198.2
 buzzfeed2.map.fastly.net 146.75.94.114 151.101.198.114
 
 pin.ceros.map.fastly.net 146.75.94.51
+
+repo.clojars.org 151.101.49.128
 
 img.mix.com 151.101.50.92
 

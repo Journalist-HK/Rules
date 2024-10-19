@@ -1,6 +1,9 @@
+# AWS 电信用美国比日韩好
+
 full:adaptivesupport.amd.com
 kernel.org
 salesforce.com
+samsungcloud.com
 siteforce.com
 
 full:inbox.assist.gameservices.xboxlive.com

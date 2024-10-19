@@ -1,4 +1,12 @@
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
+admin.go.dev ghs.googlehosted.com
+blog.go.dev ghs.googlehosted.com
+learn.go.dev ghs.googlehosted.com
+play.go.dev ghs.googlehosted.com
+talks.go.dev ghs.googlehosted.com
+tour.go.dev ghs.googlehosted.com
+api.hoppscotch.io ghs.googlehosted.com
+recommend-event.pixiv.org ghs.googlehosted.com
 git.kernel.org dfw.source.kernel.org
 lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org

@@ -228,6 +228,7 @@ payload:
   - 'cdn.statically.io'
   - 'clients.plex.tv'
   - '+.global.ssl.fastly.net'
+  - 'go.dev'
   - 'images.prismic.io'
   - 'nitrous.motortrend.com'
   - 'openai.ne.world'

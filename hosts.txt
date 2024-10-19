@@ -40,9 +40,7 @@ download-wangsu.catmjstudio.com 210.65.162.145
 download-wangsu.catmjstudio.com.qtlgslb.com 210.65.162.145
 download-wangsu.catmjstudio.com.qtlgslb.com.realeros.com 210.65.162.145
 
-api.hoppscotch.io 142.251.42.147
-recommend-event.pixiv.org 142.251.42.147
-ghs.googlehosted.com 142.251.42.147
+ghs.googlehosted.com 142.250.196.243 2404:6800:4004:821::2013
 
 appassetsback.mahjongsoul.com 157.185.156.194
 appassetsback.mahjongsoul.com.cy-isp.com 157.185.156.194

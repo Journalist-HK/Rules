@@ -227,6 +227,7 @@ payload:
   - 'cdn-fastly.obsproject.com'
   - 'cdn.statically.io'
   - 'clients.plex.tv'
+  - '+.dns.sb'
   - '+.global.ssl.fastly.net'
   - 'go.dev'
   - 'images.prismic.io'

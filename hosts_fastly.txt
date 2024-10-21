@@ -118,7 +118,7 @@ dualstack.nonssl.global.fastly.net 146.75.92.204 151.101.196.204
 global.fastly.net 146.75.92.204 151.101.196.204
 domain:nonssl.us-eu.fastly.net 146.75.92.204 151.101.196.204
 
-regexp:\w+\.global\.ssl\.fastly\.net$ 151.101.197.194
+regexp:.+\.global\.ssl\.fastly\.net$ 151.101.197.194
 global.ssl.fastly.net 146.75.92.249
 
 domain:global.prod.fastly.net 146.75.92.249
@@ -453,8 +453,8 @@ www.ignimgs.com 146.75.93.135
 www.ign-inc.com 146.75.93.135
 
 domain:demo.kraken.ign.com 146.75.93.135
-regexp:\w+\.demo\.cms\.ign\.com$ 146.75.93.135
-regexp:\w+\.demo\.mollusk\.apis\.ign\.com$ 146.75.93.135
+regexp:.+\.demo\.cms\.ign\.com$ 146.75.93.135
+regexp:.+\.demo\.mollusk\.apis\.ign\.com$ 146.75.93.135
 
 stg.m.au.ign.com 146.75.93.135
 stg.m.ca.ign.com 146.75.93.135

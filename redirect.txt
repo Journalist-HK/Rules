@@ -14,6 +14,8 @@ geo.source.kernel.org dfw.source.kernel.org
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com
+avty.xboxlive.com l-0006.l-msedge.net
+avty.xboxlive.com.akadns.net l-0006.l-msedge.net
 dlassets.xboxlive.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
 dlassets.xboxlive.com.delivery.microsoft.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
 xbx-dlassets-net.trafficmanager.net edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com

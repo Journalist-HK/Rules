@@ -1,6 +1,9 @@
 # AS16509 Amazon.com, Inc.
 18.132.0.0/14
 
+# AS24940 Hetzner Online GmbH
+204.29.146.0/24
+
 # AS60781 LeaseWeb Netherlands B.V.
 5.178.102.0/24
 31.14.37.0/24

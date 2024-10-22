@@ -1,0 +1,10 @@
+assets1.xboxlive.com 192.168.1.1
+assets2.xboxlive.com 192.168.1.1
+d1.xboxlive.com 192.168.1.1
+d2.xboxlive.com 192.168.1.1
+xvcf1.xboxlive.com 192.168.1.1
+xvcf2.xboxlive.com 192.168.1.1
+dlassets.xboxlive.com 192.168.1.1
+dlassets2.xboxlive.com 192.168.1.1
+
+# uplaypc-s-ubisoft.cdn.ubi.com 192.168.1.1

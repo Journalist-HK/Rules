@@ -1,26 +1,43 @@
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
-admin.go.dev ghs.googlehosted.com
-blog.go.dev ghs.googlehosted.com
-learn.go.dev ghs.googlehosted.com
-play.go.dev ghs.googlehosted.com
-talks.go.dev ghs.googlehosted.com
-tour.go.dev ghs.googlehosted.com
-api.hoppscotch.io ghs.googlehosted.com
-recommend-event.pixiv.org ghs.googlehosted.com
+
 git.kernel.org dfw.source.kernel.org
 lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org
 geo.source.kernel.org dfw.source.kernel.org
+
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com
+
+res.public.onecdn.static.microsoft res-1.public.onecdn.static.microsoft
+res-ocdi-public.trafficmanager.net res-1.public.onecdn.static.microsoft
+
 avty.xboxlive.com l-0006.l-msedge.net
 avty.xboxlive.com.akadns.net l-0006.l-msedge.net
+
 dlassets.xboxlive.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
 dlassets.xboxlive.com.delivery.microsoft.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
 xbx-dlassets-net.trafficmanager.net edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
+
+assets1.xboxlive.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+assets1.xboxlive.com.delivery.microsoft.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+xbx-f-net.trafficmanager.net edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+
+assets2.xboxlive.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+assets2.xboxlive.com.delivery.microsoft.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+xbx-f-geo.trafficmanager.net edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+
+d1.xboxlive.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+d1.xboxlive.com.delivery.microsoft.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+xbx-b-net.trafficmanager.net edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+
+d2.xboxlive.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+d2.xboxlive.com.delivery.microsoft.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+xbx-b-geo.trafficmanager.net edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+
 regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
 maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
+
 sisu.xboxlive.com sisu.xboxlive.com.edgekey.net
 sisu.xboxlive.com.akadns.net sisu.xboxlive.com.edgekey.net
 us-west-sisu.xboxlive.com.akadns.net sisu.xboxlive.com.edgekey.net

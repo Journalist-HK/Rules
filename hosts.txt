@@ -1,4 +1,8 @@
 # hosts
+dns.sb 2403:fbc0:1000::babe
+doh.sb 2403:fbc0:1000::babe
+dns.doh.sb 2403:fbc0:1000::babe
+asia.doh.sb 2403:fbc0:1000::babe
 apd-pcdnwxlogin.teg.tencent-cloud.net 0.0.0.1
 apd-pcdnwxnat.teg.tencent-cloud.net 0.0.0.1
 cdp.cloud.unity3d.com 34.107.172.168
@@ -62,7 +66,9 @@ xsts.auth.xboxlive.com 13.86.100.218
 chat.xboxlive.com 13.89.223.27 40.77.46.211
 editorial.xboxlive.com 40.78.138.172
 gamingcontext.xboxlive.com 20.109.190.69
+mediahub.xboxlive.com 20.40.244.129
 title.mgt.xboxlive.com 40.65.111.94
+packagespc.xboxlive.com 52.160.89.73
 prod.sucu.xboxlive.com 52.160.89.73
 sucu.xboxlive.com 52.160.89.73
 updatepc.xboxlive.com 52.160.89.73
@@ -77,8 +83,11 @@ xsts.auth.xboxlive.com.akadns.net 13.86.100.218
 chat.xboxlive.com.akadns.net 13.89.223.27 40.77.46.211
 editorial.xboxlive.com.akadns.net 40.78.138.172
 gamingcontext.xboxlive.com.akadns.net 20.109.190.69
+mediahub.xboxlive.com.akadns.net 20.40.244.129
 row-title.mgt.xboxlive.com.akadns.net 40.65.111.94
 title.mgt.xboxlive.com.akadns.net 40.65.111.94
+packagespc.xboxlive.com.akadns.net 52.160.89.73
+row-avty.xboxlive.com.akadns.net 51.143.13.171
 row-userpresence.xboxlive.com.akadns.net 52.183.58.171
 updatepc.xboxlive.com.akadns.net 52.160.89.73
 xblmessaging.xboxlive.com.akadns.net 20.98.74.233
@@ -86,7 +95,7 @@ xccs.xboxlive.com.akadns.net 52.160.89.73
 scfd-598caa28e2a3670214e0732c4eb9f9fb.trafficmanager.net 52.160.89.73
 xcfd-eba27a6009ff7a844c8833f4d7d937a2.trafficmanager.net 52.160.89.73
 
-xboxassets.s.llnwi.net 2607:f4e8:100:a000::1
+xboxassets.s.llnwi.net 68.142.107.129
 
 dx9ex-my.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10
 dx9ex.sharepoint.com 13.107.136.10 13.107.138.10 2620:1ec:8f8::10 2620:1ec:8fa::10

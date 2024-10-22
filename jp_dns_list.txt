@@ -1,11 +1,5 @@
 full:docs.amd.com
 aws.antidot.net
 fluidtopics.net
-levelinfinite.com
-midasbuy.com
-playdeltaforce.com
-playerinfinite.com
-full:dlassets.xboxlive.com
-full:dlassets.xboxlive.com.delivery.microsoft.com
-full:xbx-dlassets-net.trafficmanager.net
-qwilted-cds.cqloud.com
+
+global.dns.qwilted-cds.cqloud.com

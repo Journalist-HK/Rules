@@ -30,6 +30,10 @@ wildcard.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 xforgeassets.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 regexp:^e87\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.36.229.48 23.45.9.48
 
+res-1.public.onecdn.static.microsoft 184.29.20.115
+res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
+regexp:^e2808\.(ds[cp])?[a-z]\.akamaiedge\.net$ 184.29.20.115
+
 static3.cdn.ubi.com 184.29.21.80
 static.cdn.ubi.com.edgekey.net 184.29.21.80
 static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
@@ -97,9 +101,6 @@ ubiservices.cdn.ubi.com 72.247.97.191
 wildcard.cdn.ubi.com.edgekey.net 72.247.97.191
 regexp:^e11196\.(ds[cp])?[a-z]\.akamaiedge\.net$ 72.247.97.191
 
-res.public.onecdn.static.microsoft 184.29.20.115
-res-ocdi-public.trafficmanager.net 184.29.20.115
-
-res-1.public.onecdn.static.microsoft 184.29.20.115
-res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
-regexp:^e2808\.(ds[cp])?[a-z]\.akamaiedge\.net$ 184.29.20.115
+store-images.s-microsoft.com 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
+store-images.s-microsoft.com-c.edgekey.net 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
+regexp:^e12564\.(ds[cp])?[a-z]\.akamaiedge\.net$ 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114

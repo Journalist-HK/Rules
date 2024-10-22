@@ -2,9 +2,14 @@
 
 full:adaptivesupport.amd.com
 kernel.org
+levelinfinite.com
+midasbuy.com
+playdeltaforce.com
+playerinfinite.com
 salesforce.com
 samsungcloud.com
 siteforce.com
-
+ovslegodl.sched.ovscdns.com
+ovslegovideo.sched.apdcdn.com
 full:inbox.assist.gameservices.xboxlive.com
 full:xainfrontendtrafficmanprod.trafficmanager.net

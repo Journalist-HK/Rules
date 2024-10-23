@@ -2,14 +2,23 @@
 
 full:adaptivesupport.amd.com
 kernel.org
+
+salesforce.com
+samsungcloud.com
+siteforce.com
+
+# Edgecast
+full:images.nvidia.com
+full:international-gfe.download.nvidia.com
+phicdn.net
+
+# Tencent
 levelinfinite.com
 midasbuy.com
 playdeltaforce.com
 playerinfinite.com
-salesforce.com
-samsungcloud.com
-siteforce.com
 ovslegodl.sched.ovscdns.com
 ovslegovideo.sched.apdcdn.com
+
 full:inbox.assist.gameservices.xboxlive.com
 full:xainfrontendtrafficmanprod.trafficmanager.net

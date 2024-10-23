@@ -8,7 +8,7 @@ regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.132
 regexp:^(dualstack\.)?k\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.137
 regexp:^(dualstack\.)?l\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.107
 regexp:^(dualstack\.)?m\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.55
-regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.91
+regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::347
 regexp:^(dualstack\.)?o\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.32
 regexp:^(dualstack\.)?p\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.41
 regexp:^(dualstack\.)?q\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.215
@@ -124,7 +124,7 @@ global.ssl.fastly.net 146.75.92.249
 domain:global.prod.fastly.net 146.75.92.249
 domain:prod.fastly.net 146.75.92.204 151.101.196.204
 
-time.fastly.net 151.101.197.91
+time.fastly.net 2a04:4e42:a::347
 
 www.fastly.net 151.101.197.6
 fastly.net 151.101.197.6
@@ -168,20 +168,20 @@ zd.fastly.com 146.75.94.137
 cfg.fastly.com.map.fastly.net 146.75.94.137
 zd.fastly.com.map.fastly.net 146.75.94.137
 
-abuse.fastly.com 151.101.197.91
-connect.fastly.com 151.101.197.91
-fanout.fastly.com 151.101.197.91
-learn.fastly.com 151.101.197.91
-shiply.fastly.com 151.101.197.91
-status.fastly.com 151.101.197.91
+abuse.fastly.com 2a04:4e42:a::347
+connect.fastly.com 2a04:4e42:a::347
+fanout.fastly.com 2a04:4e42:a::347
+learn.fastly.com 2a04:4e42:a::347
+shiply.fastly.com 2a04:4e42:a::347
+status.fastly.com 2a04:4e42:a::347
 
-docs.fastly.com 151.101.197.91
-docs-legacy.fastly.com 151.101.197.91
-docs-next.fastly.com 151.101.197.91
-docs.fastly.com.map.fastly.net 151.101.197.91
+docs.fastly.com 2a04:4e42:a::347
+docs-legacy.fastly.com 2a04:4e42:a::347
+docs-next.fastly.com 2a04:4e42:a::347
+docs.fastly.com.map.fastly.net 2a04:4e42:a::347
 
-quic.fastly.com 151.101.197.91
-quic.map.fastly.net 151.101.197.91
+quic.fastly.com 2a04:4e42:a::347
+quic.map.fastly.net 2a04:4e42:a::347
 
 developers.fastly.com 151.101.197.57
 domain:developer.fastly.com 151.101.197.57
@@ -214,8 +214,8 @@ ar5iv.labs.arxiv.org 146.75.95.52
 ar5iv.arxiv.org 146.75.95.52
 web3.arxiv.org 146.75.95.52
 
-status.dev.arxiv.org 151.101.197.91
-status.arxiv.org 151.101.197.91
+status.dev.arxiv.org 2a04:4e42:a::347
+status.arxiv.org 2a04:4e42:a::347
 
 aps.arxiv.org 146.75.95.42
 au.arxiv.org 146.75.95.42
@@ -235,22 +235,22 @@ xxx.arxiv.org 146.75.95.42
 za.arxiv.org 146.75.95.42
 arxiv.org 146.75.95.42
 
-admin.bitwarden.com 151.101.197.91
-api.bitwarden.com 151.101.197.91
-artifacts.bitwarden.com 151.101.197.91
-assets.bitwarden.com 151.101.197.91
-bws.bitwarden.com 151.101.197.91
-events.bitwarden.com 151.101.197.91
-identity.bitwarden.com 151.101.197.91
-mobileapp.bitwarden.com 151.101.197.91
-notifications.bitwarden.com 151.101.197.91
-preview.bitwarden.com 151.101.197.91
-push.bitwarden.com 151.101.197.91
-scim.bitwarden.com 151.101.197.91
-sso.bitwarden.com 151.101.197.91
-vault.bitwarden.com 151.101.197.91
-bitwarden.com 151.101.197.91
-icons.bitwarden.net 151.101.197.91
+admin.bitwarden.com 2a04:4e42:a::347
+api.bitwarden.com 2a04:4e42:a::347
+artifacts.bitwarden.com 2a04:4e42:a::347
+assets.bitwarden.com 2a04:4e42:a::347
+bws.bitwarden.com 2a04:4e42:a::347
+events.bitwarden.com 2a04:4e42:a::347
+identity.bitwarden.com 2a04:4e42:a::347
+mobileapp.bitwarden.com 2a04:4e42:a::347
+notifications.bitwarden.com 2a04:4e42:a::347
+preview.bitwarden.com 2a04:4e42:a::347
+push.bitwarden.com 2a04:4e42:a::347
+scim.bitwarden.com 2a04:4e42:a::347
+sso.bitwarden.com 2a04:4e42:a::347
+vault.bitwarden.com 2a04:4e42:a::347
+bitwarden.com 2a04:4e42:a::347
+icons.bitwarden.net 2a04:4e42:a::347
 
 manifest.prod.boltdns.net 199.232.194.27
 manifest.qa.boltdns.net 199.232.194.27
@@ -329,7 +329,7 @@ s3-cloudinary-pin.map.fastly.net 151.101.50.104
 s4-cloudinary-pin.map.fastly.net 151.101.50.102
 s5-cloudinary-pin.map.fastly.net 151.101.50.0
 
-download.cnet.com 151.101.197.91
+download.cnet.com 2a04:4e42:a::347
 
 archive.debian.org 151.101.198.132
 cdn-fastly.deb.debian.org 151.101.198.132
@@ -367,7 +367,7 @@ www.fastlylabs.com 146.75.94.217
 fastlylabs.com 146.75.94.217
 h2.fastlylabs.map.fastly.net 146.75.94.217
 
-dl.flathub.org 151.101.197.91
+dl.flathub.org 2a04:4e42:a::347
 
 avatars0.githubusercontent.com 151.101.48.133 151.101.196.133
 avatars1.githubusercontent.com 151.101.48.133 151.101.196.133
@@ -516,12 +516,12 @@ static.jquery.com 146.75.94.137
 fastly.jsdelivr.net 146.75.93.229
 jsdelivr.map.fastly.net 146.75.93.229
 
-app.jumptoon.com 151.101.197.91
-assets.jumptoon.com 151.101.197.91
-contents.jumptoon.com 151.101.197.91
-static.jumptoon.com 151.101.197.91
-jumptoon.com 151.101.197.91
-jumptoon.map.fastly.net 151.101.197.91
+app.jumptoon.com 2a04:4e42:a::347
+assets.jumptoon.com 2a04:4e42:a::347
+contents.jumptoon.com 2a04:4e42:a::347
+static.jumptoon.com 2a04:4e42:a::347
+jumptoon.com 2a04:4e42:a::347
+jumptoon.map.fastly.net 2a04:4e42:a::347
 
 console.test.boost.jwplayer.com 151.101.197.195
 hook.jwplayer.com 151.101.50.114
@@ -652,11 +652,11 @@ hawk.musicradar.com 146.75.94.114 151.101.198.114
 www.musicradar.com 146.75.94.114 151.101.198.114
 musicradar.com 146.75.94.114 151.101.198.114
 
-cdn-fastly.obsproject.com 151.101.197.91
+cdn-fastly.obsproject.com 2a04:4e42:a::347
 
-cdn.overclock.net 151.101.197.91
-www.overclock.net 151.101.197.91
-overclock.net 151.101.197.91
+cdn.overclock.net 2a04:4e42:a::347
+www.overclock.net 2a04:4e42:a::347
+overclock.net 2a04:4e42:a::347
 
 www.paypal.com.cn 151.101.51.1
 
@@ -888,15 +888,15 @@ hawk.techradar.com 146.75.94.114 151.101.198.114
 www.techradar.com 146.75.94.114 151.101.198.114
 techradar.com 146.75.94.114 151.101.198.114
 
-staging.techrepublic.com 151.101.197.91
-www.techrepublic.com 151.101.197.91
-techrepublic.com 151.101.197.91
+staging.techrepublic.com 2a04:4e42:a::347
+www.techrepublic.com 2a04:4e42:a::347
+techrepublic.com 2a04:4e42:a::347
 
-duet-staging.theverge.com 151.101.197.91
-duet-test.theverge.com 151.101.197.91
-duet.theverge.com 151.101.197.91
-www.theverge.com 151.101.197.91
-theverge.com 151.101.197.91
+duet-staging.theverge.com 2a04:4e42:a::347
+duet-test.theverge.com 2a04:4e42:a::347
+duet.theverge.com 2a04:4e42:a::347
+www.theverge.com 2a04:4e42:a::347
+theverge.com 2a04:4e42:a::347
 
 domain:ticketmaster.map.fastly.net 146.75.93.204
 ticketmaster2.map.fastly.net 146.75.94.87 151.101.198.87

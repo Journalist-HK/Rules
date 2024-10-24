@@ -1,7 +1,7 @@
 regexp:^(dualstack\.)?b\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.33 151.101.198.33
 regexp:^(dualstack\.)?c\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.49
 regexp:^(dualstack\.)?d\.sni\.(global|us-eu)\.fastly\.net$ 199.232.194.133
-regexp:^(dualstack\.)?e\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?e\.sni\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
 regexp:^(dualstack\.)?g\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.114 151.101.198.114
 regexp:^(dualstack\.)?h\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.79
 regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.132
@@ -42,7 +42,7 @@ regexp:^(dualstack\.)?u\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.185
 regexp:^(dualstack\.)?v\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.186
 regexp:^(dualstack\.)?w\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.187
 regexp:^(dualstack\.)?a2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.132
-regexp:^(dualstack\.)?b2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?b2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
 regexp:^(dualstack\.)?d2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.208
 regexp:^(dualstack\.)?e2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.209
 regexp:^(dualstack\.)?f2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.2
@@ -57,31 +57,31 @@ regexp:^(dualstack\.)?n2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
 regexp:^(dualstack\.)?o2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
 regexp:^(dualstack\.)?p2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
 regexp:^(dualstack\.)?q2\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.49
-regexp:^(dualstack\.)?r2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?s2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?t2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?u2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?v2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?w2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?y2\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?a3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?b3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?c3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?d3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?r2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?s2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?t2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?u2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?v2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?w2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?y2\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?a3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?b3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?c3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?d3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
 regexp:^(dualstack\.)?e3\.shared\.(global|us-eu)\.fastly\.net$ 151.101.199.9
 regexp:^(dualstack\.)?f3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.109
-regexp:^(dualstack\.)?g3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?h3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?i3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?j3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?k3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?l3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?m3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?n3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?o3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?p3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?q3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
-regexp:^(dualstack\.)?r3\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.217
+regexp:^(dualstack\.)?g3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?h3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?i3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?j3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?k3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?l3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?m3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?n3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?o3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?p3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?q3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
+regexp:^(dualstack\.)?r3\.shared\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::729
 regexp:^(dualstack\.)?f4\.shared\.(global|us-eu)\.fastly\.net$ 151.101.198.110
 regexp:^(dualstack\.)?f6\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.202
 regexp:^(dualstack\.)?f8\.shared\.(global|us-eu)\.fastly\.net$ 146.75.94.179
@@ -252,35 +252,37 @@ vault.bitwarden.com 2a04:4e42:a::347
 bitwarden.com 2a04:4e42:a::347
 icons.bitwarden.net 2a04:4e42:a::347
 
-manifest.prod.boltdns.net 199.232.194.27
-manifest.qa.boltdns.net 199.232.194.27
-manifest.stage.boltdns.net 199.232.194.27
-media-origin-fastly.ap-northeast-1.prod.boltdns.net 199.232.194.27
-media-origin-fastly.ap-northeast-1.stage.boltdns.net 199.232.194.27
-media-origin.ap-northeast-1.prod.boltdns.net 199.232.194.27
-media-origin.ap-northeast-1.stage.boltdns.net 199.232.194.27
-edge.api.brightcove.com 199.232.194.27
-edge.api.qa.brightcove.com 199.232.194.27
-edge-auth.api.brightcove.com 199.232.194.27
-edge-auth.api.qa.brightcove.com 199.232.194.27
-edge-weighted.api.brightcove.com 199.232.194.27
-coupanglive.brightcovecdn.com 199.232.194.27
-house-fastly-signed-us-east-1-prod.brightcovecdn.com 199.232.194.27
-house-fastly-signed-us-east-1-qa.brightcovecdn.com 199.232.194.27
-house-fastly-signed-us-east-1-stage.brightcovecdn.com 199.232.194.27
-router.gtm-bc-coupang.brightcovecdn.com 199.232.194.27
-player.pm.brightcove.com 199.232.194.27
-playback.brightcovecdn.com 199.232.194.27
-playback-qa.brightcovecdn.com 199.232.194.27
-playback-stage.brightcovecdn.com 199.232.194.27
-brightcove.map.fastly.net 199.232.194.27
-dualstack.brightcove.map.fastly.net 199.232.194.27
-us-eu.brightcove.map.fastly.net 199.232.194.27
-dualstack.us-eu.brightcove.map.fastly.net 199.232.194.27
+manifest.prod.boltdns.net 2a04:4e42:7a::539
+manifest.qa.boltdns.net 2a04:4e42:7a::539
+manifest.stage.boltdns.net 2a04:4e42:7a::539
+media-origin-fastly.ap-northeast-1.prod.boltdns.net 2a04:4e42:7a::539
+media-origin-fastly.ap-northeast-1.stage.boltdns.net 2a04:4e42:7a::539
+media-origin.ap-northeast-1.prod.boltdns.net 2a04:4e42:7a::539
+media-origin.ap-northeast-1.stage.boltdns.net 2a04:4e42:7a::539
+edge.api.brightcove.com 2a04:4e42:7a::539
+edge.api.qa.brightcove.com 2a04:4e42:7a::539
+edge-auth.api.brightcove.com 2a04:4e42:7a::539
+edge-auth.api.qa.brightcove.com 2a04:4e42:7a::539
+edge-weighted.api.brightcove.com 2a04:4e42:7a::539
+coupanglive.brightcovecdn.com 2a04:4e42:7a::539
+house-fastly-signed-us-east-1-prod.brightcovecdn.com 2a04:4e42:7a::539
+house-fastly-signed-us-east-1-qa.brightcovecdn.com 2a04:4e42:7a::539
+house-fastly-signed-us-east-1-stage.brightcovecdn.com 2a04:4e42:7a::539
+router.gtm-bc-coupang.brightcovecdn.com 2a04:4e42:7a::539
+player.pm.brightcove.com 2a04:4e42:7a::539
+playback.brightcovecdn.com 2a04:4e42:7a::539
+playback-qa.brightcovecdn.com 2a04:4e42:7a::539
+playback-stage.brightcovecdn.com 2a04:4e42:7a::539
+brightcove.map.fastly.net 2a04:4e42:7a::539
+dualstack.brightcove.map.fastly.net 2a04:4e42:7a::539
+us-eu.brightcove.map.fastly.net 2a04:4e42:7a::539
+dualstack.us-eu.brightcove.map.fastly.net 2a04:4e42:7a::539
 
-beacon.playback.api.brightcove.com 146.75.94.217
-beacon.playback.api.qa.brightcove.com 146.75.94.217
-vjs.zencdn.net 146.75.94.217
+beacon.playback.api.brightcove.com 2a04:4e42:a::729
+beacon.playback.api.qa.brightcove.com 2a04:4e42:a::729
+vjs.zencdn.net 2a04:4e42:a::729
+dualstack.osff.map.fastly.net 2a04:4e42:a::729
+osff.map.fastly.net 2a04:4e42:a::729
 
 domain:buzzfeed.map.fastly.net 151.101.198.2
 buzzfeed2.map.fastly.net 146.75.94.114 151.101.198.114
@@ -361,11 +363,11 @@ edge-clientsdk.stg.launchdarkly.com 151.101.197.51
 ecp.map.fastly.net 151.101.197.51
 
 early-hints.fastlylabs.com 151.101.198.132
-insights.fastlylabs.com 146.75.94.217
-wasm.fastlylabs.com 146.75.94.217
-www.fastlylabs.com 146.75.94.217
-fastlylabs.com 146.75.94.217
-h2.fastlylabs.map.fastly.net 146.75.94.217
+insights.fastlylabs.com 2a04:4e42:a::729
+wasm.fastlylabs.com 2a04:4e42:a::729
+www.fastlylabs.com 2a04:4e42:a::729
+fastlylabs.com 2a04:4e42:a::729
+h2.fastlylabs.map.fastly.net 2a04:4e42:a::729
 
 dl.flathub.org 2a04:4e42:a::347
 
@@ -390,7 +392,7 @@ private-user-images.githubusercontent.com 151.101.48.133 151.101.196.133
 raw.githubusercontent.com 151.101.48.133 151.101.196.133
 user-images.githubusercontent.com 151.101.48.133 151.101.196.133
 
-f.cloud.github.com 146.75.94.217
+f.cloud.github.com 2a04:4e42:a::729
 raw.github.com 151.101.48.133 151.101.196.133
 
 galaxy-library.gog.com 146.75.93.55
@@ -539,27 +541,27 @@ app.dr.launchdarkly.com 146.75.94.109
 clientsdk.dr.launchdarkly.com 146.75.94.109
 sdk.dr.launchdarkly.com 146.75.94.109
 
-app.eu.launchdarkly.com 146.75.94.217
-clientsdk.eu.launchdarkly.com 146.75.94.217
-sdk.eu.launchdarkly.com 146.75.94.217
+app.eu.launchdarkly.com 2a04:4e42:a::729
+clientsdk.eu.launchdarkly.com 2a04:4e42:a::729
+sdk.eu.launchdarkly.com 2a04:4e42:a::729
 
-app.intuit.launchdarkly.com 146.75.94.217
-app-stg.intuit.launchdarkly.com 146.75.94.217
-app-test.intuit.launchdarkly.com 146.75.94.217
-clientsdk.intuit.launchdarkly.com 146.75.94.217
-clientsdk-stg.intuit.launchdarkly.com 146.75.94.217
-sdk.intuit.launchdarkly.com 146.75.94.217
-sdk-stg.intuit.launchdarkly.com 146.75.94.217
+app.intuit.launchdarkly.com 2a04:4e42:a::729
+app-stg.intuit.launchdarkly.com 2a04:4e42:a::729
+app-test.intuit.launchdarkly.com 2a04:4e42:a::729
+clientsdk.intuit.launchdarkly.com 2a04:4e42:a::729
+clientsdk-stg.intuit.launchdarkly.com 2a04:4e42:a::729
+sdk.intuit.launchdarkly.com 2a04:4e42:a::729
+sdk-stg.intuit.launchdarkly.com 2a04:4e42:a::729
 
-app.launchdarkly.com 146.75.94.217
-clientsdk.launchdarkly.com 146.75.94.217
-clientsdk-dev.launchdarkly.com 146.75.94.217
-clientsdk-stg.launchdarkly.com 146.75.94.217
-ld-stg.launchdarkly.com 146.75.94.217
-sdk.launchdarkly.com 146.75.94.217
-sdk-dev.launchdarkly.com 146.75.94.217
-sdk-stg.launchdarkly.com 146.75.94.217
-pubnubtest.launchdarkly.com 146.75.94.217
+app.launchdarkly.com 2a04:4e42:a::729
+clientsdk.launchdarkly.com 2a04:4e42:a::729
+clientsdk-dev.launchdarkly.com 2a04:4e42:a::729
+clientsdk-stg.launchdarkly.com 2a04:4e42:a::729
+ld-stg.launchdarkly.com 2a04:4e42:a::729
+sdk.launchdarkly.com 2a04:4e42:a::729
+sdk-dev.launchdarkly.com 2a04:4e42:a::729
+sdk-stg.launchdarkly.com 2a04:4e42:a::729
+pubnubtest.launchdarkly.com 2a04:4e42:a::729
 
 qa.blog.linktr.ee 199.232.194.133
 v2.platform.linktr.ee 199.232.194.133
@@ -784,7 +786,7 @@ conference-firebase.pixiv.co.jp 151.101.197.195
 conference.pixiv.co.jp 151.101.197.195
 pixivpay.pixiv.net 151.101.197.195
 
-fdyn.pubwise.io 146.75.94.217
+fdyn.pubwise.io 2a04:4e42:a::729
 gfdyn.pubwise.io 151.101.198.132
 srvstat.pubwise.io 151.101.198.132
 www.pubwise.io 151.101.198.132
@@ -847,15 +849,15 @@ mcprod.sparco-official.com 151.101.197.124
 www.sparco-official.com 151.101.197.124
 sparco-official.com 151.101.197.124
 
-api.speedcurve.com 146.75.94.217
-app.speedcurve.com 146.75.94.217
-assets.speedcurve.com 146.75.94.217
-cdn-dev.speedcurve.com 146.75.94.217
-cdn.speedcurve.com 146.75.94.217
-chart.speedcurve.com 146.75.94.217
-staging.api.speedcurve.com 146.75.94.217
-wpt.speedcurve.com 146.75.94.217
-www.speedcurve.com 146.75.94.217
+api.speedcurve.com 2a04:4e42:a::729
+app.speedcurve.com 2a04:4e42:a::729
+assets.speedcurve.com 2a04:4e42:a::729
+cdn-dev.speedcurve.com 2a04:4e42:a::729
+cdn.speedcurve.com 2a04:4e42:a::729
+chart.speedcurve.com 2a04:4e42:a::729
+staging.api.speedcurve.com 2a04:4e42:a::729
+wpt.speedcurve.com 2a04:4e42:a::729
+www.speedcurve.com 2a04:4e42:a::729
 
 blog-img.speedcurve.com 146.75.94.208
 img.speedcurve.com 146.75.94.208
@@ -869,7 +871,7 @@ login.splashthat.com 199.232.194.133
 www.splashthat.com 199.232.194.133
 splashthat.com 199.232.194.133
 
-hbdyn.spot.im 146.75.94.217
+hbdyn.spot.im 2a04:4e42:a::729
 static-cdn.spot.im 146.75.95.52
 
 assets.squarespace.com 146.75.92.237 151.101.196.237
@@ -945,7 +947,7 @@ www.yubico.com 146.75.94.114 151.101.198.114
 wwyk.yubico.com 146.75.94.114 151.101.198.114
 yubico.com 146.75.94.114 151.101.198.114
 
-resources.yubico.com 146.75.94.217
+resources.yubico.com 2a04:4e42:a::729
 
 domain:apps.fandom.com 151.101.196.194
 domain:callofduty.fandom.com 151.101.196.194

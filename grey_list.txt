@@ -41,6 +41,9 @@ full:vdms-ssl.cedexis-test.com
 full:videos.techradar.com
 full:www.cachefly.com
 
+ac.bcon.ecdns.net
+s3.ap-southeast-2.amazonaws.com
+
 233.fi
 bittorrent.com
 blocktempo.com
@@ -112,4 +115,3 @@ keyword:18comic
 keyword:18-comic
 keyword:jmcomic
 keyword:jm-comic
-s3.ap-southeast-2.amazonaws.com

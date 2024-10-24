@@ -1,5 +1,9 @@
 # greylist
 full:api.amplitude.com
+full:api.c99.ai
+full:api.dev.c99.ai
+full:api.stage.c99.ai
+full:api.channel99.com
 full:bbs.hostevaluate.com
 full:c.adventurerv.net
 full:cachefly.alfredapp.com
@@ -27,6 +31,9 @@ full:in.appcenter.ms
 full:ocp.cscglobal.com
 full:p16999.cedexis-test.com
 full:p1cluster.cxense.com
+full:ping.channel99.io
+full:ping.dev.channel99.io
+full:ping.stage.channel99.io
 full:prod.pinterest.global.map.fastly.net
 full:qastatic.richrelevance.net
 full:s3-ap-south-1.amazonaws.com

@@ -19,6 +19,7 @@ api64.ipify.org
 kyarucloud.moe
 idcoffer.com
 google.cn
+googleapis.cn
 
 ntp.org
 qlogo.cn

@@ -101,6 +101,11 @@ ubiservices.cdn.ubi.com 72.247.97.191
 wildcard.cdn.ubi.com.edgekey.net 72.247.97.191
 regexp:^e11196\.(ds[cp])?[a-z]\.akamaiedge\.net$ 72.247.97.191
 
+support.activision.com 23.61.213.222
+s.activision.com 23.61.213.222
+san.activision.com.edgekey.net 23.61.213.222
+regexp:^e11358\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.61.213.222
+
 answers.microsoft.com 23.59.205.194
 answers.microsoft.com-v1.edgekey.net 23.59.205.194
 regexp:^e13362\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.59.205.194

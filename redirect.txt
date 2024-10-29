@@ -5,6 +5,16 @@ lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org
 geo.source.kernel.org dfw.source.kernel.org
 
+login.live.com kwa.b.v4.a.prd.aadg.akadns.net
+login.msa.msidentity.com kwa.b.v4.a.prd.aadg.akadns.net
+www.tm.lg.prod.aadmsa.trafficmanager.net kwa.b.v4.a.prd.aadg.akadns.net
+www.tm.lg.prod.aadmsa.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
+www.a.lg.prod.aadmsa.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
+default.a.lg.prod.aadmsa.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
+prdv4a.aadg.msidentity.com kwa.b.v4.a.prd.aadg.akadns.net
+www.tm.v4.a.prd.aadg.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
+www.b.v4.a.prd.aadg.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
+
 login.microsoftonline.com kwa.a.ak.prd.aadg.akadns.net
 login.mso.msidentity.com kwa.a.ak.prd.aadg.akadns.net
 ak.privatelink.msidentity.com kwa.a.ak.prd.aadg.akadns.net

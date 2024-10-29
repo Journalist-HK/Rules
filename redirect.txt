@@ -5,6 +5,12 @@ lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org
 geo.source.kernel.org dfw.source.kernel.org
 
+login.microsoftonline.com kwa.a.ak.prd.aadg.akadns.net
+login.mso.msidentity.com kwa.a.ak.prd.aadg.akadns.net
+ak.privatelink.msidentity.com kwa.a.ak.prd.aadg.akadns.net
+www.tm.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
+www.a.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
+
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com

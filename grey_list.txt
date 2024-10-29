@@ -52,6 +52,7 @@ ac.bcon.ecdns.net
 s3.ap-southeast-2.amazonaws.com
 
 233.fi
+agemys.com
 bittorrent.com
 blocktempo.com
 bootstrapcdn.com

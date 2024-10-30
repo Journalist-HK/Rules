@@ -209,20 +209,20 @@ google-ohttp-relay-query.fastly-edge.com 151.101.51.21
 preprod-google-ohttp-relay-join.fastly-edge.com 151.101.51.21
 preprod-google-ohttp-relay-query.fastly-edge.com 151.101.51.21
 
-google-ohttp-relay-safebrowsing-dev.fastly-edge.com 151.101.49.91
-google-ohttp-relay-safebrowsing-test.fastly-edge.com 151.101.49.91
-google-ohttp-relay-safebrowsing.fastly-edge.com 151.101.49.91
-meta-ohttp-relay-dev.fastly-edge.com 151.101.49.91
-meta-ohttp-relay-prod.fastly-edge.com 151.101.49.91
-mozilla-ohttp-dev.fastly-edge.com 151.101.49.91
-mozilla-ohttp-fakespot-dev.fastly-edge.com 151.101.49.91
-mozilla-ohttp-fakespot.fastly-edge.com 151.101.49.91
-mozilla-ohttp.fastly-edge.com 151.101.49.91
-www-allizom.fastly-edge.com 151.101.49.91
-www-dev-allizom.fastly-edge.com 151.101.49.91
-www-mozilla.fastly-edge.com 151.101.49.91
-tinfoil-ohttp-relay-prod.fastly-edge.com 151.101.49.91
-tinfoil-ohttp-relay-dev.fastly-edge.com 151.101.49.91
+google-ohttp-relay-safebrowsing-dev.fastly-edge.com 151.101.197.91
+google-ohttp-relay-safebrowsing-test.fastly-edge.com 151.101.197.91
+google-ohttp-relay-safebrowsing.fastly-edge.com 151.101.197.91
+meta-ohttp-relay-dev.fastly-edge.com 151.101.197.91
+meta-ohttp-relay-prod.fastly-edge.com 151.101.197.91
+mozilla-ohttp-dev.fastly-edge.com 151.101.197.91
+mozilla-ohttp-fakespot-dev.fastly-edge.com 151.101.197.91
+mozilla-ohttp-fakespot.fastly-edge.com 151.101.197.91
+mozilla-ohttp.fastly-edge.com 151.101.197.91
+www-allizom.fastly-edge.com 151.101.197.91
+www-dev-allizom.fastly-edge.com 151.101.197.91
+www-mozilla.fastly-edge.com 151.101.197.91
+tinfoil-ohttp-relay-prod.fastly-edge.com 151.101.197.91
+tinfoil-ohttp-relay-dev.fastly-edge.com 151.101.197.91
 
 vod-dash-pv-gamma.amazon.fastly-edge.com 151.101.50.145
 vod-hls-pv-gamma.amazon.fastly-edge.com 151.101.50.145
@@ -435,6 +435,34 @@ user-images.githubusercontent.com 151.101.48.133 151.101.196.133
 f.cloud.github.com 2a04:4e42:a::729
 raw.github.com 151.101.48.133 151.101.196.133
 
+account.gnome.org 151.101.197.91
+tracker.api.gnome.org 151.101.197.91
+api.gnome.org 151.101.197.91
+planeta.br.gnome.org 151.101.197.91
+bugs.gnome.org 151.101.197.91
+build.gnome.org 151.101.197.91
+tools.design.gnome.org 151.101.197.91
+download.gnome.org 151.101.197.91
+ftp.gnome.org 151.101.197.91
+gnome.pages.gitlab.gnome.org 151.101.197.91
+registry.gitlab.gnome.org 151.101.197.91
+gitlab.gnome.org 151.101.197.91
+git.gnome.org 151.101.197.91
+infrastructure.gnome.org 151.101.197.91
+las.gnome.org 151.101.197.91
+live.gnome.org 151.101.197.91
+api-lb.openshift4.gnome.org 151.101.197.91
+opw.gnome.org 151.101.197.91
+os.gnome.org 151.101.197.91
+outreachy.gnome.org 151.101.197.91
+pango.gnome.org 151.101.197.91
+people.gnome.org 151.101.197.91
+projects-old.gnome.org 151.101.197.91
+projects.gnome.org 151.101.197.91
+src.gnome.org 151.101.197.91
+view.gnome.org 151.101.197.91
+ocp-ingress.fastly.gnome.org 151.101.197.91
+
 galaxy-library.gog.com 146.75.93.55
 images-1.gog-statics.com 146.75.93.55
 images-2.gog-statics.com 146.75.93.55
@@ -483,6 +511,11 @@ gog-cdn.us-eu.map.fastly.net 146.75.93.55
 prod-static.gop.com 151.101.198.132
 www.gop.com 151.101.198.132
 gop.com 151.101.198.132
+
+docs.gtk.org 151.101.197.91
+ftp.gtk.org 151.101.197.91
+www.gtk.org 151.101.197.91
+gtk.org 151.101.197.91
 
 mediashield-na.hulu.map.fastly.net 146.75.93.87
 hulu.map.fastly.net 146.75.93.87

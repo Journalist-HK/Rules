@@ -408,6 +408,9 @@ h2.fastlylabs.map.fastly.net 2a04:4e42:a::729
 
 dl.flathub.org 2a04:4e42:a::347
 
+cdn-staging.fwupd.org 151.101.198.49
+cdn.fwupd.org 151.101.198.49
+
 avatars0.githubusercontent.com 151.101.48.133 151.101.196.133
 avatars1.githubusercontent.com 151.101.48.133 151.101.196.133
 avatars2.githubusercontent.com 151.101.48.133 151.101.196.133

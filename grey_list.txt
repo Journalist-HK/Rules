@@ -6,6 +6,7 @@ full:api.stage.c99.ai
 full:api.channel99.com
 full:bbs.hostevaluate.com
 full:c.adventurerv.net
+full:c.mi.com
 full:cachefly.alfredapp.com
 full:cachefly.discoverinspire.com
 full:cachefly.kinematics.com

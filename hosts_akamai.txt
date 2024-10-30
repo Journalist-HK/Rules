@@ -34,6 +34,10 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.(ds[cp])?[a-z]\.akamaiedge\.net$ 184.29.20.115
 
+assets.adobedtm.com 23.37.17.57
+cn-assets.adobedtm.com.edgekey.net 23.37.17.57
+regexp:^e7808\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.37.17.57
+
 static3.cdn.ubi.com 184.29.21.80
 static.cdn.ubi.com.edgekey.net 184.29.21.80
 static-ww.cdn.ubi.com.edgekey.net 184.29.21.80

@@ -7,6 +7,10 @@ salesforce.com
 samsungcloud.com
 siteforce.com
 
+ebaycdn.net
+ebaystatic.com
+ebay.com
+
 # Edgecast
 full:images.nvidia.com
 full:international-gfe.download.nvidia.com

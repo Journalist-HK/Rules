@@ -34,6 +34,11 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.(ds[cp])?[a-z]\.akamaiedge\.net$ 184.29.20.115
 
+thumbs.ebaycdn.net 2600:1406:5400:2a1::16d2
+ipv6.slot5842.ebay.com.edgekey.net 2600:1406:5400:2a1::16d2
+slot5842.ebay.com.edgekey.net 2600:1406:5400:2a1::16d2
+regexp:^e5842\.(ds[cp])?[a-z]\.akamaiedge\.net$ 2600:1406:5400:2a1::16d2
+
 assets.adobedtm.com 23.37.17.57
 cn-assets.adobedtm.com.edgekey.net 23.37.17.57
 regexp:^e7808\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.37.17.57
@@ -46,6 +51,18 @@ regexp:^e7923\.(ds[cp])?[a-z]\.akamaiedge\.net$ 184.29.21.80
 www.hackerrank.com 23.198.173.30
 hackerrank.com.edgekey.net 23.198.173.30
 regexp:^e8937\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.198.173.30
+
+www.ebay.com 23.222.205.142
+secureir.ebaystatic.com 23.222.205.142
+securepics.ebaystatic.com 23.222.205.142
+ipv6.slot9428.ebay.com.edgekey.net 23.222.205.142
+slot9428.ebay.com.edgekey.net 23.222.205.142
+regexp:^e9428\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.222.205.142
+
+signin.ebay.com 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
+ipv6.slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
+slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
+regexp:^e9430\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
 
 account.cdn.ubisoft.com 23.66.131.183
 authentication.cdn.ubisoft.com 23.66.131.183
@@ -110,14 +127,54 @@ s.activision.com 23.61.213.222
 san.activision.com.edgekey.net 23.61.213.222
 regexp:^e11358\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.61.213.222
 
-answers.microsoft.com 23.59.205.194
-answers.microsoft.com-v1.edgekey.net 23.59.205.194
-regexp:^e13362\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.59.205.194
+pages.ebay.com 23.37.17.245
+ipv4.slot11847.ebay.com.edgekey.net 23.37.17.245
+ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
+slot11847.ebay.com.edgekey.net 23.37.17.245
+regexp:^e11847\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.37.17.245
 
 store-images.s-microsoft.com 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
 store-images.s-microsoft.com-c.edgekey.net 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
 regexp:^e12564\.(ds[cp])?[a-z]\.akamaiedge\.net$ 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
 
+ipv6.slot12565.ebay.com.edgekey.net 23.222.206.28
+slot12565.ebay.com.edgekey.net 23.222.206.28
+regexp:^e12565\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.222.206.28
+
+pay.ebay.com 2600:1406:5400:292::311a
+slot12570.ebay.com.edgekey.net 2600:1406:5400:292::311a
+regexp:^e12570\.(ds[cp])?[a-z]\.akamaiedge\.net$ 2600:1406:5400:292::311a
+
+answers.microsoft.com 23.59.205.194
+answers.microsoft.com-v1.edgekey.net 23.59.205.194
+regexp:^e13362\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.59.205.194
+
 ngx.download.nvidia.com 23.199.57.43 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.43 23.199.57.80
 regexp:^e28142\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.199.57.43 23.199.57.80
+
+aka-sandbox.ebay.com 173.223.234.24 173.223.234.46
+aka-sandbox.ebaycdn.net 173.223.234.24 173.223.234.46
+aka-sandbox.ebay.com.edgekey.net 173.223.234.24 173.223.234.46
+slot86223.ebay.com.edgekey.net 173.223.234.24 173.223.234.46
+regexp:^e86223\.(ds[cp])?[a-z]\.akamaiedge\.net$ 173.223.234.24 173.223.234.46
+
+monitor.ebay.com 173.223.234.34
+gisufespipeline22.ebaycdn.net 173.223.234.34
+gisufespipeline22.ebay.com.edgekey.net 173.223.234.34
+regexp:^e102410\.(ds[cp])?[a-z]\.akamaiedge\.net$ 173.223.234.34
+
+backstory.ebay.com 173.223.234.211 2600:1406:6c00::172d:c30
+autotrack.ebay.com 173.223.234.211 2600:1406:6c00::172d:c30
+autotrack.ebaycdn.net 173.223.234.211 2600:1406:6c00::172d:c30
+autotrack.ebay.com.edgekey.net 173.223.234.211 2600:1406:6c00::172d:c30
+regexp:^e189811\.(ds[cp])?[a-z]\.akamaiedge\.net$ 173.223.234.211 2600:1406:6c00::172d:c30
+
+pulsar.ebay.com 173.223.234.6
+pulsar.ebay.com.edgekey.net 173.223.234.6
+regexp:^e207850\.(ds[cp])?[a-z]\.akamaiedge\.net$ 173.223.234.6
+
+sofe.ebay.com 173.222.162.5
+spdmetrics.ebay.com 173.222.162.5
+spdmetrics.ebay.com.edgekey.net 173.222.162.5
+regexp:^e219129\.(ds[cp])?[a-z]\.akamaiedge\.net$ 173.222.162.5

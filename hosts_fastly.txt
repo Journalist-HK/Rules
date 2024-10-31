@@ -8,7 +8,7 @@ regexp:^(dualstack\.)?j\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.132
 regexp:^(dualstack\.)?k\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.137
 regexp:^(dualstack\.)?l\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.107
 regexp:^(dualstack\.)?m\.sni\.(global|us-eu)\.fastly\.net$ 146.75.93.55
-regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 2a04:4e42:a::347
+regexp:^(dualstack\.)?n\.sni\.(global|us-eu)\.fastly\.net$ 151.101.49.91
 regexp:^(dualstack\.)?o\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.32
 regexp:^(dualstack\.)?p\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.41
 regexp:^(dualstack\.)?q\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.215
@@ -124,7 +124,7 @@ global.ssl.fastly.net 146.75.92.249
 domain:global.prod.fastly.net 146.75.92.249
 domain:prod.fastly.net 146.75.92.204 151.101.196.204
 
-time.fastly.net 2a04:4e42:a::347
+time.fastly.net 151.101.49.91
 
 www.fastly.net 151.101.197.6
 fastly.net 151.101.197.6
@@ -168,20 +168,20 @@ zd.fastly.com 146.75.94.137
 cfg.fastly.com.map.fastly.net 146.75.94.137
 zd.fastly.com.map.fastly.net 146.75.94.137
 
-abuse.fastly.com 2a04:4e42:a::347
-connect.fastly.com 2a04:4e42:a::347
-fanout.fastly.com 2a04:4e42:a::347
-learn.fastly.com 2a04:4e42:a::347
-shiply.fastly.com 2a04:4e42:a::347
-status.fastly.com 2a04:4e42:a::347
+abuse.fastly.com 151.101.49.91
+connect.fastly.com 151.101.49.91
+fanout.fastly.com 151.101.49.91
+learn.fastly.com 151.101.49.91
+shiply.fastly.com 151.101.49.91
+status.fastly.com 151.101.49.91
 
-docs.fastly.com 2a04:4e42:a::347
-docs-legacy.fastly.com 2a04:4e42:a::347
-docs-next.fastly.com 2a04:4e42:a::347
-docs.fastly.com.map.fastly.net 2a04:4e42:a::347
+docs.fastly.com 151.101.49.91
+docs-legacy.fastly.com 151.101.49.91
+docs-next.fastly.com 151.101.49.91
+docs.fastly.com.map.fastly.net 151.101.49.91
 
-quic.fastly.com 2a04:4e42:a::347
-quic.map.fastly.net 2a04:4e42:a::347
+quic.fastly.com 151.101.49.91
+quic.map.fastly.net 151.101.49.91
 
 developers.fastly.com 151.101.197.57
 domain:developer.fastly.com 151.101.197.57
@@ -209,20 +209,20 @@ google-ohttp-relay-query.fastly-edge.com 151.101.51.21
 preprod-google-ohttp-relay-join.fastly-edge.com 151.101.51.21
 preprod-google-ohttp-relay-query.fastly-edge.com 151.101.51.21
 
-google-ohttp-relay-safebrowsing-dev.fastly-edge.com 151.101.197.91
-google-ohttp-relay-safebrowsing-test.fastly-edge.com 151.101.197.91
-google-ohttp-relay-safebrowsing.fastly-edge.com 151.101.197.91
-meta-ohttp-relay-dev.fastly-edge.com 151.101.197.91
-meta-ohttp-relay-prod.fastly-edge.com 151.101.197.91
-mozilla-ohttp-dev.fastly-edge.com 151.101.197.91
-mozilla-ohttp-fakespot-dev.fastly-edge.com 151.101.197.91
-mozilla-ohttp-fakespot.fastly-edge.com 151.101.197.91
-mozilla-ohttp.fastly-edge.com 151.101.197.91
-www-allizom.fastly-edge.com 151.101.197.91
-www-dev-allizom.fastly-edge.com 151.101.197.91
-www-mozilla.fastly-edge.com 151.101.197.91
-tinfoil-ohttp-relay-prod.fastly-edge.com 151.101.197.91
-tinfoil-ohttp-relay-dev.fastly-edge.com 151.101.197.91
+google-ohttp-relay-safebrowsing-dev.fastly-edge.com 151.101.49.91
+google-ohttp-relay-safebrowsing-test.fastly-edge.com 151.101.49.91
+google-ohttp-relay-safebrowsing.fastly-edge.com 151.101.49.91
+meta-ohttp-relay-dev.fastly-edge.com 151.101.49.91
+meta-ohttp-relay-prod.fastly-edge.com 151.101.49.91
+mozilla-ohttp-dev.fastly-edge.com 151.101.49.91
+mozilla-ohttp-fakespot-dev.fastly-edge.com 151.101.49.91
+mozilla-ohttp-fakespot.fastly-edge.com 151.101.49.91
+mozilla-ohttp.fastly-edge.com 151.101.49.91
+www-allizom.fastly-edge.com 151.101.49.91
+www-dev-allizom.fastly-edge.com 151.101.49.91
+www-mozilla.fastly-edge.com 151.101.49.91
+tinfoil-ohttp-relay-prod.fastly-edge.com 151.101.49.91
+tinfoil-ohttp-relay-dev.fastly-edge.com 151.101.49.91
 
 vod-dash-pv-gamma.amazon.fastly-edge.com 151.101.50.145
 vod-hls-pv-gamma.amazon.fastly-edge.com 151.101.50.145
@@ -251,8 +251,8 @@ ar5iv.labs.arxiv.org 151.101.51.52
 ar5iv.arxiv.org 151.101.51.52
 web3.arxiv.org 151.101.51.52
 
-status.dev.arxiv.org 2a04:4e42:a::347
-status.arxiv.org 2a04:4e42:a::347
+status.dev.arxiv.org 151.101.49.91
+status.arxiv.org 151.101.49.91
 
 aps.arxiv.org 146.75.95.42
 au.arxiv.org 146.75.95.42
@@ -272,22 +272,22 @@ xxx.arxiv.org 146.75.95.42
 za.arxiv.org 146.75.95.42
 arxiv.org 146.75.95.42
 
-admin.bitwarden.com 2a04:4e42:a::347
-api.bitwarden.com 2a04:4e42:a::347
-artifacts.bitwarden.com 2a04:4e42:a::347
-assets.bitwarden.com 2a04:4e42:a::347
-bws.bitwarden.com 2a04:4e42:a::347
-events.bitwarden.com 2a04:4e42:a::347
-identity.bitwarden.com 2a04:4e42:a::347
-mobileapp.bitwarden.com 2a04:4e42:a::347
-notifications.bitwarden.com 2a04:4e42:a::347
-preview.bitwarden.com 2a04:4e42:a::347
-push.bitwarden.com 2a04:4e42:a::347
-scim.bitwarden.com 2a04:4e42:a::347
-sso.bitwarden.com 2a04:4e42:a::347
-vault.bitwarden.com 2a04:4e42:a::347
-bitwarden.com 2a04:4e42:a::347
-icons.bitwarden.net 2a04:4e42:a::347
+admin.bitwarden.com 151.101.49.91
+api.bitwarden.com 151.101.49.91
+artifacts.bitwarden.com 151.101.49.91
+assets.bitwarden.com 151.101.49.91
+bws.bitwarden.com 151.101.49.91
+events.bitwarden.com 151.101.49.91
+identity.bitwarden.com 151.101.49.91
+mobileapp.bitwarden.com 151.101.49.91
+notifications.bitwarden.com 151.101.49.91
+preview.bitwarden.com 151.101.49.91
+push.bitwarden.com 151.101.49.91
+scim.bitwarden.com 151.101.49.91
+sso.bitwarden.com 151.101.49.91
+vault.bitwarden.com 151.101.49.91
+bitwarden.com 151.101.49.91
+icons.bitwarden.net 151.101.49.91
 
 manifest.prod.boltdns.net 2a04:4e42:7a::539
 manifest.qa.boltdns.net 2a04:4e42:7a::539
@@ -368,7 +368,7 @@ s3-cloudinary-pin.map.fastly.net 151.101.50.104
 s4-cloudinary-pin.map.fastly.net 151.101.50.102
 s5-cloudinary-pin.map.fastly.net 151.101.50.0
 
-download.cnet.com 2a04:4e42:a::347
+download.cnet.com 151.101.49.91
 
 archive.debian.org 151.101.198.132
 cdn-fastly.deb.debian.org 151.101.198.132
@@ -393,6 +393,15 @@ debian.map.fastlydns.net 151.101.198.132
 
 play.cdn.dlsite.com 151.101.198.132
 
+apisd.sandbox.ebaycdn.net 151.101.50.206
+t3-apisd.ebaycdn.net 151.101.50.206
+apisd.sandbox.ebay.com 151.101.50.206
+t3-apisd.ebay.com 151.101.50.206
+ipv4.ebaymobile.map.fastly.net 151.101.50.206
+ebaymobile.map.fastly.net 151.101.50.206
+ebayimg.map.fastly.net 151.101.50.206
+ebaystatic.ebay.map.fastly.net 151.101.50.206
+
 cap-api.fastly.com 151.101.197.51
 demo-issuer.private-access-tokens.fastly.com 151.101.197.51
 edge-clientsdk.prod.launchdarkly.com 151.101.197.51
@@ -406,7 +415,7 @@ www.fastlylabs.com 2a04:4e42:a::729
 fastlylabs.com 2a04:4e42:a::729
 h2.fastlylabs.map.fastly.net 2a04:4e42:a::729
 
-dl.flathub.org 2a04:4e42:a::347
+dl.flathub.org 151.101.49.91
 
 cdn-staging.fwupd.org 151.101.198.49
 cdn.fwupd.org 151.101.198.49
@@ -435,33 +444,33 @@ user-images.githubusercontent.com 151.101.48.133 151.101.196.133
 f.cloud.github.com 2a04:4e42:a::729
 raw.github.com 151.101.48.133 151.101.196.133
 
-account.gnome.org 151.101.197.91
-tracker.api.gnome.org 151.101.197.91
-api.gnome.org 151.101.197.91
-planeta.br.gnome.org 151.101.197.91
-bugs.gnome.org 151.101.197.91
-build.gnome.org 151.101.197.91
-tools.design.gnome.org 151.101.197.91
-download.gnome.org 151.101.197.91
-ftp.gnome.org 151.101.197.91
-gnome.pages.gitlab.gnome.org 151.101.197.91
-registry.gitlab.gnome.org 151.101.197.91
-gitlab.gnome.org 151.101.197.91
-git.gnome.org 151.101.197.91
-infrastructure.gnome.org 151.101.197.91
-las.gnome.org 151.101.197.91
-live.gnome.org 151.101.197.91
-api-lb.openshift4.gnome.org 151.101.197.91
-opw.gnome.org 151.101.197.91
-os.gnome.org 151.101.197.91
-outreachy.gnome.org 151.101.197.91
-pango.gnome.org 151.101.197.91
-people.gnome.org 151.101.197.91
-projects-old.gnome.org 151.101.197.91
-projects.gnome.org 151.101.197.91
-src.gnome.org 151.101.197.91
-view.gnome.org 151.101.197.91
-ocp-ingress.fastly.gnome.org 151.101.197.91
+account.gnome.org 151.101.49.91
+tracker.api.gnome.org 151.101.49.91
+api.gnome.org 151.101.49.91
+planeta.br.gnome.org 151.101.49.91
+bugs.gnome.org 151.101.49.91
+build.gnome.org 151.101.49.91
+tools.design.gnome.org 151.101.49.91
+download.gnome.org 151.101.49.91
+ftp.gnome.org 151.101.49.91
+gnome.pages.gitlab.gnome.org 151.101.49.91
+registry.gitlab.gnome.org 151.101.49.91
+gitlab.gnome.org 151.101.49.91
+git.gnome.org 151.101.49.91
+infrastructure.gnome.org 151.101.49.91
+las.gnome.org 151.101.49.91
+live.gnome.org 151.101.49.91
+api-lb.openshift4.gnome.org 151.101.49.91
+opw.gnome.org 151.101.49.91
+os.gnome.org 151.101.49.91
+outreachy.gnome.org 151.101.49.91
+pango.gnome.org 151.101.49.91
+people.gnome.org 151.101.49.91
+projects-old.gnome.org 151.101.49.91
+projects.gnome.org 151.101.49.91
+src.gnome.org 151.101.49.91
+view.gnome.org 151.101.49.91
+ocp-ingress.fastly.gnome.org 151.101.49.91
 
 galaxy-library.gog.com 146.75.93.55
 images-1.gog-statics.com 146.75.93.55
@@ -512,10 +521,10 @@ prod-static.gop.com 151.101.198.132
 www.gop.com 151.101.198.132
 gop.com 151.101.198.132
 
-docs.gtk.org 151.101.197.91
-ftp.gtk.org 151.101.197.91
-www.gtk.org 151.101.197.91
-gtk.org 151.101.197.91
+docs.gtk.org 151.101.49.91
+ftp.gtk.org 151.101.49.91
+www.gtk.org 151.101.49.91
+gtk.org 151.101.49.91
 
 mediashield-na.hulu.map.fastly.net 146.75.93.87
 hulu.map.fastly.net 146.75.93.87
@@ -591,12 +600,12 @@ static.jquery.com 146.75.94.137
 fastly.jsdelivr.net 146.75.93.229
 jsdelivr.map.fastly.net 146.75.93.229
 
-app.jumptoon.com 2a04:4e42:a::347
-assets.jumptoon.com 2a04:4e42:a::347
-contents.jumptoon.com 2a04:4e42:a::347
-static.jumptoon.com 2a04:4e42:a::347
-jumptoon.com 2a04:4e42:a::347
-jumptoon.map.fastly.net 2a04:4e42:a::347
+app.jumptoon.com 151.101.49.91
+assets.jumptoon.com 151.101.49.91
+contents.jumptoon.com 151.101.49.91
+static.jumptoon.com 151.101.49.91
+jumptoon.com 151.101.49.91
+jumptoon.map.fastly.net 151.101.49.91
 
 console.test.boost.jwplayer.com 151.101.197.195
 hook.jwplayer.com 151.101.50.114
@@ -727,11 +736,11 @@ hawk.musicradar.com 151.101.50.114
 www.musicradar.com 151.101.50.114
 musicradar.com 151.101.50.114
 
-cdn-fastly.obsproject.com 2a04:4e42:a::347
+cdn-fastly.obsproject.com 151.101.49.91
 
-cdn.overclock.net 2a04:4e42:a::347
-www.overclock.net 2a04:4e42:a::347
-overclock.net 2a04:4e42:a::347
+cdn.overclock.net 151.101.49.91
+www.overclock.net 151.101.49.91
+overclock.net 151.101.49.91
 
 www.paypal.com.cn 151.101.51.1
 
@@ -963,15 +972,9 @@ hawk.techradar.com 151.101.50.114
 www.techradar.com 151.101.50.114
 techradar.com 151.101.50.114
 
-staging.techrepublic.com 2a04:4e42:a::347
-www.techrepublic.com 2a04:4e42:a::347
-techrepublic.com 2a04:4e42:a::347
-
-duet-staging.theverge.com 2a04:4e42:a::347
-duet-test.theverge.com 2a04:4e42:a::347
-duet.theverge.com 2a04:4e42:a::347
-www.theverge.com 2a04:4e42:a::347
-theverge.com 2a04:4e42:a::347
+staging.techrepublic.com 151.101.49.91
+www.techrepublic.com 151.101.49.91
+techrepublic.com 151.101.49.91
 
 domain:ticketmaster.map.fastly.net 146.75.93.204
 ticketmaster2.map.fastly.net 146.75.94.87 151.101.198.87
@@ -1006,21 +1009,21 @@ f.vimeocdn.com 146.75.94.109
 vimeocdn.com 146.75.94.109
 domain:vimeo-video.map.fastly.net 146.75.94.109
 
+cdn.cstatic.net 146.75.92.204 151.101.196.204
+duet-staging.theverge.com 151.101.49.91
+duet-test.theverge.com 151.101.49.91
+duet.theverge.com 151.101.49.91
+www.theverge.com 151.101.49.91
+theverge.com 151.101.49.91
+duet-cdn.vox-cdn.com 151.101.49.91
+
+cdn.vox-cdn.com 151.101.48.124
+z.vox-cdn.com 151.101.48.124
+vox-cdn.com 151.101.48.124
+prod.vox.map.fastly.net 151.101.48.124
+
 walmart-nosni.map.fastly.net 146.75.93.74
 walmart.map.fastly.net 199.232.194.133
-
-demo.yubico.com 151.101.50.114
-developers.yubico.com 151.101.50.114
-docs.yubico.com 151.101.50.114
-downloads.yubico.com 151.101.50.114
-email.pr.yubico.com 151.101.50.114
-fastly-www.stage.yubico.com 151.101.50.114
-forum.yubico.com 151.101.50.114
-www.yubico.com 151.101.50.114
-wwyk.yubico.com 151.101.50.114
-yubico.com 151.101.50.114
-
-resources.yubico.com 2a04:4e42:a::729
 
 domain:apps.fandom.com 151.101.196.194
 domain:callofduty.fandom.com 151.101.196.194
@@ -1097,6 +1100,18 @@ www.wikia.net 151.101.196.194
 wikia.net 151.101.196.194
 domain:wikia.org 151.101.196.194
 domain:wikia.map.fastly.net 151.101.196.194
+
+demo.yubico.com 151.101.50.114
+developers.yubico.com 151.101.50.114
+docs.yubico.com 151.101.50.114
+downloads.yubico.com 151.101.50.114
+email.pr.yubico.com 151.101.50.114
+fastly-www.stage.yubico.com 151.101.50.114
+forum.yubico.com 151.101.50.114
+www.yubico.com 151.101.50.114
+wwyk.yubico.com 151.101.50.114
+yubico.com 151.101.50.114
+resources.yubico.com 2a04:4e42:a::729
 
 b.cdnst.net 151.101.198.219
 zd.map.fastly.net 151.101.198.219

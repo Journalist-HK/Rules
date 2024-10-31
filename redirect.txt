@@ -1,5 +1,12 @@
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
+i.ebayimg.com e9428.dsca.akamaiedge.net
+images.ebaycdn.net e9428.dsca.akamaiedge.net
+ir.ebaystatic.com e11847.a.akamaiedge.net
+ir.ebaycdn.net e11847.a.akamaiedge.net
+apisd.ebay.com e12565.a.akamaiedge.net
+apisd.ebaycdn.net e12565.a.akamaiedge.net
+
 git.kernel.org dfw.source.kernel.org
 lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org

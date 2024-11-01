@@ -11,6 +11,7 @@
 2a00:da00::/32
 
 # AS16509 Amazon.com, Inc.
+13.40.0.0/14
 18.132.0.0/14
 
 # AS24940 Hetzner Online GmbH

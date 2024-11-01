@@ -1025,27 +1025,16 @@ prod.vox.map.fastly.net 151.101.48.124
 walmart-nosni.map.fastly.net 146.75.93.74
 walmart.map.fastly.net 199.232.194.133
 
-domain:apps.fandom.com 151.101.196.194
-domain:callofduty.fandom.com 151.101.196.194
-domain:counterstrike.fandom.com 151.101.196.194
-domain:battlefield.fandom.com 151.101.196.194
-domain:eldenring.fandom.com 151.101.196.194
+# move to redirect
+# adgt.fandom.com partners.ids.ad.gt
+# metallicmenace.fandom.com d1ha795gd19jee.cloudfront.net
+# sli.fandom.com d1e21p1elafqwq.cloudfront.net
+# support.fandom.com fandom.zendesk.com
+gis.fandom.com 34.105.21.52
+linkst.fandom.com 3.226.166.212 107.20.71.201
+rs-stripe.fandom.com 20.225.97.235
 www.externaltest.fandom.com 199.232.194.133
-domain:externaltest.fandom.com 151.101.196.194
-domain:foo.fandom.com 151.101.196.194
-domain:forza.fandom.com 151.101.196.194
-domain:minecraft-archive.fandom.com 151.101.196.194
-domain:minecraft.fandom.com 151.101.196.194
-domain:related.fandom.com 151.101.196.194
-domain:sandbox-adeng02.fandom.com 151.101.196.194
-domain:sandbox-adeng08.fandom.com 151.101.196.194
-domain:scratchpad.fandom.com 151.101.196.194
-domain:sdf.fandom.com 151.101.196.194
-domain:services.fandom.com 151.101.196.194
-domain:showcase.fandom.com 151.101.196.194
-domain:valorant.fandom.com 151.101.196.194
-domain:www.fandom.com 151.101.196.194
-fandom.com 151.101.196.194
+domain:fandom.com 151.101.196.194
 www.fandom.net 151.101.196.194
 fandom.net 151.101.196.194
 

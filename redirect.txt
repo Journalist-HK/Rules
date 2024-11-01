@@ -7,6 +7,11 @@ ir.ebaycdn.net e11847.a.akamaiedge.net
 apisd.ebay.com e12565.a.akamaiedge.net
 apisd.ebaycdn.net e12565.a.akamaiedge.net
 
+adgt.fandom.com partners.ids.ad.gt
+metallicmenace.fandom.com d1ha795gd19jee.cloudfront.net
+sli.fandom.com d1e21p1elafqwq.cloudfront.net
+support.fandom.com fandom.zendesk.com
+
 git.kernel.org dfw.source.kernel.org
 lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org

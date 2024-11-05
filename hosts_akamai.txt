@@ -133,9 +133,9 @@ ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
 slot11847.ebay.com.edgekey.net 23.37.17.245
 regexp:^e11847\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.37.17.245
 
-store-images.s-microsoft.com 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
-store-images.s-microsoft.com-c.edgekey.net 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
-regexp:^e12564\.(ds[cp])?[a-z]\.akamaiedge\.net$ 2600:1406:3a00:786::3114 2600:1406:3a00:787::3114
+store-images.s-microsoft.com 2600:1406:5400:49f::3114
+store-images.s-microsoft.com-c.edgekey.net 2600:1406:5400:49f::3114
+regexp:^e12564\.(ds[cp])?[a-z]\.akamaiedge\.net$ 2600:1406:5400:49f::3114
 
 ipv6.slot12565.ebay.com.edgekey.net 23.222.206.28
 slot12565.ebay.com.edgekey.net 23.222.206.28

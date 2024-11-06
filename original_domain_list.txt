@@ -73,3 +73,5 @@ full:www.jbl.nl
 full:www.jbl.se
 
 msftconnecttest.com
+
+full:public.parsec.app

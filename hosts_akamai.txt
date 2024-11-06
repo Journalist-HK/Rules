@@ -149,6 +149,13 @@ answers.microsoft.com 23.59.205.194
 answers.microsoft.com-v1.edgekey.net 23.59.205.194
 regexp:^e13362\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.59.205.194
 
+c.s-microsoft.com 23.37.18.39
+i.s-microsoft.com 23.37.18.39
+c-s.cms.ms.akadns.net 23.37.18.39
+i.s-microsoft.com.edgekey.net 23.37.18.39
+c.s-microsoft.com-c.edgekey.net 23.37.18.39
+regexp:^e13678\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.37.18.39
+
 ngx.download.nvidia.com 23.199.57.43 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.43 23.199.57.80
 regexp:^e28142\.(ds[cp])?[a-z]\.akamaiedge\.net$ 23.199.57.43 23.199.57.80

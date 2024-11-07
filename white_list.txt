@@ -92,6 +92,9 @@ ixgvideo.com
 bdxiguaimg.com
 bdxiguastatic.com
 
+# Apple
+cdn-apple.com
+
 # Google CN
 google.cn
 googleapis.cn

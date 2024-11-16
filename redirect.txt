@@ -17,6 +17,20 @@ lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org
 geo.source.kernel.org dfw.source.kernel.org
 
+dms.licdn.com dms-amd.akamaized.net
+2-01-2c3e-004c.cdx.cedexis.net dms-amd.akamaized.net
+media-exp1.licdn.com od.linkedin.edgesuite.net
+media-exp2.licdn.com od.linkedin.edgesuite.net
+media-exp3.licdn.com od.linkedin.edgesuite.net
+media.licdn.com od.linkedin.edgesuite.net
+2-01-2c3e-005c.cdx.cedexis.net od.linkedin.edgesuite.net
+static-exp1.licdn.com www-linkedin-com.l-0005.l-msedge.net
+static-exp2.licdn.com od.linkedin.edgesuite.net
+static.licdn.com od.linkedin.edgesuite.net
+2-01-2c3e-003d.cdx.cedexis.net od.linkedin.edgesuite.net
+static-exp3.licdn.com od.linkedin.edgesuite.net
+pulsar.lnkdns.net od.linkedin.edgesuite.net
+
 login.live.com kwa.b.v4.a.prd.aadg.akadns.net
 login.msa.msidentity.com kwa.b.v4.a.prd.aadg.akadns.net
 www.tm.lg.prod.aadmsa.trafficmanager.net kwa.b.v4.a.prd.aadg.akadns.net
@@ -43,29 +57,25 @@ res-ocdi-public.trafficmanager.net res-1.public.onecdn.static.microsoft
 avty.xboxlive.com l-0006.l-msedge.net
 avty.xboxlive.com.akadns.net l-0006.l-msedge.net
 
-dlassets.xboxlive.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
-dlassets.xboxlive.com.delivery.microsoft.com edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
-xbx-dlassets-net.trafficmanager.net edge.ds-c7105-microsoft.global.dns.qwilted-cds.cqloud.com
+dlassets.xboxlive.com dlassets.xboxlive.com.edgesuite.net
+dlassets.xboxlive.com.delivery.microsoft.com dlassets.xboxlive.com.edgesuite.net
+xbx-dlassets-net.trafficmanager.net dlassets.xboxlive.com.edgesuite.net
 
-assets1.xboxlive.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
-assets1.xboxlive.com.delivery.microsoft.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
-xbx-f-net.trafficmanager.net edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+assets1.xboxlive.com assets1.xboxlive.com.edgesuite.net
+assets1.xboxlive.com.delivery.microsoft.com assets1.xboxlive.com.edgesuite.net
+xbx-f-net.trafficmanager.net assets1.xboxlive.com.edgesuite.net
 
-assets2.xboxlive.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
-assets2.xboxlive.com.delivery.microsoft.com edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
-xbx-f-geo.trafficmanager.net edge.ds-c7106-microsoft.global.dns.qwilted-cds.cqloud.com
+assets2.xboxlive.com assets1.xboxlive.com.edgesuite.net
+assets2.xboxlive.com.delivery.microsoft.com assets1.xboxlive.com.edgesuite.net
+xbx-f-geo.trafficmanager.net assets1.xboxlive.com.edgesuite.net
 
-d1.xboxlive.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
-d1.xboxlive.com.delivery.microsoft.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
-xbx-b-net.trafficmanager.net edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+d1.xboxlive.com d1.xboxlive.com.edgesuite.net
+d1.xboxlive.com.delivery.microsoft.com d1.xboxlive.com.edgesuite.net
+xbx-b-net.trafficmanager.net d1.xboxlive.com.edgesuite.net
 
-d2.xboxlive.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
-d2.xboxlive.com.delivery.microsoft.com edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
-xbx-b-geo.trafficmanager.net edge.ds-c7107-microsoft.global.dns.qwilted-cds.cqloud.com
+d2.xboxlive.com d1.xboxlive.com.edgesuite.net
+d2.xboxlive.com.delivery.microsoft.com d1.xboxlive.com.edgesuite.net
+xbx-b-geo.trafficmanager.net d1.xboxlive.com.edgesuite.net
 
 regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
 maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
-
-sisu.xboxlive.com sisu.xboxlive.com.edgekey.net
-sisu.xboxlive.com.akadns.net sisu.xboxlive.com.edgekey.net
-us-west-sisu.xboxlive.com.akadns.net sisu.xboxlive.com.edgekey.net

@@ -16,6 +16,9 @@ full:images.nvidia.com
 full:international-gfe.download.nvidia.com
 phicdn.net
 
+# Limelight
+llnwi.net
+
 # Tencent
 levelinfinite.com
 midasbuy.com
@@ -23,6 +26,3 @@ playdeltaforce.com
 playerinfinite.com
 ovslegodl.sched.ovscdns.com
 ovslegovideo.sched.apdcdn.com
-
-full:inbox.assist.gameservices.xboxlive.com
-full:xainfrontendtrafficmanprod.trafficmanager.net

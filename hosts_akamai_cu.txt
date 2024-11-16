@@ -18,14 +18,11 @@ gameclipscontent-d2009.xboxlive.com 23.36.229.48 23.45.9.48
 images-eds-ssl.xboxlive.com 23.36.229.48 23.45.9.48
 peoplehub.xboxlive.com 23.36.229.48 23.45.9.48
 rta.xboxlive.com 23.36.229.48 23.45.9.48
-sisu.xboxlive.com 23.36.229.48 23.45.9.48
 titlehub.xboxlive.com 23.36.229.48 23.45.9.48
-us-west-sisu.xboxlive.com.akadns.net 23.36.229.48 23.45.9.48
 xforgeassets001.xboxlive.com 23.36.229.48 23.45.9.48
 xforgeassets002.xboxlive.com 23.36.229.48 23.45.9.48
 xnotify.xboxlive.com 23.36.229.48 23.45.9.48
 rta.xboxlive.com.akadns.net 23.36.229.48 23.45.9.48
-sisu.xboxlive.com.akadns.net 23.36.229.48 23.45.9.48
 dlassets-ssl.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 gameclipscontent-d.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 images-eds-ssl.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
@@ -172,7 +169,7 @@ aka-sandbox.ebaycdn.net 173.223.234.24 173.223.234.46
 aka-sandbox.ebay.com.edgekey.net 173.223.234.24 173.223.234.46
 slot86223.ebay.com.edgekey.net 173.223.234.24 173.223.234.46
 regexp:^e86223\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 173.223.234.24 173.223.234.46
-
+((dsc)?[a-z]|(dsp)?[a-x])
 monitor.ebay.com 173.223.234.34
 gisufespipeline22.ebaycdn.net 173.223.234.34
 gisufespipeline22.ebay.com.edgekey.net 173.223.234.34

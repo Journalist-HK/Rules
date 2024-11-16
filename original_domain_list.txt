@@ -2,10 +2,10 @@ gitbook.io
 hkelectric.com
 pacloudflare.com
 api.letsencrypt.org
-full:mjjpgs.mahjongsoul.com
-full:mjjpgsbk.mahjongsoul.com
-full:mjusgs.mahjongsoul.com
-full:mjusgsbk.mahjongsoul.com
+full:engamebk.mahjongsoul.com
+full:engame.mahjongsoul.com
+full:jpgamebk.mahjongsoul.com
+full:jpgame.mahjongsoul.com
 full:passport.mahjongsoul.com
 
 full:custom.crisp.help

@@ -1,0 +1,12 @@
+full:docs.amd.com
+aws.antidot.net
+fluidtopics.net
+
+global.dns.qwilted-cds.cqloud.com
+
+full:download-baishan.catmajsoul.com
+full:download-baishan.catmajsoul.com.trpcdn.net
+full:ztyrim.v.trpcdn.net
+full:download-baishan.catmjstudio.com
+full:download-baishan.catmjstudio.com.trpcdn.net
+zbsrim.v.trpcdn.net

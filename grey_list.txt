@@ -41,6 +41,7 @@ full:s3-ap-south-1.amazonaws.com
 full:sdk.fra-01.braze.eu
 full:smartupdate1.centralpointnow.com
 full:software.onthehub.com
+full:stackcdn.digitaleast.mobi
 full:store.draculatheme.com
 full:tracker.cloudit.top
 full:twit.cachefly.com

@@ -13,179 +13,185 @@ clan.steamstatic.com 23.46.229.200 202.142.229.42
 community.steamstatic.com 23.46.229.200 202.142.229.42
 store.steamstatic.com 23.46.229.200 202.142.229.42
 
-dlassets-ssl.xboxlive.com 23.36.229.48 23.45.9.48
-gameclipscontent-d2009.xboxlive.com 23.36.229.48 23.45.9.48
-images-eds-ssl.xboxlive.com 23.36.229.48 23.45.9.48
-peoplehub.xboxlive.com 23.36.229.48 23.45.9.48
-rta.xboxlive.com 23.36.229.48 23.45.9.48
-titlehub.xboxlive.com 23.36.229.48 23.45.9.48
-xforgeassets001.xboxlive.com 23.36.229.48 23.45.9.48
-xforgeassets002.xboxlive.com 23.36.229.48 23.45.9.48
-xnotify.xboxlive.com 23.36.229.48 23.45.9.48
-rta.xboxlive.com.akadns.net 23.36.229.48 23.45.9.48
-dlassets-ssl.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-gameclipscontent-d.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-images-eds-ssl.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-peoplehub.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-rta.xboxlive.com-c.edgekey.net 23.36.229.48 23.45.9.48
-sisu.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-titlehub.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-wildcard.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-xforgeassets.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
-regexp:^e87\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.36.229.48 23.45.9.48
+dlassets-ssl.xboxlive.com 184.50.90.9
+gameclipscontent-d2009.xboxlive.com 184.50.90.9
+images-eds-ssl.xboxlive.com 184.50.90.9
+peoplehub.xboxlive.com 184.50.90.9
+rta.xboxlive.com 184.50.90.9
+sisu.xboxlive.com 184.50.90.9
+titlehub.xboxlive.com 184.50.90.9
+us-west-sisu.xboxlive.com.akadns.net  184.50.90.9
+xforgeassets001.xboxlive.com 184.50.90.9
+xforgeassets002.xboxlive.com 184.50.90.9
+xnotify.xboxlive.com 184.50.90.9
+rta.xboxlive.com.akadns.net 184.50.90.9
+sisu.xboxlive.com.akadns.net 184.50.90.9
+dlassets-ssl.xboxlive.com.edgekey.net 184.50.90.9
+gameclipscontent-d.xboxlive.com.edgekey.net 184.50.90.9
+images-eds-ssl.xboxlive.com.edgekey.net 184.50.90.9
+peoplehub.xboxlive.com.edgekey.net 184.50.90.9
+rta.xboxlive.com-c.edgekey.net 184.50.90.9
+sisu.xboxlive.com.edgekey.net 184.50.90.9
+titlehub.xboxlive.com.edgekey.net 184.50.90.9
+wildcard.xboxlive.com.edgekey.net 184.50.90.9
+xforgeassets.xboxlive.com.edgekey.net 184.50.90.9
+regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.90.9
 
-res-1.public.onecdn.static.microsoft 184.29.20.115
-res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
-regexp:^e2808\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 184.29.20.115
+res-1.public.onecdn.static.microsoft 2600:140b:2c00:584::af8
+res-1.public.onecdn.static.microsoft.edgekey.net 2600:140b:2c00:584::af8
+regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:584::af8
 
-thumbs.ebaycdn.net 2600:1406:5400:2a1::16d2
-ipv6.slot5842.ebay.com.edgekey.net 2600:1406:5400:2a1::16d2
-slot5842.ebay.com.edgekey.net 2600:1406:5400:2a1::16d2
-regexp:^e5842\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 2600:1406:5400:2a1::16d2
+ipv6.slot5842.ebay.com.edgekey.net 2600:140b:4800:497::16d2
+slot5842.ebay.com.edgekey.net 2600:140b:4800:497::16d2
+regexp:^e5842\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:497::16d2
 
-assets.adobedtm.com 23.37.17.57
-cn-assets.adobedtm.com.edgekey.net 23.37.17.57
-regexp:^e7808\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.37.17.57
+assets.adobedtm.com 2600:140b:2c00:4b6::1e80
+cn-assets.adobedtm.com.edgekey.net 2600:140b:2c00:4b6::1e80
+regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::1e80
 
-static3.cdn.ubi.com 184.29.21.80
-static.cdn.ubi.com.edgekey.net 184.29.21.80
-static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
-regexp:^e7923\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 184.29.21.80
+static3.cdn.ubi.com 2600:140b:1e00:488::1ef3
+static.cdn.ubi.com.edgekey.net 2600:140b:1e00:488::1ef3
+static-ww.cdn.ubi.com.edgekey.net 2600:140b:1e00:488::1ef3
+regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:1e00:488::1ef3
 
-www.hackerrank.com 23.198.173.30
-hackerrank.com.edgekey.net 23.198.173.30
-regexp:^e8937\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.198.173.30
+www.hackerrank.com 2600:140b:4800:493::22e9
+hackerrank.com.edgekey.net 2600:140b:4800:493::22e9
+regexp:^e8937\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:493::22e9
 
-www.ebay.com 23.222.205.142
-secureir.ebaystatic.com 23.222.205.142
-securepics.ebaystatic.com 23.222.205.142
-ipv6.slot9428.ebay.com.edgekey.net 23.222.205.142
-slot9428.ebay.com.edgekey.net 23.222.205.142
-regexp:^e9428\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.222.205.142
+www.ebay.com 184.50.91.168
+secureir.ebaystatic.com 184.50.91.168
+securepics.ebaystatic.com 184.50.91.168
+ipv6.slot9428.ebay.com.edgekey.net 184.50.91.168
+slot9428.ebay.com.edgekey.net 184.50.91.168
+regexp:^e9428\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.91.168
 
-signin.ebay.com 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
-ipv6.slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
-slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
-regexp:^e9430\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.48.183.178 2600:1406:5400:29b::24d6 2600:1406:5400:282::24d6
+signin.ebay.com 2600:140b:4800:48a::24d6
+ipv6.slot9430.ebay.com.edgekey.net 2600:140b:4800:48a::24d6
+slot9430.ebay.com.edgekey.net 2600:140b:4800:48a::24d6
+regexp:^e9430\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::24d6
 
-account.cdn.ubisoft.com 23.66.131.183
-authentication.cdn.ubisoft.com 23.66.131.183
-buy-for-friend.cdn.ubisoft.com 23.66.131.183
-cat.cdn.ubisoft.com 23.66.131.183
-challenges.cdn.ubisoft.com 23.66.131.183
-chat.cdn.ubisoft.com 23.66.131.183
-discussions.cdn.ubisoft.com 23.66.131.183
-dog.cdn.ubisoft.com 23.66.131.183
-feedback.cdn.ubisoft.com 23.66.131.183
-files.cdn.ubisoft.com 23.66.131.183
-friend-referral.cdn.ubisoft.com 23.66.131.183
-friends-list.cdn.ubisoft.com 23.66.131.183
-galaxy.cdn.ubisoft.com 23.66.131.183
-game-dl-mgr.cdn.ubisoft.com 23.66.131.183
-game-page.cdn.ubisoft.com 23.66.131.183
-gamer-profile.cdn.ubisoft.com 23.66.131.183
-help.cdn.ubisoft.com 23.66.131.183
-home-page.cdn.ubisoft.com 23.66.131.183
-ingame-store.cdn.ubisoft.com 23.66.131.183
-key-activation.cdn.ubisoft.com 23.66.131.183
-key-redemption.cdn.ubisoft.com 23.66.131.183
-library.cdn.ubisoft.com 23.66.131.183
-live-feed.cdn.ubisoft.com 23.66.131.183
-live-video-streaming.cdn.ubisoft.com 23.66.131.183
-marketplace.cdn.ubisoft.com 23.66.131.183
-news.cdn.ubisoft.com 23.66.131.183
-news-page.cdn.ubisoft.com 23.66.131.183
-notifications.cdn.ubisoft.com 23.66.131.183
-overlay.cdn.ubisoft.com 23.66.131.183
-preferences.cdn.ubisoft.com 23.66.131.183
-product-details.cdn.ubisoft.com 23.66.131.183
-promotab.cdn.ubisoft.com 23.66.131.183
-quay.cdn.ubisoft.com 23.66.131.183
-remote-play.cdn.ubisoft.com 23.66.131.183
-rewards.cdn.ubisoft.com 23.66.131.183
-settings.cdn.ubisoft.com 23.66.131.183
-share-play.cdn.ubisoft.com 23.66.131.183
-share-play-client-app.cdn.ubisoft.com 23.66.131.183
-sigma.cdn.ubisoft.com 23.66.131.183
-smart-intel.cdn.ubisoft.com 23.66.131.183
-social.cdn.ubisoft.com 23.66.131.183
-spotlight.cdn.ubisoft.com 23.66.131.183
-static19.cdn.ubisoft.com 23.66.131.183
-static2.cdn.ubisoft.com 23.66.131.183
-static9.cdn.ubisoft.com 23.66.131.183
-stats.cdn.ubisoft.com 23.66.131.183
-streaming-client.cdn.ubisoft.com 23.66.131.183
-testing.cdn.ubisoft.com 23.66.131.183
-ubiservices.cdn.ubisoft.com 23.66.131.183
-ugc.cdn.ubisoft.com 23.66.131.183
-web-browser.cdn.ubisoft.com 23.66.131.183
-regexp:^e11195\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.66.131.183
+account.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+authentication.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+buy-for-friend.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+cat.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+challenges.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+chat.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+discussions.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+dog.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+feedback.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+files.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+friend-referral.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+friends-list.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+galaxy.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+game-dl-mgr.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+game-page.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+gamer-profile.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+help.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+home-page.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+ingame-store.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+key-activation.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+key-redemption.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+library.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+live-feed.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+live-video-streaming.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+marketplace.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+news.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+news-page.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+notifications.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+overlay.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+preferences.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+product-details.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+promotab.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+quay.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+remote-play.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+rewards.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+settings.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+share-play.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+share-play-client-app.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+sigma.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+smart-intel.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+social.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+spotlight.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+static19.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+static2.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+static9.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+stats.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+streaming-client.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+testing.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+ubiservices.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+ugc.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+web-browser.cdn.ubisoft.com 2600:140b:4800:480::2bbb
+regexp:^e11195\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:480::2bbb
 
-static2.cdn.ubi.com 72.247.97.191
-ubiservices.cdn.ubi.com 72.247.97.191
-wildcard.cdn.ubi.com.edgekey.net 72.247.97.191
-regexp:^e11196\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 72.247.97.191
+static2.cdn.ubi.com 2600:140b:d400:1af::2bbc
+ubiservices.cdn.ubi.com 2600:140b:d400:1af::2bbc
+wildcard.cdn.ubi.com.edgekey.net 2600:140b:d400:1af::2bbc
+regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:d400:1af::2bbc
 
-support.activision.com 23.61.213.222
-s.activision.com 23.61.213.222
-san.activision.com.edgekey.net 23.61.213.222
-regexp:^e11358\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.61.213.222
+support.activision.com 2600:140b:2c00:4b6::2c5e
+s.activision.com 2600:140b:2c00:4b6::2c5e
+san.activision.com.edgekey.net 2600:140b:2c00:4b6::2c5e
+regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::2c5e
 
-pages.ebay.com 23.37.17.245
-ipv4.slot11847.ebay.com.edgekey.net 23.37.17.245
-ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
-slot11847.ebay.com.edgekey.net 23.37.17.245
-regexp:^e11847\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.37.17.245
+pages.ebay.com 2600:140b:2c00:4b6::2e47
+ipv4.slot11847.ebay.com.edgekey.net 2600:140b:2c00:4b6::2e47
+ipv6.slot11847.ebay.com.edgekey.net 2600:140b:2c00:4b6::2e47
+slot11847.ebay.com.edgekey.net 2600:140b:2c00:4b6::2e47
+regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::2e47
 
-store-images.s-microsoft.com 2600:1406:5400:49f::3114
-store-images.s-microsoft.com-c.edgekey.net 2600:1406:5400:49f::3114
-regexp:^e12564\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 2600:1406:5400:49f::3114
+store-images.s-microsoft.com 184.50.92.60
+store-images.s-microsoft.com-c.edgekey.net 184.50.92.60
+regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.92.60
 
-ipv6.slot12565.ebay.com.edgekey.net 23.222.206.28
-slot12565.ebay.com.edgekey.net 23.222.206.28
-regexp:^e12565\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.222.206.28
+ipv6.slot12565.ebay.com.edgekey.net 184.50.92.61
+slot12565.ebay.com.edgekey.net 184.50.92.61
+regexp:^e12565\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.92.61
 
-pay.ebay.com 2600:1406:5400:292::311a
-slot12570.ebay.com.edgekey.net 2600:1406:5400:292::311a
-regexp:^e12570\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 2600:1406:5400:292::311a
+pay.ebay.com 2600:140b:4800:48a::311a
+slot12570.ebay.com.edgekey.net 2600:140b:4800:48a::311a
+regexp:^e12570\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::311a
 
-answers.microsoft.com 23.59.205.194
-answers.microsoft.com-v1.edgekey.net 23.59.205.194
-regexp:^e13362\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.59.205.194
+answers.microsoft.com-v1.edgekey.net 182.162.56.106
+regexp:^e13362\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 182.162.56.106
 
-c.s-microsoft.com 23.37.18.39
-i.s-microsoft.com 23.37.18.39
-c-s.cms.ms.akadns.net 23.37.18.39
-i.s-microsoft.com.edgekey.net 23.37.18.39
-c.s-microsoft.com-c.edgekey.net 23.37.18.39
-regexp:^e13678\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.37.18.39
+c.s-microsoft.com 2600:140b:4800:48a::356e
+i.s-microsoft.com 2600:140b:4800:48a::356e
+c-s.cms.ms.akadns.net 2600:140b:4800:48a::356e
+i.s-microsoft.com.edgekey.net 2600:140b:4800:48a::356e
+c.s-microsoft.com-c.edgekey.net 2600:140b:4800:48a::356e
+regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::356e
 
-ngx.download.nvidia.com 23.199.57.43 23.199.57.80
-ngx.download.nvidia.com.edgekey.net 23.199.57.43 23.199.57.80
-regexp:^e28142\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 23.199.57.43 23.199.57.80
+ngx.download.nvidia.com 2600:140b:2c00:36::17cd:fcc6
+ngx.download.nvidia.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6
 
-aka-sandbox.ebay.com 173.223.234.24 173.223.234.46
-aka-sandbox.ebaycdn.net 173.223.234.24 173.223.234.46
-aka-sandbox.ebay.com.edgekey.net 173.223.234.24 173.223.234.46
-slot86223.ebay.com.edgekey.net 173.223.234.24 173.223.234.46
-regexp:^e86223\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 173.223.234.24 173.223.234.46
-((dsc)?[a-z]|(dsp)?[a-x])
-monitor.ebay.com 173.223.234.34
-gisufespipeline22.ebaycdn.net 173.223.234.34
-gisufespipeline22.ebay.com.edgekey.net 173.223.234.34
-regexp:^e102410\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 173.223.234.34
+cdn-dynmedia-1.microsoft.com 2600:140b:2c00:36::17cd:fcc6
+san-ion.secure4.scene7.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# e81481.dsca.akamaiedge.net 2600:140b:2c00:36::17cd:fcc6
 
-backstory.ebay.com 173.223.234.211 2600:1406:6c00::172d:c30
-autotrack.ebay.com 173.223.234.211 2600:1406:6c00::172d:c30
-autotrack.ebaycdn.net 173.223.234.211 2600:1406:6c00::172d:c30
-autotrack.ebay.com.edgekey.net 173.223.234.211 2600:1406:6c00::172d:c30
-regexp:^e189811\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 173.223.234.211 2600:1406:6c00::172d:c30
+aka-sandbox.ebay.com 2600:140b:2c00:36::17cd:fcc6
+aka-sandbox.ebaycdn.net 2600:140b:2c00:36::17cd:fcc6
+aka-sandbox.ebay.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+slot86223.ebay.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6
 
-pulsar.ebay.com 173.223.234.6
-pulsar.ebay.com.edgekey.net 173.223.234.6
-regexp:^e207850\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 173.223.234.6
+monitor.ebay.com 2600:140b:2c00:36::17cd:fcc6
+gisufespipeline22.ebaycdn.net 2600:140b:2c00:36::17cd:fcc6
+gisufespipeline22.ebay.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6
 
-sofe.ebay.com 173.222.162.5
-spdmetrics.ebay.com 173.222.162.5
-spdmetrics.ebay.com.edgekey.net 173.222.162.5
-regexp:^e219129\.((dsc)?[a-z]|(dsp)?[a-x])\.akamaiedge\.net$ 173.222.162.5
+backstory.ebay.com 2600:140b:2c00:36::17cd:fcc6
+autotrack.ebay.com 2600:140b:2c00:36::17cd:fcc6
+autotrack.ebaycdn.net 2600:140b:2c00:36::17cd:fcc6
+autotrack.ebay.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# regexp:^e189811\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6
+
+pulsar.ebay.com 2600:140b:2c00:36::17cd:fcc6
+pulsar.ebay.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# regexp:^e207850\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6
+
+sofe.ebay.com 2600:140b:2c00:36::17cd:fcc6
+spdmetrics.ebay.com 2600:140b:2c00:36::17cd:fcc6
+spdmetrics.ebay.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6
+# regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6
+regexp:^e0*(1440\d|144[1-9]\d|14[5-9]\d{2}|1[5-9]\d{3}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:36::17cd:fcc6

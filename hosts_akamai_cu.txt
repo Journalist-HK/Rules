@@ -58,6 +58,10 @@ www.hackerrank.com 2600:140b:4800:493::22e9
 hackerrank.com.edgekey.net 2600:140b:4800:493::22e9
 regexp:^e8937\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:493::22e9
 
+account.microsoft.com 184.50.91.167
+account.microsoft.com.edgekey.net. 184.50.91.167
+regexp:^e9412\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.91.167
+
 www.ebay.com 184.50.91.168
 secureir.ebaystatic.com 184.50.91.168
 securepics.ebaystatic.com 184.50.91.168
@@ -138,6 +142,10 @@ ipv4.slot11847.ebay.com.edgekey.net 2600:140b:2c00:4b6::2e47
 ipv6.slot11847.ebay.com.edgekey.net 2600:140b:2c00:4b6::2e47
 slot11847.ebay.com.edgekey.net 2600:140b:2c00:4b6::2e47
 regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::2e47
+
+shop.samsung.com 2600:140b:ac00:28d::2ece
+shop.samsung.com.edgekey.net 2600:140b:ac00:28d::2ece
+regexp:^e11982\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:ac00:28d::2ece
 
 store-images.s-microsoft.com 184.50.92.60
 store-images.s-microsoft.com-c.edgekey.net 184.50.92.60

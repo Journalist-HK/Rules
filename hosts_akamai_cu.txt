@@ -2,27 +2,27 @@ store.steampowered.com 184.50.91.226
 checkout.steampowered.com 184.50.91.226
 api.steampowered.com 23.197.127.21 23.210.122.61
 
-avatars.steamstatic.com 119.149.188.152 119.149.188.161
-cdn.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-checkout.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-clan.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-clientconfig.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-community.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-shared.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-store.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-video.akamai.steamstatic.com 119.149.188.152 119.149.188.161
-vod.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+avatars.steamstatic.com 202.142.229.59
+cdn.akamai.steamstatic.com 202.142.229.59
+checkout.akamai.steamstatic.com 202.142.229.59
+clan.akamai.steamstatic.com 202.142.229.59
+clientconfig.akamai.steamstatic.com 202.142.229.59
+community.akamai.steamstatic.com 202.142.229.59
+shared.akamai.steamstatic.com 202.142.229.59
+store.akamai.steamstatic.com 202.142.229.59
+video.akamai.steamstatic.com 202.142.229.59
+vod.akamai.steamstatic.com 202.142.229.59
 
-avatars.steamstatic.com 119.149.188.152 119.149.188.161
-cdn.steamstatic.com 119.149.188.152 119.149.188.161
-checkout.steamstatic.com 119.149.188.152 119.149.188.161
-clan.steamstatic.com 119.149.188.152 119.149.188.161
-clientconfig.steamstatic.com 119.149.188.152 119.149.188.161
-community.steamstatic.com 119.149.188.152 119.149.188.161
-shared.steamstatic.com 119.149.188.152 119.149.188.161
-store.steamstatic.com 119.149.188.152 119.149.188.161
-video.steamstatic.com 119.149.188.152 119.149.188.161
-vod.steamstatic.com 119.149.188.152 119.149.188.161
+avatars.steamstatic.com 202.142.229.59
+cdn.steamstatic.com 202.142.229.59
+checkout.steamstatic.com 202.142.229.59
+clan.steamstatic.com 202.142.229.59
+clientconfig.steamstatic.com 202.142.229.59
+community.steamstatic.com 202.142.229.59
+shared.steamstatic.com 202.142.229.59
+store.steamstatic.com 202.142.229.59
+video.steamstatic.com 202.142.229.59
+vod.steamstatic.com 202.142.229.59
 
 dlassets-ssl.xboxlive.com 184.50.90.9
 gameclipscontent-d2009.xboxlive.com 184.50.90.9

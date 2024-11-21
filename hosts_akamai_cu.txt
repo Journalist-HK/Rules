@@ -1,17 +1,28 @@
-store.steampowered.com 23.39.1.50
-checkout.steampowered.com 23.39.1.50
-api.steampowered.com 104.68.104.163
+store.steampowered.com 184.50.91.226
+checkout.steampowered.com 184.50.91.226
+api.steampowered.com 23.197.127.21 23.210.122.61
 
-cdn.akamai.steamstatic.com 23.46.229.200 202.142.229.42
-checkout.akamai.steamstatic.com 23.46.229.200 202.142.229.42
-clan.akamai.steamstatic.com 23.46.229.200 202.142.229.42
-community.akamai.steamstatic.com 23.46.229.200 202.142.229.42
-store.akamai.steamstatic.com 23.46.229.200 202.142.229.42
-cdn.steamstatic.com 23.46.229.200 202.142.229.42
-checkout.steamstatic.com 23.46.229.200 202.142.229.42
-clan.steamstatic.com 23.46.229.200 202.142.229.42
-community.steamstatic.com 23.46.229.200 202.142.229.42
-store.steamstatic.com 23.46.229.200 202.142.229.42
+avatars.steamstatic.com 119.149.188.152 119.149.188.161
+cdn.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+checkout.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+clan.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+clientconfig.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+community.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+shared.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+store.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+video.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+vod.akamai.steamstatic.com 119.149.188.152 119.149.188.161
+
+avatars.steamstatic.com 119.149.188.152 119.149.188.161
+cdn.steamstatic.com 119.149.188.152 119.149.188.161
+checkout.steamstatic.com 119.149.188.152 119.149.188.161
+clan.steamstatic.com 119.149.188.152 119.149.188.161
+clientconfig.steamstatic.com 119.149.188.152 119.149.188.161
+community.steamstatic.com 119.149.188.152 119.149.188.161
+shared.steamstatic.com 119.149.188.152 119.149.188.161
+store.steamstatic.com 119.149.188.152 119.149.188.161
+video.steamstatic.com 119.149.188.152 119.149.188.161
+vod.steamstatic.com 119.149.188.152 119.149.188.161
 
 dlassets-ssl.xboxlive.com 184.50.90.9
 gameclipscontent-d2009.xboxlive.com 184.50.90.9

@@ -3,6 +3,12 @@ kernel.org
 # Limelight
 llnwi.net
 
+# Salesforce
+full:adaptivesupport.amd.com
+full:support.anker.com
+edge2.salesforce.com
+live.siteforce.com
+
 # Tencent
 levelinfinite.com
 midasbuy.com

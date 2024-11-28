@@ -1,15 +1,10 @@
 # AWS 电信用美国比日韩好
-
-full:adaptivesupport.amd.com
-kernel.org
-
-salesforce.com
-samsungcloud.com
-siteforce.com
-
 ebaycdn.net
 ebaystatic.com
 ebay.com
+samsungcloud.com
+
+kernel.org
 
 # Edgecast
 full:images.nvidia.com
@@ -18,6 +13,12 @@ phicdn.net
 
 # Limelight
 llnwi.net
+
+# Salesforce
+full:adaptivesupport.amd.com
+full:support.anker.com
+edge2.salesforce.com
+live.siteforce.com
 
 # Tencent
 levelinfinite.com

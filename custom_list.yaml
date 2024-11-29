@@ -232,6 +232,7 @@ payload:
   - '+.global.ssl.fastly.net'
   - 'go.dev'
   - 'images.prismic.io'
+  - 'moe.voiux.com'
   - 'nitrous.motortrend.com'
   - 'openai.ne.world'
   - 'rentry.co'

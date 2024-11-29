@@ -22,6 +22,7 @@ full:download.fosshub.com
 full:downloads.pdf-xchange.com
 full:events.mapbox.com
 full:fonts.sony.net
+full:gal.voiux.com
 full:get.taxcycle.com
 full:gh.con.sh
 full:go.superchat.live

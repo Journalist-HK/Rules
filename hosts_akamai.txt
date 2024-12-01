@@ -41,6 +41,30 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
 
+secure.api.admin.zmags.com 2600:1406:5400:2a1::14ad
+secure.admin.zmags.com 2600:1406:5400:2a1::14ad
+admin.zmags.com 2600:1406:5400:2a1::14ad
+img.creator-prod.zmags.com 2600:1406:5400:2a1::14ad
+img.creator.zmags.com 2600:1406:5400:2a1::14ad
+creator.zmags.com 2600:1406:5400:2a1::14ad
+c.zmags.com 2600:1406:5400:2a1::14ad
+c.zma.gs 2600:1406:5400:2a1::14ad
+secure.ps.zmags.com 2600:1406:5400:2a1::14ad
+secure.static.ps.zmags.com 2600:1406:5400:2a1::14ad
+secure.api.viewer.zmags.com 2600:1406:5400:2a1::14ad
+secure.viewer.zmags.com 2600:1406:5400:2a1::14ad
+secure.api.admin.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+secure.admin.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+admin.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+img.creator-prod.zmags.com-v1.edgekey.net 2600:1406:5400:2a1::14ad
+img.creator.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+creator.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+secure.ps.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+secure.static.ps.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+secure.api.viewer.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+secure.viewer.zmags.com.edgekey.net 2600:1406:5400:2a1::14ad
+regexp:^e5293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:2a1::14ad
+
 ipv6.slot5842.ebay.com.edgekey.net 2600:1406:5400:2a1::16d2
 slot5842.ebay.com.edgekey.net 2600:1406:5400:2a1::16d2
 regexp:^e5842\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:2a1::16d2

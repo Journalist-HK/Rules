@@ -83,6 +83,7 @@ global.ssl.fastly.net
 gmpg.org
 hanime1.me
 home.blog
+huobi.com.bo
 intercom.help
 ipfs.4everland.io
 ipfs.cf-ipfs.com

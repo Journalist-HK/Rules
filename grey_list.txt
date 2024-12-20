@@ -1,4 +1,5 @@
 # greylist
+full:ad-specs.guoshipartners.com
 full:api.amplitude.com
 full:api.c99.ai
 full:api.dev.c99.ai

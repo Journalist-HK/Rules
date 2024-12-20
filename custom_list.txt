@@ -143,6 +143,7 @@ unwire.hk
 uscardforum.com
 uscnpm.com
 walletconnect.com
+wa.me
 wikiquote.org
 wixsite.com
 wxw.cat

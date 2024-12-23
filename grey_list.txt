@@ -54,6 +54,7 @@ full:www.cachefly.com
 
 ac.bcon.ecdns.net
 api.giphy.com
+club.tgfcer.com
 s3.ap-southeast-2.amazonaws.com
 
 233.fi

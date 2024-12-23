@@ -75,6 +75,7 @@ mcdex.io
 mcusercontent.com
 mdex.com
 mercari.com
+mercari.jp
 merlinblog.xyz
 meta.ai
 meta.com
@@ -95,6 +96,7 @@ nutaq.com
 nxboom.com
 occrp.org
 okcoin.com
+onlyfans.com
 openairinterface.org
 osl.com
 patreonusercontent.com
@@ -124,6 +126,7 @@ stheadline.com
 storj.io
 sublimetext.com
 sushiswapclassic.org
+techbang.com
 telemetr.io
 telghub.com
 tenor.com

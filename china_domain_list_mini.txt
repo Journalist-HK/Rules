@@ -168,6 +168,8 @@ full:ccmdls.adobe.com
 
 full:iosapps.itunes.apple.com
 full:osxapps.itunes.apple.com
+full:iosapps.itunes.g.aaplimg.com
+full:osxapps.itunes.g.aaplimg.com
 
 xiaoheihe.cn
 

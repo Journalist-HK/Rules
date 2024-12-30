@@ -16,3 +16,15 @@ playdeltaforce.com
 playerinfinite.com
 ovslegodl.sched.ovscdns.com
 ovslegovideo.sched.apdcdn.com
+
+base64encode.org
+base64decode.org
+beautifyjson.org
+minifyjson.org
+prettifycss.com
+prettifyjs.net
+uglifycss.com
+uglifyjs.net
+urlencoder.org
+urldecoder.org
+balancer.hazota.eu

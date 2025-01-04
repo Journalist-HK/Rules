@@ -8,6 +8,8 @@ ir.ebaycdn.net ipv4.slot11847.ebay.com.edgekey.net
 apisd.ebay.com ipv4.ebaymobile.map.fastly.net
 apisd.ebaycdn.net ipv4.ebaymobile.map.fastly.net
 
+account-public-service-prod.ak.epicgames.com ak.epicgames.com.edgekey.net
+
 adgt.fandom.com partners.ids.ad.gt
 metallicmenace.fandom.com d1ha795gd19jee.cloudfront.net
 sli.fandom.com d1e21p1elafqwq.cloudfront.net

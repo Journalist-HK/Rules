@@ -31,7 +31,7 @@ peoplehub.xboxlive.com 184.50.90.9
 rta.xboxlive.com 184.50.90.9
 sisu.xboxlive.com 184.50.90.9
 titlehub.xboxlive.com 184.50.90.9
-us-west-sisu.xboxlive.com.akadns.net  184.50.90.9
+us-west-sisu.xboxlive.com.akadns.net 184.50.90.9
 xforgeassets001.xboxlive.com 184.50.90.9
 xforgeassets002.xboxlive.com 184.50.90.9
 xnotify.xboxlive.com 184.50.90.9
@@ -203,6 +203,9 @@ c-s.cms.ms.akadns.net 2600:140b:4800:48a::356e
 i.s-microsoft.com.edgekey.net 2600:140b:4800:48a::356e
 c.s-microsoft.com-c.edgekey.net 2600:140b:4800:48a::356e
 regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::356e
+
+ak.epicgames.com.edgekey.net 23.43.73.168
+regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.43.73.168
 
 ngx.download.nvidia.com 2600:140b:2c00:36::17cd:fcc6
 ngx.download.nvidia.com.edgekey.net 2600:140b:2c00:36::17cd:fcc6

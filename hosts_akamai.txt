@@ -193,6 +193,9 @@ i.s-microsoft.com.edgekey.net 23.37.18.39
 c.s-microsoft.com-c.edgekey.net 23.37.18.39
 regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.18.39
 
+ak.epicgames.com.edgekey.net 23.203.209.213
+regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.203.209.213
+
 ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

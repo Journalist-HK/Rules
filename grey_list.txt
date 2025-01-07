@@ -18,7 +18,6 @@ full:cdn.richrelevance.com
 full:cdn.sparklingsociety.net
 full:ced-ns.sascdn.com
 full:claim.fluence.network
-full:comcluster.cxense.com
 full:download.fosshub.com
 full:downloads.pdf-xchange.com
 full:events.mapbox.com
@@ -27,13 +26,11 @@ full:gal.voiux.com
 full:get.taxcycle.com
 full:gh.con.sh
 full:go.superchat.live
-full:id.cxense.com
 full:img.sedoparking.com
 full:img.tradepub.com
 full:in.appcenter.ms
 full:ocp.cscglobal.com
 full:p16999.cedexis-test.com
-full:p1cluster.cxense.com
 full:ping.channel99.io
 full:ping.dev.channel99.io
 full:ping.stage.channel99.io
@@ -58,6 +55,7 @@ club.tgfcer.com
 s3.ap-southeast-2.amazonaws.com
 
 233.fi
+agefans.net
 agemys.com
 bittorrent.com
 blocktempo.com

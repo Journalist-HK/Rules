@@ -1,5 +1,24 @@
 kernel.org
 
+# Edgecast
+full:images.nvidia.com
+full:international-gfe.download.nvidia.com
+
+asus.com
+
+res-2.public.onecdn.static.microsoft
+cdn-office.azureedge.net
+cdn-office.ec.azureedge.net
+psg-prod-eastus.azureedge.net
+psg-prod-eastus.ec.azureedge.net
+
+deltacdn.net
+epsiloncdn.net
+phicdn.net
+sigmacdn.net
+v0cdn.net
+xicdn.net
+
 # Limelight
 llnwi.net
 

@@ -6,6 +6,10 @@ samsungcloud.com
 
 kernel.org
 
+# CDN77
+b-cdn.net
+rsc.cdn77.org
+
 # Edgecast
 full:images.nvidia.com
 full:international-gfe.download.nvidia.com

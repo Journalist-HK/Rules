@@ -147,6 +147,7 @@ payload:
   - '+.osl.com'
   - '+.ox.ac.uk'
   - '+.patreonusercontent.com'
+  - '+.pc-builds.com'
   - '+.pcgamesn.com'
   - '+.perchance.org'
   - '+.pexpay.com'
@@ -228,6 +229,7 @@ payload:
 
   # GFW
   - 'anond.hatelabo.jp'
+  - '*.b-cdn.net'
   - '+.b.hatena.ne.jp'
   - 'cdn-ak2.favicon.st-hatena.com'
   - 'cdn-fastly.obsproject.com'

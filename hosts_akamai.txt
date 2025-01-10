@@ -41,6 +41,35 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
 
+account.g2a.com 23.221.101.229
+bundle.g2a.com 23.221.101.229
+cps.g2a.com 23.221.101.229
+cs.g2a.com 23.221.101.229
+dashboard.g2a.com 23.221.101.229
+direct.g2a.com 23.221.101.229
+fckd-callback.g2a.com 23.221.101.229
+files-billing.g2a.com 23.221.101.229
+get-key.g2a.com 23.221.101.229
+id.g2a.com 23.221.101.229
+images.g2a.com 23.221.101.229
+img.g2a.com 23.221.101.229
+login.g2a.com 23.221.101.229
+loot.g2a.com 23.221.101.229
+modal.g2a.com 23.221.101.229
+mp.g2a.com 23.221.101.229
+pay.g2a.com 23.221.101.229
+platform.g2a.com 23.221.101.229
+plus.g2a.com 23.221.101.229
+static.g2a.com 23.221.101.229
+supportcenter.g2a.com 23.221.101.229
+supporthub.g2a.com 23.221.101.229
+webapi.g2a.com 23.221.101.229
+www.g2a.com 23.221.101.229
+cps.g2a.com.edgekey.net
+img.g2a.com.edgekey.net
+star.g2a.com.edgekey.net 23.221.101.229
+regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.101.229
+
 secure.api.admin.zmags.com 2600:1406:5400:2a1::14ad
 secure.admin.zmags.com 2600:1406:5400:2a1::14ad
 admin.zmags.com 2600:1406:5400:2a1::14ad

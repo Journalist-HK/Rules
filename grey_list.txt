@@ -90,6 +90,7 @@ ipfs.4everland.io
 ipfs.cf-ipfs.com
 iwara.tv
 krypt.com
+ktcom.jp
 kuaichedao.co
 latoken.com
 libtorrent.org

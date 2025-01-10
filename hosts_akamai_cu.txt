@@ -75,9 +75,10 @@ static.g2a.com 184.24.164.246
 supportcenter.g2a.com 184.24.164.246
 supporthub.g2a.com 184.24.164.246
 webapi.g2a.com 184.24.164.246
+wishlist.g2a.com 184.24.164.246
 www.g2a.com 184.24.164.246
-cps.g2a.com.edgekey.net
-img.g2a.com.edgekey.net
+cps.g2a.com.edgekey.net 184.24.164.246
+img.g2a.com.edgekey.net 184.24.164.246
 star.g2a.com.edgekey.net 184.24.164.246
 regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.24.164.246
 

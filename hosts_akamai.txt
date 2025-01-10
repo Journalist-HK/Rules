@@ -64,9 +64,10 @@ static.g2a.com 23.221.101.229
 supportcenter.g2a.com 23.221.101.229
 supporthub.g2a.com 23.221.101.229
 webapi.g2a.com 23.221.101.229
+wishlist.g2a.com 23.221.101.229
 www.g2a.com 23.221.101.229
-cps.g2a.com.edgekey.net
-img.g2a.com.edgekey.net
+cps.g2a.com.edgekey.net 23.221.101.229
+img.g2a.com.edgekey.net 23.221.101.229
 star.g2a.com.edgekey.net 23.221.101.229
 regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.101.229
 

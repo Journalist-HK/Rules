@@ -11,6 +11,7 @@ androidfilehost.com
 androidpolice.com
 ankiweb.net
 aol.com
+aomedia.org
 apnic.net
 armorgames.com
 bangumi.moe
@@ -47,6 +48,7 @@ extrabux.com
 f-droid.org
 fanbox.cc
 flexpool.io
+forbes.com
 formyip.com
 freevpnnet.com
 gamerant.com

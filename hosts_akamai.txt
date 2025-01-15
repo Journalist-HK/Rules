@@ -2,16 +2,27 @@ store.steampowered.com 23.39.1.50
 checkout.steampowered.com 23.39.1.50
 api.steampowered.com 104.68.104.163
 
+avatars.steamstatic.com 23.46.229.200 202.142.229.42
 cdn.akamai.steamstatic.com 23.46.229.200 202.142.229.42
 checkout.akamai.steamstatic.com 23.46.229.200 202.142.229.42
 clan.akamai.steamstatic.com 23.46.229.200 202.142.229.42
+clientconfig.akamai.steamstatic.com 23.46.229.200 202.142.229.42
 community.akamai.steamstatic.com 23.46.229.200 202.142.229.42
+shared.akamai.steamstatic.com 23.46.229.200 202.142.229.42
 store.akamai.steamstatic.com 23.46.229.200 202.142.229.42
+video.akamai.steamstatic.com 23.46.229.200 202.142.229.42
+vod.akamai.steamstatic.com 23.46.229.200 202.142.229.42
+
+avatars.steamstatic.com 23.46.229.200 202.142.229.42
 cdn.steamstatic.com 23.46.229.200 202.142.229.42
 checkout.steamstatic.com 23.46.229.200 202.142.229.42
 clan.steamstatic.com 23.46.229.200 202.142.229.42
+clientconfig.steamstatic.com 23.46.229.200 202.142.229.42
 community.steamstatic.com 23.46.229.200 202.142.229.42
+shared.steamstatic.com 23.46.229.200 202.142.229.42
 store.steamstatic.com 23.46.229.200 202.142.229.42
+video.steamstatic.com 23.46.229.200 202.142.229.42
+vod.steamstatic.com 23.46.229.200 202.142.229.42
 
 dlassets-ssl.xboxlive.com 23.36.229.48 23.45.9.48
 gameclipscontent-d2009.xboxlive.com 23.36.229.48 23.45.9.48
@@ -229,6 +240,19 @@ regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.203.209.213
 ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+gfwsl.geforce.com 23.199.57.80
+origin-gfwsl.gtm.nvidia.net 23.199.57.80
+images.nvidia.com 23.199.57.80
+www.nvidia.com 23.199.57.80
+gfwsl.geforce.com.edgekey.net 23.199.57.80
+images.nvidia.com.edgekey.net 23.199.57.80
+www.nvidia.com.edgekey.net 23.199.57.80
+# regexp:^e33907\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+cdn-dynmedia-1.microsoft.com 23.199.57.80
+san-ion.secure4.scene7.com.edgekey.net 23.199.57.80
+# regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 aka-sandbox.ebay.com 23.199.57.80
 aka-sandbox.ebaycdn.net 23.199.57.80

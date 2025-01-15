@@ -19,7 +19,6 @@ epdg.epc.mnc260.mcc310.pub.3gppnetwork.org 208.54.5.195
 dms.licdn.com 104.75.169.9 104.75.169.24
 static.licdn.com 104.75.169.9 104.75.169.24
 media.licdn.com 104.75.169.9 104.75.169.24
-images.nvidia.com 192.229.210.202
 
 abre-videos.cdn1122.com 208.99.84.34 208.99.84.35 208.99.84.36 208.99.84.39
 abre-videos.cdn1122.com.lds.rncdn7.com 208.99.84.34 208.99.84.35 208.99.84.36 208.99.84.39

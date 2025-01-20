@@ -30,6 +30,7 @@ caddyserver.com
 ch-werner.de
 cia.gov
 clockwise.ee
+coinbase.com
 coindesk.com
 coinpedia.org
 coinsquare.io
@@ -38,6 +39,7 @@ conta.cc
 credit.org
 cryptocompare.com
 cxense.com
+dextools.io
 docker.com
 docker.io
 dun.im
@@ -47,6 +49,7 @@ ext-twitch.tv
 extrabux.com
 f-droid.org
 fanbox.cc
+faphouse.com
 flexpool.io
 forbes.com
 formyip.com
@@ -137,7 +140,10 @@ tensojapan.com
 textnow.com
 thestandard.com.hk
 thinkhk.com
+tiktokcdn-us.com
+tiktokcdn.com
 tiktokv.com
+tiktokv.us
 tor.us
 trouter.io
 trustwallet.com

@@ -10,6 +10,7 @@ full:special-east.meiyou.win
 full:updates.ghub.logitechg.com
 bigdata.icu
 blockpi.network
+daniao.org
 fly.dev
 free.hr
 gubo.org

@@ -9,7 +9,6 @@ aelitis.com
 alphafish.top
 androidfilehost.com
 androidpolice.com
-ankiweb.net
 aol.com
 aomedia.org
 apnic.net
@@ -183,8 +182,10 @@ full:freegecko.com
 full:www.geckoiplc.com
 full:geckoiplc.com
 
+full:safebrowsing-proxy.g.aaplimg.com
 full:safebrowsing.g.aaplimg.com
 full:pki.safebrowsing.apple
+full:proxy.safebrowsing.apple
 full:token.safebrowsing.apple
 
 quiz.directory

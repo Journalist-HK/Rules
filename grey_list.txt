@@ -55,6 +55,7 @@ club.tgfcer.com
 s3.ap-southeast-2.amazonaws.com
 
 233.fi
+2dfan.com
 agefans.net
 agemys.com
 bittorrent.com

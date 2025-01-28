@@ -53,6 +53,7 @@ flexpool.io
 forbes.com
 formyip.com
 freevpnnet.com
+fril.jp
 gamerant.com
 gdax.com
 gemini.com
@@ -166,6 +167,7 @@ x.com
 xinmeitulu.com
 xfsub.org
 xvideos.red
+yodobashi.com
 
 anond.hatelabo.jp
 d.hatena.ne.jp

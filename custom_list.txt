@@ -26,6 +26,7 @@ buzzfeed.com
 bybitglobal.com
 byhkbit.com
 caddyserver.com
+celer.network
 ch-werner.de
 cia.gov
 clockwise.ee

@@ -315,6 +315,17 @@ payload:
   - 'wd3.myworkday.com'
   - 'wd5.myworkday.com'
 
+  # Cloudfront Sites
+  - '*.cloudfront.net'
+  - 'downloadmirror-bench.intel.com'
+  - 'downloadmirror-dev.intel.com'
+  - 'downloadmirror-qa.intel.com'
+  - 'downloadmirror-tst.intel.com'
+  - 'downloadmirror.intel.com'
+  - 'download.intel.com'
+  - 'download.trustedservices.intel.com'
+  - 'whitelist.trustedservices.intel.com'
+
   - '+.quiz.directory'
   - '+.telegram.space'
   - '+.usercontent.dev'

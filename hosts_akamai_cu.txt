@@ -82,6 +82,10 @@ img.g2a.com.edgekey.net 184.24.164.246
 star.g2a.com.edgekey.net 184.24.164.246
 regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.24.164.246
 
+download.ebz.epson.net 184.50.90.150
+download.ebz.epson.net.edgekey.net 184.50.90.150
+regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.90.150
+
 secure.api.admin.zmags.com 2600:140b:2c00:b83::14ad
 secure.admin.zmags.com 2600:140b:2c00:b83::14ad
 admin.zmags.com 2600:140b:2c00:b83::14ad
@@ -284,4 +288,4 @@ rbwm-api.hsbc.com.hk 23.3.88.17
 rbwm-api.hsbc.com.hk.edgekey.net 23.3.88.17
 # regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-regexp:^e0*(1440\d|144[1-9]\d|14[5-9]\d{2}|1[5-9]\d{3}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
+regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17

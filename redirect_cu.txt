@@ -50,6 +50,9 @@ ak.privatelink.msidentity.com kwa.a.ak.prd.aadg.akadns.net
 www.tm.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
 www.a.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
 
+software-static.download.prss.microsoft.com sundry-f-net.trafficmanager.net
+sundry-fg-geo-nocn.trafficmanager.net sundry-f-net.trafficmanager.net
+
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com

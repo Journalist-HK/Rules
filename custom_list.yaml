@@ -259,6 +259,7 @@ payload:
   - 'www.geckoiplc.com'
   - 'geckoiplc.com'
   # Block China
+  - 'firefly.adobe.com'
   - 'firefly.adobe.io'
   - 'www.akkocloud.com'
   - 'cabd.ask.fm'

@@ -53,6 +53,15 @@ www.a.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
 software-static.download.prss.microsoft.com download.prss.microsoft.com.akamaized.net
 sundry-fg-geo-nocn.trafficmanager.net download.prss.microsoft.com.akamaized.net
 
+# 有几率解析到国外所以手动指定国内 CDN
+1d.dl.delivery.mp.microsoft.com 8.dl.delivery.microsoft.com.mwcname.com
+1d.dl.delivery.mp.microsoft.com.delivery.microsoft.com 8.dl.delivery.microsoft.com.mwcname.com
+dcat-b-nlu-net.trafficmanager.net 8.dl.delivery.microsoft.com.mwcname.com
+
+1d.tlu.dl.delivery.mp.microsoft.com 1d.tlu.dl.delivery.mp.microsoft.com.mwcname.com
+1d.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com 1d.tlu.dl.delivery.mp.microsoft.com.mwcname.com
+dcat-b-tlu-net.trafficmanager.net 1d.tlu.dl.delivery.mp.microsoft.com.mwcname.com
+
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com

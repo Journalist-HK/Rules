@@ -27,6 +27,7 @@ vod.steamstatic.com 202.142.229.59
 dlassets-ssl.xboxlive.com 184.50.90.9
 gameclipscontent-d2009.xboxlive.com 184.50.90.9
 images-eds-ssl.xboxlive.com 184.50.90.9
+musicart.xboxlive.com 184.50.90.9
 peoplehub.xboxlive.com 184.50.90.9
 rta.xboxlive.com 184.50.90.9
 sisu.xboxlive.com 184.50.90.9
@@ -40,6 +41,7 @@ sisu.xboxlive.com.akadns.net 184.50.90.9
 dlassets-ssl.xboxlive.com.edgekey.net 184.50.90.9
 gameclipscontent-d.xboxlive.com.edgekey.net 184.50.90.9
 images-eds-ssl.xboxlive.com.edgekey.net 184.50.90.9
+musicart.xboxlive.com.edgekey.net 184.50.90.9
 peoplehub.xboxlive.com.edgekey.net 184.50.90.9
 rta.xboxlive.com-c.edgekey.net 184.50.90.9
 sisu.xboxlive.com.edgekey.net 184.50.90.9

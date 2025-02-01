@@ -7,6 +7,7 @@ voice.google.com
 +.caseys.com
 +.crackle.com
 +.crunchyroll.com
++.godeal24.com
 +.gosmartmobile.com
 +.hidive.com
 +.kwikrewards.com

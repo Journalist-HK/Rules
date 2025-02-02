@@ -2,7 +2,7 @@ store.steampowered.com 184.50.91.226
 checkout.steampowered.com 184.50.91.226
 api.steampowered.com 23.197.127.21 23.210.122.61
 
-avatars.steamstatic.com 202.142.229.59
+avatars.akamai.steamstatic.com 202.142.229.59
 cdn.akamai.steamstatic.com 202.142.229.59
 checkout.akamai.steamstatic.com 202.142.229.59
 clan.akamai.steamstatic.com 202.142.229.59

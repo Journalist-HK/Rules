@@ -979,6 +979,17 @@ images.squarespace-cdn.com 146.75.92.238 151.101.196.238
 video.squarespace-cdn.com 146.75.92.238 151.101.196.238
 domain:squarespace.map.fastly.net 146.75.92.238 151.101.196.238
 
+avatars.fastly.steamstatic.com 151.101.51.52
+cdn.fastly.steamstatic.com 151.101.51.52
+checkout.fastly.steamstatic.com 151.101.51.52
+clan.fastly.steamstatic.com 151.101.51.52
+clientconfig.fastly.steamstatic.com 151.101.51.52
+community.fastly.steamstatic.com 151.101.51.52
+shared.fastly.steamstatic.com 151.101.51.52
+store.fastly.steamstatic.com 151.101.51.52
+video.fastly.steamstatic.com 151.101.51.52
+vod.fastly.steamstatic.com 151.101.51.52
+
 global.techradar.com 151.101.50.114
 hawk.techradar.com 151.101.50.114
 www.techradar.com 151.101.50.114

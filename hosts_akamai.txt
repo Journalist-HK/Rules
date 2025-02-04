@@ -125,6 +125,16 @@ static.cdn.ubi.com.edgekey.net 184.29.21.80
 static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.21.80
 
+pl.ea.com 184.28.149.56
+ea4.com.edgekey.net 184.28.149.56
+regexp:^e8688\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.28.149.56
+
+media.contentapi.ea.com 23.51.192.206
+ea6.com.edgekey.net 23.51.192.206
+# 数字范围未知
+e8690.e12.akamaiedge.net 23.51.192.206
+regexp:^e8690\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.51.192.206
+
 www.hackerrank.com 23.198.173.30
 hackerrank.com.edgekey.net 23.198.173.30
 regexp:^e8937\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.198.173.30
@@ -209,6 +219,8 @@ san.activision.com.edgekey.net 23.61.213.222
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.213.222
 
 pages.ebay.com 23.37.17.245
+www.ebay.com.hk 23.37.17.245
+www.ebay.com.hk.ebaycdn.net 23.37.17.245
 ipv4.slot11847.ebay.com.edgekey.net 23.37.17.245
 ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
 slot11847.ebay.com.edgekey.net 23.37.17.245

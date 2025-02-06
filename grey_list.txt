@@ -29,6 +29,7 @@ full:go.superchat.live
 full:img.sedoparking.com
 full:img.tradepub.com
 full:in.appcenter.ms
+full:nicehck.com
 full:ocp.cscglobal.com
 full:p16999.cedexis-test.com
 full:ping.channel99.io

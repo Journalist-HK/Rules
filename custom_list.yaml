@@ -318,6 +318,8 @@ payload:
   - 'api.perohub.com'
   - 'store.pokemongolive.com'
   - 'prebid.smilewanted.com'
+  - 'cdn.videocardz.com'
+  - 'static.videocardz.com'
   - 'skyfire.vimeocdn.com'
   - 'dash.xns.one'
   - 'xns.one'

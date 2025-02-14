@@ -313,6 +313,10 @@ autotrack.ebaycdn.net 2.16.1.179
 autotrack.ebay.com.edgekey.net 2.16.1.179
 # regexp:^e189811\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
 
+edgetrksvc.ebay.com 2.16.1.179
+edgetrksvc.ebay.com.edgekey.net 2.16.1.179
+# regexp:^e193737\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+
 pulsar.ebay.com 2.16.1.179
 pulsar.ebay.com.edgekey.net 2.16.1.179
 # regexp:^e207850\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179

@@ -255,11 +255,28 @@ regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::356
 ak.epicgames.com.edgekey.net 23.43.73.168
 regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.43.73.168
 
+livetileedge.dsx.mp.microsoft.com 60.210.8.160
+storeedgefd-ppe.dsx.mp.microsoft.com 60.210.8.160
+storeedgefdsecureorigin.dsx.mp.microsoft.com 60.210.8.160
+cdn.storeedgefd.dsx.mp.microsoft.com 60.210.8.160
 storeedgefd.dsx.mp.microsoft.com 60.210.8.160
+storesdk.dsx.mp.microsoft.com 60.210.8.160
+livetileedge.dsx.mp.microsoft.com.akadns.net 60.210.8.160
+storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net 60.210.8.160
+storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net 60.210.8.160
+storeedgefd.dsx.mp.microsoft.com.akadns.net 60.210.8.160
+storesdk.dsx.mp.microsoft.com.akadns.net 60.210.8.160
+livetileedge.xbetservices.akadns.net 60.210.8.160
+storeedgefd-ppe.xbetservices.akadns.net 60.210.8.160
 storeedgefd.xbetservices.akadns.net 60.210.8.160
+storesdk.xbetservices.akadns.net 60.210.8.160
+livetileedge.dsx.mp.microsoft.com.edgekey.net 60.210.8.160
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net 60.210.8.160
 storeedgefd.dsx.mp.microsoft.com.edgekey.net 60.210.8.160
+storesdk.dsx.mp.microsoft.com.edgekey.net 60.210.8.160
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net 60.210.8.160
 storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net 60.210.8.160
-# regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 60.210.8.160
+regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 60.210.8.160
 e16646.ca.s.tl88.net 60.210.8.160
 
 ngx.download.nvidia.com 2.16.1.179

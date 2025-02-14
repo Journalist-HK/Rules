@@ -71,6 +71,7 @@ hostloc.net
 hostmonit.com
 infura.io
 iwanlab.com
+jkv.app
 jwplayer.com
 kemono.party
 kemono.su

@@ -255,6 +255,13 @@ regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 210.57.89.210
 ak.epicgames.com.edgekey.net 23.203.209.213
 regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.203.209.213
 
+storeedgefd.dsx.mp.microsoft.com 61.147.228.137
+storeedgefd.xbetservices.akadns.net 61.147.228.137
+storeedgefd.dsx.mp.microsoft.com.edgekey.net 61.147.228.137
+storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net 61.147.228.137
+# regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 61.147.228.137
+e16646.ca.s.tl88.net 61.147.228.137
+
 ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

@@ -183,11 +183,6 @@ full:dcat-b-tlu-net.trafficmanager.net
 full:dcat-f-nlu-net.trafficmanager.net
 full:dcat-f-tlu-net.trafficmanager.net
 
-full:storeedgefd.dsx.mp.microsoft.com
-full:storeedgefd.xbetservices.akadns.net
-full:storeedgefd.dsx.mp.microsoft.com.edgekey.net
-full:storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net
-
 full:ccmdls.adobe.com
 
 full:iosapps.itunes.apple.com

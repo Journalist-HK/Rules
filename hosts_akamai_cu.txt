@@ -218,13 +218,13 @@ s.activision.com 2600:140b:2c00:4b6::2c5e
 san.activision.com.edgekey.net 2600:140b:2c00:4b6::2c5e
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::2c5e
 
-pages.ebay.com 23.56.182.140
-www.ebay.com.hk 23.56.182.140
-www.ebay.com.hk.ebaycdn.net 23.56.182.140
-ipv4.slot11847.ebay.com.edgekey.net 23.56.182.140
-ipv6.slot11847.ebay.com.edgekey.net 23.56.182.140
-slot11847.ebay.com.edgekey.net 23.56.182.140
-regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.56.182.140
+pages.ebay.com 184.50.92.45
+www.ebay.com.hk 184.50.92.45
+www.ebay.com.hk.ebaycdn.net 184.50.92.45
+ipv4.slot11847.ebay.com.edgekey.net 184.50.92.45
+ipv6.slot11847.ebay.com.edgekey.net 184.50.92.45
+slot11847.ebay.com.edgekey.net 184.50.92.45
+regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.92.45
 
 shop.samsung.com 2600:140b:ac00:28d::2ece
 shop.samsung.com.edgekey.net 2600:140b:ac00:28d::2ece

@@ -74,9 +74,6 @@ prod-atm-wds-edge.trafficmanager.net prod-agic-jw-2.japanwest.cloudapp.azure.com
 res.public.onecdn.static.microsoft res-1.public.onecdn.static.microsoft
 res-ocdi-public.trafficmanager.net res-1.public.onecdn.static.microsoft
 
-avty.xboxlive.com l-0006.l-msedge.net
-avty.xboxlive.com.akadns.net l-0006.l-msedge.net
-
 dlassets.xboxlive.com dlassets.xboxlive.com.edgesuite.net
 dlassets.xboxlive.com.delivery.microsoft.com dlassets.xboxlive.com.edgesuite.net
 xbx-dlassets-net.trafficmanager.net dlassets.xboxlive.com.edgesuite.net
@@ -96,6 +93,29 @@ xbx-b-net.trafficmanager.net d1.xboxlive.com.edgesuite.net
 d2.xboxlive.com d1.xboxlive.com.edgesuite.net
 d2.xboxlive.com.delivery.microsoft.com d1.xboxlive.com.edgesuite.net
 xbx-b-geo.trafficmanager.net d1.xboxlive.com.edgesuite.net
+
+assets1.xboxlive.cn assets-xlc.xboxlive.cn.z.cngslb.com
+assets1.xboxlive.cn.delivery.microsoft.com assets-xlc.xboxlive.cn.z.cngslb.com
+xbx-f-cn-net.trafficmanager.net assets-xlc.xboxlive.cn.z.cngslb.com
+
+assets2.xboxlive.cn assets-xlc.xboxlive.cn.z.cngslb.com
+assets2.xboxlive.cn.delivery.microsoft.com assets-xlc.xboxlive.cn.z.cngslb.com
+xbx-f-cn-geo.trafficmanager.net assets-xlc.xboxlive.cn.z.cngslb.com
+
+d1.xboxlive.cn assets-xlc.xboxlive.cn.z.cngslb.com
+d1.xboxlive.cn.delivery.microsoft.com assets-xlc.xboxlive.cn.z.cngslb.com
+xbx-b-cn-net.trafficmanager.net assets-xlc.xboxlive.cn.z.cngslb.com
+
+d2.xboxlive.cn assets-xlc.xboxlive.cn.z.cngslb.com
+d2.xboxlive.cn.delivery.microsoft.com assets-xlc.xboxlive.cn.z.cngslb.com
+xbx-b-cn-geo.trafficmanager.net assets-xlc.xboxlive.cn.z.cngslb.com
+
+dlassets.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
+dlassets.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
+xbx-dl-cn-geo.trafficmanager.net dlassets.xboxlive.cn.cdn.dnsv1.com
+
+dlassets2.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
+dlassets2.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
 
 regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
 maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com

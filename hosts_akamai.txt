@@ -123,6 +123,8 @@ regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.57
 static3.cdn.ubi.com 184.29.21.80
 static.cdn.ubi.com.edgekey.net 184.29.21.80
 static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
+ubistatic-a.ubisoft.com 184.29.21.80
+ubistatic-a.ubisoft.com.edgekey.net 184.29.21.80
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.21.80
 
 pl.ea.com 184.28.149.56
@@ -161,6 +163,7 @@ buy-for-friend.cdn.ubisoft.com 23.66.131.183
 cat.cdn.ubisoft.com 23.66.131.183
 challenges.cdn.ubisoft.com 23.66.131.183
 chat.cdn.ubisoft.com 23.66.131.183
+connect.cdn.ubisoft.com 23.66.131.183
 discussions.cdn.ubisoft.com 23.66.131.183
 dog.cdn.ubisoft.com 23.66.131.183
 feedback.cdn.ubisoft.com 23.66.131.183
@@ -188,6 +191,7 @@ preferences.cdn.ubisoft.com 23.66.131.183
 product-details.cdn.ubisoft.com 23.66.131.183
 promotab.cdn.ubisoft.com 23.66.131.183
 quay.cdn.ubisoft.com 23.66.131.183
+quick-buys.cdn.ubisoft.com 23.66.131.183
 remote-play.cdn.ubisoft.com 23.66.131.183
 rewards.cdn.ubisoft.com 23.66.131.183
 settings.cdn.ubisoft.com 23.66.131.183
@@ -206,6 +210,8 @@ testing.cdn.ubisoft.com 23.66.131.183
 ubiservices.cdn.ubisoft.com 23.66.131.183
 ugc.cdn.ubisoft.com 23.66.131.183
 web-browser.cdn.ubisoft.com 23.66.131.183
+prd-uapps-connect.edgekey.net 23.66.131.183
+uplay-next-quick-buys-prd.edgekey.net 23.66.131.183
 regexp:^e11195\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.66.131.183
 
 static2.cdn.ubi.com 72.247.97.191

@@ -54,13 +54,13 @@ software-static.download.prss.microsoft.com download.prss.microsoft.com.akamaize
 sundry-fg-geo-nocn.trafficmanager.net download.prss.microsoft.com.akamaized.net
 
 # 有几率解析到国外所以手动指定国内 CDN
-1d.dl.delivery.mp.microsoft.com 8.dl.delivery.microsoft.com.mwcname.com
-1d.dl.delivery.mp.microsoft.com.delivery.microsoft.com 8.dl.delivery.microsoft.com.mwcname.com
-dcat-b-nlu-net.trafficmanager.net 8.dl.delivery.microsoft.com.mwcname.com
+1d.dl.delivery.mp.microsoft.com dl.delivery.mp.microsoft.com.a.bdydns.com
+1d.dl.delivery.mp.microsoft.com.delivery.microsoft.com dl.delivery.mp.microsoft.com.a.bdydns.com
+dcat-b-nlu-net.trafficmanager.net dl.delivery.mp.microsoft.com.a.bdydns.com
 
-1d.tlu.dl.delivery.mp.microsoft.com 1d.tlu.dl.delivery.mp.microsoft.com.mwcname.com
-1d.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com 1d.tlu.dl.delivery.mp.microsoft.com.mwcname.com
-dcat-b-tlu-net.trafficmanager.net 1d.tlu.dl.delivery.mp.microsoft.com.mwcname.com
+1d.tlu.dl.delivery.mp.microsoft.com tlu.dl.delivery.mp.microsoft.com.cdn.dnsv1.com
+1d.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com tlu.dl.delivery.mp.microsoft.com.cdn.dnsv1.com
+dcat-b-tlu-net.trafficmanager.net tlu.dl.delivery.mp.microsoft.com.cdn.dnsv1.com
 
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
@@ -102,22 +102,21 @@ d2.xboxlive.com d1.xboxlive.com.edgesuite.net
 d2.xboxlive.com.delivery.microsoft.com d1.xboxlive.com.edgesuite.net
 xbx-b-geo.trafficmanager.net d1.xboxlive.com.edgesuite.net
 
-assets1.xboxlive.cn assets1.xboxlive.cn.a.bdydns.com
-# assets1.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
-assets1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.a.bdydns.com
-xbx-f-cn-net.trafficmanager.net assets1.xboxlive.cn.a.bdydns.com
+assets1.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
+assets1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
+xbx-f-cn-net.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
 
-assets2.xboxlive.cn assets1.xboxlive.cn.a.bdydns.com
-assets2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.a.bdydns.com
-xbx-f-cn-geo.trafficmanager.net assets1.xboxlive.cn.a.bdydns.com
+assets2.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
+assets2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
+xbx-f-cn-geo.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
 
-d1.xboxlive.cn assets1.xboxlive.cn.a.bdydns.com
-d1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.a.bdydns.com
-xbx-b-cn-net.trafficmanager.net assets1.xboxlive.cn.a.bdydns.com
+d1.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
+d1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
+xbx-b-cn-net.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
 
-d2.xboxlive.cn assets1.xboxlive.cn.a.bdydns.com
-d2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.a.bdydns.com
-xbx-b-cn-geo.trafficmanager.net assets1.xboxlive.cn.a.bdydns.com
+d2.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
+d2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
+xbx-b-cn-geo.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
 
 dlassets.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
 dlassets.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com

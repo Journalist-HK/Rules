@@ -1,3 +1,5 @@
 
 *.centralindia.cloudapp.azure.com
 *.uaenorth.cloudapp.azure.com
+
+qos-me-south-1.online-services.aws.r6.ubi.com

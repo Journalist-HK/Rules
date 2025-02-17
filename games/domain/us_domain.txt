@@ -7,3 +7,7 @@
 *.southcentralus.cloudapp.azure.com
 *.eastus.cloudapp.azure.com
 *.eastus2.cloudapp.azure.com
+
+qos-us-east-1.online-services.aws.r6.ubi.com
+qos-us-east-2.online-services.aws.r6.ubi.com
+qos-us-west-2.online-services.aws.r6.ubi.com

@@ -1,2 +1,4 @@
 
 *.southeastasia.cloudapp.azure.com
+
+qos-ap-southeast-1.online-services.aws.r6.ubi.com

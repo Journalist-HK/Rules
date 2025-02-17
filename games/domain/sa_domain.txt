@@ -1,2 +1,4 @@
 
 *.brazilsouth.cloudapp.azure.com
+
+qos-sa-east-1.online-services.aws.r6.ubi.com

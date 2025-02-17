@@ -1,2 +1,4 @@
 
 *.koreacentral.cloudapp.azure.com
+
+qos-ap-northeast-2.online-services.aws.r6.ubi.com

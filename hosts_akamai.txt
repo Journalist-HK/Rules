@@ -120,10 +120,12 @@ assets.adobedtm.com 23.37.17.57
 cn-assets.adobedtm.com.edgekey.net 23.37.17.57
 regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.57
 
-static3.cdn.ubi.com 184.29.21.80
-static.cdn.ubi.com.edgekey.net 184.29.21.80
+static-overlay.ubisoft.com 184.29.21.80
 static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
+static.cdn.ubi.com.edgekey.net 184.29.21.80
+static3.cdn.ubi.com 184.29.21.80
 ubistatic-a.ubisoft.com 184.29.21.80
+static-overlay.ubisoft.com.edgekey.net 184.29.21.80
 ubistatic-a.ubisoft.com.edgekey.net 184.29.21.80
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.21.80
 
@@ -312,6 +314,10 @@ monitor.ebay.com 23.199.57.80
 gisufespipeline22.ebaycdn.net 23.199.57.80
 gisufespipeline22.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+static-dm.ubisoft.com 23.199.57.80
+static-dm.ubisoft.com-v1.edgekey.net 23.199.57.80
+# regexp:^e163413\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 backstory.ebay.com 23.199.57.80
 autotrack.ebay.com 23.199.57.80

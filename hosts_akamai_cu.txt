@@ -120,10 +120,12 @@ assets.adobedtm.com 2600:140b:2c00:4b6::1e80
 cn-assets.adobedtm.com.edgekey.net 2600:140b:2c00:4b6::1e80
 regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::1e80
 
-static3.cdn.ubi.com 184.30.24.238
-static.cdn.ubi.com.edgekey.net 184.30.24.238
+static-overlay.ubisoft.com 184.30.24.238
 static-ww.cdn.ubi.com.edgekey.net 184.30.24.238
+static.cdn.ubi.com.edgekey.net 184.30.24.238
+static3.cdn.ubi.com 184.30.24.238
 ubistatic-a.ubisoft.com 184.30.24.238
+static-overlay.ubisoft.com.edgekey.net 184.30.24.238
 ubistatic-a.ubisoft.com.edgekey.net 184.30.24.238
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.24.238
 
@@ -214,15 +216,15 @@ prd-uapps-connect.edgekey.net 23.50.100.88
 uplay-next-quick-buys-prd.edgekey.net 23.50.100.88
 regexp:^e11195\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.50.100.88
 
-static2.cdn.ubi.com 2600:140b:d400:1af::2bbc
-ubiservices.cdn.ubi.com 2600:140b:d400:1af::2bbc
-wildcard.cdn.ubi.com.edgekey.net 2600:140b:d400:1af::2bbc
-regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:d400:1af::2bbc
+static2.cdn.ubi.com 184.30.25.96
+ubiservices.cdn.ubi.com 184.30.25.96
+wildcard.cdn.ubi.com.edgekey.net 184.30.25.96
+regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.25.96
 
-support.activision.com 2600:140b:2c00:4b6::2c5e
-s.activision.com 2600:140b:2c00:4b6::2c5e
-san.activision.com.edgekey.net 2600:140b:2c00:4b6::2c5e
-regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::2c5e
+support.activision.com 184.30.18.13
+s.activision.com 184.30.18.13
+san.activision.com.edgekey.net 184.30.18.13
+regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.18.13
 
 pages.ebay.com 184.50.92.45
 www.ebay.com.hk 184.50.92.45
@@ -285,55 +287,59 @@ storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net 60.210.8.160
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 60.210.8.160
 e16646.ca.s.tl88.net 60.210.8.160
 
-ngx.download.nvidia.com 2.16.1.179
-ngx.download.nvidia.com.edgekey.net 2.16.1.179
-# regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+ngx.download.nvidia.com 23.3.88.17
+ngx.download.nvidia.com.edgekey.net 23.3.88.17
+# regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-gfwsl.geforce.com 2.16.1.179
-origin-gfwsl.gtm.nvidia.net 2.16.1.179
-images.nvidia.com 2.16.1.179
-www.nvidia.com 2.16.1.179
-gfwsl.geforce.com.edgekey.net 2.16.1.179
-images.nvidia.com.edgekey.net 2.16.1.179
-www.nvidia.com.edgekey.net 2.16.1.179
-# regexp:^e33907\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+gfwsl.geforce.com 23.3.88.17
+origin-gfwsl.gtm.nvidia.net 23.3.88.17
+images.nvidia.com 23.3.88.17
+www.nvidia.com 23.3.88.17
+gfwsl.geforce.com.edgekey.net 23.3.88.17
+images.nvidia.com.edgekey.net 23.3.88.17
+www.nvidia.com.edgekey.net 23.3.88.17
+# regexp:^e33907\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-cdn-dynmedia-1.microsoft.com 2.16.1.179
-san-ion.secure4.scene7.com.edgekey.net 2.16.1.179
-# regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+cdn-dynmedia-1.microsoft.com 23.3.88.17
+san-ion.secure4.scene7.com.edgekey.net 23.3.88.17
+# regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-aka-sandbox.ebay.com 2.16.1.179
-aka-sandbox.ebaycdn.net 2.16.1.179
-aka-sandbox.ebay.com.edgekey.net 2.16.1.179
-slot86223.ebay.com.edgekey.net 2.16.1.179
-# regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+aka-sandbox.ebay.com 23.3.88.17
+aka-sandbox.ebaycdn.net 23.3.88.17
+aka-sandbox.ebay.com.edgekey.net 23.3.88.17
+slot86223.ebay.com.edgekey.net 23.3.88.17
+# regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-monitor.ebay.com 2.16.1.179
-gisufespipeline22.ebaycdn.net 2.16.1.179
-gisufespipeline22.ebay.com.edgekey.net 2.16.1.179
-# regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+monitor.ebay.com 23.3.88.17
+gisufespipeline22.ebaycdn.net 23.3.88.17
+gisufespipeline22.ebay.com.edgekey.net 23.3.88.17
+# regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-backstory.ebay.com 2.16.1.179
-autotrack.ebay.com 2.16.1.179
-autotrack.ebaycdn.net 2.16.1.179
-autotrack.ebay.com.edgekey.net 2.16.1.179
-# regexp:^e189811\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+static-dm.ubisoft.com 23.3.88.17
+static-dm.ubisoft.com-v1.edgekey.net 23.3.88.17
+# regexp:^e163413\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-edgetrksvc.ebay.com 2.16.1.179
-edgetrksvc.ebay.com.edgekey.net 2.16.1.179
-# regexp:^e193737\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+backstory.ebay.com 23.3.88.17
+autotrack.ebay.com 23.3.88.17
+autotrack.ebaycdn.net 23.3.88.17
+autotrack.ebay.com.edgekey.net 23.3.88.17
+# regexp:^e189811\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-pulsar.ebay.com 2.16.1.179
-pulsar.ebay.com.edgekey.net 2.16.1.179
-# regexp:^e207850\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+edgetrksvc.ebay.com 23.3.88.17
+edgetrksvc.ebay.com.edgekey.net 23.3.88.17
+# regexp:^e193737\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-sofe.ebay.com 2.16.1.179
-spdmetrics.ebay.com 2.16.1.179
-spdmetrics.ebay.com.edgekey.net 2.16.1.179
-# regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+pulsar.ebay.com 23.3.88.17
+pulsar.ebay.com.edgekey.net 23.3.88.17
+# regexp:^e207850\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-rbwm-api.hsbc.com.hk 2.16.1.179
-rbwm-api.hsbc.com.hk.edgekey.net 2.16.1.179
-# regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+sofe.ebay.com 23.3.88.17
+spdmetrics.ebay.com 23.3.88.17
+spdmetrics.ebay.com.edgekey.net 23.3.88.17
+# regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
-regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.1.179
+rbwm-api.hsbc.com.hk 23.3.88.17
+rbwm-api.hsbc.com.hk.edgekey.net 23.3.88.17
+# regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
+
+regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17

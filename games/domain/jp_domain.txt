@@ -2,4 +2,6 @@
 *.japaneast.cloudapp.azure.com
 *.japanwest.cloudapp.azure.com
 
+qos-prod-m3d-nrt-common-common.gos.ea.com
+
 qos-ap-northeast-1.online-services.aws.r6.ubi.com

@@ -2,4 +2,6 @@
 *.australiaeast.cloudapp.azure.com
 *.australiasoutheast.cloudapp.azure.com
 
+qos-prod-bio-syd-common-common.gos.ea.com
+
 qos-ap-southeast-2.online-services.aws.r6.ubi.com

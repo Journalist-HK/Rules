@@ -1,2 +1,4 @@
 
 *.southafricanorth.cloudapp.azure.com
+
+qos-prod-i3d-jnb-common-common.gos.ea.com

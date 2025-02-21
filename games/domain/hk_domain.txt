@@ -1,4 +1,6 @@
 
 *.eastasia.cloudapp.azure.com
 
+qos-prod-i3d-hkg-common-common.gos.ea.com
+
 qos-ap-east-1.online-services.aws.r6.ubi.com

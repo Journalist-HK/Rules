@@ -5,6 +5,8 @@
 *.westeurope.cloudapp.azure.com
 *.francecentral.cloudapp.azure.com
 
+qos-prod-aws-fra-common-common.gs.ea.com
+
 qos-eu-central-1.online-services.aws.r6.ubi.com
 qos-eu-north-1.online-services.aws.r6.ubi.com
 qos-eu-south-1.online-services.aws.r6.ubi.com

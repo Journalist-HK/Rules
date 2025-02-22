@@ -263,6 +263,11 @@ regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 210.57.89.210
 ak.epicgames.com.edgekey.net 23.203.209.213
 regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.203.209.213
 
+cloudsync.juno.ea.com 104.69.149.41
+ea15.com.edgekey.net 104.69.149.41
+e16166.e12.akamaiedge.net 104.69.149.41
+regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.69.149.41
+
 livetileedge.dsx.mp.microsoft.com 61.147.228.137
 storeedgefd-ppe.dsx.mp.microsoft.com 61.147.228.137
 storeedgefdsecureorigin.dsx.mp.microsoft.com 61.147.228.137

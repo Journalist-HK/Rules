@@ -2,27 +2,27 @@ store.steampowered.com 184.50.91.226
 checkout.steampowered.com 184.50.91.226
 api.steampowered.com 23.197.127.21 23.210.122.61
 
-avatars.akamai.steamstatic.com 202.142.229.59
-cdn.akamai.steamstatic.com 202.142.229.59
-checkout.akamai.steamstatic.com 202.142.229.59
-clan.akamai.steamstatic.com 202.142.229.59
-clientconfig.akamai.steamstatic.com 202.142.229.59
-community.akamai.steamstatic.com 202.142.229.59
-shared.akamai.steamstatic.com 202.142.229.59
-store.akamai.steamstatic.com 202.142.229.59
-video.akamai.steamstatic.com 202.142.229.59
-vod.akamai.steamstatic.com 202.142.229.59
+avatars.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+cdn.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+checkout.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+clan.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+clientconfig.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+community.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+shared.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+store.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+video.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+vod.akamai.steamstatic.com 184.50.87.25 184.50.87.125
 
-avatars.steamstatic.com 202.142.229.59
-cdn.steamstatic.com 202.142.229.59
-checkout.steamstatic.com 202.142.229.59
-clan.steamstatic.com 202.142.229.59
-clientconfig.steamstatic.com 202.142.229.59
-community.steamstatic.com 202.142.229.59
-shared.steamstatic.com 202.142.229.59
-store.steamstatic.com 202.142.229.59
-video.steamstatic.com 202.142.229.59
-vod.steamstatic.com 202.142.229.59
+avatars.steamstatic.com 184.50.87.25 184.50.87.125
+cdn.steamstatic.com 184.50.87.25 184.50.87.125
+checkout.steamstatic.com 184.50.87.25 184.50.87.125
+clan.steamstatic.com 184.50.87.25 184.50.87.125
+clientconfig.steamstatic.com 184.50.87.25 184.50.87.125
+community.steamstatic.com 184.50.87.25 184.50.87.125
+shared.steamstatic.com 184.50.87.25 184.50.87.125
+store.steamstatic.com 184.50.87.25 184.50.87.125
+video.steamstatic.com 184.50.87.25 184.50.87.125
+vod.steamstatic.com 184.50.87.25 184.50.87.125
 
 dlassets-ssl.xboxlive.com 184.50.90.9
 gameclipscontent-d2009.xboxlive.com 184.50.90.9
@@ -262,6 +262,11 @@ regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::356
 
 ak.epicgames.com.edgekey.net 23.43.73.168
 regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.43.73.168
+
+cloudsync.juno.ea.com 104.103.101.254
+ea15.com.edgekey.net 104.103.101.254
+e16166.e12.akamaiedge.net 104.103.101.254
+regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.103.101.254
 
 livetileedge.dsx.mp.microsoft.com 60.210.8.160
 storeedgefd-ppe.dsx.mp.microsoft.com 60.210.8.160

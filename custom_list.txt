@@ -202,7 +202,7 @@ usercontent.dev
 
 regexp:^.*(art|de|hk|ma|sg)?\d+lib\.\w+$
 regexp:^(.+\.)?b-ok\.\w+$
-keyword:binance
+regexp:^(.+\.)?binance.*\.\w+$
 regexp:^(.+\.)?booklist\.\w+$
 regexp:^(.+\.)?bookshome\.\w+$
 regexp:^(.+\.)?booksc\.\w+$
@@ -223,6 +223,7 @@ regexp:^.*api\.ask\.fm$
 regexp:^.*b\.hatena\.ne\.jp$
 regexp:^.*cdn-ak2\.favicon\.st-hatena\.com$
 regexp:^.*cdn\.statically\.io$
+regexp:^.*form\.jotform\.com$
 regexp:^.*m\.kankanwu\.com$
 regexp:^.*s3-ap-southeast-1\.amazonaws\.com$
 regexp:^.*snap\.snapmobile\.asia$

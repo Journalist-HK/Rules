@@ -34,21 +34,21 @@ static.licdn.com od.linkedin.edgesuite.net
 static-exp3.licdn.com od.linkedin.edgesuite.net
 pulsar.lnkdns.net od.linkedin.edgesuite.net
 
-login.live.com kwa.b.v4.a.prd.aadg.akadns.net
-login.msa.msidentity.com kwa.b.v4.a.prd.aadg.akadns.net
-www.tm.lg.prod.aadmsa.trafficmanager.net kwa.b.v4.a.prd.aadg.akadns.net
-www.tm.lg.prod.aadmsa.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
-www.a.lg.prod.aadmsa.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
-default.a.lg.prod.aadmsa.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
-prdv4a.aadg.msidentity.com kwa.b.v4.a.prd.aadg.akadns.net
-www.tm.v4.a.prd.aadg.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
-www.b.v4.a.prd.aadg.akadns.net kwa.b.v4.a.prd.aadg.akadns.net
+login.live.com kwa.a.v4.a.prd.aadg.akadns.net
+login.msa.msidentity.com kwa.a.v4.a.prd.aadg.akadns.net
+www.tm.lg.prod.aadmsa.trafficmanager.net kwa.a.v4.a.prd.aadg.akadns.net
+www.tm.lg.prod.aadmsa.akadns.net kwa.a.v4.a.prd.aadg.akadns.net
+www.a.lg.prod.aadmsa.akadns.net kwa.a.v4.a.prd.aadg.akadns.net
+default.a.lg.prod.aadmsa.akadns.net kwa.a.v4.a.prd.aadg.akadns.net
+prdv4a.aadg.msidentity.com kwa.a.v4.a.prd.aadg.akadns.net
+www.tm.v4.a.prd.aadg.akadns.net kwa.a.v4.a.prd.aadg.akadns.net
+www.a.v4.a.prd.aadg.akadns.net kwa.a.v4.a.prd.aadg.akadns.net
 
-login.microsoftonline.com kwa.a.ak.prd.aadg.akadns.net
-login.mso.msidentity.com kwa.a.ak.prd.aadg.akadns.net
-ak.privatelink.msidentity.com kwa.a.ak.prd.aadg.akadns.net
-www.tm.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
-www.a.ak.prd.aadg.akadns.net kwa.a.ak.prd.aadg.akadns.net
+login.microsoftonline.com kwa.next.a.prd.aadg.akadns.net
+login.mso.msidentity.com kwa.next.a.prd.aadg.akadns.net
+ak.privatelink.msidentity.com kwa.next.a.prd.aadg.akadns.net
+www.tm.a.prd.aadg.akadns.net kwa.next.a.prd.aadg.akadns.net
+www.next.a.prd.aadg.akadns.net kwa.next.a.prd.aadg.akadns.net
 
 software-static.download.prss.microsoft.com download.prss.microsoft.com.akamaized.net
 sundry-fg-geo-nocn.trafficmanager.net download.prss.microsoft.com.akamaized.net

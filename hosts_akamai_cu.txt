@@ -124,9 +124,13 @@ static-overlay.ubisoft.com 184.30.24.238
 static-ww.cdn.ubi.com.edgekey.net 184.30.24.238
 static.cdn.ubi.com.edgekey.net 184.30.24.238
 static3.cdn.ubi.com 184.30.24.238
+staticctf.ubisoft.com 184.30.24.238
 ubistatic-a.ubisoft.com 184.30.24.238
+ubistatic2-a.ubisoft.com 184.30.24.238
 static-overlay.ubisoft.com.edgekey.net 184.30.24.238
+staticctf.ubisoft.com.edgekey.net 184.30.24.238
 ubistatic-a.ubisoft.com.edgekey.net 184.30.24.238
+ubistatic2-a.ubisoft.com.edgekey.net 184.30.24.238
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.24.238
 
 pl.ea.com 184.50.91.131

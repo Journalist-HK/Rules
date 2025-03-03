@@ -26,6 +26,7 @@ full:gal.voiux.com
 full:get.taxcycle.com
 full:gh.con.sh
 full:go.superchat.live
+full:imageproxy.pixnet.cc
 full:img.sedoparking.com
 full:img.tradepub.com
 full:in.appcenter.ms
@@ -100,6 +101,7 @@ linetww.com
 linktr.ee
 mahjongsoul.com
 map.fastly.net
+maying.co
 metamask.io
 miel-soft.com
 mrcong.com
@@ -118,6 +120,7 @@ singtao.ca
 singtao.tv
 slex.io
 slidesharecdn.com
+slimbrowser.net
 stackpathcdn.com
 stripchat.com
 tgstat.com

@@ -37,6 +37,7 @@ coinpedia.org
 coinsquare.io
 collider.com
 conta.cc
+cospuri.com
 coti.io
 credit.org
 cryptocompare.com
@@ -117,6 +118,7 @@ pexpay.com
 picsart.com
 pilipili.cc
 pilipili.cm
+pndsn.com
 qbittorrent.org
 qooapp.net
 qoo-app.com

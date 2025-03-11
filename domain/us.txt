@@ -1,4 +1,12 @@
 rbdata.boostymark.com
+akamai-datastream.census.gov
+data.census.gov
+www.cidr-webpub.econ.census.gov
+secure.census.gov
+shutdown.census.gov
+usatrade.census.gov
+www.census.gov
+www2.census.gov
 www.gop.com
 gop.com
 lens.l.google.com

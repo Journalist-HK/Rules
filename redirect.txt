@@ -1,3 +1,14 @@
+avatars.steamstatic.com avatars.akamai.steamstatic.com
+cdn.steamstatic.com cdn.akamai.steamstatic.com
+checkout.steamstatic.com checkout.akamai.steamstatic.com
+clan.steamstatic.com clan.akamai.steamstatic.com
+clientconfig.steamstatic.com clientconfig.akamai.steamstatic.com
+community.steamstatic.com community.akamai.steamstatic.com
+shared.steamstatic.com shared.akamai.steamstatic.com
+store.steamstatic.com store.akamai.steamstatic.com
+video.steamstatic.com video.akamai.steamstatic.com
+vod.steamstatic.com vod.akamai.steamstatic.com
+
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
 thumbs.ebaycdn.net slot5842.ebay.com.edgekey.net

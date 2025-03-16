@@ -1,54 +1,43 @@
-store.steampowered.com 184.50.91.226
-checkout.steampowered.com 184.50.91.226
-api.steampowered.com 23.197.127.21 23.210.122.61
+store.steampowered.com 2.21.137.39
+checkout.steampowered.com 2.21.137.39
+api.steampowered.com 104.103.90.29
 
-avatars.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-cdn.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-checkout.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-clan.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-clientconfig.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-community.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-shared.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-store.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-video.akamai.steamstatic.com 184.50.87.25 184.50.87.125
-vod.akamai.steamstatic.com 184.50.87.25 184.50.87.125
+avatars.akamai.steamstatic.com 202.142.229.42
+cdn.akamai.steamstatic.com 202.142.229.42
+checkout.akamai.steamstatic.com 202.142.229.42
+clan.akamai.steamstatic.com 202.142.229.42
+clientconfig.akamai.steamstatic.com 202.142.229.42
+community.akamai.steamstatic.com 202.142.229.42
+shared.akamai.steamstatic.com 202.142.229.42
+store.akamai.steamstatic.com 202.142.229.42
+video.akamai.steamstatic.com 202.142.229.42
+vod.akamai.steamstatic.com 202.142.229.42
 
-avatars.steamstatic.com 184.50.87.25 184.50.87.125
-cdn.steamstatic.com 184.50.87.25 184.50.87.125
-checkout.steamstatic.com 184.50.87.25 184.50.87.125
-clan.steamstatic.com 184.50.87.25 184.50.87.125
-clientconfig.steamstatic.com 184.50.87.25 184.50.87.125
-community.steamstatic.com 184.50.87.25 184.50.87.125
-shared.steamstatic.com 184.50.87.25 184.50.87.125
-store.steamstatic.com 184.50.87.25 184.50.87.125
-video.steamstatic.com 184.50.87.25 184.50.87.125
-vod.steamstatic.com 184.50.87.25 184.50.87.125
-
-dlassets-ssl.xboxlive.com 184.50.90.9
-gameclipscontent-d2009.xboxlive.com 184.50.90.9
-images-eds-ssl.xboxlive.com 184.50.90.9
-musicart.xboxlive.com 184.50.90.9
-peoplehub.xboxlive.com 184.50.90.9
-rta.xboxlive.com 184.50.90.9
-sisu.xboxlive.com 184.50.90.9
-titlehub.xboxlive.com 184.50.90.9
-us-west-sisu.xboxlive.com.akadns.net 184.50.90.9
-xforgeassets001.xboxlive.com 184.50.90.9
-xforgeassets002.xboxlive.com 184.50.90.9
-xnotify.xboxlive.com 184.50.90.9
-rta.xboxlive.com.akadns.net 184.50.90.9
-sisu.xboxlive.com.akadns.net 184.50.90.9
-dlassets-ssl.xboxlive.com.edgekey.net 184.50.90.9
-gameclipscontent-d.xboxlive.com.edgekey.net 184.50.90.9
-images-eds-ssl.xboxlive.com.edgekey.net 184.50.90.9
-musicart.xboxlive.com.edgekey.net 184.50.90.9
-peoplehub.xboxlive.com.edgekey.net 184.50.90.9
-rta.xboxlive.com-c.edgekey.net 184.50.90.9
-sisu.xboxlive.com.edgekey.net 184.50.90.9
-titlehub.xboxlive.com.edgekey.net 184.50.90.9
-wildcard.xboxlive.com.edgekey.net 184.50.90.9
-xforgeassets.xboxlive.com.edgekey.net 184.50.90.9
-regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.90.9
+dlassets-ssl.xboxlive.com 23.218.208.10 184.30.20.10
+gameclipscontent-d2009.xboxlive.com 23.218.208.10 184.30.20.10
+images-eds-ssl.xboxlive.com 23.218.208.10 184.30.20.10
+musicart.xboxlive.com 23.218.208.10 184.30.20.10
+peoplehub.xboxlive.com 23.218.208.10 184.30.20.10
+rta.xboxlive.com 23.218.208.10 184.30.20.10
+sisu.xboxlive.com 23.218.208.10 184.30.20.10
+titlehub.xboxlive.com 23.218.208.10 184.30.20.10
+us-west-sisu.xboxlive.com.akadns.net 23.218.208.10 184.30.20.10
+xforgeassets001.xboxlive.com 23.218.208.10 184.30.20.10
+xforgeassets002.xboxlive.com 23.218.208.10 184.30.20.10
+xnotify.xboxlive.com 23.218.208.10 184.30.20.10
+rta.xboxlive.com.akadns.net 23.218.208.10 184.30.20.10
+sisu.xboxlive.com.akadns.net 23.218.208.10 184.30.20.10
+dlassets-ssl.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+gameclipscontent-d.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+images-eds-ssl.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+musicart.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+peoplehub.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+rta.xboxlive.com-c.edgekey.net 23.218.208.10 184.30.20.10
+sisu.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+titlehub.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+wildcard.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+xforgeassets.xboxlive.com.edgekey.net 23.218.208.10 184.30.20.10
+regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.218.208.10 184.30.20.10
 
 res-1.public.onecdn.static.microsoft 2600:140b:2c00:584::af8
 res-1.public.onecdn.static.microsoft.edgekey.net 2600:140b:2c00:584::af8
@@ -84,9 +73,9 @@ img.g2a.com.edgekey.net 184.24.164.246
 star.g2a.com.edgekey.net 184.24.164.246
 regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.24.164.246
 
-download.ebz.epson.net 184.50.90.150
-download.ebz.epson.net.edgekey.net 184.50.90.150
-regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.90.150
+download.ebz.epson.net 2.17.244.90
+download.ebz.epson.net.edgekey.net 2.17.244.90
+regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.17.244.90
 
 secure.api.admin.zmags.com 2600:140b:2c00:b83::14ad
 secure.admin.zmags.com 2600:140b:2c00:b83::14ad
@@ -133,9 +122,9 @@ ubistatic-a.ubisoft.com.edgekey.net 184.30.24.238
 ubistatic2-a.ubisoft.com.edgekey.net 184.30.24.238
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.24.238
 
-pl.ea.com 184.50.91.131
-ea4.com.edgekey.net 184.50.91.131
-regexp:^e8688\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.91.131
+pl.ea.com 23.42.185.137
+ea4.com.edgekey.net 23.42.185.137
+regexp:^e8688\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.42.185.137
 
 media.contentapi.ea.com 23.223.93.225
 ea6.com.edgekey.net 23.223.93.225
@@ -147,16 +136,17 @@ www.hackerrank.com 2600:140b:4800:493::22e9
 hackerrank.com.edgekey.net 2600:140b:4800:493::22e9
 regexp:^e8937\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:493::22e9
 
-account.microsoft.com 184.50.91.167
-account.microsoft.com.edgekey.net. 184.50.91.167
-regexp:^e9412\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.91.167
+accounts.microsoft.com 2.20.42.73
+account.microsoft.com 2.20.42.73
+account.microsoft.com.edgekey.net. 2.20.42.73
+regexp:^e9412\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.20.42.73
 
-www.ebay.com 184.50.91.168
-secureir.ebaystatic.com 184.50.91.168
-securepics.ebaystatic.com 184.50.91.168
-ipv6.slot9428.ebay.com.edgekey.net 184.50.91.168
-slot9428.ebay.com.edgekey.net 184.50.91.168
-regexp:^e9428\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.91.168
+www.ebay.com 2.16.97.16
+secureir.ebaystatic.com 2.16.97.16
+securepics.ebaystatic.com 2.16.97.16
+ipv6.slot9428.ebay.com.edgekey.net 2.16.97.16
+slot9428.ebay.com.edgekey.net 2.16.97.16
+regexp:^e9428\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.97.16
 
 signin.ebay.com 2600:140b:4800:48a::24d6
 ipv6.slot9430.ebay.com.edgekey.net 2600:140b:4800:48a::24d6
@@ -230,25 +220,25 @@ s.activision.com 184.30.18.13
 san.activision.com.edgekey.net 184.30.18.13
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.18.13
 
-pages.ebay.com 184.50.92.45
-www.ebay.com.hk 184.50.92.45
-www.ebay.com.hk.ebaycdn.net 184.50.92.45
-ipv4.slot11847.ebay.com.edgekey.net 184.50.92.45
-ipv6.slot11847.ebay.com.edgekey.net 184.50.92.45
-slot11847.ebay.com.edgekey.net 184.50.92.45
-regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.92.45
+pages.ebay.com 2.16.97.102
+www.ebay.com.hk 2.16.97.102
+www.ebay.com.hk.ebaycdn.net 2.16.97.102
+ipv4.slot11847.ebay.com.edgekey.net 2.16.97.102
+ipv6.slot11847.ebay.com.edgekey.net 2.16.97.102
+slot11847.ebay.com.edgekey.net 2.16.97.102
+regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.97.102
 
 shop.samsung.com 2600:140b:ac00:28d::2ece
 shop.samsung.com.edgekey.net 2600:140b:ac00:28d::2ece
 regexp:^e11982\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:ac00:28d::2ece
 
-store-images.s-microsoft.com 184.50.92.60
-store-images.s-microsoft.com-c.edgekey.net 184.50.92.60
-regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.92.60
+store-images.s-microsoft.com 184.30.21.144
+store-images.s-microsoft.com-c.edgekey.net 184.30.21.144
+regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.21.144
 
-ipv6.slot12565.ebay.com.edgekey.net 184.50.92.61
-slot12565.ebay.com.edgekey.net 184.50.92.61
-regexp:^e12565\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.50.92.61
+ipv6.slot12565.ebay.com.edgekey.net 23.210.18.60
+slot12565.ebay.com.edgekey.net 23.210.18.60
+regexp:^e12565\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.210.18.60
 
 pay.ebay.com 2600:140b:4800:48a::311a
 slot12570.ebay.com.edgekey.net 2600:140b:4800:48a::311a

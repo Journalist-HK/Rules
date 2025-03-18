@@ -229,9 +229,11 @@ vod-hls-pv-gamma.amazon.fastly-edge.com 151.101.50.145
 vod-smooth-pv-gamma.amazon.fastly-edge.com 151.101.50.145
 
 regexp:.*(author|publish)-p\d+-e\d+\.adobeaemcloud\.com$ 151.101.199.10
+domain:cdn.adobeaemcloud.com 151.101.199.10
 domain:test-aemaacs-cdn-operator.adobeaemcloud.com 151.101.199.10
 domain:testcert.adobeaemcloud.com 151.101.199.10
 domain:testcert1.adobeaemcloud.com 151.101.199.10
+domain:odin.adobe.com 151.101.199.10
 dualstack.adobe-aem.map.fastly.net 151.101.199.10
 adobe-aem.map.fastly.net 151.101.199.10
 

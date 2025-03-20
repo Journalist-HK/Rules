@@ -73,6 +73,7 @@ honnef.co
 hostloc.net
 hostmonit.com
 infura.io
+inkl.com
 iwanlab.com
 jkv.app
 jwplayer.com
@@ -112,6 +113,7 @@ okcoin.com
 onlyfans.com
 openairinterface.org
 osl.com
+outlookindia.com
 patreonusercontent.com
 perchance.org
 pexpay.com

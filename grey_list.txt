@@ -38,6 +38,7 @@ full:ping.dev.channel99.io
 full:ping.stage.channel99.io
 full:prod.pinterest.global.map.fastly.net
 full:qastatic.richrelevance.net
+full:resize.blogsys.jp
 full:s3-ap-south-1.amazonaws.com
 full:sdk.fra-01.braze.eu
 full:smartupdate1.centralpointnow.com
@@ -54,6 +55,8 @@ full:www.cachefly.com
 ac.bcon.ecdns.net
 api.giphy.com
 club.tgfcer.com
+dlv.itmedia.jp
+image.itmedia.co.jp
 s3.ap-southeast-2.amazonaws.com
 
 233.fi

@@ -12,12 +12,12 @@ vod.steamstatic.com vod.akamai.steamstatic.com
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
 thumbs.ebaycdn.net slot5842.ebay.com.edgekey.net
-i.ebayimg.com ipv6.slot9428.ebay.com.edgekey.net
-images.ebaycdn.net ipv6.slot9428.ebay.com.edgekey.net
+i.ebayimg.com ebayimg.edgesuite.net
+images.ebaycdn.net ebayimg.edgesuite.net
 ir.ebaystatic.com ipv4.slot11847.ebay.com.edgekey.net
 ir.ebaycdn.net ipv4.slot11847.ebay.com.edgekey.net
-apisd.ebay.com ipv4.ebaymobile.map.fastly.net
-apisd.ebaycdn.net ipv4.ebaymobile.map.fastly.net
+apisd.ebay.com slot12565.ebay.com.edgekey.net
+apisd.ebaycdn.net slot12565.ebay.com.edgekey.net
 
 account-public-service-prod.ak.epicgames.com ak.epicgames.com.edgekey.net
 

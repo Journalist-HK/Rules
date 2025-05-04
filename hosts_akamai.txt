@@ -240,7 +240,6 @@ ipv6.slot12565.ebay.com.edgekey.net 23.222.206.28
 slot12565.ebay.com.edgekey.net 23.222.206.28
 regexp:^e12565\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.222.206.28
 
-pay.ebay.com 2600:1406:5400:49f::311a
 slot12570.ebay.com.edgekey.net 2600:1406:5400:49f::311a
 regexp:^e12570\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:49f::311a
 
@@ -340,5 +339,9 @@ spdmetrics.ebay.com.edgekey.net 23.199.57.80
 rbwm-api.hsbc.com.hk 23.199.57.80
 rbwm-api.hsbc.com.hk.edgekey.net 23.199.57.80
 # regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+pay.ebay.com 23.199.57.80
+slot334050.ebay.com.edgekey.net 23.199.57.80
+# regexp:^e334050\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

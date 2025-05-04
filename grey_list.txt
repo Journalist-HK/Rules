@@ -138,6 +138,7 @@ wlvpn.com
 xbiquge99.cc
 regexp:^(.+\.)?mikuclub\..+$
 regexp:^(.+\.)?xg(mn|yw)\d*\..+$
+keyword:hinet.net
 keyword:18comic
 keyword:18-comic
 keyword:jmcomic

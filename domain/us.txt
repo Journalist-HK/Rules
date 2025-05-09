@@ -12,6 +12,7 @@ gop.com
 lens.l.google.com
 voice.google.com
 
++.capitaloneshopping.com
 +.caseys.com
 +.crackle.com
 +.crunchyroll.com

@@ -242,6 +242,7 @@ payload:
   - 'cdn-fastly.obsproject.com'
   - 'cdn.statically.io'
   - 'clients.plex.tv'
+  - '+.control.kochava.com'
   - '*.dns.sb'
   - 'form.jotform.com'
   - '+.global.ssl.fastly.net'

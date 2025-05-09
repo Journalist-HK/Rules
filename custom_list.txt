@@ -230,6 +230,7 @@ regexp:^.*api\.ask\.fm$
 regexp:^.*b\.hatena\.ne\.jp$
 regexp:^.*cdn-ak2\.favicon\.st-hatena\.com$
 regexp:^.*cdn\.statically\.io$
+regexp:^.*control\.kochava\.com$
 regexp:^.*form\.jotform\.com$
 regexp:^.*m\.kankanwu\.com$
 regexp:^.*s3-ap-southeast-1\.amazonaws\.com$

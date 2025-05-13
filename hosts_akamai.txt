@@ -109,17 +109,21 @@ assets.adobedtm.com 23.37.17.57
 cn-assets.adobedtm.com.edgekey.net 23.37.17.57
 regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.57
 
+avatars.ubisoft.com 184.29.21.80
+static-esports.ubisoft.com 184.29.21.80
 static-overlay.ubisoft.com 184.29.21.80
-static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
-static.cdn.ubi.com.edgekey.net 184.29.21.80
-static3.cdn.ubi.com 184.29.21.80
 staticctf.ubisoft.com 184.29.21.80
 ubistatic-a.ubisoft.com 184.29.21.80
 ubistatic2-a.ubisoft.com 184.29.21.80
+static3.cdn.ubi.com 184.29.21.80
+avatars.ubisoft.com.edgekey.net 184.29.21.80
+static-esports.ubisoft.com.edgekey.net 184.29.21.80
 static-overlay.ubisoft.com.edgekey.net 184.29.21.80
 staticctf.ubisoft.com.edgekey.net 184.29.21.80
 ubistatic-a.ubisoft.com.edgekey.net 184.29.21.80
 ubistatic2-a.ubisoft.com.edgekey.net 184.29.21.80
+static-ww.cdn.ubi.com.edgekey.net 184.29.21.80
+static.cdn.ubi.com.edgekey.net 184.29.21.80
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.21.80
 
 pl.ea.com 184.28.149.56

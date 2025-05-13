@@ -109,17 +109,21 @@ assets.adobedtm.com 2600:140b:2c00:4b6::1e80
 cn-assets.adobedtm.com.edgekey.net 2600:140b:2c00:4b6::1e80
 regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:2c00:4b6::1e80
 
+avatars.ubisoft.com 184.30.24.238
+static-esports.ubisoft.com 184.30.24.238
 static-overlay.ubisoft.com 184.30.24.238
-static-ww.cdn.ubi.com.edgekey.net 184.30.24.238
-static.cdn.ubi.com.edgekey.net 184.30.24.238
-static3.cdn.ubi.com 184.30.24.238
 staticctf.ubisoft.com 184.30.24.238
 ubistatic-a.ubisoft.com 184.30.24.238
 ubistatic2-a.ubisoft.com 184.30.24.238
+static3.cdn.ubi.com 184.30.24.238
+avatars.ubisoft.com.edgekey.net 184.30.24.238
+static-esports.ubisoft.com.edgekey.net 184.30.24.238
 static-overlay.ubisoft.com.edgekey.net 184.30.24.238
 staticctf.ubisoft.com.edgekey.net 184.30.24.238
 ubistatic-a.ubisoft.com.edgekey.net 184.30.24.238
 ubistatic2-a.ubisoft.com.edgekey.net 184.30.24.238
+static-ww.cdn.ubi.com.edgekey.net 184.30.24.238
+static.cdn.ubi.com.edgekey.net 184.30.24.238
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.24.238
 
 pl.ea.com 23.42.185.137

@@ -124,6 +124,7 @@ pilipili.cc
 pilipili.cm
 pndsn.com
 qbittorrent.org
+qobuz.com
 qooapp.net
 qoo-app.com
 qwant.com

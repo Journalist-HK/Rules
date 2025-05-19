@@ -137,6 +137,7 @@ vikacg.com
 vps000.com
 wlvpn.com
 xbiquge99.cc
+zgo.at
 regexp:^(.+\.)?mikuclub\..+$
 regexp:^(.+\.)?xg(mn|yw)\d*\..+$
 keyword:hinet.net

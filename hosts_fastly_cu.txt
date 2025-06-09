@@ -758,58 +758,52 @@ overclock.net 146.75.93.91
 
 www.paypal.com.cn 151.101.51.1
 
-adjvendor.glb.paypal.com 192.229.210.155
+adjvendor.glb.paypal.com 151.101.49.21
 api-m-sandbox.glb.paypal.com 151.101.51.1
-api-m.glb.paypal.com 192.229.210.155
+api-m.glb.paypal.com 151.101.51.1
 braintreeppp.glb.paypal.com 151.101.49.21
-c6.glb.paypal.com 192.229.210.155
-checkout.glb.paypal.com 192.229.210.155
+checkout.glb.paypal.com 199.232.194.133
 demo-cdn.glb.paypal.com 151.101.49.21
-developer.glb.paypal.com 192.229.210.155
+developer.glb.paypal.com 151.101.49.21
 m-intl.glb.paypal.com 151.101.49.21
-pics.glb.paypal.com 192.229.210.155
 pns-int.glb.paypal.com 151.101.51.1
 pointofsale-s.glb.paypal.com 151.101.49.21
-ppo.glb.paypal.com 192.229.210.155
 p.glb.paypal.com 151.101.51.1
 test-braintreeppp.glb.paypal.com 151.101.49.21
-t.glb.paypal.com 192.229.210.155
 webhook-observability.glb.paypal.com 151.101.51.1
 www-intl.glb.paypal.com 151.101.51.1
 www-sandbox.glb.paypal.com 151.101.51.1
-www.glb.paypal.com 192.229.210.155
+www.glb.paypal.com 151.101.49.21
 
-adjvendor.paypal.com 192.229.210.155
-api-m.paypal.com 192.229.210.155
+adjvendor.paypal.com 151.101.49.21
+api-m.paypal.com 151.101.51.1
 api-stage.paypal.com 151.101.49.21
-cors.api.paypal.com 192.229.210.155
+cors.api.paypal.com 151.101.49.21
 braintreeppp.paypal.com 151.101.49.21
-business.paypal.com 192.229.210.155
-c6.paypal.com 192.229.210.155
-checkout.paypal.com 192.229.210.155
-connect.paypal.com 192.229.210.155
-creditapply.paypal.com 192.229.210.155
-c.paypal.com 192.229.210.155
+business.paypal.com 151.101.49.21
+checkout.paypal.com 199.232.194.133
+connect.paypal.com 151.101.49.21
+creditapply.paypal.com 151.101.49.21
+c.paypal.com 151.101.49.21
 demo.paypal.com 151.101.49.21
-developer.paypal.com 192.229.210.155
-www.fastlane.paypal.com 192.229.210.155
-fastlane.paypal.com 192.229.210.155
-financing.paypal.com 192.229.210.155
-fpdbs.paypal.com 192.229.210.155
+developer.paypal.com 151.101.49.21
+www.fastlane.paypal.com 151.101.49.21
+fastlane.paypal.com 151.101.49.21
+financing.paypal.com 151.101.49.21
+fpdbs.paypal.com 151.101.49.21
 accounts.hcaptcha.paypal.com 151.101.51.1
 imgs.hcaptcha.paypal.com 151.101.51.1
 newassets.hcaptcha.paypal.com 151.101.51.1
 hcaptcha.paypal.com 151.101.51.1
-history.paypal.com 192.229.210.155
+history.paypal.com 151.101.49.21
 m.paypal.com 151.101.49.21
-pep.paypal.com 192.229.210.155
-pics.paypal.com 192.229.210.155
+pep.paypal.com 151.101.49.21
 pns-int.paypal.com 151.101.51.1
 pointofsale-s.paypal.com 151.101.49.21
 postcollector.paypal.com 151.101.51.1
 p.paypal.com 151.101.51.1
-qwac.paypal.com 192.229.210.155
-safebreach.paypal.com 192.229.210.155
+qwac.paypal.com 151.101.49.21
+safebreach.paypal.com 151.101.49.21
 api-m-v2.sandbox.paypal.com 151.101.51.1
 api-m.sandbox.paypal.com 151.101.51.1
 api-s-v2.sandbox.paypal.com 151.101.51.1
@@ -832,27 +826,27 @@ securepayments-v2.sandbox.paypal.com 151.101.51.1
 securepayments.sandbox.paypal.com 151.101.51.1
 www-v2.sandbox.paypal.com 151.101.51.1
 www.sandbox.paypal.com 151.101.51.1
-sandbox.paypal.com 192.229.210.155
-securepayments.paypal.com 192.229.210.155
+sandbox.paypal.com 151.101.51.1
+securepayments.paypal.com 151.101.49.21
 pns-int.stage.paypal.com 151.101.49.21
 tsp-int.stage.paypal.com 151.101.49.21
 test-braintreeppp.paypal.com 151.101.49.21
-transfer.paypal.com 192.229.210.155
+transfer.paypal.com 151.101.49.21
 tsp-int.paypal.com 151.101.51.1
-t.paypal.com 192.229.210.155
 webhook-observability.paypal.com 151.101.51.1
 www-edge.paypal.com 151.101.50.247 199.232.194.247
 www-ru.glb.paypal.com 151.101.49.21
 www-st.paypal.com 151.101.49.21
-www.paypal.com 192.229.210.155
-zettleintegrations.paypal.com 192.229.210.155
-zootapi.paypal.com 192.229.210.155
-paypal.com 192.229.210.155
+www.paypal.com 151.101.49.21
+zettleintegrations.paypal.com 151.101.49.21
+zootapi.paypal.com 151.101.49.21
+paypal.com 151.101.51.1
 
 m.paypal.co.uk 151.101.49.21
 www.paypal.co.uk 151.101.51.1
 
-www.paypalobjects.com 192.229.210.155
+www.paypalobjects.com 151.101.51.1
+paypalobjects.com 151.101.51.1
 
 api-m.g.test-paypal.com 151.101.50.247 199.232.194.247
 c.g.test-paypal.com 151.101.50.247 199.232.194.247
@@ -869,9 +863,6 @@ dualstack.paypal-dynamic-cdn.map.fastly.net 151.101.51.1
 paypal-dynamic-cdn.map.fastly.net 151.101.51.1
 paypal-dynamic.map.fastly.net 151.101.49.21
 paypal.map.fastly.net 199.232.194.133
-cs1150.wpc.betacdn.net 192.229.210.155
-cs1151.wpc.betacdn.net 192.229.210.155
-cs645.wpc.thetacdn.net 152.199.4.26
 
 web.periscope.map.fastly.net 151.101.198.118
 periscope.map.fastly.net 151.101.198.118

@@ -31,6 +31,14 @@ lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org
 geo.source.kernel.org dfw.source.kernel.org
 
+c6.paypal.com c6.paypal.com.cdn.cloudflare.net
+c6.glb.paypal.com c6.paypal.com.cdn.cloudflare.net
+pics.paypal.com fallback.www.paypalobjects.com.cdn.cloudflare.net
+pics.glb.paypal.com fallback.www.paypalobjects.com.cdn.cloudflare.net
+ppo.glb.paypal.com www.paypalobjects.com.cdn.cloudflare.net
+t.paypal.com c.paypal.com.cdn.cloudflare.net
+t.glb.paypal.com c.paypal.com.cdn.cloudflare.net
+
 dms.licdn.com dms-amd.akamaized.net
 2-01-2c3e-004c.cdx.cedexis.net dms-amd.akamaized.net
 media-exp1.licdn.com od.linkedin.edgesuite.net

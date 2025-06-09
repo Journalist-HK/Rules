@@ -94,5 +94,8 @@
 2a0f:8680::/29
 2a0f:a940::/29
 
+# AS63949 Akamai Connected Cloud
+198.58.96.0/19
+
 # AS396982 Google LLC
 104.196.192.0/20

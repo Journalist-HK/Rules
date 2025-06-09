@@ -90,6 +90,7 @@ gal123.com
 global.ssl.fastly.net
 gmpg.org
 hanime1.me
+hgamefree.info
 home.blog
 huobi.com.bo
 intercom.help

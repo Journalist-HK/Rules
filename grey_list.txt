@@ -18,6 +18,7 @@ full:cdn.richrelevance.com
 full:cdn.sparklingsociety.net
 full:ced-ns.sascdn.com
 full:claim.fluence.network
+full:download.dappcdn.com
 full:download.fosshub.com
 full:downloads.pdf-xchange.com
 full:events.mapbox.com
@@ -63,6 +64,7 @@ s3.ap-southeast-2.amazonaws.com
 2dfan.com
 agefans.net
 agemys.com
+audioboom.com
 bittorrent.com
 blocktempo.com
 bootstrapcdn.com
@@ -89,6 +91,7 @@ freetls.fastly.net
 gal123.com
 global.ssl.fastly.net
 gmpg.org
+haho.moe
 hanime1.me
 hgamefree.info
 home.blog

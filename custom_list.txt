@@ -186,6 +186,7 @@ yodobashi.com
 
 anond.hatelabo.jp
 d.hatena.ne.jp
+gamefaqs.gamespot.com
 images.prismic.io
 full:nitrous.motortrend.com
 openai.ne.world

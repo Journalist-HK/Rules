@@ -245,6 +245,7 @@ payload:
   - '+.control.kochava.com'
   - '*.dns.sb'
   - 'form.jotform.com'
+  - '+.gamefaqs.gamespot.com'
   - '+.global.ssl.fastly.net'
   - 'go.dev'
   - 'images.prismic.io'

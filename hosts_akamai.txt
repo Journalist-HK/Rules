@@ -105,6 +105,15 @@ ipv6.slot5842.ebay.com.edgekey.net 2600:1406:5400:4a4::16d2
 slot5842.ebay.com.edgekey.net 2600:1406:5400:4a4::16d2
 regexp:^e5842\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:4a4::16d2
 
+aic-ngfts.lge.com 23.202.133.116
+ngfts.lge.com 23.202.133.116
+su-ssl.lge.com 23.202.133.116
+aic-ngfts.lge.com.edgekey.net 23.202.133.116
+ngfts.lge.com.edgekey.net 23.202.133.116
+su-ssl.lge.com.edgekey.net 23.202.133.116
+e6114.e21.akamaiedge.net 23.202.133.116
+regexp:^e6114\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.202.133.116
+
 assets.adobedtm.com 23.37.17.57
 cn-assets.adobedtm.com.edgekey.net 23.37.17.57
 regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.57

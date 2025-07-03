@@ -25,6 +25,8 @@ llnwi.net
 # Salesforce
 full:adaptivesupport.amd.com
 full:support.anker.com
+full:professionalsupport.dolby.com
+full:support.dolby.com
 edge2.salesforce.com
 live.siteforce.com
 

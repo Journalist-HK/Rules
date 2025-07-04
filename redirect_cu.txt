@@ -91,13 +91,17 @@ licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.com
 
 browser.events.data.msn.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 functional.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
+mobile.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 self.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 teams.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 v10.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 global.asimov.events.data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
+mobile.events.data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 self-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 teams-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
+watson.events.data.microsoft.com onedsblobprdcus17.centralus.cloudapp.azure.com
+blobcollectorcommon.trafficmanager.net onedsblobprdcus17.centralus.cloudapp.azure.com
 
 settings-win.data.microsoft.com settings-prod-weu-1.westeurope.cloudapp.azure.com
 atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-weu-1.westeurope.cloudapp.azure.com

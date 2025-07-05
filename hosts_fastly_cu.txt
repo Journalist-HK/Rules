@@ -401,8 +401,11 @@ apisd.sandbox.ebay.com 151.101.50.206
 t3-apisd.ebay.com 151.101.50.206
 ipv4.ebaymobile.map.fastly.net 151.101.50.206
 ebaymobile.map.fastly.net 151.101.50.206
+ipv4.ebayimg.map.fastly.net 151.101.50.206
 ebayimg.map.fastly.net 151.101.50.206
 ebaystatic.ebay.map.fastly.net 151.101.50.206
+ipv4.ebayweb.map.fastly.net 151.101.50.206
+ebayweb.map.fastly.net 151.101.50.206
 
 cap-api.fastly.com 151.101.197.51
 demo-issuer.private-access-tokens.fastly.com 151.101.197.51

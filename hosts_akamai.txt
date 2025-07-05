@@ -77,33 +77,51 @@ download.ebz.epson.net 2600:1406:5400:4a4::d2e
 download.ebz.epson.net.edgekey.net 2600:1406:5400:4a4::d2e
 regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:4a4::d2e
 
-secure.api.admin.zmags.com 2600:1406:5400:4a4::14ad
-secure.admin.zmags.com 2600:1406:5400:4a4::14ad
-admin.zmags.com 2600:1406:5400:4a4::14ad
-img.creator-prod.zmags.com 2600:1406:5400:4a4::14ad
-img.creator.zmags.com 2600:1406:5400:4a4::14ad
-creator.zmags.com 2600:1406:5400:4a4::14ad
-c.zmags.com 2600:1406:5400:4a4::14ad
-c.zma.gs 2600:1406:5400:4a4::14ad
-secure.ps.zmags.com 2600:1406:5400:4a4::14ad
-secure.static.ps.zmags.com 2600:1406:5400:4a4::14ad
-secure.api.viewer.zmags.com 2600:1406:5400:4a4::14ad
-secure.viewer.zmags.com 2600:1406:5400:4a4::14ad
-secure.api.admin.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-secure.admin.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-admin.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-img.creator-prod.zmags.com-v1.edgekey.net 2600:1406:5400:4a4::14ad
-img.creator.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-creator.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-secure.ps.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-secure.static.ps.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-secure.api.viewer.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-secure.viewer.zmags.com.edgekey.net 2600:1406:5400:4a4::14ad
-regexp:^e5293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:4a4::14ad
+mpki-ocsp.digicert.com 23.219.19.133
+pki-ocsp.digicert.com 23.219.19.133
+mpki-ocsp.edge.digicert.com 23.219.19.133
+pki-ocsp.digicert.com.edgekey.net 23.219.19.133
+e3782.cd.akamaiedge.net 23.219.19.133
+regexp:^e3782\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.19.133
 
-ipv6.slot5842.ebay.com.edgekey.net 2600:1406:5400:4a4::16d2
-slot5842.ebay.com.edgekey.net 2600:1406:5400:4a4::16d2
-regexp:^e5842\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:4a4::16d2
+dl.cacerts.digicert.com 23.219.19.250
+cacerts.digicert.com 23.219.19.250
+crl3.digicert.com 23.219.19.250
+crl4.digicert.com 23.219.19.250
+ocsp.digicert.com 23.219.19.250
+crl.edge.digicert.com 23.219.19.250
+ocsp.edge.digicert.com 23.219.19.250
+cac-ocsp.digicert.com.edgekey.net 23.219.19.250
+e3913.cd.akamaiedge.net 23.219.19.250
+regexp:^e3913\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.19.250
+
+secure.api.admin.zmags.com 23.219.24.248
+secure.admin.zmags.com 23.219.24.248
+admin.zmags.com 23.219.24.248
+img.creator-prod.zmags.com 23.219.24.248
+img.creator.zmags.com 23.219.24.248
+creator.zmags.com 23.219.24.248
+c.zmags.com 23.219.24.248
+c.zma.gs 23.219.24.248
+secure.ps.zmags.com 23.219.24.248
+secure.static.ps.zmags.com 23.219.24.248
+secure.api.viewer.zmags.com 23.219.24.248
+secure.viewer.zmags.com 23.219.24.248
+secure.api.admin.zmags.com.edgekey.net 23.219.24.248
+secure.admin.zmags.com.edgekey.net 23.219.24.248
+admin.zmags.com.edgekey.net 23.219.24.248
+img.creator-prod.zmags.com-v1.edgekey.net 23.219.24.248
+img.creator.zmags.com.edgekey.net 23.219.24.248
+creator.zmags.com.edgekey.net 23.219.24.248
+secure.ps.zmags.com.edgekey.net 23.219.24.248
+secure.static.ps.zmags.com.edgekey.net 23.219.24.248
+secure.api.viewer.zmags.com.edgekey.net 23.219.24.248
+secure.viewer.zmags.com.edgekey.net 23.219.24.248
+regexp:^e5293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.24.248
+
+ipv6.slot5842.ebay.com.edgekey.net 23.221.147.96
+slot5842.ebay.com.edgekey.net 23.221.147.96
+regexp:^e5842\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.147.96
 
 aic-ngfts.lge.com 23.202.133.116
 ngfts.lge.com 23.202.133.116
@@ -161,7 +179,6 @@ ipv6.slot9428.ebay.com.edgekey.net 23.222.205.142
 slot9428.ebay.com.edgekey.net 23.222.205.142
 regexp:^e9428\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.222.205.142
 
-signin.ebay.com 23.48.183.178 2600:1406:5400:29b::24d6
 ipv6.slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
 slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
 regexp:^e9430\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.48.183.178 2600:1406:5400:29b::24d6
@@ -234,8 +251,6 @@ san.activision.com.edgekey.net 23.61.213.222
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.213.222
 
 pages.ebay.com 23.37.17.245
-www.ebay.com.hk 23.37.17.245
-www.ebay.com.hk.ebaycdn.net 23.37.17.245
 ipv4.slot11847.ebay.com.edgekey.net 23.37.17.245
 ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
 slot11847.ebay.com.edgekey.net 23.37.17.245
@@ -302,8 +317,6 @@ ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
-gfwsl.geforce.com 23.199.57.80
-origin-gfwsl.gtm.nvidia.net 23.199.57.80
 images.nvidia.com 23.199.57.80
 www.nvidia.com 23.199.57.80
 gfwsl.geforce.com.edgekey.net 23.199.57.80
@@ -325,6 +338,10 @@ monitor.ebay.com 23.199.57.80
 gisufespipeline22.ebaycdn.net 23.199.57.80
 gisufespipeline22.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+signin.ebay.com 23.199.57.80
+slot286433.ebay.com.edgekey.net 23.199.57.80
+# regexp:^e164274\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 static-dm.ubisoft.com 23.199.57.80
 static-dm.ubisoft.com-v1.edgekey.net 23.199.57.80

@@ -14,6 +14,8 @@ cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 thumbs.ebaycdn.net slot5842.ebay.com.edgekey.net
 i.ebayimg.com ebayimg.edgesuite.net
 images.ebaycdn.net ebayimg.edgesuite.net
+www.ebay.com.hk slot11847.ebay.com.edgekey.net
+www.ebay.com.hk.ebaycdn.net slot11847.ebay.com.edgekey.net
 ir.ebaystatic.com ipv4.slot11847.ebay.com.edgekey.net
 ir.ebaycdn.net ipv4.slot11847.ebay.com.edgekey.net
 apisd.ebay.com slot12565.ebay.com.edgekey.net

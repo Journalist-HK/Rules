@@ -102,8 +102,14 @@ mobile.events.data.trafficmanager.net onedscolprdgwc00.germanywestcentral.clouda
 self-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 teams-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
+
 watson.events.data.microsoft.com onedsblobprdcus17.centralus.cloudapp.azure.com
 blobcollectorcommon.trafficmanager.net onedsblobprdcus17.centralus.cloudapp.azure.com
+
+eu-mobile.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
+eu-teams.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
+eu-v10.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
+eu.events.data.trafficmanager.net onedscolprdfrc01.francecentral.cloudapp.azure.com
 
 settings-win.data.microsoft.com settings-prod-weu-1.westeurope.cloudapp.azure.com
 atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-weu-1.westeurope.cloudapp.azure.com

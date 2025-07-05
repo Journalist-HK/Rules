@@ -185,9 +185,11 @@ xvideos.red
 yodobashi.com
 
 anond.hatelabo.jp
+api.ipify.org
 d.hatena.ne.jp
 gamefaqs.gamespot.com
 images.prismic.io
+nexus-websocket-a.intercom.io
 full:nitrous.motortrend.com
 openai.ne.world
 full:s3.ap-south-1.amazonaws.com

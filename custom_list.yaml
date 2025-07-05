@@ -236,6 +236,7 @@ payload:
 
   # GFW
   - 'anond.hatelabo.jp'
+  - 'api.ipify.org'
   - '*.b-cdn.net'
   - '+.b.hatena.ne.jp'
   - 'cdn-ak2.favicon.st-hatena.com'

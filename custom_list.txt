@@ -48,6 +48,7 @@ docker.com
 docker.io
 dun.im
 eprice.com.hk
+escude.co.jp
 express.co.uk
 ext-twitch.tv
 extrabux.com

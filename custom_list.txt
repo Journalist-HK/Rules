@@ -43,6 +43,7 @@ coti.io
 credit.org
 cryptocompare.com
 cxense.com
+dala8.xyz
 dextools.io
 docker.com
 docker.io

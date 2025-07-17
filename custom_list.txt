@@ -83,6 +83,7 @@ jwplayer.com
 kemono.party
 kemono.su
 kgithub.com
+lemmy.ml
 liftoff.io
 liquidsky.com
 looks.wang

@@ -111,8 +111,8 @@ eu-teams.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure
 eu-v10.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
 eu.events.data.trafficmanager.net onedscolprdfrc01.francecentral.cloudapp.azure.com
 
-settings-win.data.microsoft.com settings-prod-weu-1.westeurope.cloudapp.azure.com
-atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-weu-1.westeurope.cloudapp.azure.com
+settings-win.data.microsoft.com settings-prod-neu-1.northeurope.cloudapp.azure.com
+atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-neu-1.northeurope.cloudapp.azure.com
 
 nav-edge.smartscreen.microsoft.com prod-agic-jw-2.japanwest.cloudapp.azure.com
 prod-atm-wds-edge.trafficmanager.net prod-agic-jw-2.japanwest.cloudapp.azure.com

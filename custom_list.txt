@@ -87,6 +87,7 @@ lemmy.ml
 liftoff.io
 liquidsky.com
 looks.wang
+looksrare.org
 manhuagui.com
 mcdex.io
 mcusercontent.com

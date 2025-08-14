@@ -1,5 +1,6 @@
 # IP ranges have been blocked but has not been confirmed to be used as results of DNS hijacking.
 3.208.0.0/12
 34.116.0.0/15
+34.149.87.45/32
 64.39.96.133/32
 216.239.32.0/24

@@ -47,6 +47,9 @@ dala8.xyz
 dextools.io
 docker.com
 docker.io
+dns.sb
+doh.sb
+dns.sh
 dun.im
 eprice.com.hk
 escude.co.jp
@@ -71,7 +74,6 @@ googlepages.com
 greasyfork.org
 gunosy.com
 herokuapp.com
-hinet.net
 honnef.co
 hostloc.net
 hostmonit.com
@@ -194,6 +196,7 @@ images.prismic.io
 nexus-websocket-a.intercom.io
 full:nitrous.motortrend.com
 openai.ne.world
+full:pixel.onead.com.tw
 full:s3.ap-south-1.amazonaws.com
 valid.x86.fr
 full:vip1.g5.cachefly.net
@@ -243,3 +246,5 @@ regexp:^.*form\.jotform\.com$
 regexp:^.*m\.kankanwu\.com$
 regexp:^.*s3-ap-southeast-1\.amazonaws\.com$
 regexp:^.*snap\.snapmobile\.asia$
+
+keyword:hinet.net

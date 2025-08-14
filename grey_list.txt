@@ -11,6 +11,7 @@ full:c.mi.com
 full:cachefly.alfredapp.com
 full:cachefly.discoverinspire.com
 full:cachefly.kinematics.com
+full:cdn.adk2.com
 full:cdn.arstechnica.net
 full:cdn.cms-twdigitalassets.com
 full:cdn.mouseflow.com
@@ -126,6 +127,7 @@ pixiv.org
 pornpics.com
 pubnative.net
 rule34video.com
+serveteck.com
 setupvpn.com
 singtao.ca
 singtao.tv
@@ -148,7 +150,6 @@ xbiquge99.cc
 zgo.at
 regexp:^(.+\.)?mikuclub\..+$
 regexp:^(.+\.)?xg(mn|yw)\d*\..+$
-keyword:hinet.net
 keyword:18comic
 keyword:18-comic
 keyword:jmcomic

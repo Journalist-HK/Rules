@@ -11,6 +11,8 @@ vod.steamstatic.com vod.akamai.steamstatic.com
 
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
+cdn-ima.33across.com cdn-ima.33across.com.cdn.cloudflare.net
+
 thumbs.ebaycdn.net slot5842.ebay.com.edgekey.net
 i.ebayimg.com ebayimg.edgesuite.net
 images.ebaycdn.net ebayimg.edgesuite.net
@@ -120,6 +122,12 @@ prod-atm-wds-edge.trafficmanager.net prod-agic-jw-2.japanwest.cloudapp.azure.com
 
 res.public.onecdn.static.microsoft res-1.public.onecdn.static.microsoft
 res-ocdi-public.trafficmanager.net res-1.public.onecdn.static.microsoft
+
+device.auth.xboxlive.com us-west-device.auth.xboxlive.com.akadns.net
+row-device.auth.xboxlive.com.akadns.net us-west-device.auth.xboxlive.com.akadns.net
+user.auth.xboxlive.com us-west-user.auth.xboxlive.com.akadns.net
+row-user.auth.xboxlive.com.akadns.net us-west-user.auth.xboxlive.com.akadns.net
+user.auth.xboxlive.com.akadns.net us-west-user.auth.xboxlive.com.akadns.net
 
 dlassets.xboxlive.com dlassets.xboxlive.com.edgesuite.net
 dlassets.xboxlive.com.delivery.microsoft.com dlassets.xboxlive.com.edgesuite.net

@@ -11,6 +11,8 @@ vod.steamstatic.com vod.akamai.steamstatic.com
 
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
+cdn-ima.33across.com cdn-ima.33across.com.cdn.cloudflare.net
+
 thumbs.ebaycdn.net slot5842.ebay.com.edgekey.net
 i.ebayimg.com ebayimg.edgesuite.net
 images.ebaycdn.net ebayimg.edgesuite.net

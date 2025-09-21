@@ -174,3 +174,9 @@ dlassets2.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
 
 # regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
 # maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
+
+# bug alidns unicom
+filters.adtidy.org 1278313086.rsc.cdn77.org
+static.adtidy.org 1625341327.rsc.cdn77.org
+testfilters.adtidy.org 1278313086.rsc.cdn77.org
+userscripts.adtidy.org 1476146239.rsc.cdn77.org

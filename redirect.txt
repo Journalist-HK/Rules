@@ -97,6 +97,21 @@ prod-atm-wds-edge.trafficmanager.net prod-agic-jw-2.japanwest.cloudapp.azure.com
 res.public.onecdn.static.microsoft res-1.public.onecdn.static.microsoft
 res-ocdi-public.trafficmanager.net res-1.public.onecdn.static.microsoft
 
+device.auth.xboxlive.com china-device.auth.xboxlive.com.akadns.net
+device.auth.xboxlive.com.akadns.net china-device.auth.xboxlive.com.akadns.net
+
+xsts.auth.xboxlive.com china-xsts.auth.xboxlive.com.akadns.net
+xsts.auth.xboxlive.com.akadns.net china-xsts.auth.xboxlive.com.akadns.net
+
+avty.xboxlive.com china-avty.xboxlive.com.akadns.net
+avty.xboxlive.com.akadns.net china-avty.xboxlive.com.akadns.net
+
+rta.xboxlive.com china-rta.xboxlive.com.akadns.net
+rta.xboxlive.com.akadns.net china-rta.xboxlive.com.akadns.net
+
+userpresence.xboxlive.com china-userpresence.xboxlive.com.akadns.net
+userpresence.xboxlive.com.akadns.net china-userpresence.xboxlive.com.akadns.net
+
 dlassets.xboxlive.com dlassets.xboxlive.com.edgesuite.net
 dlassets.xboxlive.com.delivery.microsoft.com dlassets.xboxlive.com.edgesuite.net
 xbx-dlassets-net.trafficmanager.net dlassets.xboxlive.com.edgesuite.net

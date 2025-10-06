@@ -6,6 +6,7 @@ full:api.dev.c99.ai
 full:api.stage.c99.ai
 full:api.channel99.com
 full:bbs.hostevaluate.com
+full:bbs.kfmax.com
 full:c.adventurerv.net
 full:c.mi.com
 full:cachefly.alfredapp.com
@@ -63,6 +64,7 @@ s3.ap-southeast-2.amazonaws.com
 
 233.fi
 2dfan.com
+acgbox.link
 agefans.net
 agemys.com
 audioboom.com

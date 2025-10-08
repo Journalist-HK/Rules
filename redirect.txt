@@ -106,6 +106,12 @@ xsts.auth.xboxlive.com.akadns.net china-xsts.auth.xboxlive.com.akadns.net
 avty.xboxlive.com china-avty.xboxlive.com.akadns.net
 avty.xboxlive.com.akadns.net china-avty.xboxlive.com.akadns.net
 
+presence-heartbeat.xboxlive.com china-presence-heartbeat.xboxlive.com.akadns.net
+presence-heartbeat.xboxlive.com.akadns.net china-presence-heartbeat.xboxlive.com.akadns.net
+
+privacy.xboxlive.com china-privacy.xboxlive.com.akadns.net
+privacy.xboxlive.com.akadns.net china-privacy.xboxlive.com.akadns.net
+
 rta.xboxlive.com china-rta.xboxlive.com.akadns.net
 rta.xboxlive.com.akadns.net china-rta.xboxlive.com.akadns.net
 

@@ -172,6 +172,7 @@ regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.246.28.48
 drop-api.ea.com 202.43.49.202
 drop-assets.ea.com 202.43.49.202
 gamekit.ea.com 202.43.49.202
+go.ea.com 202.43.49.202
 nds-network-nav.ea.com 202.43.49.202
 orbit.ea.com 202.43.49.202
 pl.ea.com 202.43.49.202

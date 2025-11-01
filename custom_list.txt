@@ -194,6 +194,7 @@ api.ipify.org
 d.hatena.ne.jp
 gamefaqs.gamespot.com
 images.prismic.io
+json2.dcinside.com
 nexus-websocket-a.intercom.io
 full:nitrous.motortrend.com
 openai.ne.world

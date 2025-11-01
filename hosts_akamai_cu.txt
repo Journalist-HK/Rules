@@ -94,6 +94,7 @@ cac-ocsp.digicert.com.edgekey.net 23.219.19.250
 e3913.cd.akamaiedge.net 23.219.19.250
 regexp:^e3913\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.19.250
 
+checkout.ea.com 23.55.98.144
 qa.sst.digitalcodes.ea.com 23.55.98.144
 sst.digitalcodes.ea.com 23.55.98.144
 docs.ea.com 23.55.98.144
@@ -311,6 +312,7 @@ regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.43.73.168
 autopatch.juno.ea.com 202.43.62.29
 cloudsync.juno.ea.com 202.43.62.29
 contentful-proxy.juno.ea.com 202.43.62.29
+desktop-config.juno.ea.com 202.43.62.29
 ratt.juno.ea.com 202.43.62.29
 service-aggregation-layer.juno.ea.com 202.43.62.29
 update.layer.ea.com 202.43.62.29

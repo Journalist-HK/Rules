@@ -93,6 +93,20 @@ displaycatalog.mp.microsoft.com wus2s2c-displaycatalog.frontdoor.bigcatalog.comm
 displaycatalog-rp.md.mp.microsoft.com.akadns.net wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 rp-consumer-prod-displaycatalog-geomap.trafficmanager.net wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 
+storeedgefd-ppe.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+storeedgefdsecureorigin.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+cdn.storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+storeedgefd-ppe.xbetservices.akadns.net e16646.ca.s.tl88.net
+storeedgefd.xbetservices.akadns.net e16646.ca.s.tl88.net
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
+
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com
@@ -110,7 +124,6 @@ mobile.events.data.trafficmanager.net onedscolprdgwc00.germanywestcentral.clouda
 self-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 teams-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
 win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-
 
 watson.events.data.microsoft.com onedsblobprdcus17.centralus.cloudapp.azure.com
 blobcollectorcommon.trafficmanager.net onedsblobprdcus17.centralus.cloudapp.azure.com

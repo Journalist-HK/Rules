@@ -91,6 +91,20 @@ kingsoftspark.bg.download.ks-cdn.com dl.delivery.mp.microsoft.com.jsd.ksyunv5.co
 dcat-b-tlu-net.trafficmanager.net tlu.dl.delivery.mp.microsoft.com.jsd.ksyunv5.com
 kingsoftspark.bg.tlu.download.ks-cdn.com tlu.dl.delivery.mp.microsoft.com.jsd.ksyunv5.com
 
+storeedgefd-ppe.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+storeedgefdsecureorigin.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+cdn.storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+storeedgefd-ppe.xbetservices.akadns.net e16646.ca.s.tl88.net
+storeedgefd.xbetservices.akadns.net e16646.ca.s.tl88.net
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
+storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
+
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com

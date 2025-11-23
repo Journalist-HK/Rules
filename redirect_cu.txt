@@ -217,3 +217,6 @@ filters.adtidy.org 1278313086.rsc.cdn77.org
 static.adtidy.org 1625341327.rsc.cdn77.org
 testfilters.adtidy.org 1278313086.rsc.cdn77.org
 userscripts.adtidy.org 1476146239.rsc.cdn77.org
+
+cdp.cloud.unity3d.com unity-data-gke-prd-gateway.cdp.internal.unity3d.com
+prd-lender.cdp.internal.unity3d.com unity-data-gke-prd-gateway.cdp.internal.unity3d.com

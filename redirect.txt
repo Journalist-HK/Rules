@@ -181,3 +181,6 @@ dlassets2.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
 
 # regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
 # maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
+
+cdp.cloud.unity3d.com unity-data-gke-prd-gateway.cdp.internal.unity3d.com
+prd-lender.cdp.internal.unity3d.com unity-data-gke-prd-gateway.cdp.internal.unity3d.com

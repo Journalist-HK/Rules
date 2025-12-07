@@ -9,6 +9,18 @@ store.steamstatic.com store.akamai.steamstatic.com
 video.steamstatic.com video.akamai.steamstatic.com
 vod.steamstatic.com vod.akamai.steamstatic.com
 
+mpki-ocsp.digicert.com mpki-ocsp.digicert.com.cdn.cloudflare.net
+pki-ocsp.digicert.com mpki-ocsp.digicert.com.cdn.cloudflare.net
+mpki-ocsp.edge.digicert.com mpki-ocsp.digicert.com.cdn.cloudflare.net
+
+dl.cacerts.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+cacerts.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+crl3.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+crl4.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+ocsp.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+crl.edge.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+ocsp.edge.digicert.com ocsp.digicert.com.cdn.cloudflare.net
+
 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
 cdn-ima.33across.com cdn-ima.33across.com.cdn.cloudflare.net

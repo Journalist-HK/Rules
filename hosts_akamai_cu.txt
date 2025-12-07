@@ -76,23 +76,13 @@ download.ebz.epson.net 2.17.244.90
 download.ebz.epson.net.edgekey.net 2.17.244.90
 regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.17.244.90
 
-mpki-ocsp.digicert.com 23.219.19.133
-pki-ocsp.digicert.com 23.219.19.133
-mpki-ocsp.edge.digicert.com 23.219.19.133
-pki-ocsp.digicert.com.edgekey.net 23.219.19.133
-e3782.cd.akamaiedge.net 23.219.19.133
-regexp:^e3782\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.19.133
+pki-ocsp.digicert.com.edgekey.net 23.63.113.242
+e3782.cd.akamaiedge.net 23.63.113.242
+regexp:^e3782\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.63.113.242
 
-dl.cacerts.digicert.com 23.219.19.250
-cacerts.digicert.com 23.219.19.250
-crl3.digicert.com 23.219.19.250
-crl4.digicert.com 23.219.19.250
-ocsp.digicert.com 23.219.19.250
-crl.edge.digicert.com 23.219.19.250
-ocsp.edge.digicert.com 23.219.19.250
-cac-ocsp.digicert.com.edgekey.net 23.219.19.250
-e3913.cd.akamaiedge.net 23.219.19.250
-regexp:^e3913\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.19.250
+cac-ocsp.digicert.com.edgekey.net 23.63.118.230
+e3913.cd.akamaiedge.net 23.63.118.230
+regexp:^e3913\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.63.118.230
 
 checkout.ea.com 23.55.98.144
 qa.sst.digitalcodes.ea.com 23.55.98.144
@@ -112,29 +102,29 @@ ea10.com.edgekey.net 23.55.98.144
 ea17.com.edgekey.net 23.55.98.144
 regexp:^e4391\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.55.98.144
 
-secure.api.admin.zmags.com 23.219.24.248
-secure.admin.zmags.com 23.219.24.248
-admin.zmags.com 23.219.24.248
-img.creator-prod.zmags.com 23.219.24.248
-img.creator.zmags.com 23.219.24.248
-creator.zmags.com 23.219.24.248
-c.zmags.com 23.219.24.248
-c.zma.gs 23.219.24.248
-secure.ps.zmags.com 23.219.24.248
-secure.static.ps.zmags.com 23.219.24.248
-secure.api.viewer.zmags.com 23.219.24.248
-secure.viewer.zmags.com 23.219.24.248
-secure.api.admin.zmags.com.edgekey.net 23.219.24.248
-secure.admin.zmags.com.edgekey.net 23.219.24.248
-admin.zmags.com.edgekey.net 23.219.24.248
-img.creator-prod.zmags.com-v1.edgekey.net 23.219.24.248
-img.creator.zmags.com.edgekey.net 23.219.24.248
-creator.zmags.com.edgekey.net 23.219.24.248
-secure.ps.zmags.com.edgekey.net 23.219.24.248
-secure.static.ps.zmags.com.edgekey.net 23.219.24.248
-secure.api.viewer.zmags.com.edgekey.net 23.219.24.248
-secure.viewer.zmags.com.edgekey.net 23.219.24.248
-regexp:^e5293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.219.24.248
+secure.api.admin.zmags.com 104.87.233.123
+secure.admin.zmags.com 104.87.233.123
+admin.zmags.com 104.87.233.123
+img.creator-prod.zmags.com 104.87.233.123
+img.creator.zmags.com 104.87.233.123
+creator.zmags.com 104.87.233.123
+c.zmags.com 104.87.233.123
+c.zma.gs 104.87.233.123
+secure.ps.zmags.com 104.87.233.123
+secure.static.ps.zmags.com 104.87.233.123
+secure.api.viewer.zmags.com 104.87.233.123
+secure.viewer.zmags.com 104.87.233.123
+secure.api.admin.zmags.com.edgekey.net 104.87.233.123
+secure.admin.zmags.com.edgekey.net 104.87.233.123
+admin.zmags.com.edgekey.net 104.87.233.123
+img.creator-prod.zmags.com-v1.edgekey.net 104.87.233.123
+img.creator.zmags.com.edgekey.net 104.87.233.123
+creator.zmags.com.edgekey.net 104.87.233.123
+secure.ps.zmags.com.edgekey.net 104.87.233.123
+secure.static.ps.zmags.com.edgekey.net 104.87.233.123
+secure.api.viewer.zmags.com.edgekey.net 104.87.233.123
+secure.viewer.zmags.com.edgekey.net 104.87.233.123
+regexp:^e5293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.87.233.123
 
 ipv6.slot5842.ebay.com.edgekey.net 23.221.147.96
 slot5842.ebay.com.edgekey.net 23.221.147.96
@@ -170,17 +160,17 @@ static-ww.cdn.ubi.com.edgekey.net 72.246.28.48
 static.cdn.ubi.com.edgekey.net 72.246.28.48
 regexp:^e7923\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.246.28.48
 
-drop-api.ea.com 202.43.49.202
-drop-assets.ea.com 202.43.49.202
-gamekit.ea.com 202.43.49.202
-go.ea.com 202.43.49.202
-nds-network-nav.ea.com 202.43.49.202
-orbit.ea.com 202.43.49.202
-pl.ea.com 202.43.49.202
-ea11.com.edgekey.net 202.43.49.202
-ea4.com.edgekey.net 202.43.49.202
-ea5.com.edgekey.net 202.43.49.202
-regexp:^e8688\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 202.43.49.202
+drop-api.ea.com 23.199.220.186
+drop-assets.ea.com 23.199.220.186
+gamekit.ea.com 23.199.220.186
+go.ea.com 23.199.220.186
+nds-network-nav.ea.com 23.199.220.186
+orbit.ea.com 23.199.220.186
+pl.ea.com 23.199.220.186
+ea11.com.edgekey.net 23.199.220.186
+ea4.com.edgekey.net 23.199.220.186
+ea5.com.edgekey.net 23.199.220.186
+regexp:^e8688\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.220.186
 
 media.contentapi.ea.com 23.223.93.225
 ea6.com.edgekey.net 23.223.93.225
@@ -265,10 +255,10 @@ prd-uapps-connect.edgekey.net 23.50.100.88
 uplay-next-quick-buys-prd.edgekey.net 23.50.100.88
 regexp:^e11195\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.50.100.88
 
-static2.cdn.ubi.com 23.192.18.4
-ubiservices.cdn.ubi.com 23.192.18.4
-wildcard.cdn.ubi.com.edgekey.net 23.192.18.4
-regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.192.18.4
+static2.cdn.ubi.com 23.38.73.229
+ubiservices.cdn.ubi.com 23.38.73.229
+wildcard.cdn.ubi.com.edgekey.net 23.38.73.229
+regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.38.73.229
 
 support.activision.com 23.214.201.174
 s.activision.com 23.214.201.174
@@ -309,17 +299,17 @@ regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:4800:48a::356
 ak.epicgames.com.edgekey.net 23.43.73.168
 regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.43.73.168
 
-autopatch.juno.ea.com 202.43.62.29
-cloudsync.juno.ea.com 202.43.62.29
-contentful-proxy.juno.ea.com 202.43.62.29
-desktop-config.juno.ea.com 202.43.62.29
-ratt.juno.ea.com 202.43.62.29
-service-aggregation-layer.juno.ea.com 202.43.62.29
-update.layer.ea.com 202.43.62.29
-update.layer.ea.com.edgekey.net 202.43.62.29
-ea15.com.edgekey.net 202.43.62.29
-e16166.e12.akamaiedge.net 202.43.62.29
-regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 202.43.62.29
+autopatch.juno.ea.com 104.87.213.172
+cloudsync.juno.ea.com 104.87.213.172
+contentful-proxy.juno.ea.com 104.87.213.172
+desktop-config.juno.ea.com 104.87.213.172
+ratt.juno.ea.com 104.87.213.172
+service-aggregation-layer.juno.ea.com 104.87.213.172
+update.layer.ea.com 104.87.213.172
+update.layer.ea.com.edgekey.net 104.87.213.172
+ea15.com.edgekey.net 104.87.213.172
+e16166.e12.akamaiedge.net 104.87.213.172
+regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.87.213.172
 
 livetileedge.dsx.mp.microsoft.com 72.246.29.55
 storesdk.dsx.mp.microsoft.com 72.246.29.55

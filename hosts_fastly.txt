@@ -653,6 +653,8 @@ sdk-dev.launchdarkly.com 2a04:4e42:a::729
 sdk-stg.launchdarkly.com 2a04:4e42:a::729
 pubnubtest.launchdarkly.com 2a04:4e42:a::729
 
+mbz200.leaseweb.map.fastly.net 151.101.51.52
+
 qa.blog.linktr.ee 199.232.194.133
 v2.platform.linktr.ee 199.232.194.133
 edge.monolith.production.linktr.ee 199.232.194.133

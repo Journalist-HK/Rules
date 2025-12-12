@@ -198,6 +198,13 @@ ipv6.slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
 slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
 regexp:^e9430\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.48.183.178 2600:1406:5400:29b::24d6
 
+cdn1-dest.epicgames.com 173.223.1.57
+cdn2.epicgames.com 173.223.1.57
+cdn1-dest.unrealengine.com 173.223.1.57
+cdn2-dest.unrealengine.com 173.223.1.57
+san.cdn.unrealengine.com.edgekey.net 173.223.1.57
+regexp:^e9616\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 173.223.1.57
+
 account.cdn.ubisoft.com 23.66.131.183
 authentication.cdn.ubisoft.com 23.66.131.183
 buy-for-friend.cdn.ubisoft.com 23.66.131.183
@@ -296,8 +303,12 @@ i.s-microsoft.com.edgekey.net 210.57.89.210
 c.s-microsoft.com-c.edgekey.net 210.57.89.210
 regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 210.57.89.210
 
-ak.epicgames.com.edgekey.net 23.203.209.213
-regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.203.209.213
+store-content-ipv4.ak.epicgames.com 23.44.147.161
+store-content.ak.epicgames.com 23.44.147.161
+store-content-ipv4.ak.epicgames.com.edgekey.net 23.44.147.161
+store-content.ak.epicgames.com.edgekey.net 23.44.147.161
+ak.epicgames.com.edgekey.net 23.44.147.161
+regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.44.147.161
 
 autopatch.juno.ea.com 104.69.149.41
 cloudsync.juno.ea.com 104.69.149.41
@@ -338,8 +349,10 @@ ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
+api-prod.nvidia.com 23.199.57.80
 images.nvidia.com 23.199.57.80
 www.nvidia.com 23.199.57.80
+api-prod.nvidia.com.edgekey.net 23.199.57.80
 gfwsl.geforce.com.edgekey.net 23.199.57.80
 images.nvidia.com.edgekey.net 23.199.57.80
 www.nvidia.com.edgekey.net 23.199.57.80

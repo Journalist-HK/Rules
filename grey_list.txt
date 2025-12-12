@@ -23,6 +23,7 @@ full:claim.fluence.network
 full:download.dappcdn.com
 full:download.fosshub.com
 full:downloads.pdf-xchange.com
+full:ecdn.codemasters.com
 full:events.mapbox.com
 full:fonts.sony.net
 full:gal.voiux.com

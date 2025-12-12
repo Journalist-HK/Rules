@@ -36,6 +36,9 @@ apisd.ebay.com slot12565.ebay.com.edgekey.net
 apisd.ebaycdn.net slot12565.ebay.com.edgekey.net
 
 account-public-service-prod.ak.epicgames.com ak.epicgames.com.edgekey.net
+cdn1.epicgames.com cdn1-dest.epicgames.com
+cdn1.unrealengine.com cdn1-dest.unrealengine.com
+cdn2.unrealengine.com cdn2-dest.unrealengine.com
 
 adgt.fandom.com partners.ids.ad.gt
 metallicmenace.fandom.com d1ha795gd19jee.cloudfront.net

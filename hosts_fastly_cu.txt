@@ -14,7 +14,7 @@ regexp:^(dualstack\.)?p\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.41
 regexp:^(dualstack\.)?q\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.215
 regexp:^(dualstack\.)?r\.sni\.(global|us-eu)\.fastly\.net$ 151.101.197.155
 regexp:^(dualstack\.)?s\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.42
-regexp:^(dualstack\.)?t\.sni\.(global|us-eu)\.fastly\.net$ 146.75.103.52
+regexp:^(dualstack\.)?t\.sni\.(global|us-eu)\.fastly\.net$ 199.232.195.52
 regexp:^(dualstack\.)?u\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.229
 regexp:^(dualstack\.)?v\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.230 151.101.198.230
 
@@ -160,7 +160,7 @@ app.fastly.com.map.fastly.net 146.75.94.36
 manage.fastly.com 146.75.94.36
 manage.fastly.com.map.fastly.net 146.75.94.36
 
-msft-api.fastly.com 146.75.103.52
+msft-api.fastly.com 199.232.195.52
 
 ip-geolocation.fastly.com 146.75.94.137
 cfg.fastly.com 146.75.94.137
@@ -191,12 +191,12 @@ fastly.com 151.101.197.57
 devhub.map.fastly.net 151.101.197.57
 prod.www-fastly-com.map.fastly.net 151.101.197.57
 
-apple-carry-relay.fastly-edge.com 146.75.103.52
-apple-relay.fastly-edge.com 146.75.103.52
-apple-staging-relay.fastly-edge.com 146.75.103.52
-ohttp-relay1.fastly-edge.com 146.75.103.52
-ohttp-relay2.fastly-edge.com 146.75.103.52
-waterfox-ohttp-relay.fastly-edge.com 146.75.103.52
+apple-carry-relay.fastly-edge.com 199.232.195.52
+apple-relay.fastly-edge.com 199.232.195.52
+apple-staging-relay.fastly-edge.com 199.232.195.52
+ohttp-relay1.fastly-edge.com 199.232.195.52
+ohttp-relay2.fastly-edge.com 199.232.195.52
+waterfox-ohttp-relay.fastly-edge.com 199.232.195.52
 
 egdownload.fastly-edge.com 151.101.50.114
 ipv4.egdownload.fastly-edge.com 151.101.50.114
@@ -249,9 +249,9 @@ mxnet.apache.org 151.101.50.132
 trafficserver.apache.org 151.101.50.132
 apache.org 151.101.50.132
 
-ar5iv.labs.arxiv.org 146.75.103.52
-ar5iv.arxiv.org 146.75.103.52
-web3.arxiv.org 146.75.103.52
+ar5iv.labs.arxiv.org 199.232.195.52
+ar5iv.arxiv.org 199.232.195.52
+web3.arxiv.org 199.232.195.52
 
 status.dev.arxiv.org 146.75.93.91
 status.arxiv.org 146.75.93.91
@@ -592,8 +592,8 @@ domain:imgix.net 146.75.94.208
 dualstack.com.imgix.map.fastly.net 146.75.94.208
 com.imgix.map.fastly.net 146.75.94.208
 
-dualstack.ioriver.map.fastly.net 146.75.103.52
-ioriver.map.fastly.net 146.75.103.52
+dualstack.ioriver.map.fastly.net 199.232.195.52
+ioriver.map.fastly.net 199.232.195.52
 
 dar-live-red-irdeto-ms.fastly.content.itv.com 146.75.94.183
 itv.map.fastly.net 146.75.94.183
@@ -652,6 +652,8 @@ sdk.launchdarkly.com 2a04:4e42:600::729
 sdk-dev.launchdarkly.com 2a04:4e42:600::729
 sdk-stg.launchdarkly.com 2a04:4e42:600::729
 pubnubtest.launchdarkly.com 2a04:4e42:600::729
+
+mbz200.leaseweb.map.fastly.net 199.232.195.52
 
 qa.blog.linktr.ee 199.232.194.133
 v2.platform.linktr.ee 199.232.194.133
@@ -746,8 +748,8 @@ musicradar.com 151.101.50.114
 
 cdn-fastly.obsproject.com 146.75.93.91
 
-cdn.openbsd.org 146.75.103.52
-openbsd.map.fastlydns.net 146.75.103.52
+cdn.openbsd.org 199.232.195.52
+openbsd.map.fastlydns.net 199.232.195.52
 
 downloads.cdn.openwrt.org 151.101.50.132
 downloads.openwrt.org 151.101.50.132
@@ -963,7 +965,7 @@ www.splashthat.com 199.232.194.133
 splashthat.com 199.232.194.133
 
 hbdyn.spot.im 2a04:4e42:600::729
-static-cdn.spot.im 146.75.103.52
+static-cdn.spot.im 199.232.195.52
 
 assets.squarespace.com 199.232.192.237 151.101.196.237
 static.squarespace.map.fastly.net 199.232.192.237 151.101.196.237
@@ -976,16 +978,16 @@ images.squarespace-cdn.com 199.232.192.238 151.101.196.238
 video.squarespace-cdn.com 199.232.192.238 151.101.196.238
 domain:squarespace.map.fastly.net 199.232.192.238 151.101.196.238
 
-avatars.fastly.steamstatic.com 146.75.103.52
-cdn.fastly.steamstatic.com 146.75.103.52
-checkout.fastly.steamstatic.com 146.75.103.52
-clan.fastly.steamstatic.com 146.75.103.52
-clientconfig.fastly.steamstatic.com 146.75.103.52
-community.fastly.steamstatic.com 146.75.103.52
-shared.fastly.steamstatic.com 146.75.103.52
-store.fastly.steamstatic.com 146.75.103.52
-video.fastly.steamstatic.com 146.75.103.52
-vod.fastly.steamstatic.com 146.75.103.52
+avatars.fastly.steamstatic.com 199.232.195.52
+cdn.fastly.steamstatic.com 199.232.195.52
+checkout.fastly.steamstatic.com 199.232.195.52
+clan.fastly.steamstatic.com 199.232.195.52
+clientconfig.fastly.steamstatic.com 199.232.195.52
+community.fastly.steamstatic.com 199.232.195.52
+shared.fastly.steamstatic.com 199.232.195.52
+store.fastly.steamstatic.com 199.232.195.52
+video.fastly.steamstatic.com 199.232.195.52
+vod.fastly.steamstatic.com 199.232.195.52
 
 global.techradar.com 151.101.50.114
 hawk.techradar.com 151.101.50.114

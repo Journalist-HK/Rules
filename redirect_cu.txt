@@ -201,21 +201,21 @@ d2.xboxlive.com d1.xboxlive.com.edgesuite.net
 d2.xboxlive.com.delivery.microsoft.com d1.xboxlive.com.edgesuite.net
 xbx-b-geo.trafficmanager.net d1.xboxlive.com.edgesuite.net
 
-assets1.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
-assets1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
-xbx-f-cn-net.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
+assets1.xboxlive.cn assets1.xboxlive.com.mwcname.com
+assets1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+xbx-f-cn-net.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-assets2.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
-assets2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
-xbx-f-cn-geo.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
+assets2.xboxlive.cn assets1.xboxlive.com.mwcname.com
+assets2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+xbx-f-cn-geo.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-d1.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
-d1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
-xbx-b-cn-net.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
+d1.xboxlive.cn assets1.xboxlive.com.mwcname.com
+d1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+xbx-b-cn-net.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-d2.xboxlive.cn assets1.xboxlive.cn.download.ks-cdn.com
-d2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.cn.download.ks-cdn.com
-xbx-b-cn-geo.trafficmanager.net assets1.xboxlive.cn.download.ks-cdn.com
+d2.xboxlive.cn assets1.xboxlive.com.mwcname.com
+d2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+xbx-b-cn-geo.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
 dlassets.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
 dlassets.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com

@@ -366,6 +366,7 @@ payload:
   - 'intg.repeat.gg'
   - 'qa.repeat.gg'
   - 'static.repeat.gg'
+  - 'svc.repeat.gg'
   - 'test.repeat.gg'
   - 'www.repeat.gg'
   - 'repeat.gg'

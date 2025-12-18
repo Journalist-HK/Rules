@@ -290,6 +290,8 @@ sso.bitwarden.com 151.101.49.91
 vault.bitwarden.com 151.101.49.91
 bitwarden.com 151.101.49.91
 icons.bitwarden.net 151.101.49.91
+mbz100.bitwarden.map.fastly.net 151.101.49.91
+bitwarden.map.fastly.net 151.101.49.91
 
 manifest.prod.boltdns.net 2a04:4e42:7a::539
 manifest.qa.boltdns.net 2a04:4e42:7a::539

@@ -13,30 +13,30 @@ store.akamai.steamstatic.com 157.197.97.43 27.122.144.17
 video.akamai.steamstatic.com 157.197.97.43 27.122.144.17
 vod.akamai.steamstatic.com 157.197.97.43 27.122.144.17
 
-dlassets-ssl.xboxlive.com 72.246.28.11
-gameclipscontent-d2009.xboxlive.com 72.246.28.11
-images-eds-ssl.xboxlive.com 72.246.28.11
-musicart.xboxlive.com 72.246.28.11
-peoplehub.xboxlive.com 72.246.28.11
-sisu.xboxlive.com 72.246.28.11
-titlehub.xboxlive.com 72.246.28.11
-xforgeassets001.xboxlive.com 72.246.28.11
-xforgeassets002.xboxlive.com 72.246.28.11
-xnotify.xboxlive.com 72.246.28.11
-china-rta.xboxlive.com.akadns.net 72.246.28.11
-sisu.xboxlive.com.akadns.net 72.246.28.11
-us-west-sisu.xboxlive.com.akadns.net 72.246.28.11
-dlassets-ssl.xboxlive.com.edgekey.net 72.246.28.11
-gameclipscontent-d.xboxlive.com.edgekey.net 72.246.28.11
-images-eds-ssl.xboxlive.com.edgekey.net 72.246.28.11
-musicart.xboxlive.com.edgekey.net 72.246.28.11
-peoplehub.xboxlive.com.edgekey.net 72.246.28.11
-rta.xboxlive.com-c.edgekey.net 72.246.28.11
-sisu.xboxlive.com.edgekey.net 72.246.28.11
-titlehub.xboxlive.com.edgekey.net 72.246.28.11
-wildcard.xboxlive.com.edgekey.net 72.246.28.11
-xforgeassets.xboxlive.com.edgekey.net 72.246.28.11
-regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.246.28.11
+dlassets-ssl.xboxlive.com 23.38.72.9
+gameclipscontent-d2009.xboxlive.com 23.38.72.9
+images-eds-ssl.xboxlive.com 23.38.72.9
+musicart.xboxlive.com 23.38.72.9
+peoplehub.xboxlive.com 23.38.72.9
+sisu.xboxlive.com 23.38.72.9
+titlehub.xboxlive.com 23.38.72.9
+xforgeassets001.xboxlive.com 23.38.72.9
+xforgeassets002.xboxlive.com 23.38.72.9
+xnotify.xboxlive.com 23.38.72.9
+china-rta.xboxlive.com.akadns.net 23.38.72.9
+sisu.xboxlive.com.akadns.net 23.38.72.9
+us-west-sisu.xboxlive.com.akadns.net 23.38.72.9
+dlassets-ssl.xboxlive.com.edgekey.net 23.38.72.9
+gameclipscontent-d.xboxlive.com.edgekey.net 23.38.72.9
+images-eds-ssl.xboxlive.com.edgekey.net 23.38.72.9
+musicart.xboxlive.com.edgekey.net 23.38.72.9
+peoplehub.xboxlive.com.edgekey.net 23.38.72.9
+rta.xboxlive.com-c.edgekey.net 23.38.72.9
+sisu.xboxlive.com.edgekey.net 23.38.72.9
+titlehub.xboxlive.com.edgekey.net 23.38.72.9
+wildcard.xboxlive.com.edgekey.net 23.38.72.9
+xforgeassets.xboxlive.com.edgekey.net 23.38.72.9
+regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.38.72.9
 
 res-1.public.onecdn.static.microsoft 2600:140b:2c00:584::af8
 res-1.public.onecdn.static.microsoft.edgekey.net 2600:140b:2c00:584::af8

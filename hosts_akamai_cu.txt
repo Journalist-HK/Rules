@@ -378,7 +378,9 @@ slot286433.ebay.com.edgekey.net 23.3.88.17
 # regexp:^e164274\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
 static-dm.ubisoft.com 23.3.88.17
+static-live.ubisoft.com 23.3.88.17
 static-dm.ubisoft.com-v1.edgekey.net 23.3.88.17
+static-live.ubisoft.com.edgekey.net 23.3.88.17
 # regexp:^e163413\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.3.88.17
 
 backstory.ebay.com 23.3.88.17

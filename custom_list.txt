@@ -197,6 +197,7 @@ yodobashi.com
 
 anond.hatelabo.jp
 api.ipify.org
+bbs.hostevaluate.com
 d.hatena.ne.jp
 gamefaqs.gamespot.com
 images.prismic.io

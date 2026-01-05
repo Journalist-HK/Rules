@@ -22,7 +22,7 @@ payload:
   - '+.pemsrv.com'
   - '+.saawsedge.com'
   - '+.skimresources.com'
-  - '+.stripchat.com'
+  - '+.stripchat.*'
   - '+.stripchatgirls.com'
   - '+.strpst.com'
   - '+.technoratimedia.com'

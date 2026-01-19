@@ -45,3 +45,9 @@ voice.google.com
 +.meta.ai
 +.anthropic.com
 +.claude.ai
+
++.browser-intake-datadoghq.com
++.browser-intake-us3-datadoghq.com
++.browser-intake-us5-datadoghq.com
++.browser-intake-ddog-gov.com
+openrouter.ai

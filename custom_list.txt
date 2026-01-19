@@ -23,6 +23,7 @@ bntrace.com
 book4you.org
 bookwalker.com.tw
 bookwalker.jp
+browser-intake-ap1-datadoghq.com
 buzzfeed.com
 bybitglobal.com
 byhkbit.com

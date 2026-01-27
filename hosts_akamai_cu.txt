@@ -282,9 +282,9 @@ shop.samsung.com 2600:140b:ac00:28d::2ece
 shop.samsung.com.edgekey.net 2600:140b:ac00:28d::2ece
 regexp:^e11982\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:140b:ac00:28d::2ece
 
-store-images.s-microsoft.com 2.23.206.35
-store-images.s-microsoft.com-c.edgekey.net 2.23.206.35
-regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.23.206.35
+store-images.s-microsoft.com 72.246.28.219
+store-images.s-microsoft.com-c.edgekey.net 72.246.28.219
+regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.246.28.219
 
 ipv6.slot12565.ebay.com.edgekey.net 23.210.18.60
 slot12565.ebay.com.edgekey.net 23.210.18.60

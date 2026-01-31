@@ -254,6 +254,7 @@ payload:
   - 'cdn.statically.io'
   - 'clients.plex.tv'
   - '+.control.kochava.com'
+  - 'dmhy.anoneko.com'
   - '*.dns.sb'
   - 'e1.c.lencr.org'
   - 'e5.c.lencr.org'

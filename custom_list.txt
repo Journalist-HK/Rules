@@ -201,6 +201,7 @@ anond.hatelabo.jp
 api.ipify.org
 bbs.hostevaluate.com
 d.hatena.ne.jp
+dmhy.anoneko.com
 gamefaqs.gamespot.com
 images.prismic.io
 json2.dcinside.com

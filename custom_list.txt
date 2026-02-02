@@ -185,6 +185,7 @@ unwire.hk
 uscardforum.com
 uscnpm.com
 v2ph.com
+vuze.com
 walletconnect.com
 wa.me
 wikiquote.org

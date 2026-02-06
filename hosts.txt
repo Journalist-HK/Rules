@@ -131,3 +131,5 @@ regexp:^\d+-ipv4v6\.(gr\.global|farm\.\w+)\.aa-rt\.sharepoint\.com$ 13.107.136.1
 www.staticcc.com 107.151.190.157 107.151.190.158
 
 vlsiverify.com 2600:1f13:393:63e:d83b:f450:487:59b6
+
+regexp:^\S+\.nexus-cdn\.com$ 89.187.185.168

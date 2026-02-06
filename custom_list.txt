@@ -87,6 +87,7 @@ inkl.com
 interactivebrokers.com.hk
 iwanlab.com
 jkv.app
+jup.ag
 jwplayer.com
 kgithub.com
 lemmy.ml
@@ -128,6 +129,7 @@ onlyfans.com
 openairinterface.org
 osl.com
 outlookindia.com
+pancakeswap.info
 patreonusercontent.com
 perchance.org
 pexpay.com
@@ -135,6 +137,7 @@ picsart.com
 pilipili.cc
 pilipili.cm
 pndsn.com
+politicalcompass.org
 qbittorrent.org
 qobuz.com
 qooapp.net

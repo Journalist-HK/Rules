@@ -213,6 +213,7 @@ steamstatic.com.8686c.com
 # 阿里云
 full:xz.pphimalayanrt.com
 full:lv.queniujq.cn
+full:client-update.queniuqe.com
 
 ubionline.com.cn
 

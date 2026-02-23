@@ -155,6 +155,7 @@ scribdassets.com
 simplex.chat
 sina.com.hk
 sleazyfork.org
+softonic.cn
 soundon.fm
 ssrtool.us
 starlark.net
@@ -207,6 +208,7 @@ api.ipify.org
 bbs.hostevaluate.com
 d.hatena.ne.jp
 dmhy.anoneko.com
+en.softonic.com
 gamefaqs.gamespot.com
 images.prismic.io
 json2.dcinside.com

@@ -215,6 +215,8 @@ full:xz.pphimalayanrt.com
 full:lv.queniujq.cn
 full:client-update.queniuqe.com
 
+full:yif.gdtstream.com
+
 ubionline.com.cn
 
 # Kuaishou

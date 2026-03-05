@@ -346,6 +346,7 @@ s3-sni.fastly.cloudinary.com 151.101.50.92
 
 adacpresse.multicdn.cloudinary.com 151.101.50.1
 adacpresse-res.cloudinary.com 151.101.50.1
+fallback.default.multicdn.cloudinary.com 151.101.50.1
 delivery.cloudinary.com 151.101.50.1
 media.cloudinary.com 151.101.50.1
 2-01-49b5-00c1.cdx.cedexis.net 151.101.50.1
@@ -721,6 +722,7 @@ fg.microsoft.map.fastly.net 146.75.94.172
 
 fastly.lithium.motortrend.com 199.232.194.133
 
+web.corsair.com 199.232.194.133
 demo-qa1.qa.corp.mparticle.com 199.232.194.133
 sso.auth.mparticle.com 199.232.194.133
 analytics.mparticle.com 199.232.194.133

@@ -38,6 +38,16 @@ wildcard.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 xforgeassets.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.36.229.48 23.45.9.48
 
+shop.corsair.com 184.28.33.18
+support-cn.corsair.com 184.28.33.18
+support-de.corsair.com 184.28.33.18
+support-jp.corsair.com 184.28.33.18
+support.corsair.com 184.28.33.18
+www.corsair.com 184.28.33.18
+live-pwa.corsair.com.edgekey.net 184.28.33.18
+support.corsair.com.edgekey.net 184.28.33.18
+regexp:^e956\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.28.33.18
+
 res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
@@ -345,9 +355,20 @@ regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 96.7.233.218
 
 e16646.ca.s.tl88.net 61.147.228.137
 
+s2-sni.cloudinary.com.edgekey.net 23.199.57.80
+# regexp:^e26130\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
 ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+www3.corsair.com 23.199.57.80
+www3.corsair.com.edgekey.net 23.199.57.80
+# regexp:^e30526\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+uat.corsair.com 23.199.57.80
+uat.corsair.com.edgekey.net 23.199.57.80
+# regexp:^e32975\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 api-prod.nvidia.com 23.199.57.80
 images.nvidia.com 23.199.57.80
@@ -367,6 +388,11 @@ aka-sandbox.ebaycdn.net 23.199.57.80
 aka-sandbox.ebay.com.edgekey.net 23.199.57.80
 slot86223.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+ir.corsair.com 23.199.57.80
+corsair.gcs-web.com 23.199.57.80
+leapfrog-ssl-34.gcs-web.com.edgekey.net 23.199.57.80
+# regexp:^e96016\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 monitor.ebay.com 23.199.57.80
 gisufespipeline22.ebaycdn.net 23.199.57.80
@@ -401,6 +427,12 @@ sofe.ebay.com 23.199.57.80
 spdmetrics.ebay.com 23.199.57.80
 spdmetrics.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+c.info.corsair.com 23.199.57.80
+c.updates.corsair.com 23.199.57.80
+c.info.corsair.com.edgekey.net 23.199.57.80
+c.updates.corsair.com.edgekey.net 23.199.57.80
+# regexp:^e243932\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 rbwm-api.hsbc.com.hk 23.199.57.80
 rbwm-api.hsbc.com.hk.edgekey.net 23.199.57.80

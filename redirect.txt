@@ -9,6 +9,9 @@ store.steamstatic.com store.akamai.steamstatic.com
 video.steamstatic.com video.akamai.steamstatic.com
 vod.steamstatic.com vod.akamai.steamstatic.com
 
+assets.corsair.com s2-sni.cloudinary.com.edgekey.net
+assets.corsair.com.multicdn.cloudinary.com s2-sni.cloudinary.com.edgekey.net
+
 mpki-ocsp.digicert.com mpki-ocsp.digicert.com.cdn.cloudflare.net
 pki-ocsp.digicert.com mpki-ocsp.digicert.com.cdn.cloudflare.net
 mpki-ocsp.edge.digicert.com mpki-ocsp.digicert.com.cdn.cloudflare.net

@@ -38,6 +38,12 @@ wildcard.xboxlive.com.edgekey.net 23.38.72.9
 xforgeassets.xboxlive.com.edgekey.net 23.38.72.9
 regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.38.72.9
 
+tv.apple.com 23.55.96.25 23.58.104.33
+tv-cdn.itunes-apple.com.akadns.net 23.55.96.25 23.58.104.33
+itunes.apple.com.edgekey.net 23.55.96.25 23.58.104.33
+e673.dsce9.akamaiedge.net 23.55.96.25 23.58.104.33
+regexp:^e673\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.55.96.25 23.58.104.33
+
 shop.corsair.com 104.85.50.253
 support-cn.corsair.com 104.85.50.253
 support-de.corsair.com 104.85.50.253

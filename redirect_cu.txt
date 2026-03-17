@@ -2,6 +2,7 @@ avatars.steamstatic.com avatars.akamai.steamstatic.com
 cdn.steamstatic.com cdn.akamai.steamstatic.com
 checkout.steamstatic.com checkout.akamai.steamstatic.com
 clan.steamstatic.com clan.akamai.steamstatic.com
+client-update.steamstatic.com client-update.akamai.steamstatic.com
 clientconfig.steamstatic.com clientconfig.akamai.steamstatic.com
 community.steamstatic.com community.akamai.steamstatic.com
 shared.steamstatic.com shared.akamai.steamstatic.com
@@ -129,22 +130,22 @@ licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com
 
-browser.events.data.msn.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-functional.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-mobile.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-self.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-teams.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-v10.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-v20.events.data.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-global.asimov.events.data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-mobile.pipe.aria.microsoft.com onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-mobile.events.data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-self-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-teams-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
-win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdgwc00.germanywestcentral.cloudapp.azure.com
+browser.events.data.msn.com onedscolprdwus10.westus.cloudapp.azure.com
+functional.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+mobile.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+self.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+teams.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+v10.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+v20.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+global.asimov.events.data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
+mobile.pipe.aria.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
+mobile.events.data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
+self-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
+teams-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
+win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
 
-watson.events.data.microsoft.com onedsblobprdcus17.centralus.cloudapp.azure.com
-blobcollectorcommon.trafficmanager.net onedsblobprdcus17.centralus.cloudapp.azure.com
+watson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+blobcollectorcommon.trafficmanager.net onedsblobvmssprdwus04.westus.cloudapp.azure.com
 
 eu-mobile.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
 eu-teams.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com

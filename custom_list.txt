@@ -74,6 +74,7 @@ gamma.app
 gdax.com
 gemini.com
 gfycat.com
+globaltrust.eu
 go-to-library.sk
 go-vpn.com
 googlepages.com

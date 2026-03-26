@@ -130,6 +130,11 @@ licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com
 
+eu-mobile.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
+eu-teams.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
+eu-v10.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
+eu.events.data.trafficmanager.net onedscolprdfrc08.francecentral.cloudapp.azure.com
+
 browser.events.data.msn.com onedscolprdwus10.westus.cloudapp.azure.com
 functional.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
 mobile.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
@@ -144,13 +149,29 @@ self-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
 teams-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
 win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
 
+watsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
 watson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
 blobcollectorcommon.trafficmanager.net onedsblobvmssprdwus04.westus.cloudapp.azure.com
 
-eu-mobile.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
-eu-teams.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
-eu-v10.events.data.microsoft.com onedscolprdfrc01.francecentral.cloudapp.azure.com
-eu.events.data.trafficmanager.net onedscolprdfrc01.francecentral.cloudapp.azure.com
+eu-watsonc.events.data.microsoft.com onedsblobvmssprdneu04.northeurope.cloudapp.azure.com
+eu.blobcollector.events.data.trafficmanager.net onedsblobvmssprdneu04.northeurope.cloudapp.azure.com
+
+kmwatson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+kmwatsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+nw-kmwatson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+nw-umwatson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+umwatson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+umwatsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+us-umwatsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+oca.telemetry.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+watson.telemetry.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
+oca.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
+kmwatsonc.telemetry.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
+oca.telemetry.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
+umwatsonc.telemetry.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
+watson.telemetry.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
+watson.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
+blobcollector.events.data.trafficmanager.net onedsblobvmssprdwus04.westus.cloudapp.azure.com
 
 settings-win.data.microsoft.com settings-prod-neu-3.northeurope.cloudapp.azure.com
 atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-neu-3.northeurope.cloudapp.azure.com
@@ -205,28 +226,28 @@ d2.xboxlive.com d1.xboxlive.com.edgesuite.net
 d2.xboxlive.com.delivery.microsoft.com d1.xboxlive.com.edgesuite.net
 xbx-b-geo.trafficmanager.net d1.xboxlive.com.edgesuite.net
 
-assets1.xboxlive.cn assets1.xboxlive.com.mwcname.com
-assets1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
-xbx-f-cn-net.trafficmanager.net assets1.xboxlive.com.mwcname.com
+# assets1.xboxlive.cn assets1.xboxlive.com.mwcname.com
+# assets1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+# xbx-f-cn-net.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-assets2.xboxlive.cn assets1.xboxlive.com.mwcname.com
-assets2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
-xbx-f-cn-geo.trafficmanager.net assets1.xboxlive.com.mwcname.com
+# assets2.xboxlive.cn assets1.xboxlive.com.mwcname.com
+# assets2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+# xbx-f-cn-geo.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-d1.xboxlive.cn assets1.xboxlive.com.mwcname.com
-d1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
-xbx-b-cn-net.trafficmanager.net assets1.xboxlive.com.mwcname.com
+# d1.xboxlive.cn assets1.xboxlive.com.mwcname.com
+# d1.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+# xbx-b-cn-net.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-d2.xboxlive.cn assets1.xboxlive.com.mwcname.com
-d2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
-xbx-b-cn-geo.trafficmanager.net assets1.xboxlive.com.mwcname.com
+# d2.xboxlive.cn assets1.xboxlive.com.mwcname.com
+# d2.xboxlive.cn.delivery.microsoft.com assets1.xboxlive.com.mwcname.com
+# xbx-b-cn-geo.trafficmanager.net assets1.xboxlive.com.mwcname.com
 
-dlassets.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
-dlassets.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
-xbx-dl-cn-geo.trafficmanager.net dlassets.xboxlive.cn.cdn.dnsv1.com
+# dlassets.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
+# dlassets.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
+# xbx-dl-cn-geo.trafficmanager.net dlassets.xboxlive.cn.cdn.dnsv1.com
 
-dlassets2.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
-dlassets2.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
+# dlassets2.xboxlive.cn dlassets.xboxlive.cn.cdn.dnsv1.com
+# dlassets2.xboxlive.cn.delivery.microsoft.com dlassets.xboxlive.cn.cdn.dnsv1.com
 
 # regexp:^.+\.maelstrom\.gameservices\.xboxlive\.com$ rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com
 # maelstrom-gsxbl.trafficmanager.net rtep-ingestion-shared-na-1.centralus.cloudapp.azure.com

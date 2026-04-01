@@ -18,6 +18,7 @@ bangumi.moe
 bi39.cc
 bigrain.me
 bitgravity.com
+bitsearch.to
 bnbstatic.com
 bntrace.com
 book4you.org
@@ -92,6 +93,7 @@ jkforum.net
 jkv.app
 jup.ag
 jwplayer.com
+kakaocdn.net
 kgithub.com
 lemmy.ml
 liftoff.io

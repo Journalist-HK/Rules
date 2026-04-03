@@ -1001,6 +1001,10 @@ shared.fastly.steamstatic.com 199.232.195.52
 store.fastly.steamstatic.com 199.232.195.52
 video.fastly.steamstatic.com 199.232.195.52
 vod.fastly.steamstatic.com 199.232.195.52
+shared.valve.map.fastly.net 199.232.195.52
+
+client-update.fastly.steamstatic.com 199.232.195.82
+valve.map.fastly.net 199.232.195.82
 
 global.techradar.com 151.101.50.114
 hawk.techradar.com 151.101.50.114

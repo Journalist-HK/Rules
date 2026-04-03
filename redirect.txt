@@ -29,15 +29,15 @@ cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net
 
 cdn-ima.33across.com cdn-ima.33across.com.cdn.cloudflare.net
 
-thumbs.ebaycdn.net slot5842.ebay.com.edgekey.net
+thumbs.ebaycdn.net ebaystatic.com.edgesuite.net
 i.ebayimg.com ebayimg.edgesuite.net
 images.ebaycdn.net ebayimg.edgesuite.net
-www.ebay.com.hk slot11847.ebay.com.edgekey.net
-www.ebay.com.hk.ebaycdn.net slot11847.ebay.com.edgekey.net
-ir.ebaystatic.com ipv4.slot11847.ebay.com.edgekey.net
-ir.ebaycdn.net ipv4.slot11847.ebay.com.edgekey.net
-apisd.ebay.com slot12565.ebay.com.edgekey.net
-apisd.ebaycdn.net slot12565.ebay.com.edgekey.net
+www.ebay.com.hk slot88167.ebay.com.edgekey.net
+www.ebay.com.hk.ebaycdn.net slot88167.ebay.com.edgekey.net
+ir.ebaystatic.com ebaystatic.com.edgesuite.net
+ir.ebaycdn.net ebaystatic.com.edgesuite.net
+apisd.ebay.com slot302409.ebay.com.edgekey.net
+apisd.ebaycdn.net slot302409.ebay.com.edgekey.net
 
 account-public-service-prod.ak.epicgames.com ak.epicgames.com.edgekey.net
 cdn1.epicgames.com cdn1-dest.epicgames.com

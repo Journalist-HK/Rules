@@ -38,8 +38,7 @@ wildcard.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 xforgeassets.xboxlive.com.edgekey.net 23.36.229.48 23.45.9.48
 regexp:^e87\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.36.229.48 23.45.9.48
 
-tv.apple.com 23.37.16.29 23.62.176.24
-tv-cdn.itunes-apple.com.akadns.net 23.37.16.29 23.62.176.24
+tv-cdn-row.itunes-apple.com.akadns.net 23.37.16.29 23.62.176.24
 itunes.apple.com.edgekey.net 23.37.16.29 23.62.176.24
 e673.dsce9.akamaiedge.net 23.37.16.29 23.62.176.24
 regexp:^e673\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.16.29 23.62.176.24
@@ -57,6 +56,12 @@ regexp:^e956\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.28.33.18
 res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
+
+drivers.amd.com 23.221.100.27 2600:1406:5400:2b0::b51
+cdn-drivers.amd.com.edgekey.net 23.221.100.27 2600:1406:5400:2b0::b51
+cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net 23.221.100.27 2600:1406:5400:2b0::b51
+e2897.ca.s.tl88.net 23.221.100.27 2600:1406:5400:2b0::b51
+regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.100.27 2600:1406:5400:2b0::b51
 
 account.g2a.com 104.89.231.55
 bundle.g2a.com 104.89.231.55
@@ -203,9 +208,6 @@ account.microsoft.com 23.45.41.148
 account.microsoft.com.edgekey.net. 23.45.41.148
 regexp:^e9412\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.45.41.148
 
-www.ebay.com 23.222.205.142
-secureir.ebaystatic.com 23.222.205.142
-securepics.ebaystatic.com 23.222.205.142
 ipv6.slot9428.ebay.com.edgekey.net 23.222.205.142
 slot9428.ebay.com.edgekey.net 23.222.205.142
 regexp:^e9428\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.222.205.142
@@ -288,7 +290,6 @@ s.activision.com 23.61.213.222
 san.activision.com.edgekey.net 23.61.213.222
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.213.222
 
-pages.ebay.com 23.37.17.245
 ipv4.slot11847.ebay.com.edgekey.net 23.37.17.245
 ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
 slot11847.ebay.com.edgekey.net 23.37.17.245
@@ -357,9 +358,8 @@ sfdataservice-legacy-staging.microsoft.com.edgekey.net 96.7.233.218
 sfdataservice-legacy.microsoft.com.edgekey.net 96.7.233.218
 sfdataservice-staging.microsoft.com.edgekey.net 96.7.233.218
 sfdataservice.microsoft.com.edgekey.net 96.7.233.218
+e16646.ca.s.tl88.net 96.7.233.218
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 96.7.233.218
-
-e16646.ca.s.tl88.net 61.147.228.137
 
 s2-sni.cloudinary.com.edgekey.net 23.199.57.80
 # regexp:^e26130\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
@@ -389,11 +389,14 @@ cdn-dynmedia-1.microsoft.com 23.199.57.80
 san-ion.secure4.scene7.com.edgekey.net 23.199.57.80
 # regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
-aka-sandbox.ebay.com 23.199.57.80
-aka-sandbox.ebaycdn.net 23.199.57.80
 aka-sandbox.ebay.com.edgekey.net 23.199.57.80
 slot86223.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+www.ebay.com 23.199.57.80
+www.ebay.com.ebaycdn.net 23.199.57.80
+slot88167.ebay.com.edgekey.net 23.199.57.80
+# regexp:^e88167\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 ir.corsair.com 23.199.57.80
 corsair.gcs-web.com 23.199.57.80
@@ -431,6 +434,7 @@ pulsar.ebay.com.edgekey.net 23.199.57.80
 
 sofe.ebay.com 23.199.57.80
 spdmetrics.ebay.com 23.199.57.80
+sitespeedmetrics.ebay.com.edgekey.net 23.199.57.80
 spdmetrics.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
@@ -454,5 +458,14 @@ aadcdn.msftauth.edgekey.net 23.199.57.80
 pay.ebay.com 23.199.57.80
 slot334050.ebay.com.edgekey.net 23.199.57.80
 # regexp:^e334050\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+pages.ebay.com 23.199.57.80
+slot348525.ebay.com.edgekey.net 23.199.57.80
+# regexp:^e348525\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
+aka-sandbox.ebay.com 23.199.57.80
+aka-sandbox.ebaycdn.net 23.199.57.80
+ipv6.slot356480.ebay.com.edgekey.net 23.199.57.80
+# regexp:^e356480\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
 regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

@@ -10,6 +10,11 @@ store.steamstatic.com store.akamai.steamstatic.com
 video.steamstatic.com video.akamai.steamstatic.com
 vod.steamstatic.com vod.akamai.steamstatic.com
 
+tv.apple.com tv-cdn-row.itunes-apple.com.akadns.net
+tv-cdn.itunes-apple.com.akadns.net tv-cdn-row.itunes-apple.com.akadns.net
+# music.apple.com itunes.apple.com.edgekey.net
+# music-cdn.itunes-apple.com.akadns.net itunes.apple.com.edgekey.net
+
 assets.corsair.com s2-sni.cloudinary.com.edgekey.net
 assets.corsair.com.multicdn.cloudinary.com s2-sni.cloudinary.com.edgekey.net
 

@@ -49,11 +49,6 @@ cdn1.epicgames.com cdn1-dest.epicgames.com
 cdn1.unrealengine.com cdn1-dest.unrealengine.com
 cdn2.unrealengine.com cdn2-dest.unrealengine.com
 
-adgt.fandom.com partners.ids.ad.gt
-metallicmenace.fandom.com d1ha795gd19jee.cloudfront.net
-sli.fandom.com d1e21p1elafqwq.cloudfront.net
-support.fandom.com fandom.zendesk.com
-
 git.kernel.org dfw.source.kernel.org
 lore.kernel.org dfw.source.kernel.org
 www.kernel.org dfw.source.kernel.org

@@ -19,6 +19,9 @@ full:cdn.richrelevance.com
 full:cdn.sparklingsociety.net
 full:ced-ns.sascdn.com
 full:claim.fluence.network
+full:dev-download.dappcdn.com
+full:devdl.dappcdn.com
+full:dl.dappcdn.com
 full:download.dappcdn.com
 full:download.fosshub.com
 full:downloads.pdf-xchange.com
@@ -27,6 +30,7 @@ full:ecdn.codemasters.com
 full:events.mapbox.com
 full:fonts.sony.net
 full:gal.voiux.com
+full:get.dappcdn.com
 full:get.taxcycle.com
 full:gh.con.sh
 full:go.superchat.live

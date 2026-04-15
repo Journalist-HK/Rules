@@ -76,6 +76,15 @@ static.licdn.com od.linkedin.edgesuite.net
 static-exp3.licdn.com od.linkedin.edgesuite.net
 pulsar.lnkdns.net od.linkedin.edgesuite.net
 
+appassets.mahjongsoul.com appassets.mahjongsoul.com.akamaized.net
+pam9vlnpcwyaef75.ysdp.top appassets.mahjongsoul.com.akamaized.net
+appstatic.mahjongsoul.com appstatic.mahjongsoul.com.akamaized.net
+appstatic.mahjongsoul.com.ysdp.online appstatic.mahjongsoul.com.akamaized.net
+game.mahjongsoul.com game.mahjongsoul.com.akamaized.net
+kiz0fs45tceh20yr.ysdp.top game.mahjongsoul.com.akamaized.net
+mahjongsoul.game.yo-star.com mahjongsoul.game.yo-star.com.cdn.cloudflare.net
+efcntpwuaagac26y.ysdp.top mahjongsoul.game.yo-star.com.cdn.cloudflare.net
+
 login.live.com krc-lb.b.v4.a.prd.aadg.akadns.net
 login.msa.msidentity.com krc-lb.b.v4.a.prd.aadg.akadns.net
 www.tm.lg.prod.aadmsa.trafficmanager.net krc-lb.b.v4.a.prd.aadg.akadns.net

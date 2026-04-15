@@ -156,6 +156,7 @@ payload:
   - '+.okx-dns2.com'
   - '+.ontrack.com'
   - '+.openairinterface.org'
+  - '+.openmaptiles.org'
   - '+.osl.com'
   - '+.overclock.net'
   - '+.pancakeswap.info'
@@ -393,6 +394,7 @@ payload:
   - 'static.videocardz.com'
   - 'skyfire.vimeocdn.com'
   - 'cdn4.volusion.store'
+  - 'en-sdk-api.yostarplat.com'
   - 'dash.xns.one'
   - 'xns.one'
   # Slow

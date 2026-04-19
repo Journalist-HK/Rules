@@ -26,6 +26,7 @@ book4you.org
 bookwalker.com.tw
 bookwalker.jp
 browser-intake-ap1-datadoghq.com
+bu2021.xyz
 buzzfeed.com
 bybitglobal.com
 byhkbit.com
@@ -133,6 +134,7 @@ nutaq.com
 nxboom.com
 occrp.org
 okcoin.com
+onkakao.net
 onlyfans.com
 openairinterface.org
 openmaptiles.org

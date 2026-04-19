@@ -64,6 +64,7 @@ ac.bcon.ecdns.net
 api.giphy.com
 club.tgfcer.com
 dlv.itmedia.jp
+pixiv.navirank.com
 image.itmedia.co.jp
 s3.ap-southeast-2.amazonaws.com
 

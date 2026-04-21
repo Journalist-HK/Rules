@@ -193,11 +193,11 @@ ea4.com.edgekey.net 23.199.220.186
 ea5.com.edgekey.net 23.199.220.186
 regexp:^e8688\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.220.186
 
-media.contentapi.ea.com 23.223.93.225
-ea6.com.edgekey.net 23.223.93.225
+media.contentapi.ea.com 202.43.48.251
+ea6.com.edgekey.net 202.43.48.251
 # 数字范围未知
-e8690.e12.akamaiedge.net 23.223.93.225
-regexp:^e8690\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.223.93.225
+e8690.e12.akamaiedge.net 202.43.48.251
+regexp:^e8690\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 202.43.48.251
 
 www.hackerrank.com 2a02:26f0:e600:582::22e9
 hackerrank.com.edgekey.net 2a02:26f0:e600:582::22e9

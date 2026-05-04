@@ -369,6 +369,10 @@ ngx.download.nvidia.com 23.199.57.80
 ngx.download.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
+acrobat.adobe.com 23.199.57.80
+acrobat.adobe.com.i.edgekey.net 23.199.57.80
+# regexp:^e29329\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
 www3.corsair.com 23.199.57.80
 www3.corsair.com.edgekey.net 23.199.57.80
 # regexp:^e30526\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

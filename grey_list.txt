@@ -35,6 +35,7 @@ full:get.taxcycle.com
 full:gh.con.sh
 full:go.superchat.live
 full:imageproxy.pixnet.cc
+full:img.91app.com
 full:img.sedoparking.com
 full:img.tradepub.com
 full:in.appcenter.ms
@@ -168,6 +169,7 @@ zgo.at
 regexp:^(.+\.)?mikuclub\..+$
 regexp:^(.+\.)?reuters\.tv$
 regexp:^(.+\.)?xg(mn|yw)\d*\..+$
+regexp:^.*diz36nn4q02zr\.cloudfront\.net$
 keyword:18comic
 keyword:18-comic
 keyword:jmcomic

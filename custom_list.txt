@@ -261,6 +261,7 @@ regexp:^(.+\.)?booksc\.\w+$
 regexp:^(.+\.)?bookzz\.\w+$
 regexp:^(.+\.)?bybit\.\w+$
 regexp:^(.+\.)?htx\.\w+$
+regexp:^(.+\.)?htx\.com\.\w+$
 regexp:^(.+\.)?huobi\.\w+$
 regexp:^(.+\.)?libsolutions\.\w+$
 regexp:^(.+\.)?mokexapp\.\w+$

@@ -977,6 +977,9 @@ login.splashthat.com 199.232.194.133
 www.splashthat.com 199.232.194.133
 splashthat.com 199.232.194.133
 
+open.spotifycdn.com 199.232.194.251
+tls130rtt.spotifycdn.map.fastly.net 199.232.194.251
+
 hbdyn.spot.im 2a04:4e42:600::729
 static-cdn.spot.im 199.232.195.52
 

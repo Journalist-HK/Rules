@@ -76,6 +76,7 @@ payload:
   - '+.ehviewer.com'
   - '+.ext-twitch.tv'
   - '+.f-droid.org'
+  - '+.faphouse4k.com'
   - '+.faphouse.com'
   - '+.flexpool.io'
   - '+.forbes.com'
@@ -255,6 +256,7 @@ payload:
   # GFW
   - 'anond.hatelabo.jp'
   - 'api.ipify.org'
+  - '+.a.basemaps.cartocdn.com'
   - '*.b-cdn.net'
   - '+.b.hatena.ne.jp'
   - '+.bbs.hostevaluate.com'

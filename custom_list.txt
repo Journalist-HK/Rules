@@ -66,6 +66,7 @@ ext-twitch.tv
 extrabux.com
 f-droid.org
 fanbox.cc
+faphouse4k.com
 faphouse.com
 flexpool.io
 forbes.com
@@ -217,6 +218,7 @@ yodobashi.com
 
 anond.hatelabo.jp
 api.ipify.org
+a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp
 dmhy.anoneko.com

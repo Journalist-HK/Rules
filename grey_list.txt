@@ -67,6 +67,7 @@ club.tgfcer.com
 dlv.itmedia.jp
 pixiv.navirank.com
 image.itmedia.co.jp
+raw.githack.com
 s3.ap-southeast-2.amazonaws.com
 
 233.fi

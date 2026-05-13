@@ -215,6 +215,7 @@ xinmeitulu.com
 xfsub.org
 xvideos.red
 yodobashi.com
+zenmarket.jp
 
 anond.hatelabo.jp
 api.ipify.org
@@ -230,6 +231,7 @@ nexus-websocket-a.intercom.io
 full:nitrous.motortrend.com
 openai.ne.world
 full:pixel.onead.com.tw
+rawcdn.githack.com
 full:s3.ap-south-1.amazonaws.com
 sbti.unun.dev
 shopify-assets.shopifycdn.com

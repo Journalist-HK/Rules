@@ -359,7 +359,7 @@ sfdataservice-legacy-staging.microsoft.com.edgekey.net 96.7.233.218
 sfdataservice-legacy.microsoft.com.edgekey.net 96.7.233.218
 sfdataservice-staging.microsoft.com.edgekey.net 96.7.233.218
 sfdataservice.microsoft.com.edgekey.net 96.7.233.218
-e16646.ca.s.tl88.net 96.7.233.218
+e16646.ca.s.tl88.net 223.111.98.83 223.111.105.38
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 96.7.233.218
 
 s2-sni.cloudinary.com.edgekey.net 23.199.57.80

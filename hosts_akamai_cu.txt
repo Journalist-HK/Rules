@@ -340,27 +340,27 @@ ea15.com.edgekey.net 2.23.73.212
 e16166.e12.akamaiedge.net 2.23.73.212
 regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.23.73.212
 
-livetileedge.dsx.mp.microsoft.com 72.246.29.55
-storesdk.dsx.mp.microsoft.com 72.246.29.55
-sfdataservice-legacy-staging.microsoft.com 72.246.29.55
-sfdataservice-legacy.microsoft.com 72.246.29.55
-sfdataservice-staging.microsoft.com 72.246.29.55
-sfdataservice.microsoft.com 72.246.29.55
-livetileedge.dsx.mp.microsoft.com.akadns.net 72.246.29.55
-storesdk.dsx.mp.microsoft.com.akadns.net 72.246.29.55
-sfdataservice-legacy-staging.unistore.akadns.net 72.246.29.55
-livetileedge.xbetservices.akadns.net 72.246.29.55
-sfdataservice-legacy.xbetservices.akadns.net 72.246.29.55
-sfdataservice.xbetservices.akadns.net 72.246.29.55
-storesdk.xbetservices.akadns.net 72.246.29.55
-livetileedge.dsx.mp.microsoft.com.edgekey.net 72.246.29.55
-storesdk.dsx.mp.microsoft.com.edgekey.net 72.246.29.55
-sfdataservice-legacy-staging.microsoft.com.edgekey.net 72.246.29.55
-sfdataservice-legacy.microsoft.com.edgekey.net 72.246.29.55
-sfdataservice-staging.microsoft.com.edgekey.net 72.246.29.55
-sfdataservice.microsoft.com.edgekey.net 72.246.29.55
-e16646.ca.s.tl88.net 72.246.29.55
-regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.246.29.55
+livetileedge.dsx.mp.microsoft.com 23.210.18.166
+storesdk.dsx.mp.microsoft.com 23.210.18.166
+sfdataservice-legacy-staging.microsoft.com 23.210.18.166
+sfdataservice-legacy.microsoft.com 23.210.18.166
+sfdataservice-staging.microsoft.com 23.210.18.166
+sfdataservice.microsoft.com 23.210.18.166
+livetileedge.dsx.mp.microsoft.com.akadns.net 23.210.18.166
+storesdk.dsx.mp.microsoft.com.akadns.net 23.210.18.166
+sfdataservice-legacy-staging.unistore.akadns.net 23.210.18.166
+livetileedge.xbetservices.akadns.net 23.210.18.166
+sfdataservice-legacy.xbetservices.akadns.net 23.210.18.166
+sfdataservice.xbetservices.akadns.net 23.210.18.166
+storesdk.xbetservices.akadns.net 23.210.18.166
+livetileedge.dsx.mp.microsoft.com.edgekey.net 23.210.18.166
+storesdk.dsx.mp.microsoft.com.edgekey.net 23.210.18.166
+sfdataservice-legacy-staging.microsoft.com.edgekey.net 23.210.18.166
+sfdataservice-legacy.microsoft.com.edgekey.net 23.210.18.166
+sfdataservice-staging.microsoft.com.edgekey.net 23.210.18.166
+sfdataservice.microsoft.com.edgekey.net 23.210.18.166
+e16646.ca.s.tl88.net 223.111.98.83 223.111.105.38
+regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.210.18.166
 
 s2-sni.cloudinary.com.edgekey.net 23.53.1.150
 # regexp:^e26130\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150

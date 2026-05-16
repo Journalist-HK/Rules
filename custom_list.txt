@@ -234,6 +234,7 @@ full:pixel.onead.com.tw
 rawcdn.githack.com
 full:s3.ap-south-1.amazonaws.com
 sbti.unun.dev
+shared-data.dowjones.io
 shopify-assets.shopifycdn.com
 full:s.last.fm
 valid.x86.fr

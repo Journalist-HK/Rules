@@ -162,8 +162,8 @@ watsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.co
 watson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
 blobcollectorcommon.trafficmanager.net onedsblobvmssprdwus04.westus.cloudapp.azure.com
 
-eu-watsonc.events.data.microsoft.com onedsblobvmssprdneu04.northeurope.cloudapp.azure.com
-eu.blobcollector.events.data.trafficmanager.net onedsblobvmssprdneu04.northeurope.cloudapp.azure.com
+eu-watsonc.events.data.microsoft.com onedsblobvmssprdweu03.westeurope.cloudapp.azure.com
+eu.blobcollector.events.data.trafficmanager.net onedsblobvmssprdweu03.westeurope.cloudapp.azure.com
 
 kmwatson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
 kmwatsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
@@ -182,8 +182,8 @@ watson.telemetry.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
 watson.microsoft.us onedsblobvmssprdwus04.westus.cloudapp.azure.com
 blobcollector.events.data.trafficmanager.net onedsblobvmssprdwus04.westus.cloudapp.azure.com
 
-settings-win.data.microsoft.com settings-prod-neu-3.northeurope.cloudapp.azure.com
-atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-neu-3.northeurope.cloudapp.azure.com
+settings-win.data.microsoft.com settings-prod-sea-1-tagged.southeastasia.cloudapp.azure.com
+atm-settingsfe-prod-geo2.trafficmanager.net settings-prod-sea-1-tagged.southeastasia.cloudapp.azure.com
 
 nav-edge.smartscreen.microsoft.com prod-agic-jw-2.japanwest.cloudapp.azure.com
 prod-atm-wds-edge.trafficmanager.net prod-agic-jw-2.japanwest.cloudapp.azure.com

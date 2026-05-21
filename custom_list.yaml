@@ -256,6 +256,7 @@ payload:
   # GFW
   - 'anond.hatelabo.jp'
   - 'api.ipify.org'
+  - '+.api.unisvg.com'
   - '+.a.basemaps.cartocdn.com'
   - '*.b-cdn.net'
   - '+.b.hatena.ne.jp'
@@ -400,6 +401,7 @@ payload:
   - 'zonai.skport.com'
   - 'prebid.smilewanted.com'
   - 'www.trueachievements.com'
+  - '+.uuss.uk'
   - 'cdn.videocardz.com'
   - 'static.videocardz.com'
   - 'skyfire.vimeocdn.com'

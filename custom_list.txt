@@ -219,6 +219,7 @@ zenmarket.jp
 
 anond.hatelabo.jp
 api.ipify.org
+api.unisvg.com
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp
@@ -239,6 +240,8 @@ shopify-assets.shopifycdn.com
 full:s.last.fm
 valid.x86.fr
 full:vip1.g5.cachefly.net
+full:www.adsensecustomsearchads.com
+
 full:vip.flynet.club
 full:web.flynet.club
 full:www.flynet.club

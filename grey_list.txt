@@ -90,6 +90,7 @@ celo.org
 chiccams.com
 cmr.moe
 crwdcntrl.net
+crypto.com
 cutecloud.net
 cutout.pro
 dashlane.com
@@ -100,6 +101,7 @@ edgecastcdn.net
 fanbox.cc
 filezillapro.com
 flhj.club
+fosstodon.org
 freetls.fastly.net
 futuhk.com
 gal123.com

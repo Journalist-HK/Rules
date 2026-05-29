@@ -57,10 +57,7 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
 
-drivers.amd.com 23.221.100.27 2600:1406:5400:2b0::b51
-cdn-drivers.amd.com.edgekey.net 23.221.100.27 2600:1406:5400:2b0::b51
-cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net 23.221.100.27 2600:1406:5400:2b0::b51
-e2897.ca.s.tl88.net 23.221.100.27 2600:1406:5400:2b0::b51
+e2897.ca.s.tl88.net 36.156.84.146
 regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.100.27 2600:1406:5400:2b0::b51
 
 account.g2a.com 104.89.231.55
@@ -286,10 +283,10 @@ ubiservices.cdn.ubi.com 72.247.97.191
 wildcard.cdn.ubi.com.edgekey.net 72.247.97.191
 regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.247.97.191
 
-support.activision.com 23.61.213.222
-s.activision.com 23.61.213.222
-san.activision.com.edgekey.net 23.61.213.222
-regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.213.222
+support.activision.com 23.37.17.218
+s.activision.com 23.37.17.218
+san.activision.com.edgekey.net 23.37.17.218
+regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.218
 
 ipv4.slot11847.ebay.com.edgekey.net 23.37.17.245
 ipv6.slot11847.ebay.com.edgekey.net 23.37.17.245
@@ -340,27 +337,27 @@ ea15.com.edgekey.net 104.69.149.41
 e16166.e12.akamaiedge.net 104.69.149.41
 regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.69.149.41
 
-livetileedge.dsx.mp.microsoft.com 96.7.233.218
-storesdk.dsx.mp.microsoft.com 96.7.233.218
-sfdataservice-legacy-staging.microsoft.com 96.7.233.218
-sfdataservice-legacy.microsoft.com 96.7.233.218
-sfdataservice-staging.microsoft.com 96.7.233.218
-sfdataservice.microsoft.com 96.7.233.218
-livetileedge.dsx.mp.microsoft.com.akadns.net 96.7.233.218
-storesdk.dsx.mp.microsoft.com.akadns.net 96.7.233.218
-sfdataservice-legacy-staging.unistore.akadns.net 96.7.233.218
-livetileedge.xbetservices.akadns.net 96.7.233.218
-sfdataservice-legacy.xbetservices.akadns.net 96.7.233.218
-sfdataservice.xbetservices.akadns.net 96.7.233.218
-storesdk.xbetservices.akadns.net 96.7.233.218
-livetileedge.dsx.mp.microsoft.com.edgekey.net 96.7.233.218
-storesdk.dsx.mp.microsoft.com.edgekey.net 96.7.233.218
-sfdataservice-legacy-staging.microsoft.com.edgekey.net 96.7.233.218
-sfdataservice-legacy.microsoft.com.edgekey.net 96.7.233.218
-sfdataservice-staging.microsoft.com.edgekey.net 96.7.233.218
-sfdataservice.microsoft.com.edgekey.net 96.7.233.218
-e16646.ca.s.tl88.net 223.111.98.83 223.111.105.38
-regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 96.7.233.218
+livetileedge.dsx.mp.microsoft.com 23.61.214.101
+storesdk.dsx.mp.microsoft.com 23.61.214.101
+sfdataservice-legacy-staging.microsoft.com 23.61.214.101
+sfdataservice-legacy.microsoft.com 23.61.214.101
+sfdataservice-staging.microsoft.com 23.61.214.101
+sfdataservice.microsoft.com 23.61.214.101
+livetileedge.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storesdk.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+sfdataservice-legacy-staging.unistore.akadns.net 23.61.214.101
+livetileedge.xbetservices.akadns.net 23.61.214.101
+sfdataservice-legacy.xbetservices.akadns.net 23.61.214.101
+sfdataservice.xbetservices.akadns.net 23.61.214.101
+storesdk.xbetservices.akadns.net 23.61.214.101
+livetileedge.dsx.mp.microsoft.com.edgekey.net 23.61.214.101
+storesdk.dsx.mp.microsoft.com.edgekey.net 23.61.214.101
+sfdataservice-legacy-staging.microsoft.com.edgekey.net 23.61.214.101
+sfdataservice-legacy.microsoft.com.edgekey.net 23.61.214.101
+sfdataservice-staging.microsoft.com.edgekey.net 23.61.214.101
+sfdataservice.microsoft.com.edgekey.net 23.61.214.101
+e16646.ca.s.tl88.net 223.111.98.83
+regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.214.101
 
 s2-sni.cloudinary.com.edgekey.net 23.199.57.80
 # regexp:^e26130\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

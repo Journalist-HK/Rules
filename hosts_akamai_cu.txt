@@ -57,11 +57,8 @@ res-1.public.onecdn.static.microsoft 2a02:26f0:e600:582::af8
 res-1.public.onecdn.static.microsoft.edgekey.net 2a02:26f0:e600:582::af8
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::af8
 
-drivers.amd.com 2a02:26f0:e600:582::b51
-cdn-drivers.amd.com.edgekey.net 2a02:26f0:e600:582::b51
-cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net 2a02:26f0:e600:582::b51
-e2897.ca.s.tl88.net 2a02:26f0:e600:582::b51
-regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::b51
+e2897.ca.s.tl88.net 36.156.84.146
+regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.20.168.118 2a02:26f0:9500:e8c::b51
 
 account.g2a.com 2.17.187.245
 bundle.g2a.com 2.17.187.245
@@ -286,10 +283,10 @@ ubiservices.cdn.ubi.com 23.38.73.229
 wildcard.cdn.ubi.com.edgekey.net 23.38.73.229
 regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.38.73.229
 
-support.activision.com 23.214.201.174
-s.activision.com 23.214.201.174
-san.activision.com.edgekey.net 23.214.201.174
-regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.214.201.174
+support.activision.com 23.55.97.129
+s.activision.com 23.55.97.129
+san.activision.com.edgekey.net 23.55.97.129
+regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.55.97.129
 
 ipv4.slot11847.ebay.com.edgekey.net 2.16.97.102
 ipv6.slot11847.ebay.com.edgekey.net 2.16.97.102
@@ -314,12 +311,12 @@ regexp:^e12570\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::311
 answers.microsoft.com-v1.edgekey.net 182.162.56.106
 regexp:^e13362\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 182.162.56.106
 
-c.s-microsoft.com 2a02:26f0:e600:582::356e
-i.s-microsoft.com 2a02:26f0:e600:582::356e
-c-s.cms.ms.akadns.net 2a02:26f0:e600:582::356e
-i.s-microsoft.com.edgekey.net 2a02:26f0:e600:582::356e
-c.s-microsoft.com-c.edgekey.net 2a02:26f0:e600:582::356e
-regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::356e
+c.s-microsoft.com 23.59.18.56
+i.s-microsoft.com 23.59.18.56
+c-s.cms.ms.akadns.net 23.59.18.56
+i.s-microsoft.com.edgekey.net 23.59.18.56
+c.s-microsoft.com-c.edgekey.net 23.59.18.56
+regexp:^e13678\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.59.18.56
 
 store-content-ipv4.ak.epicgames.com 104.85.16.104
 store-content.ak.epicgames.com 104.85.16.104
@@ -359,7 +356,7 @@ sfdataservice-legacy-staging.microsoft.com.edgekey.net 23.210.18.166
 sfdataservice-legacy.microsoft.com.edgekey.net 23.210.18.166
 sfdataservice-staging.microsoft.com.edgekey.net 23.210.18.166
 sfdataservice.microsoft.com.edgekey.net 23.210.18.166
-e16646.ca.s.tl88.net 223.111.98.83 223.111.105.38
+e16646.ca.s.tl88.net 223.111.98.83
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.210.18.166
 
 s2-sni.cloudinary.com.edgekey.net 23.53.1.150

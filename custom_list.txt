@@ -16,6 +16,8 @@ apnic.net
 armorgames.com
 audio.com
 bangumi.moe
+bangumi.tv
+bgm.tv
 bi39.cc
 bigrain.me
 bitgravity.com
@@ -35,6 +37,7 @@ caddyserver.com
 carousell.com.hk
 celer.network
 ch-werner.de
+chii.in
 chinaaction.org
 churchofjesuschrist.org
 cia.gov

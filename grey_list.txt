@@ -60,6 +60,7 @@ full:v2raya.org
 full:vdms-ssl.cedexis-test.com
 full:videos.techradar.com
 full:www.cachefly.com
+full:www.datadoghq-browser-agent.com
 
 ac.bcon.ecdns.net
 api.giphy.com

@@ -45,6 +45,7 @@ payload:
   - '+.buzzfeed.com'
   - '+.bybitglobal.com'
   - '+.bybit.*'
+  - '+.bybdc6.com'
   - '+.byhkbit.com'
   - '+.caddyserver.com'
   - '+.carousell.com.hk'

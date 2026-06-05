@@ -30,6 +30,8 @@ bookwalker.jp
 browser-intake-ap1-datadoghq.com
 bu2021.xyz
 buzzfeed.com
+byabcde.com
+bybdc6.com
 bybitglobal.com
 byhkbit.com
 cablematters.com
@@ -222,6 +224,7 @@ yodobashi.com
 zenmarket.jp
 
 anond.hatelabo.jp
+api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.ipify.org
 api.unisvg.com
 a.basemaps.cartocdn.com
@@ -232,6 +235,7 @@ en.softonic.com
 gamefaqs.gamespot.com
 images.prismic.io
 json2.dcinside.com
+mc.yandex.ru
 nexus-websocket-a.intercom.io
 full:nitrous.motortrend.com
 openai.ne.world

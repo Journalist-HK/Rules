@@ -1,6 +1,9 @@
-store.steampowered.com 23.39.1.50
-checkout.steampowered.com 23.39.1.50
-api.steampowered.com 104.68.104.163
+api.steampowered.com 23.74.23.217
+help.steampowered.com 23.74.23.217
+login.steampowered.com 23.74.23.217
+partner.steampowered.com 23.74.23.217
+checkout.steampowered.com 23.48.187.191
+store.steampowered.com 23.48.187.191
 
 avatars.akamai.steamstatic.com 202.142.229.42
 cdn.akamai.steamstatic.com 202.142.229.42

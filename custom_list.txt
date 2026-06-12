@@ -235,6 +235,7 @@ en.softonic.com
 gamefaqs.gamespot.com
 images.prismic.io
 json2.dcinside.com
+mc.yandex.com
 mc.yandex.ru
 nexus-websocket-a.intercom.io
 full:nitrous.motortrend.com

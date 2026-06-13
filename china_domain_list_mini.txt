@@ -201,6 +201,7 @@ wmsjsteam.com
 # 金山云
 full:dl.steam.clngaa.com
 full:dl1.steam.clngaa.com
+full:dl.steam.cyngaa.com
 # 白山云
 st.dl.bscstorage.net
 st.dl.eccdnx.com
@@ -215,6 +216,7 @@ steamstatic.com.8686c.com
 full:xz.pphimalayanrt.com
 full:lv.queniujq.cn
 full:client-update.queniuqe.com
+full:xz.sycontroller.com
 
 full:yif.gdtstream.com
 

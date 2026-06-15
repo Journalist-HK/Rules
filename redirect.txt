@@ -53,10 +53,10 @@ cdn1.epicgames.com cdn1-dest.epicgames.com
 cdn1.unrealengine.com cdn1-dest.unrealengine.com
 cdn2.unrealengine.com cdn2-dest.unrealengine.com
 
-git.kernel.org dfw.source.kernel.org
-lore.kernel.org dfw.source.kernel.org
-www.kernel.org dfw.source.kernel.org
-geo.source.kernel.org dfw.source.kernel.org
+git.kernel.org sea.source.kernel.org
+lore.kernel.org sea.source.kernel.org
+www.kernel.org sea.source.kernel.org
+geo.source.kernel.org sea.source.kernel.org
 
 c6.paypal.com c6.paypal.com.cdn.cloudflare.net
 c6.glb.paypal.com c6.paypal.com.cdn.cloudflare.net

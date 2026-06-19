@@ -76,6 +76,7 @@ faphouse.com
 flexpool.io
 forbes.com
 formyip.com
+freegecko.com
 freevpnnet.com
 fril.jp
 gamerant.com
@@ -252,8 +253,6 @@ full:www.adsensecustomsearchads.com
 full:vip.flynet.club
 full:web.flynet.club
 full:www.flynet.club
-full:www.freegecko.com
-full:freegecko.com
 full:www.geckoiplc.com
 full:geckoiplc.com
 

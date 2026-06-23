@@ -29,6 +29,7 @@ full:dsp-cdn.gammaplatform.com
 full:ecdn.codemasters.com
 full:events.mapbox.com
 full:fonts.sony.net
+full:jc-doni.club
 full:gal.voiux.com
 full:get.dappcdn.com
 full:get.taxcycle.com
@@ -163,6 +164,7 @@ tlanyan.me
 tycqzw.net
 uplynk.com
 utorrent.com
+vbkr.com
 vikacg.com
 visualstudio.icu
 vps000.com

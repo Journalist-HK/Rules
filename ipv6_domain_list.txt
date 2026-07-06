@@ -1,1 +1,3 @@
 he.net
+full:fr.cdn.proxmox.com
+full:fr.metadata.cdn.proxmox.com

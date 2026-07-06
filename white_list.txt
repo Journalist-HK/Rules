@@ -134,6 +134,7 @@ bdxiguastatic.com
 # Google CN
 google.cn
 googleapis.cn
+full:app-analytics-services.com
 full:app-measurement.com
 full:checkin.gstatic.com
 full:clientservices.googleapis.com

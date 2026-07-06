@@ -63,35 +63,35 @@ regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::af8
 e2897.ca.s.tl88.net 36.156.84.146
 regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.20.168.118 2a02:26f0:9500:e8c::b51
 
-account.g2a.com 2.17.187.245
-bundle.g2a.com 2.17.187.245
-cps.g2a.com 2.17.187.245
-cs.g2a.com 2.17.187.245
-dashboard.g2a.com 2.17.187.245
-direct.g2a.com 2.17.187.245
-fckd-callback.g2a.com 2.17.187.245
-files-billing.g2a.com 2.17.187.245
-get-key.g2a.com 2.17.187.245
-id.g2a.com 2.17.187.245
-images.g2a.com 2.17.187.245
-img.g2a.com 2.17.187.245
-login.g2a.com 2.17.187.245
-loot.g2a.com 2.17.187.245
-modal.g2a.com 2.17.187.245
-mp.g2a.com 2.17.187.245
-pay.g2a.com 2.17.187.245
-platform.g2a.com 2.17.187.245
-plus.g2a.com 2.17.187.245
-static.g2a.com 2.17.187.245
-supportcenter.g2a.com 2.17.187.245
-supporthub.g2a.com 2.17.187.245
-webapi.g2a.com 2.17.187.245
-wishlist.g2a.com 2.17.187.245
-www.g2a.com 2.17.187.245
-cps.g2a.com.edgekey.net 2.17.187.245
-img.g2a.com.edgekey.net 2.17.187.245
-star.g2a.com.edgekey.net 2.17.187.245
-regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.17.187.245
+account.g2a.com 72.246.29.107
+bundle.g2a.com 72.246.29.107
+cps.g2a.com 72.246.29.107
+cs.g2a.com 72.246.29.107
+dashboard.g2a.com 72.246.29.107
+direct.g2a.com 72.246.29.107
+fckd-callback.g2a.com 72.246.29.107
+files-billing.g2a.com 72.246.29.107
+get-key.g2a.com 72.246.29.107
+id.g2a.com 72.246.29.107
+images.g2a.com 72.246.29.107
+img.g2a.com 72.246.29.107
+login.g2a.com 72.246.29.107
+loot.g2a.com 72.246.29.107
+modal.g2a.com 72.246.29.107
+mp.g2a.com 72.246.29.107
+pay.g2a.com 72.246.29.107
+platform.g2a.com 72.246.29.107
+plus.g2a.com 72.246.29.107
+static.g2a.com 72.246.29.107
+supportcenter.g2a.com 72.246.29.107
+supporthub.g2a.com 72.246.29.107
+webapi.g2a.com 72.246.29.107
+wishlist.g2a.com 72.246.29.107
+www.g2a.com 72.246.29.107
+cps.g2a.com.edgekey.net 72.246.29.107
+img.g2a.com.edgekey.net 72.246.29.107
+star.g2a.com.edgekey.net 72.246.29.107
+regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 72.246.29.107
 
 download.ebz.epson.net 2.17.244.90
 download.ebz.epson.net.edgekey.net 2.17.244.90
@@ -362,115 +362,121 @@ sfdataservice.microsoft.com.edgekey.net 23.210.18.166
 e16646.ca.s.tl88.net 223.111.98.83
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.210.18.166
 
-s2-sni.cloudinary.com.edgekey.net 23.53.1.150
-# regexp:^e26130\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+s2-sni.cloudinary.com.edgekey.net 23.204.132.242
+# regexp:^e26130\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-ngx.download.nvidia.com 23.53.1.150
-ngx.download.nvidia.com.edgekey.net 23.53.1.150
-# regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+ngx.download.nvidia.com 23.204.132.242
+ngx.download.nvidia.com.edgekey.net 23.204.132.242
+# regexp:^e28142\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-acrobat.adobe.com 23.53.1.150
-acrobat.adobe.com.i.edgekey.net 23.53.1.150
-# regexp:^e29329\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+acrobat.adobe.com 23.204.132.242
+acrobat.adobe.com.i.edgekey.net 23.204.132.242
+# regexp:^e29329\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-www3.corsair.com 23.53.1.150
-www3.corsair.com.edgekey.net 23.53.1.150
-# regexp:^e30526\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+www3.corsair.com 23.204.132.242
+www3.corsair.com.edgekey.net 23.204.132.242
+# regexp:^e30526\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-uat.corsair.com 23.53.1.150
-uat.corsair.com.edgekey.net 23.53.1.150
-# regexp:^e32975\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+uat.corsair.com 23.204.132.242
+uat.corsair.com.edgekey.net 23.204.132.242
+# regexp:^e32975\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-api-prod.nvidia.com 23.53.1.150
-images.nvidia.com 23.53.1.150
-www.nvidia.com 23.53.1.150
-api-prod.nvidia.com.edgekey.net 23.53.1.150
-gfwsl.geforce.com.edgekey.net 23.53.1.150
-images.nvidia.com.edgekey.net 23.53.1.150
-www.nvidia.com.edgekey.net 23.53.1.150
-# regexp:^e33907\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+api-prod.nvidia.com 23.204.132.242
+images.nvidia.com 23.204.132.242
+www.nvidia.com 23.204.132.242
+api-prod.nvidia.com.edgekey.net 23.204.132.242
+gfwsl.geforce.com.edgekey.net 23.204.132.242
+images.nvidia.com.edgekey.net 23.204.132.242
+www.nvidia.com.edgekey.net 23.204.132.242
+# regexp:^e33907\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-cdn-dynmedia-1.microsoft.com 23.53.1.150
-san-ion.secure4.scene7.com.edgekey.net 23.53.1.150
-# regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+apps-id.cisco.com 23.204.132.242
+id.cisco.com 23.204.132.242
+apps-id.cisco.com.edgekey.net 23.204.132.242
+id.cisco.com.edgekey.net 23.204.132.242
+# regexp:^e68528\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-aka-sandbox.ebay.com.edgekey.net 23.53.1.150
-slot86223.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+cdn-dynmedia-1.microsoft.com 23.204.132.242
+san-ion.secure4.scene7.com.edgekey.net 23.204.132.242
+# regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-www.ebay.com 23.53.1.150
-www.ebay.com.ebaycdn.net 23.53.1.150
-slot88167.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e88167\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+aka-sandbox.ebay.com.edgekey.net 23.204.132.242
+slot86223.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e86223\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-ir.corsair.com 23.53.1.150
-corsair.gcs-web.com 23.53.1.150
-leapfrog-ssl-34.gcs-web.com.edgekey.net 23.53.1.150
-# regexp:^e96016\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+www.ebay.com 23.204.132.242
+www.ebay.com.ebaycdn.net 23.204.132.242
+slot88167.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e88167\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-monitor.ebay.com 23.53.1.150
-gisufespipeline22.ebaycdn.net 23.53.1.150
-gisufespipeline22.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+ir.corsair.com 23.204.132.242
+corsair.gcs-web.com 23.204.132.242
+leapfrog-ssl-34.gcs-web.com.edgekey.net 23.204.132.242
+# regexp:^e96016\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-signin.ebay.com 23.53.1.150
-slot286433.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e164274\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+monitor.ebay.com 23.204.132.242
+gisufespipeline22.ebaycdn.net 23.204.132.242
+gisufespipeline22.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e102410\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-static-dm.ubisoft.com 23.53.1.150
-static-live.ubisoft.com 23.53.1.150
-static-dm.ubisoft.com-v1.edgekey.net 23.53.1.150
-static-live.ubisoft.com.edgekey.net 23.53.1.150
-# regexp:^e163413\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+signin.ebay.com 23.204.132.242
+slot286433.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e164274\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-backstory.ebay.com 23.53.1.150
-autotrack.ebay.com 23.53.1.150
-autotrack.ebaycdn.net 23.53.1.150
-autotrack.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e189811\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+static-dm.ubisoft.com 23.204.132.242
+static-live.ubisoft.com 23.204.132.242
+static-dm.ubisoft.com-v1.edgekey.net 23.204.132.242
+static-live.ubisoft.com.edgekey.net 23.204.132.242
+# regexp:^e163413\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-edgetrksvc.ebay.com 23.53.1.150
-edgetrksvc.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e193737\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+backstory.ebay.com 23.204.132.242
+autotrack.ebay.com 23.204.132.242
+autotrack.ebaycdn.net 23.204.132.242
+autotrack.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e189811\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-pulsar.ebay.com 23.53.1.150
-pulsar.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e207850\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+edgetrksvc.ebay.com 23.204.132.242
+edgetrksvc.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e193737\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-sofe.ebay.com 23.53.1.150
-spdmetrics.ebay.com 23.53.1.150
-sitespeedmetrics.ebay.com.edgekey.net 23.53.1.150
-spdmetrics.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+pulsar.ebay.com 23.204.132.242
+pulsar.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e207850\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-c.info.corsair.com 23.53.1.150
-c.updates.corsair.com 23.53.1.150
-c.info.corsair.com.edgekey.net 23.53.1.150
-c.updates.corsair.com.edgekey.net 23.53.1.150
-# regexp:^e243932\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+sofe.ebay.com 23.204.132.242
+spdmetrics.ebay.com 23.204.132.242
+sitespeedmetrics.ebay.com.edgekey.net 23.204.132.242
+spdmetrics.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e219129\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-rbwm-api.hsbc.com.hk 23.53.1.150
-rbwm-api.hsbc.com.hk.edgekey.net 23.53.1.150
-# regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+c.info.corsair.com 23.204.132.242
+c.updates.corsair.com 23.204.132.242
+c.info.corsair.com.edgekey.net 23.204.132.242
+c.updates.corsair.com.edgekey.net 23.204.132.242
+# regexp:^e243932\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-aadcdn.msftauth.net 23.53.1.150
-www.tm.aadcdn.msftauth.akadns.net 23.53.1.150
-www.a.aadcdn.msftauth.akadns.net 23.53.1.150
-www.tm.aadcdn.msftauth.trafficmanager.net 23.53.1.150
-aadcdn.msftauth.edgekey.net 23.53.1.150
-# regexp:^e329293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+rbwm-api.hsbc.com.hk 23.204.132.242
+rbwm-api.hsbc.com.hk.edgekey.net 23.204.132.242
+# regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-pay.ebay.com 23.53.1.150
-slot334050.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e334050\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+aadcdn.msftauth.net 23.204.132.242
+www.tm.aadcdn.msftauth.akadns.net 23.204.132.242
+www.a.aadcdn.msftauth.akadns.net 23.204.132.242
+www.tm.aadcdn.msftauth.trafficmanager.net 23.204.132.242
+aadcdn.msftauth.edgekey.net 23.204.132.242
+# regexp:^e329293\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-pages.ebay.com 23.53.1.150
-slot348525.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e348525\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+pay.ebay.com 23.204.132.242
+slot334050.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e334050\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-aka-sandbox.ebay.com 23.53.1.150
-aka-sandbox.ebaycdn.net 23.53.1.150
-ipv6.slot356480.ebay.com.edgekey.net 23.53.1.150
-# regexp:^e356480\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+pages.ebay.com 23.204.132.242
+slot348525.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e348525\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
 
-regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.53.1.150
+aka-sandbox.ebay.com 23.204.132.242
+aka-sandbox.ebaycdn.net 23.204.132.242
+ipv6.slot356480.ebay.com.edgekey.net 23.204.132.242
+# regexp:^e356480\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242
+
+regexp:^e0*(19199|19[2-9]\d{2}|[2-9]\d{4}|[1-9]\d{5,14})\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.204.132.242

@@ -390,6 +390,12 @@ images.nvidia.com.edgekey.net 23.199.57.80
 www.nvidia.com.edgekey.net 23.199.57.80
 # regexp:^e33907\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
+apps-id.cisco.com 23.199.57.80
+id.cisco.com 23.199.57.80
+apps-id.cisco.com.edgekey.net 23.199.57.80
+id.cisco.com.edgekey.net 23.199.57.80
+# regexp:^e68528\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
+
 cdn-dynmedia-1.microsoft.com 23.199.57.80
 san-ion.secure4.scene7.com.edgekey.net 23.199.57.80
 # regexp:^e81481\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80

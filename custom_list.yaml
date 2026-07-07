@@ -259,6 +259,9 @@ payload:
   - '+.zlib.*'
   - '+.zlibrary.*'
 
+  # New
+  - '+.ryuugames.com'
+
   # GFW
   - 'anond.hatelabo.jp'
   - 'api.ipify.org'

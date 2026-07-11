@@ -30,6 +30,8 @@ full:ecdn.codemasters.com
 full:events.mapbox.com
 full:fonts.sony.net
 full:jc-doni.club
+full:ga.jspm.io
+full:ga.system.jspm.io
 full:gal.voiux.com
 full:get.dappcdn.com
 full:get.taxcycle.com

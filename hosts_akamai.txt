@@ -60,7 +60,7 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
 
-e2897.ca.s.tl88.net 36.156.84.146
+# e2897.ca.s.tl88.net 36.156.84.146
 regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.100.27 2600:1406:5400:2b0::b51
 
 account.g2a.com 104.89.231.55

@@ -60,7 +60,7 @@ res-1.public.onecdn.static.microsoft 2a02:26f0:e600:582::af8
 res-1.public.onecdn.static.microsoft.edgekey.net 2a02:26f0:e600:582::af8
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::af8
 
-e2897.ca.s.tl88.net 36.156.84.146
+# e2897.ca.s.tl88.net 122.224.34.217
 regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.20.168.118 2a02:26f0:9500:e8c::b51
 
 account.g2a.com 72.246.29.107

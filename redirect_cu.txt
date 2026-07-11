@@ -10,7 +10,8 @@ store.steamstatic.com store.akamai.steamstatic.com
 video.steamstatic.com video.akamai.steamstatic.com
 vod.steamstatic.com vod.akamai.steamstatic.com
 
-drivers.amd.com e2897.ca.s.tl88.net
+drivers.amd.com drivers-split.amd.akadns.net
+drivers-tccdn.amd.akadns.net drivers-split.amd.akadns.net
 cdn-drivers.amd.com.edgekey.net e2897.ca.s.tl88.net
 cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net e2897.ca.s.tl88.net
 
@@ -148,19 +149,19 @@ eu-teams.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure
 eu-v10.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
 eu.events.data.trafficmanager.net onedscolprdfrc08.francecentral.cloudapp.azure.com
 
-browser.events.data.msn.com onedscolprdwus10.westus.cloudapp.azure.com
-functional.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-mobile.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-self.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-teams.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-v10.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-v20.events.data.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-global.asimov.events.data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
-mobile.pipe.aria.microsoft.com onedscolprdwus10.westus.cloudapp.azure.com
-mobile.events.data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
-self-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
-teams-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
-win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdwus10.westus.cloudapp.azure.com
+browser.events.data.msn.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+functional.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+mobile.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+self.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+teams.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+v10.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+v20.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+global.asimov.events.data.trafficmanager.net onedscolprdjpe54.japaneast.cloudapp.azure.com
+mobile.pipe.aria.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com
+mobile.events.data.trafficmanager.net onedscolprdjpe54.japaneast.cloudapp.azure.com
+self-events-data.trafficmanager.net onedscolprdjpe54.japaneast.cloudapp.azure.com
+teams-events-data.trafficmanager.net onedscolprdjpe54.japaneast.cloudapp.azure.com
+win-global-asimov-leafs-events-data.trafficmanager.net onedscolprdjpe54.japaneast.cloudapp.azure.com
 
 watsonc.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com
 watson.events.data.microsoft.com onedsblobvmssprdwus04.westus.cloudapp.azure.com

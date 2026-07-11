@@ -187,6 +187,7 @@ stheadline.com
 storj.io
 sublimetext.com
 sushiswapclassic.org
+swag.live
 techbang.com
 telemetr.io
 telghub.com
@@ -231,6 +232,7 @@ zenmarket.jp
 anond.hatelabo.jp
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.ipify.org
+api.jsonsilo.com
 api.unisvg.com
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com

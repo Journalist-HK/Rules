@@ -265,6 +265,7 @@ payload:
   # GFW
   - 'anond.hatelabo.jp'
   - 'api.ipify.org'
+  - '+.api.jsonsilo.com'
   - '+.api.unisvg.com'
   - '+.a.basemaps.cartocdn.com'
   - '*.b-cdn.net'

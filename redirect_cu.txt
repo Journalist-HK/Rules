@@ -10,10 +10,10 @@ store.steamstatic.com store.akamai.steamstatic.com
 video.steamstatic.com video.akamai.steamstatic.com
 vod.steamstatic.com vod.akamai.steamstatic.com
 
-drivers.amd.com drivers-split.amd.akadns.net
-drivers-tccdn.amd.akadns.net drivers-split.amd.akadns.net
-cdn-drivers.amd.com.edgekey.net e2897.ca.s.tl88.net
-cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net e2897.ca.s.tl88.net
+# drivers.amd.com drivers-split.amd.akadns.net
+# drivers-tccdn.amd.akadns.net drivers-split.amd.akadns.net
+# cdn-drivers.amd.com.edgekey.net e2897.ca.s.tl88.net
+# cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net e2897.ca.s.tl88.net
 
 tv.apple.com tv-cdn-row.itunes-apple.com.akadns.net
 tv-cdn.itunes-apple.com.akadns.net tv-cdn-row.itunes-apple.com.akadns.net
@@ -126,19 +126,19 @@ displaycatalog.mp.microsoft.com wus2s2c-displaycatalog.frontdoor.bigcatalog.comm
 displaycatalog-rp.md.mp.microsoft.com.akadns.net wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 rp-consumer-prod-displaycatalog-geomap.trafficmanager.net wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 
-storeedgefd-ppe.dsx.mp.microsoft.com e16646.ca.s.tl88.net
-storeedgefdsecureorigin.dsx.mp.microsoft.com e16646.ca.s.tl88.net
-cdn.storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
-storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
-storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
-storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
-storeedgefd.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
-storeedgefd-ppe.xbetservices.akadns.net e16646.ca.s.tl88.net
-storeedgefd.xbetservices.akadns.net e16646.ca.s.tl88.net
-storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
-storeedgefd.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
-storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
-storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
+# storeedgefd-ppe.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+# storeedgefdsecureorigin.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+# cdn.storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+# storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net
+# storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+# storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+# storeedgefd.dsx.mp.microsoft.com.akadns.net e16646.ca.s.tl88.net
+# storeedgefd-ppe.xbetservices.akadns.net e16646.ca.s.tl88.net
+# storeedgefd.xbetservices.akadns.net e16646.ca.s.tl88.net
+# storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
+# storeedgefd.dsx.mp.microsoft.com.edgekey.net e16646.ca.s.tl88.net
+# storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
+# storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net e16646.ca.s.tl88.net
 
 licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com

@@ -359,7 +359,18 @@ sfdataservice-legacy-staging.microsoft.com.edgekey.net 23.61.214.101
 sfdataservice-legacy.microsoft.com.edgekey.net 23.61.214.101
 sfdataservice-staging.microsoft.com.edgekey.net 23.61.214.101
 sfdataservice.microsoft.com.edgekey.net 23.61.214.101
-e16646.ca.s.tl88.net 223.111.98.83
+storeedgefd-ppe.dsx.mp.microsoft.com 23.61.214.101
+storeedgefdsecureorigin.dsx.mp.microsoft.com 23.61.214.101
+cdn.storeedgefd.dsx.mp.microsoft.com 23.61.214.101
+storeedgefd.dsx.mp.microsoft.com 23.61.214.101
+storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storeedgefd.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storeedgefd-ppe.xbetservices.akadns.net 23.61.214.101
+storeedgefd.xbetservices.akadns.net 23.61.214.101
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net 23.61.214.101
+storeedgefd.dsx.mp.microsoft.com.edgekey.net 23.61.214.101
+# e16646.ca.s.tl88.net 23.61.214.101
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.214.101
 
 s2-sni.cloudinary.com.edgekey.net 23.199.57.80

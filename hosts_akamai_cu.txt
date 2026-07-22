@@ -296,9 +296,9 @@ ipv6.slot11847.ebay.com.edgekey.net 2.16.97.102
 slot11847.ebay.com.edgekey.net 2.16.97.102
 regexp:^e11847\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.16.97.102
 
-shop.samsung.com 2a02:26f0:e600:582::2ece
-shop.samsung.com.edgekey.net 2a02:26f0:e600:582::2ece
-regexp:^e11982\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2a02:26f0:e600:582::2ece
+shop.samsung.com 2.19.102.169
+shop.samsung.com.edgekey.net 2.19.102.169
+regexp:^e11982\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.19.102.169
 
 store-images.s-microsoft.com 72.246.28.219
 store-images.s-microsoft.com-c.edgekey.net 72.246.28.219

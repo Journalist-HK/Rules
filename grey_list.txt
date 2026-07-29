@@ -29,7 +29,6 @@ full:dsp-cdn.gammaplatform.com
 full:ecdn.codemasters.com
 full:events.mapbox.com
 full:fonts.sony.net
-full:jc-doni.club
 full:ga.jspm.io
 full:ga.system.jspm.io
 full:gal.voiux.com
@@ -177,6 +176,7 @@ regexp:^(.+\.)?mikuclub\..+$
 regexp:^(.+\.)?reuters\.tv$
 regexp:^(.+\.)?xg(mn|yw)\d*\..+$
 regexp:^.*diz36nn4q02zr\.cloudfront\.net$
+regexp:^jc-.+$
 keyword:18comic
 keyword:18-comic
 keyword:jmcomic

@@ -113,6 +113,8 @@ file.myqcloud.com
 image.myqcloud.com
 vod2.myqcloud.com
 vod.myqcloud.com
+full:ubisoftconnect.eo-edgefunctions7.com
+full:uplaypc-s-tencent.eo-edgefunctions7.com
 
 3.cn
 360buyimg.com

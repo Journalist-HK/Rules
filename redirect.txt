@@ -1,3 +1,7 @@
+www.app-ads-services.com googleadservices.com
+www.googleadservices.com googleadservices.com
+www.googleadservices-cn.com googleadservices-cn.com
+
 avatars.steamstatic.com avatars.akamai.steamstatic.com
 cdn.steamstatic.com cdn.akamai.steamstatic.com
 checkout.steamstatic.com checkout.akamai.steamstatic.com

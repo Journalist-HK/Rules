@@ -271,6 +271,7 @@ payload:
   - 'api.ipify.org'
   - '+.api.jsonsilo.com'
   - '+.api.unisvg.com'
+  - 'app.hyperliquid.xyz'
   - '+.a.basemaps.cartocdn.com'
   - '*.b-cdn.net'
   - '+.b.hatena.ne.jp'

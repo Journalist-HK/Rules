@@ -24,6 +24,7 @@ biggo.com.tw
 bigrain.me
 bitgravity.com
 bitsearch.to
+blockchain.com
 bnbstatic.com
 bntrace.com
 book4you.org
@@ -243,6 +244,7 @@ api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.ipify.org
 api.jsonsilo.com
 api.unisvg.com
+full:app.hyperliquid.xyz
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp

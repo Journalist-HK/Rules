@@ -119,6 +119,7 @@ kgithub.com
 lemmy.ml
 liftoff.io
 liquidsky.com
+lista.org
 looks.wang
 looksrare.org
 manhuagui.com

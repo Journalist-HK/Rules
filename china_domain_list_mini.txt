@@ -192,6 +192,14 @@ full:osxapps.itunes.apple.com
 full:iosapps.itunes.g.aaplimg.com
 full:osxapps.itunes.g.aaplimg.com
 
+download.nvidia.cn
+full:developer.qa.nvidia.cn
+full:drivesync-downloads.nvidia.cn
+full:images.nvidia.cn
+full:ota-downloads.nvidia.cn
+full:ota.nvidia.cn
+full:pypi.nvidia.cn
+
 max-c.com
 xiaoheihe.cn
 

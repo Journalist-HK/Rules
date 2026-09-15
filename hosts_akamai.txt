@@ -334,8 +334,12 @@ contentful-proxy.juno.ea.com 104.69.149.41
 desktop-config.juno.ea.com 104.69.149.41
 ratt.juno.ea.com 104.69.149.41
 service-aggregation-layer.juno.ea.com 104.69.149.41
+assets-dev.layer2.ea.com 104.69.149.41
+assets.layer2.ea.com 104.69.149.41
+update-integration.layer.ea.com 104.69.149.41
 update.layer.ea.com 104.69.149.41
 update.layer.ea.com.edgekey.net 104.69.149.41
+update-integration.layer.ea.com.edgekey.net 104.69.149.41
 ea15.com.edgekey.net 104.69.149.41
 e16166.e12.akamaiedge.net 104.69.149.41
 regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.69.149.41

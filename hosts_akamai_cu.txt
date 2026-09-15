@@ -328,17 +328,21 @@ store-content.ak.epicgames.com.edgekey.net 104.85.16.104
 ak.epicgames.com.edgekey.net 104.85.16.104
 regexp:^e15203\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.85.16.104
 
-autopatch.juno.ea.com 2.23.73.212
-cloudsync.juno.ea.com 2.23.73.212
-contentful-proxy.juno.ea.com 2.23.73.212
-desktop-config.juno.ea.com 2.23.73.212
-ratt.juno.ea.com 2.23.73.212
-service-aggregation-layer.juno.ea.com 2.23.73.212
-update.layer.ea.com 2.23.73.212
-update.layer.ea.com.edgekey.net 2.23.73.212
-ea15.com.edgekey.net 2.23.73.212
-e16166.e12.akamaiedge.net 2.23.73.212
-regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.23.73.212
+autopatch.juno.ea.com 23.207.118.88
+cloudsync.juno.ea.com 23.207.118.88
+contentful-proxy.juno.ea.com 23.207.118.88
+desktop-config.juno.ea.com 23.207.118.88
+ratt.juno.ea.com 23.207.118.88
+service-aggregation-layer.juno.ea.com 23.207.118.88
+assets-dev.layer2.ea.com 23.207.118.88
+assets.layer2.ea.com 23.207.118.88
+update-integration.layer.ea.com 23.207.118.88
+update.layer.ea.com 23.207.118.88
+update-integration.layer.ea.com.edgekey.net 23.207.118.88
+update.layer.ea.com.edgekey.net 23.207.118.88
+ea15.com.edgekey.net 23.207.118.88
+e16166.e12.akamaiedge.net 23.207.118.88
+regexp:^e16166\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.207.118.88
 
 livetileedge.dsx.mp.microsoft.com 2.19.85.162
 storesdk.dsx.mp.microsoft.com 2.19.85.162

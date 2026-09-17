@@ -28,6 +28,7 @@ voice.google.com
 +.plutotv.net
 +.simplemobile.com
 +.straighttalk.com
++.textnow.me
 +.topsmarkets.com
 +.totalbyverizon.com
 +.tracfone.com

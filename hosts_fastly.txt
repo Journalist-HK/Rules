@@ -17,6 +17,8 @@ regexp:^(dualstack\.)?s\.sni\.(global|us-eu)\.fastly\.net$ 146.75.95.42
 regexp:^(dualstack\.)?t\.sni\.(global|us-eu)\.fastly\.net$ 199.232.211.52
 regexp:^(dualstack\.)?u\.sni\.(global|us-eu)\.fastly\.net$ 151.101.198.229
 regexp:^(dualstack\.)?v\.sni\.(global|us-eu)\.fastly\.net$ 146.75.94.230 151.101.198.230
+regexp:^(dualstack\.)?w\.sni\.(global|us-eu)\.fastly\.net$ 146.75.49.241
+regexp:^(dualstack\.)?x\.sni\.(global|us-eu)\.fastly\.net$ 146.75.49.242
 
 regexp:^(dualstack\.)?a\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.166
 regexp:^(dualstack\.)?b\.shared\.(global|us-eu)\.fastly\.net$ 151.101.197.167
@@ -424,6 +426,11 @@ demo-issuer.private-access-tokens.fastly.com 151.101.197.51
 edge-clientsdk.prod.launchdarkly.com 151.101.197.51
 edge-clientsdk.stg.launchdarkly.com 151.101.197.51
 ecp.map.fastly.net 151.101.197.51
+
+ei.elytra.ac 146.75.49.242
+opm.elytra.ac 146.75.49.242
+spm.elytra.ac 146.75.49.242
+elytra.ac 146.75.49.242
 
 early-hints.fastlylabs.com 146.75.94.132
 insights.fastlylabs.com 2a04:4e42:a::729

@@ -388,14 +388,6 @@ acrobat.adobe.com 23.199.57.80
 acrobat.adobe.com.i.edgekey.net 23.199.57.80
 # regexp:^e29329\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
 
-www3.corsair.com 23.199.57.80
-www3.corsair.com.edgekey.net 23.199.57.80
-# regexp:^e30526\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
-
-uat.corsair.com 23.199.57.80
-uat.corsair.com.edgekey.net 23.199.57.80
-# regexp:^e32975\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.199.57.80
-
 api-prod.nvidia.com 23.199.57.80
 images.nvidia.com 23.199.57.80
 www.nvidia.com 23.199.57.80

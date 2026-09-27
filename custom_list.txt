@@ -64,6 +64,7 @@ dala8.xyz
 dealmoon.co.uk
 defillama.com
 denpasoft.com
+dexscreener.com
 dextools.io
 docker.com
 docker.io
@@ -119,6 +120,7 @@ kakaocdn.net
 kgithub.com
 lemmy.ml
 liftoff.io
+lighter.xyz
 liquidsky.com
 lista.org
 looks.wang
@@ -139,6 +141,7 @@ miobt.com
 models.dev
 moengage.com
 mouser.tw
+muse.ai
 musixmatch.com
 myunidays.com
 myvideo.net.tw
@@ -214,6 +217,7 @@ tiktokv.com
 tiktokv.us
 tor.us
 tower.jp
+trade.xyz
 traderjoexyz.com
 trouter.io
 trustwallet.com
@@ -289,28 +293,28 @@ quiz.directory
 telegram.space
 usercontent.dev
 
-regexp:^.*(art|de|hk|ma|sg)?\d+lib\.\w+$
-regexp:^(.+\.)?b-ok\.\w+$
-regexp:^(.+\.)?binance.*\.\w+$
-regexp:^(.+\.)?booklist\.\w+$
-regexp:^(.+\.)?bookshome\.\w+$
-regexp:^(.+\.)?booksc\.\w+$
-regexp:^(.+\.)?bookzz\.\w+$
-regexp:^(.+\.)?bybit\.\w+$
-regexp:^(.+\.)?htx\.\w+$
-regexp:^(.+\.)?htx\.com\.\w+$
-regexp:^(.+\.)?huobi\.\w+$
-regexp:^(.+\.)?libsolutions\.\w+$
-regexp:^(.+\.)?mokexapp\.\w+$
-regexp:^(.+\.)?nexitally\.\w+$
+regexp:^.*(art|de|hk|ma|sg)?\d+lib\.[a-zA-Z]+$
+regexp:^(.+\.)?b-ok\.[a-zA-Z]+$
+regexp:^(.+\.)?binance.*\.[a-zA-Z]+$
+regexp:^(.+\.)?booklist\.[a-zA-Z]+$
+regexp:^(.+\.)?bookshome\.[a-zA-Z]+$
+regexp:^(.+\.)?booksc\.[a-zA-Z]+$
+regexp:^(.+\.)?bookzz\.[a-zA-Z]+$
+regexp:^(.+\.)?bybit\.[a-zA-Z]+$
+regexp:^(.+\.)?htx\.[a-zA-Z]+$
+regexp:^(.+\.)?htx\.com\.[a-zA-Z]+$
+regexp:^(.+\.)?huobi\.[a-zA-Z]+$
+regexp:^(.+\.)?libsolutions\.[a-zA-Z]+$
+regexp:^(.+\.)?mokexapp\.[a-zA-Z]+$
+regexp:^(.+\.)?nexitally\.[a-zA-Z]+$
 regexp:^(.+\.)?okx-dns\d*\.com$
-regexp:^(.+\.)?singlelogin\.\w+$
+regexp:^(.+\.)?singlelogin\.[a-zA-Z]+$
 regexp:^(.+\.)?tagss\d*\.pro$
-regexp:^(.+\.)?webbooksnow\\w+$
-regexp:^(.+\.)?z?-?lib(rary)?\.\w+$
+regexp:^(.+\.)?webbooksnow\.[a-zA-Z]+$
+regexp:^(.+\.)?z?-?lib(rary)?\.[a-zA-Z]+$
 
 regexp:^(.+\.)?[a-z]github\.xyz$
-regexp:^(.+\.)?mc\.yandex\.\w+$
+regexp:^(.+\.)?mc\.yandex\.[a-zA-Z]+$
 
 regexp:^.*api\.ask\.fm$
 regexp:^.*b\.hatena\.ne\.jp$

@@ -50,6 +50,7 @@ cia.gov
 clockwise.ee
 coinbase.com
 coindesk.com
+coinpaprika.com
 coinpedia.org
 coinsquare.io
 collider.com

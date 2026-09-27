@@ -30,6 +30,7 @@ payload:
   - '+.binanceapi.*'
   - '+.binancecnt.*'
   - '+.binancezh.*'
+  - '+.bingx.com'
   - '+.bitgravity.com'
   - '+.bleepingcomputer.com'
   - '+.bnbstatic.com'

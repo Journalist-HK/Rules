@@ -46,6 +46,7 @@ voice.google.com
 +.meta.ai
 +.anthropic.com
 +.claude.ai
++.claude.com
 +.gamma.app
 
 +.browser-intake-datadoghq.com

@@ -148,10 +148,10 @@ licensing.mp.microsoft.com sea-1.frontdoor.licensing.commerce.microsoft.com
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net sea-1.frontdoor.licensing.commerce.microsoft.com
 licensing-prod-frontdoor-geomap.trafficmanager.net sea-1.frontdoor.licensing.commerce.microsoft.com
 
-eu-mobile.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
-eu-teams.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
-eu-v10.events.data.microsoft.com onedscolprdfrc08.francecentral.cloudapp.azure.com
-eu.events.data.trafficmanager.net onedscolprdfrc08.francecentral.cloudapp.azure.com
+eu-mobile.events.data.microsoft.com onedscolprdfrc52.francecentral.cloudapp.azure.com
+eu-teams.events.data.microsoft.com onedscolprdfrc52.francecentral.cloudapp.azure.com
+eu-v10.events.data.microsoft.com onedscolprdfrc52.francecentral.cloudapp.azure.com
+eu.events.data.trafficmanager.net onedscolprdfrc52.francecentral.cloudapp.azure.com
 
 browser.events.data.msn.com onedscolprdjpe54.japaneast.cloudapp.azure.com
 functional.events.data.microsoft.com onedscolprdjpe54.japaneast.cloudapp.azure.com

@@ -117,6 +117,7 @@ proxy.novafusion.integration.ea.com 23.222.204.187
 myaccount.ea.com 23.222.204.187
 proxy.novafusion.ea.com 23.222.204.187
 myaccount.staging.ea.com 23.222.204.187
+tos.ea.com 23.222.204.187
 www.ea.com 23.222.204.187
 ea.com 23.222.204.187
 ea10.com.edgekey.net 23.222.204.187

@@ -68,4 +68,4 @@ payload:
   - '+.browser-intake-us5-datadoghq.com'
   - '+.browser-intake-ddog-gov.com'
   - '+.ingest.sentry.io'
-  - 'app.getsentry.com'
+  - '+.a.getsentry.com'

@@ -62,3 +62,10 @@ payload:
   - 'performance.solidworks.com'
 
   - '+.cloudflareinsights.com'
+
+  - '+.browser-intake-datadoghq.com'
+  - '+.browser-intake-us3-datadoghq.com'
+  - '+.browser-intake-us5-datadoghq.com'
+  - '+.browser-intake-ddog-gov.com'
+  - '+.ingest.sentry.io'
+  - 'app.getsentry.com'

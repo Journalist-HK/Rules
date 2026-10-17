@@ -2,10 +2,13 @@
 +.claude.ai
 +.claude.com
 
++.auth0.com
++.chatgpt.com
++.openai.com
++.oaistatic.com
++.oaiusercontent.com
++.sora.com
+
 +.textnow.me
 
-+.browser-intake-datadoghq.com
-+.browser-intake-us3-datadoghq.com
-+.browser-intake-us5-datadoghq.com
-+.browser-intake-ddog-gov.com
 +.sentry.io

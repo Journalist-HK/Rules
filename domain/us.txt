@@ -36,11 +36,6 @@ voice.google.com
 +.z8games.com
 +.bestbuy.com
 
-+.auth0.com
-+.chatgpt.com
-+.openai.com
-+.oaistatic.com
-+.oaiusercontent.com
 +.meta.ai
 +.muse.ai
 +.gamma.app

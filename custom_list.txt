@@ -310,7 +310,7 @@ regexp:^(.+\.)?booksc\.[a-zA-Z]+$
 regexp:^(.+\.)?bookzz\.[a-zA-Z]+$
 regexp:^(.+\.)?bybit\.[a-zA-Z]+$
 regexp:^(.+\.)?htx\.[a-zA-Z]+$
-regexp:^(.+\.)?htx\.com\.[a-zA-Z]+$
+regexp:^(.+\.)?htx\.(com|net|org)\.[a-zA-Z]+$
 regexp:^(.+\.)?huobi\.[a-zA-Z]+$
 regexp:^(.+\.)?libsolutions\.[a-zA-Z]+$
 regexp:^(.+\.)?mokexapp\.[a-zA-Z]+$

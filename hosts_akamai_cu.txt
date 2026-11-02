@@ -464,9 +464,9 @@ c.info.corsair.com.edgekey.net 2.19.96.243
 c.updates.corsair.com.edgekey.net 2.19.96.243
 # regexp:^e243932\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.19.96.243
 
-rbwm-api.hsbc.com.hk 23.48.32.163
-rbwm-api.hsbc.com.hk.edgekey.net 23.48.32.163
-# regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.48.32.163
+rbwm-api.hsbc.com.hk 95.101.23.82
+rbwm-api.hsbc.com.hk.edgekey.net 95.101.23.82
+# regexp:^e244181\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 95.101.23.82
 
 aadcdn.msftauth.net 2.19.96.243
 www.tm.aadcdn.msftauth.akadns.net 2.19.96.243

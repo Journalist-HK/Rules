@@ -67,6 +67,7 @@ defillama.com
 denpasoft.com
 dexscreener.com
 dextools.io
+digg.com
 docker.com
 docker.io
 dns.sb

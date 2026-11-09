@@ -207,6 +207,7 @@ softonic.cn
 soundon.fm
 ssrtool.us
 starlark.net
+stellar.org
 stheadline.com
 storj.io
 sublimetext.com
@@ -240,6 +241,7 @@ uniswap.org
 unwire.hk
 uscardforum.com
 uscnpm.com
+usdc.com
 v2ph.com
 vuze.com
 walletconnect.com

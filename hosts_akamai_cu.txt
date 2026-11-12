@@ -293,6 +293,7 @@ profile.activision.com 184.30.157.242
 s.activision.com 184.30.157.242
 support.activision.com 184.30.157.242
 www.activision.com 184.30.157.242
+xo-client.activision.com 184.30.157.242
 activision.com 184.30.157.242
 asda.callofduty.com 184.30.157.242
 community.callofduty.com 184.30.157.242
@@ -307,6 +308,7 @@ telescope-cert.callofduty.com.edgekey.net 184.30.157.242
 telescope-dev.callofduty.com.edgekey.net 184.30.157.242
 telescope-qa.callofduty.com.edgekey.net 184.30.157.242
 www.callofduty.com 184.30.157.242
+xo-client.callofduty.com 184.30.157.242
 callofduty.com 184.30.157.242
 san.activision.com.edgekey.net 184.30.157.242
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.30.157.242

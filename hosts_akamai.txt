@@ -293,6 +293,7 @@ profile.activision.com 23.37.17.218
 s.activision.com 23.37.17.218
 support.activision.com 23.37.17.218
 www.activision.com 23.37.17.218
+xo-client.activision.com 23.37.17.218
 activision.com 23.37.17.218
 asda.callofduty.com 23.37.17.218
 community.callofduty.com 23.37.17.218
@@ -307,6 +308,7 @@ telescope-cert.callofduty.com.edgekey.net 23.37.17.218
 telescope-dev.callofduty.com.edgekey.net 23.37.17.218
 telescope-qa.callofduty.com.edgekey.net 23.37.17.218
 www.callofduty.com 23.37.17.218
+xo-client.callofduty.com 23.37.17.218
 callofduty.com 23.37.17.218
 san.activision.com.edgekey.net 23.37.17.218
 regexp:^e11358\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.218

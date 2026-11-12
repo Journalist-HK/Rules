@@ -289,6 +289,7 @@ wildcard.cdn.ubi.com.edgekey.net 23.38.73.229
 regexp:^e11196\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.38.73.229
 
 de.activision.com 184.30.157.242
+profile.activision.com 184.30.157.242
 s.activision.com 184.30.157.242
 support.activision.com 184.30.157.242
 www.activision.com 184.30.157.242

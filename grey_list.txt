@@ -107,6 +107,7 @@ filezillapro.com
 flhj.club
 fosstodon.org
 freetls.fastly.net
+frequency.stream
 futuhk.com
 gal123.com
 global.ssl.fastly.net

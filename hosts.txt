@@ -70,9 +70,9 @@ packagespc.xboxlive.com 52.160.89.73
 prod.sucu.xboxlive.com 52.160.89.73
 sucu.xboxlive.com 52.160.89.73
 updatepc.xboxlive.com 52.160.89.73
-prod.xccs.xboxlive.com 52.160.89.73
+prod.xccs.xboxlive.com 172.184.177.128
 xblmessaging.xboxlive.com 20.98.74.233
-xccs.xboxlive.com 52.160.89.73
+xccs.xboxlive.com 172.184.177.128
 activityhub.xboxlive.com.akadns.net 13.66.204.157
 row-user.auth.xboxlive.com.akadns.net 52.231.199.125
 row-xsts.auth.xboxlive.com.akadns.net 13.86.100.218
@@ -89,9 +89,9 @@ row-avty.xboxlive.com.akadns.net 51.143.13.171
 row-userpresence.xboxlive.com.akadns.net 52.183.58.171
 updatepc.xboxlive.com.akadns.net 52.160.89.73
 xblmessaging.xboxlive.com.akadns.net 20.98.74.233
-xccs.xboxlive.com.akadns.net 52.160.89.73
+xccs.xboxlive.com.akadns.net 172.184.177.128
 scfd-598caa28e2a3670214e0732c4eb9f9fb.trafficmanager.net 52.160.89.73
-xcfd-eba27a6009ff7a844c8833f4d7d937a2.trafficmanager.net 52.160.89.73
+xcfd-6442ad451f0bb2e376edb1ac2e2c6d4f.trafficmanager.net 172.184.177.128
 
 xboxassets.s.llnwi.net 68.142.107.129
 

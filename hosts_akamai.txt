@@ -60,8 +60,22 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
 
+support.amd.com 23.36.136.139
+www.amd.com 23.36.136.139
+amd.com 23.36.136.139
+tccdn.amd.akadns.net 23.36.136.139
+split.amd.akadns.net 23.36.136.139
+dsa-support.amd.com.edgekey.net 23.36.136.139
+dsa-www.amd.com.edgekey.net 23.36.136.139
+support.amd.com 23.36.136.139
+www.amd.com 23.36.136.139
+amd.com 23.36.136.139
+tccdn.amd.akadns.net 23.36.136.139
+split.amd.akadns.net 23.36.136.139
+dsa-support.amd.com.edgekey.net 23.36.136.139
+dsa-www.amd.com.edgekey.net 23.36.136.139
 # e2897.ca.s.tl88.net 36.156.84.146
-regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.100.27 2600:1406:5400:2b0::b51
+regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.36.136.139
 
 account.g2a.com 104.89.231.55
 bundle.g2a.com 104.89.231.55
@@ -93,9 +107,9 @@ img.g2a.com.edgekey.net 104.89.231.55
 star.g2a.com.edgekey.net 104.89.231.55
 regexp:^e3350\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.89.231.55
 
-download.ebz.epson.net 2600:1406:5400:4a4::d2e
-download.ebz.epson.net.edgekey.net 2600:1406:5400:4a4::d2e
-regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:4a4::d2e
+download.ebz.epson.net 2.23.244.149
+download.ebz.epson.net.edgekey.net 2.23.244.149
+regexp:^e3374\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2.23.244.149
 
 pki-ocsp.digicert.com.edgekey.net 23.55.219.46
 e3782.cd.akamaiedge.net 23.55.219.46
@@ -161,6 +175,11 @@ su-ssl.lge.com.edgekey.net 23.202.133.116
 e6114.e21.akamaiedge.net 23.202.133.116
 regexp:^e6114\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.202.133.116
 
+download.amd.com 23.6.191.185
+www2.ati.com 23.6.191.185
+www2.ati.com.edgekey.net 23.6.191.185
+regexp:^e7291\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.6.191.185
+
 assets.adobedtm.com 23.37.17.57
 cn-assets.adobedtm.com.edgekey.net 23.37.17.57
 regexp:^e7808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.37.17.57
@@ -214,9 +233,9 @@ ipv6.slot9428.ebay.com.edgekey.net 23.222.205.142
 slot9428.ebay.com.edgekey.net 23.222.205.142
 regexp:^e9428\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.222.205.142
 
-ipv6.slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
-slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
-regexp:^e9430\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.48.183.178 2600:1406:5400:29b::24d6
+# ipv6.slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
+# slot9430.ebay.com.edgekey.net 23.48.183.178 2600:1406:5400:29b::24d6
+# regexp:^e9430\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.48.183.178 2600:1406:5400:29b::24d6
 
 cdn1-dest.epicgames.com 173.223.1.57
 cdn2.epicgames.com 173.223.1.57
@@ -322,16 +341,16 @@ shop.samsung.com 23.6.183.16
 shop.samsung.com.edgekey.net 23.6.183.16
 regexp:^e11982\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.6.183.16
 
-store-images.s-microsoft.com 2600:1406:5400:49f::3114
-store-images.s-microsoft.com-c.edgekey.net 2600:1406:5400:49f::3114
-regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:49f::3114
+store-images.s-microsoft.com 184.85.68.154
+store-images.s-microsoft.com-c.edgekey.net 184.85.68.154
+regexp:^e12564\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.85.68.154
 
 ipv6.slot12565.ebay.com.edgekey.net 23.222.206.28
 slot12565.ebay.com.edgekey.net 23.222.206.28
 regexp:^e12565\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.222.206.28
 
-slot12570.ebay.com.edgekey.net 2600:1406:5400:49f::311a
-regexp:^e12570\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:49f::311a
+# slot12570.ebay.com.edgekey.net 2600:1406:5400:49f::311a
+# regexp:^e12570\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 2600:1406:5400:49f::311a
 
 answers.microsoft.com-v1.edgekey.net 23.59.205.194
 regexp:^e13362\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.59.205.194

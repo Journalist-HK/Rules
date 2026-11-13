@@ -34,6 +34,7 @@ bookwalker.com.tw
 bookwalker.jp
 browser-intake-ap1-datadoghq.com
 bu2021.xyz
+buymeacoffee.com
 buzzfeed.com
 byabcde.com
 bybdc6.com
@@ -251,11 +252,12 @@ vuze.com
 walletconnect.com
 wa.me
 web3modal.com
+wiki2.org
 wikiquote.org
 winandmac.com
 wixsite.com
 wxw.cat
-x.com
+x.me
 xinmeitulu.com
 xfastest.com
 xfsub.org

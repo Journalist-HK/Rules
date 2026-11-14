@@ -56,6 +56,23 @@ live-pwa.corsair.com.edgekey.net 104.85.50.253
 support.corsair.com.edgekey.net 104.85.50.253
 regexp:^e956\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 104.85.50.253
 
+account.xbox.com 23.75.64.63
+assets-mcws.xbox.com 23.75.64.63
+assets-xbxweb.xbox.com 23.75.64.63
+dreamscape.xbox.com 23.75.64.63
+marketplace.xbox.com 23.75.64.63
+tiles.xbox.com 23.75.64.63
+www.xbox.com 23.75.64.63
+account.xbox.com.edgekey.net 23.75.64.63
+marketplace.xbox.com.akadns.net 23.75.64.63
+tiles.xbox.com.akadns.net 23.75.64.63
+assets-mcws.xbox.com.edgekey.net 23.75.64.63
+assets-xbxweb.xbox.com.edgekey.net 23.75.64.63
+marketplace.xbox.com.edgekey.net 23.75.64.63
+wildcard.xbox.com.edgekey.net 23.75.64.63
+tiles.xbox.com-c.edgekey.net 23.75.64.63
+regexp:^e1822\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.75.64.63
+
 res-1.public.onecdn.static.microsoft 88.221.83.74
 res-1.public.onecdn.static.microsoft.edgekey.net 88.221.83.74
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 88.221.83.74

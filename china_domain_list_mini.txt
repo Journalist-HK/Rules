@@ -185,6 +185,9 @@ full:dcat-b-tlu-net.trafficmanager.net
 full:dcat-f-nlu-net.trafficmanager.net
 full:dcat-f-tlu-net.trafficmanager.net
 
+full:f.c2r.ts.cdn.office.net
+full:office-f-net.trafficmanager.net
+
 full:ccmdls.adobe.com
 
 full:iosapps.itunes.apple.com
@@ -223,10 +226,12 @@ manlaxy.com
 steampowered.com.8686c.com
 steamstatic.com.8686c.com
 # 阿里云
-full:xz.pphimalayanrt.com
 full:lv.queniujq.cn
 full:client-update.queniuqe.com
+full:xz.hzywinf.com
+full:xz.pphimalayanrt.com
 full:xz.sycontroller.com
+full:xz.ty.xiaokuai.com
 
 full:yif.gdtstream.com
 

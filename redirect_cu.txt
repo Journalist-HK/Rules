@@ -126,6 +126,9 @@ dcat-b-nlu-net.trafficmanager.net dl.delivery.mp.microsoft.com.a.bdydns.com
 1d.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com tlu.dl.delivery.mp.microsoft.com.cdn.dnsv1.com
 dcat-b-tlu-net.trafficmanager.net tlu.dl.delivery.mp.microsoft.com.cdn.dnsv1.com
 
+f.c2r.ts.cdn.office.net officecdn.microsoft.com.a.bdydns.com
+office-f-net.trafficmanager.net officecdn.microsoft.com.a.bdydns.com
+
 displaycatalog.mp.microsoft.com wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 displaycatalog-rp.md.mp.microsoft.com.akadns.net wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 rp-consumer-prod-displaycatalog-geomap.trafficmanager.net wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com

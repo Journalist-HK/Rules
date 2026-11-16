@@ -128,6 +128,9 @@ kingsoftspark.bg.download.ks-cdn.com dl.delivery.mp.microsoft.com.jsd.ksyunv5.co
 dcat-b-tlu-net.trafficmanager.net tlu.dl.delivery.mp.microsoft.com.jsd.ksyunv5.com
 kingsoftspark.bg.tlu.download.ks-cdn.com tlu.dl.delivery.mp.microsoft.com.jsd.ksyunv5.com
 
+f.c2r.ts.cdn.office.net officecdn.microsoft.com.a.bdydns.com
+office-f-net.trafficmanager.net officecdn.microsoft.com.a.bdydns.com
+
 # storeedgefd-ppe.dsx.mp.microsoft.com e16646.ca.s.tl88.net
 # storeedgefdsecureorigin.dsx.mp.microsoft.com e16646.ca.s.tl88.net
 # cdn.storeedgefd.dsx.mp.microsoft.com e16646.ca.s.tl88.net

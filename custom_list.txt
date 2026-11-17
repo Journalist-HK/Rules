@@ -8,6 +8,7 @@ acg.rip
 aelitis.com
 ahaspeed.com
 alphafish.top
+alphawallet.com
 androidfilehost.com
 androidpolice.com
 aol.com
@@ -15,6 +16,7 @@ aomedia.org
 apnic.net
 armorgames.com
 asterdex.com
+atomicwallet.io
 audio.com
 bangumi.moe
 bangumi.tv
@@ -24,6 +26,7 @@ biggo.com
 biggo.com.tw
 bigrain.me
 bitgravity.com
+bitpay.com
 bitsearch.to
 blockchain.com
 blockscout.com
@@ -264,6 +267,7 @@ xfsub.org
 xvideos.red
 yodobashi.com
 zenmarket.jp
+zerion.io
 
 anond.hatelabo.jp
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
@@ -274,6 +278,7 @@ full:app.hyperliquid.xyz
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp
+db62cod6cnasq.cloudfront.net
 dmhy.anoneko.com
 en.softonic.com
 gamefaqs.gamespot.com

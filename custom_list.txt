@@ -60,6 +60,7 @@ coinpaprika.com
 coinpedia.org
 coinsquare.io
 collider.com
+confluxnetwork.org
 conta.cc
 cospuri.com
 coti.io
@@ -129,6 +130,7 @@ jup.ag
 jwplayer.com
 kakaocdn.net
 kgithub.com
+kyberswap.com
 leicarumors.com
 lemmy.ml
 liftoff.io
@@ -303,6 +305,7 @@ trk.storyly.io
 valid.x86.fr
 full:vip1.g5.cachefly.net
 full:www.adsensecustomsearchads.com
+full:www.tradingview-widget.com
 
 full:vip.flynet.club
 full:web.flynet.club

@@ -140,6 +140,7 @@ gateway.ea.com 184.24.196.164
 proxy.novafusion.integration.ea.com 184.24.196.164
 myaccount.ea.com 184.24.196.164
 proxy.novafusion.ea.com 184.24.196.164
+pc.ea.com 184.24.196.164
 myaccount.staging.ea.com 184.24.196.164
 tos.ea.com 184.24.196.164
 www.ea.com 184.24.196.164

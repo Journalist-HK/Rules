@@ -148,6 +148,7 @@ mdex.com
 mercari.com
 mercari.jp
 merlinblog.xyz
+messari.io
 meta.ai
 meta.com
 mexc.com
@@ -280,6 +281,7 @@ api.ipify.org
 api.jsonsilo.com
 api.unisvg.com
 full:app.hyperliquid.xyz
+full:app.hyperswap.exchange
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp

@@ -42,6 +42,8 @@ full:img.sedoparking.com
 full:img.tradepub.com
 full:in.appcenter.ms
 full:nicehck.com
+full:norge-stream.okto.tech
+full:norge-stream-v2.okto.tech
 full:ocp.cscglobal.com
 full:p16999.cedexis-test.com
 full:ping.channel99.io
@@ -94,6 +96,7 @@ cachefly.net
 celo.org
 chiccams.com
 cmr.moe
+coindcx.com
 crwdcntrl.net
 crypto.com
 cutecloud.net
@@ -167,6 +170,7 @@ tlanyan.me
 tokenpocket.pro
 transit.finance
 trezor.io
+tripcheck.com
 tron.network
 tycqzw.net
 unichain.org

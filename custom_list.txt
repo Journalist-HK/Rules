@@ -131,6 +131,7 @@ jup.ag
 jwplayer.com
 kakaocdn.net
 kgithub.com
+klcc.org
 kyberswap.com
 leicarumors.com
 lemmy.ml
@@ -266,6 +267,7 @@ wikiquote.org
 winandmac.com
 wixsite.com
 wxw.cat
+wyomingpublicmedia.org
 x.me
 xinmeitulu.com
 xfastest.com

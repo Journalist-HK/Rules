@@ -1,4 +1,7 @@
 rbdata.boostymark.com
+npr.brightspotcdn.com
+cdn.npr.psdops.com
+d10k6uvx6uld5a.cloudfront.net
 akamai-datastream.census.gov
 data.census.gov
 www.cidr-webpub.econ.census.gov

@@ -110,6 +110,7 @@ go-vpn.com
 googlepages.com
 greasyfork.org
 gunosy.com
+headtopics.com
 hentaienvy.com
 herokuapp.com
 honnef.co
@@ -141,6 +142,7 @@ liquidsky.com
 lista.org
 looks.wang
 looksrare.org
+malwarwickonbooks.com
 manhuagui.com
 mathgptpro.com
 mcdex.io
